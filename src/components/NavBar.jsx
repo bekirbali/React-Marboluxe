@@ -3,8 +3,13 @@ import { Link } from "react-router-dom";
 
 const NavBar = () => {
   return (
-    <div>
-      <ul className="flex gap-4 bg-slate-700">
+    <div className="h-[80px]">
+      <div className="info flex flex-1 justify-end mr-3 gap-2">
+        <div className="language">Turkish</div>
+        <div className="corporate">Corporate</div>
+        <div className="socials">FaceBook - Instagram - LinkedIn</div>
+      </div>
+      <ul className="flex flex-3 gap-4 h-full bg-slate-700">
         <Link to="/dogal-taslar">Doğal Taşlar</Link>
         <Link to="/kataloglar">Kataloglar</Link>
         <Link to="/ocaklar">Ocaklar</Link>
