@@ -32,10 +32,10 @@ const Header = () => {
         className="mySwiper"
       >
         <SwiperSlide>
-          <img src={peraPalace} alt="marble" />
+          <img src={marmara} alt="marble" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={marmara} alt="marble" />
+          <img src={peraPalace} alt="marble" />
         </SwiperSlide>
         <SwiperSlide>
           <img src={porselen} alt="marble" />
