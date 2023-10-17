@@ -62,7 +62,7 @@ const Home = () => {
           <h2 className="text-center text-3xl font-bold mb-8">
             Mermer ve Doğal Taşların Zarif Dünyasına Hoş Geldiniz!
           </h2>
-          <div className="grid grid-cols-3 gap-8 mb-2">
+          <div className="grid grid-cols-1 text-center lg:text-left lg:grid-cols-3 gap-8 mb-2">
             <div className="topLeft">
               <h3 className="font-semibold text-xl mb-2">
                 Eşsiz Estetik ve Doğal Güzellik Bir Arada
@@ -196,7 +196,7 @@ const Home = () => {
         </section>
 
         {/* Mermer Ocakları */}
-        <section className="flex flex-col md:flex-row gap-8 items-center justify-center">
+        <section className="flex flex-col text-center lg:text-left lg:flex-row gap-8 items-center justify-center">
           <img src={ocaklar} alt="ocaklar" />
           <div className="stoneMermerOcaklar">
             <h2 className="text-2xl text-center font-bold p-2">
