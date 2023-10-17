@@ -1,11 +1,11 @@
 import React from "react";
+
 import kuvars from "../assets/kuvars.avif";
 import bejMermer from "../assets/bejMermer.avif";
 import mermer from "../assets/mermer.avif";
 import oniks from "../assets/oniks.avif";
 import porselen from "../assets/porselen.avif";
 import traverten from "../assets/traverten.avif";
-import ilham from "../assets/ilhamveren.jpg";
 import marka from "../assets/markalar.jpg";
 import ocaklar from "../assets/ocaklar.png";
 import plakalar from "../assets/plakalar.jpg";
@@ -13,8 +13,27 @@ import dekoratif from "../assets/dekoratif.jpg";
 import cnc from "../assets/cnc.jpg";
 import mozaik from "../assets/mozaikler.jpg";
 import magazalar from "../assets/magazalar.jpg";
+import ilham from "../assets/ilhamveren.jpg";
+
+import bookmatch from "../assets/projects/bookmatch.jpeg";
+import ciragan from "../assets/projects/ciragan.jpg";
+import havuzkenari from "../assets/projects/havuzkenari.jpg";
+import mozzart from "../assets/projects/mozzart.png";
+import perapalace from "../assets/projects/perapalace.jpeg";
+import sagalassos from "../assets/projects/sagalassos.png";
+import vivakapadokya from "../assets/projects/vivakapadokya.png";
 
 import { Link } from "react-router-dom";
+
+import { Swiper, SwiperSlide } from "swiper/react";
+
+// Import Swiper styles
+import "swiper/css";
+import "swiper/css/pagination";
+import "../app.css";
+
+// import required modules
+import { Pagination } from "swiper/modules";
 
 const Home = () => {
   return (
@@ -206,7 +225,38 @@ const Home = () => {
           <h2 className="text-2xl text-center font-bold text-[#52536e] p-2 ">
             İlham Veren Projeler
           </h2>
-          <img src={ilham} alt="ilham" />
+          {/* <Swiper
+            slidesPerView={5}
+            spaceBetween={30}
+            pagination={{
+              clickable: true,
+            }}
+            modules={[Pagination]}
+            className="mySwiper overflow-hidden"
+          >
+            <SwiperSlide className="overflow-hidden">
+              <img src={bookmatch} alt="" />
+            </SwiperSlide>
+            <SwiperSlide className="overflow-hidden">
+              <img src={ciragan} alt="" />
+            </SwiperSlide>
+            <SwiperSlide className="overflow-hidden max-h-10 max-w-md">
+              <img src={havuzkenari} alt="" className="max-w-xs max-h-8" />
+            </SwiperSlide>
+            <SwiperSlide className="overflow-hidden max-h-10 max-w-md">
+              <img src={mozzart} alt="" className="max-w-xs max-h-8" />
+            </SwiperSlide>
+            <SwiperSlide className="overflow-hidden max-h-10 max-w-md">
+              <img src={perapalace} alt="" className="max-w-xs max-h-8" />
+            </SwiperSlide>
+            <SwiperSlide className="overflow-hidden max-h-10 max-w-md">
+              <img src={sagalassos} alt="" className="max-w-xs max-h-8" />
+            </SwiperSlide>
+            <SwiperSlide className="overflow-hidden max-h-10 max-w-md">
+              <img src={vivakapadokya} alt="" className="max-w-xs max-h-8" />
+            </SwiperSlide>
+          </Swiper> */}
+          <img src={ilham} alt="" />
         </section>
 
         {/* Plakalar ve Dekoratif Ürünler */}
