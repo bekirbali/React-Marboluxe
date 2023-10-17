@@ -1,10 +1,10 @@
 import React from "react";
-import kuvars from "../assets/kuvars.jpg";
-import bejMermer from "../assets/bejMermer.jpg";
-import mermer from "../assets/mermer.jpg";
-import oniks from "../assets/oniks.jpg";
-import porselenMini from "../assets/porselenMini.jpg";
-import traverten from "../assets/Traverten.jpg";
+import kuvars from "../assets/kuvars.avif";
+import bejMermer from "../assets/bejMermer.avif";
+import mermer from "../assets/mermer.avif";
+import oniks from "../assets/oniks.avif";
+import porselen from "../assets/porselen.avif";
+import traverten from "../assets/traverten.avif";
 import ilham from "../assets/ilhamveren.jpg";
 import dekoratif from "../assets/dekoratifÜrünler.jpg";
 import marka from "../assets/markalar.jpg";
@@ -19,7 +19,7 @@ const Home = () => {
         <section className="photosOfMermerTezgah flex flex-wrap justify-center gap-4 bg-slate-700 text-white">
           <div className="text-center my-4">
             <h1 className="font-bold text-3xl my-2 ">Mermer ve Tezgahlar</h1>
-            <p className="font-semibold">
+            <p className="font-semibold w-[75%] mx-auto">
               1943’ten bugüne doğal taş üretiminde Türkiye’nin öncülerinden olan
               Efesus Stone’da mutfak, banyo ve diğer yaşam alanlarınız için
               mükemmel malzeme tercihinizi yapın. Binlerce taş ve 199’dan fazla
@@ -27,28 +27,62 @@ const Home = () => {
             </p>
           </div>
           <div className="w-[75%] text-center md:w-[25%] flex flex-col justify-center items-center ">
-            <img src={mermer} alt="" />
-            <p>Mermer</p>
+            <div className="w-full h-[270px] overflow-hidden">
+              <img
+                src={mermer}
+                alt=""
+                className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
+              />
+            </div>
+            <p className="hover:cursor-pointer">Mermer</p>
           </div>
           <div className="w-[75%] text-center md:w-[25%] flex flex-col justify-center items-center ">
-            <img src={kuvars} alt="" />
-            <p>Kuvars</p>
+            <div className="w-full h-[270px] overflow-hidden">
+              <img
+                src={kuvars}
+                alt=""
+                className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
+              />
+            </div>
+            <p className="hover:cursor-pointer">Kuvars</p>
+          </div>
+          <div className="w-[75%] text-center md:w-[25%] flex flex-col justify-center items-center overflow-hidden ">
+            <img
+              src={porselen}
+              alt=""
+              className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
+            />
+            <p className="hover:cursor-pointer">Porselen</p>
           </div>
           <div className="w-[75%] text-center md:w-[25%] flex flex-col justify-center items-center ">
-            <img src={porselenMini} alt="" />
-            <p>Porselen</p>
+            <div className="w-full h-[270px] overflow-hidden">
+              <img
+                src={bejMermer}
+                alt=""
+                className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
+              />
+            </div>
+            <p className="hover:cursor-pointer">Bej Mermer</p>
           </div>
           <div className="w-[75%] text-center md:w-[25%] flex flex-col justify-center items-center ">
-            <img src={bejMermer} alt="" />
-            <p>Bej Mermer</p>
+            <div className="w-full h-[270px] overflow-hidden">
+              <img
+                src={traverten}
+                alt=""
+                className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
+              />
+            </div>
+            <p className="hover:cursor-pointer">Traverten</p>
           </div>
           <div className="w-[75%] text-center md:w-[25%] flex flex-col justify-center items-center ">
-            <img src={traverten} alt="" />
-            <p>Traverten</p>
-          </div>
-          <div className="w-[75%] text-center md:w-[25%] flex flex-col justify-center items-center ">
-            <img src={oniks} alt="" />
-            <p>Oniks</p>
+            <div className="w-full h-[270px] overflow-hidden">
+              <img
+                src={oniks}
+                alt=""
+                className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
+              />
+            </div>
+            <p className="hover:cursor-pointer">Oniks</p>
           </div>
           <div className=" w-[75%] text-center">
             <button className="rounded-md  bg-yellow-400 p-2 font-semibold my-4 hover:shadow-md hover:shadow-slate-500 transition ease-in-out ">

@@ -7,7 +7,7 @@ const NavBar = () => {
   return (
     <div className="h-[96px] flex flex-col">
       {/* Top info section */}
-      <div className="info flex flex-1 justify-end mr-3 gap-2">
+      <div className="info hidden md:flex flex-1 justify-end mr-3 gap-2">
         <div className="language">Turkish</div>
         <div className="corporate">Corporate</div>
         <div className="socials">FaceBook - Instagram - LinkedIn</div>
@@ -15,9 +15,9 @@ const NavBar = () => {
       {/* Navbar Section */}
       <nav className="bg-white border-gray-200 dark:bg-gray-900 dark:border-gray-700">
         <div className=" flex flex-wrap items-center justify-between mx-auto p-4">
-          <Link to="/" className="flex items-center">
-            <img src={logo} className="h-8 mr-3" alt="Marboluxe" />
-            <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
+          <Link to="/" className="flex flex-col md:flex-row items-center">
+            <img src={logo} className="h-8 mr-3 sm:block" alt="Marboluxe" />
+            <span className="self-center sm:text-2xl font-semibold whitespace-nowrap dark:text-white">
               Marboluxe
             </span>
           </Link>
