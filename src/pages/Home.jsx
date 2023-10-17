@@ -6,10 +6,15 @@ import oniks from "../assets/oniks.avif";
 import porselen from "../assets/porselen.avif";
 import traverten from "../assets/traverten.avif";
 import ilham from "../assets/ilhamveren.jpg";
-import dekoratif from "../assets/dekoratifÜrünler.jpg";
 import marka from "../assets/markalar.jpg";
-import ocaklar from "../assets/mermerOcakları.jpg";
-import { Link, Navigate } from "react-router-dom";
+import ocaklar from "../assets/ocaklar.png";
+import plakalar from "../assets/plakalar.jpg";
+import dekoratif from "../assets/dekoratif.jpg";
+import cnc from "../assets/cnc.jpg";
+import mozaik from "../assets/mozaikler.jpg";
+import magazalar from "../assets/magazalar.jpg";
+
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -217,31 +222,51 @@ const Home = () => {
               kataloglarını da inceleyebilirsiniz.
             </p>
           </div>
-          <div>
-            <div className="bigPics">
-              <Link to="/">
-                <img src="" alt="" />
+          <div className="flex gap-4">
+            <div className="bigPics flex flex-col gap-2">
+              <Link to="/" className="overflow-hidden">
+                <img
+                  src={plakalar}
+                  alt=""
+                  className="hover:scale-[1.15] transition ease-in-out duration-500"
+                />
               </Link>
-              <Link to="/">
-                <img src="" alt="" />
+              <Link to="/" className="overflow-hidden">
+                <img
+                  src={dekoratif}
+                  alt=""
+                  className="hover:scale-[1.15] transition ease-in-out duration-500"
+                />
               </Link>
             </div>
-            <div className="smallPics">
-              <Link to="/">
-                <img src="" alt="" />
-              </Link>
-              <Link to="/">
-                <img src="" alt="" />
-              </Link>
-              <Link to="/">
-                <img src="" alt="" />
-              </Link>
-              <Link to="/">
-                <img src="" alt="" />
-              </Link>
+            <div className="smallPics flex flex-col gap-2 justify-between">
+              <div className="cnc overflow-hidden">
+                <Link to="/" className="overflow-hidden">
+                  <img
+                    src={cnc}
+                    alt=""
+                    className="hover:scale-[1.15] transition ease-in-out duration-500"
+                  />
+                </Link>
+              </div>
+              <div className="mozaikMagaza flex w-full justify-between">
+                <Link to="/" className="overflow-hidden">
+                  <img
+                    src={mozaik}
+                    alt=""
+                    className="hover:scale-[1.15] transition ease-in-out duration-500"
+                  />
+                </Link>
+                <Link to="/" className="overflow-hidden">
+                  <img
+                    src={magazalar}
+                    alt=""
+                    className="hover:scale-[1.15] transition ease-in-out duration-500"
+                  />
+                </Link>
+              </div>
             </div>
           </div>
-          <img src={dekoratif} alt="" />
         </section>
 
         {/* Markalar */}
@@ -258,8 +283,8 @@ const Home = () => {
         </section>
 
         {/* Mermer Ocakları */}
-        <section className="flex flex-col text-center lg:text-left lg:flex-row gap-8 items-center justify-center bg-slate-50">
-          <img src={ocaklar} alt="ocaklar" />
+        <section className="flex flex-col text-center lg:text-left lg:flex-row gap-8 items-center justify-center p-4 bg-slate-50">
+          <img src={ocaklar} alt="ocaklar" className="w-[50%]" />
           <div className="stoneMermerOcaklar">
             <h2 className="text-2xl text-center font-bold p-2 text-[#555555]">
               MarboLuxe Mermer Ocakları
