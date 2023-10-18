@@ -224,7 +224,6 @@ const Home = () => {
           <h2 className="text-2xl text-center font-bold text-[#52536e] p-2 ">
             İlham Veren Projeler
           </h2>
-          {/* 4800 2700 */}
           <Swiper
             spaceBetween={30}
             slidesPerView={4}
@@ -238,7 +237,7 @@ const Home = () => {
           >
             <SwiperSlide className="">
               <img src={mozzart} alt="marble" className="" />
-              <p className="absolute left-[50%] bottom-[5px] translate-x-[-50%] translate-y-[-50%] font-bold text-2xl text-center backdrop-blur-sm">
+              <p className="absolute hidden lg:block left-[50%] bottom-[5px] translate-x-[-50%] translate-y-[-50%] font-bold text-2xl text-center backdrop-blur-sm">
                 Mozart Benghazi LİBYA
               </p>
             </SwiperSlide>
@@ -264,7 +263,6 @@ const Home = () => {
               <img src={ciragan} alt="marble" className="" />
             </SwiperSlide>
           </Swiper>
-          {/* <img src={mozzart} alt="" /> */}
         </section>
 
         {/* Plakalar ve Dekoratif Ürünler */}
