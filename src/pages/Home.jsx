@@ -18,10 +18,10 @@ import ilham from "../assets/ilhamveren.jpg";
 import bookmatch from "../assets/projects/bookmatch.jpeg";
 import ciragan from "../assets/projects/ciragan.jpg";
 import havuzkenari from "../assets/projects/havuzkenari.jpg";
-import mozzart from "../assets/projects/mozzart.png";
+import mozzart from "../assets/projects/mozzart.jpg";
 import perapalace from "../assets/projects/perapalace.jpeg";
-import sagalassos from "../assets/projects/sagalassos.png";
-import vivakapadokya from "../assets/projects/vivakapadokya.png";
+import sagalassos from "../assets/projects/sagalassos.jpg";
+import vivakapadokya from "../assets/projects/vivakapadokya.jpg";
 
 import { Link } from "react-router-dom";
 
@@ -30,10 +30,10 @@ import { Swiper, SwiperSlide } from "swiper/react";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
-import "../app.css";
+import "swiper/css/navigation";
 
 // import required modules
-import { Pagination } from "swiper/modules";
+import { Navigation, Pagination } from "swiper/modules";
 
 const Home = () => {
   return (
@@ -221,42 +221,48 @@ const Home = () => {
         </section>
 
         {/* İlham veren Projeler */}
-        <section className="bg-[#f1f1f1] p-2">
+        <section className="bg-[#f1f1f1] p-2 w-full">
           <h2 className="text-2xl text-center font-bold text-[#52536e] p-2 ">
             İlham Veren Projeler
           </h2>
-          {/* <Swiper
-            slidesPerView={5}
+          {/* 4800 2700 */}
+          <Swiper
             spaceBetween={30}
+            slidesPerView={4}
+            navigation={true}
             pagination={{
               clickable: true,
             }}
-            modules={[Pagination]}
-            className="mySwiper overflow-hidden"
+            loop={true}
+            modules={[Pagination, Navigation]}
+            className="mySwiper"
           >
-            <SwiperSlide className="overflow-hidden">
-              <img src={bookmatch} alt="" />
+            <SwiperSlide className="">
+              <img src={mozzart} alt="marble" className="" />
             </SwiperSlide>
-            <SwiperSlide className="overflow-hidden">
-              <img src={ciragan} alt="" />
+            <SwiperSlide className="">
+              <img src={bookmatch} alt="marble" className="" />
             </SwiperSlide>
-            <SwiperSlide className="overflow-hidden max-h-10 max-w-md">
-              <img src={havuzkenari} alt="" className="max-w-xs max-h-8" />
+            <SwiperSlide className="">
+              <img src={sagalassos} alt="marble" className="" />
             </SwiperSlide>
-            <SwiperSlide className="overflow-hidden max-h-10 max-w-md">
-              <img src={mozzart} alt="" className="max-w-xs max-h-8" />
+            <SwiperSlide className="">
+              <img src={ciragan} alt="marble" className="" />
             </SwiperSlide>
-            <SwiperSlide className="overflow-hidden max-h-10 max-w-md">
-              <img src={perapalace} alt="" className="max-w-xs max-h-8" />
+            <SwiperSlide className="">
+              <img src={vivakapadokya} alt="marble" className="" />
             </SwiperSlide>
-            <SwiperSlide className="overflow-hidden max-h-10 max-w-md">
-              <img src={sagalassos} alt="" className="max-w-xs max-h-8" />
+            <SwiperSlide className="">
+              <img src={havuzkenari} alt="marble" className="" />
             </SwiperSlide>
-            <SwiperSlide className="overflow-hidden max-h-10 max-w-md">
-              <img src={vivakapadokya} alt="" className="max-w-xs max-h-8" />
+            <SwiperSlide className="">
+              <img src={perapalace} alt="marble" className="" />
             </SwiperSlide>
-          </Swiper> */}
-          <img src={ilham} alt="" />
+            <SwiperSlide className="">
+              <img src={ciragan} alt="marble" className="" />
+            </SwiperSlide>
+          </Swiper>
+          {/* <img src={mozzart} alt="" /> */}
         </section>
 
         {/* Plakalar ve Dekoratif Ürünler */}

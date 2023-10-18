@@ -53,7 +53,7 @@ const NavBar = () => {
               <li>
                 <Link
                   to="/dogal-taslar"
-                  className="block py-2 pl-3 pr-4 rounded md:bg-transparent md:text-gray-900 md:p-0 md:dark:text-blue-500 dark:bg-blue-600 md:dark:bg-transparent"
+                  className="block py-2 pl-3 pr-4 rounded md:bg-transparent md:text-gray-900 md:p-0 md:dark:text-blue-500 md:hover:text-blue-700 dark:bg-blue-600 md:dark:bg-transparent"
                   aria-current="page"
                 >
                   Özel Koleksiyon
