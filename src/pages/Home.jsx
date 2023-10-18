@@ -13,7 +13,6 @@ import dekoratif from "../assets/dekoratif.jpg";
 import cnc from "../assets/cnc.jpg";
 import mozaik from "../assets/mozaikler.jpg";
 import magazalar from "../assets/magazalar.jpg";
-import ilham from "../assets/ilhamveren.jpg";
 
 import bookmatch from "../assets/projects/bookmatch.jpeg";
 import ciragan from "../assets/projects/ciragan.jpg";
@@ -239,6 +238,9 @@ const Home = () => {
           >
             <SwiperSlide className="">
               <img src={mozzart} alt="marble" className="" />
+              <p className="absolute left-[50%] bottom-[5px] translate-x-[-50%] translate-y-[-50%] font-bold text-2xl text-center backdrop-blur-sm">
+                Mozart Benghazi LİBYA
+              </p>
             </SwiperSlide>
             <SwiperSlide className="">
               <img src={bookmatch} alt="marble" className="" />
@@ -266,7 +268,7 @@ const Home = () => {
         </section>
 
         {/* Plakalar ve Dekoratif Ürünler */}
-        <section className="p-2 ">
+        <section className="p-2 flex flex-col items-center gap-4 ">
           <div>
             <h2 className="text-2xl text-center font-bold p-2 text-[#555555] ">
               Plakalar ve Dekoratif Ürünler

@@ -7,10 +7,125 @@ const NavBar = () => {
   return (
     <div className="h-[96px] flex flex-col">
       {/* Top info section */}
-      <div className="info hidden md:flex flex-1 justify-end mr-3 gap-2">
-        <div className="language">Turkish</div>
-        <div className="corporate">Corporate</div>
-        <div className="socials">FaceBook - Instagram - LinkedIn</div>
+      <div className="info hidden md:flex flex-1 items-center px-2 justify-end mr-3 gap-2">
+        {/* Search */}
+        <button
+          id="dropdownDefaultButton"
+          data-dropdown-toggle="dropdownSearch"
+          className="hover:text-white transition ease-linear duration-200 hover:bg-blue-600 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-2 py-0.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+          type="button"
+        >
+          Search
+          <svg
+            className="w-2.5 h-2.5 ml-2.5"
+            aria-hidden="true"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 10 6"
+          >
+            <path
+              stroke="currentColor"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
+              d="m1 1 4 4 4-4"
+            />
+          </svg>
+        </button>
+        <div
+          id="dropdownSearch"
+          className="z-20 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700"
+        >
+          <input
+            type="text"
+            className="py-2 text-sm text-gray-700 dark:text-gray-200 rounded-md bg-slate-100 "
+          />
+        </div>
+
+        {/* Dil Seçenekleri */}
+        <button
+          id="dropdownDefaultButton"
+          data-dropdown-toggle="dropdown"
+          className="hover:text-white transition ease-linear duration-200 hover:bg-blue-600 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-2 py-0.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+          type="button"
+        >
+          Dil Seçenekleri
+          <svg
+            className="w-2.5 h-2.5 ml-2.5"
+            aria-hidden="true"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 10 6"
+          >
+            <path
+              stroke="currentColor"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
+              d="m1 1 4 4 4-4"
+            />
+          </svg>
+        </button>
+        <div
+          id="dropdown"
+          className="z-20 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700"
+        >
+          <ul
+            className="py-2 text-sm text-gray-700 dark:text-gray-200"
+            aria-labelledby="dropdownDefaultButton"
+          >
+            <li className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 hover:cursor-pointer dark:hover:text-white">
+              Türkçe
+            </li>
+            <li className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 hover:cursor-pointer dark:hover:text-white">
+              English
+            </li>
+          </ul>
+        </div>
+
+        {/* Kurumsal */}
+        <button
+          id="dropdownDefaultButton"
+          data-dropdown-toggle="dropdownKurumsal"
+          className="hover:text-white transition ease-linear duration-200 hover:bg-blue-600 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-2 py-0.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+          type="button"
+        >
+          Kurumsal
+          <svg
+            className="w-2.5 h-2.5 ml-2.5"
+            aria-hidden="true"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 10 6"
+          >
+            <path
+              stroke="currentColor"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
+              d="m1 1 4 4 4-4"
+            />
+          </svg>
+        </button>
+        <div
+          id="dropdownKurumsal"
+          className="z-20 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700"
+        >
+          <ul
+            className="py-2 text-sm text-gray-700 dark:text-gray-200"
+            aria-labelledby="dropdownDefaultButton"
+          >
+            <li className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 hover:cursor-pointer dark:hover:text-white">
+              Hakkımızda
+            </li>
+            <li className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 hover:cursor-pointer dark:hover:text-white">
+              İletişim
+            </li>
+            <li className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 hover:cursor-pointer dark:hover:text-white">
+              Ocaklar
+            </li>
+          </ul>
+        </div>
       </div>
       {/* Navbar Section */}
       <nav className="bg-white border-gray-200 dark:bg-gray-900 dark:border-gray-700">
