@@ -877,6 +877,7 @@
 import { Avatar, Dropdown, Navbar } from "flowbite-react";
 import logo from "../assets/logoForMarboLuxe.png";
 import "../app.css";
+import { Link } from "react-router-dom";
 
 export default function NavbarWithDropdown() {
   return (
@@ -927,36 +928,46 @@ export default function NavbarWithDropdown() {
       </div> */}
       <Navbar.Toggle />
       <Navbar.Collapse className="md:order-2">
-        <Navbar.Link
-          href="#"
-          className="hover:bg-cyan-200 transition ease-in-out duration-200"
-        >
-          Özel Koleksiyon
-        </Navbar.Link>
-        <Navbar.Link
-          href="#"
-          className="hover:bg-cyan-200 transition ease-in-out duration-200"
-        >
-          About
-        </Navbar.Link>
-        <Navbar.Link
-          href="#"
-          className="hover:bg-cyan-200 transition ease-in-out duration-200"
-        >
-          Services
-        </Navbar.Link>
-        <Navbar.Link
-          href="#"
-          className="hover:bg-cyan-200 transition ease-in-out duration-200"
-        >
-          Pricing
-        </Navbar.Link>
-        <Navbar.Link
-          href="#"
-          className="hover:bg-cyan-200 transition ease-in-out duration-200"
-        >
-          Contact
-        </Navbar.Link>
+        <Link to="/ozel-koleksiyon">
+          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
+            Özel Koleksiyon
+          </Navbar.Link>
+        </Link>
+        <Link to="/ozel-koleksiyon">
+          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
+            Doğal Taşlar
+          </Navbar.Link>
+        </Link>
+        <Link to="/ozel-koleksiyon">
+          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
+            Plakalar
+          </Navbar.Link>
+        </Link>
+        <Link to="/ozel-koleksiyon">
+          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
+            Tezgahlar
+          </Navbar.Link>
+        </Link>
+        <Link to="/ozel-koleksiyon">
+          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
+            Ocaklar
+          </Navbar.Link>
+        </Link>
+        <Link to="/ozel-koleksiyon">
+          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
+            Ürünler
+          </Navbar.Link>
+        </Link>
+        <Link to="/ozel-koleksiyon">
+          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
+            Projeler
+          </Navbar.Link>
+        </Link>
+        <Link to="/ozel-koleksiyon">
+          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
+            Kataloglar
+          </Navbar.Link>
+        </Link>
       </Navbar.Collapse>
     </Navbar>
   );
