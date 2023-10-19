@@ -933,37 +933,37 @@ export default function NavbarWithDropdown() {
             Özel Koleksiyon
           </Navbar.Link>
         </Link>
-        <Link to="/ozel-koleksiyon">
+        <Link to="/dogal-taslar">
           <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
             Doğal Taşlar
           </Navbar.Link>
         </Link>
-        <Link to="/ozel-koleksiyon">
+        <Link to="/plakalar">
           <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
             Plakalar
           </Navbar.Link>
         </Link>
-        <Link to="/ozel-koleksiyon">
+        <Link to="/tezgahlar">
           <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
             Tezgahlar
           </Navbar.Link>
         </Link>
-        <Link to="/ozel-koleksiyon">
+        <Link to="/ocaklar">
           <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
             Ocaklar
           </Navbar.Link>
         </Link>
-        <Link to="/ozel-koleksiyon">
+        <Link to="/urunler">
           <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
             Ürünler
           </Navbar.Link>
         </Link>
-        <Link to="/ozel-koleksiyon">
+        <Link to="/projeler">
           <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
             Projeler
           </Navbar.Link>
         </Link>
-        <Link to="/ozel-koleksiyon">
+        <Link to="/kataloglar">
           <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
             Kataloglar
           </Navbar.Link>
