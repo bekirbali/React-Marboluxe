@@ -931,7 +931,7 @@ export default function NavbarWithDropdown() {
           href="#"
           className="hover:bg-cyan-200 transition ease-in-out duration-200"
         >
-          Home
+          Özel Koleksiyon
         </Navbar.Link>
         <Navbar.Link
           href="#"
