@@ -887,8 +887,7 @@ export default function NavbarWithDropdown() {
           Marboluxe
         </span>
       </Navbar.Brand>
-
-      {/*eslint-disable-next-line flowtype/require-valid-file-annotation*/}
+      {/* eslint-disable-next-line flowtype/require-valid-file-annotation*/}
       {/* <div className="flex md:order-1">
         <Dropdown
           arrowIcon={false}
@@ -914,15 +913,50 @@ export default function NavbarWithDropdown() {
           <Dropdown.Item>Sign out</Dropdown.Item>
         </Dropdown>
         <Navbar.Toggle />
+      </div>
+
+      <div>
+        <Dropdown
+          label={"Doğal Taşlar"}
+          className="dropdownStyle"
+          outline={false}
+          style={{ background: "none" }}
+        >
+          <Dropdown.Item>Mermer</Dropdown.Item>
+        </Dropdown>
       </div> */}
+      <Navbar.Toggle />
       <Navbar.Collapse className="md:order-2">
-        <Navbar.Link href="#" active>
+        <Navbar.Link
+          href="#"
+          className="hover:bg-cyan-200 transition ease-in-out duration-200"
+        >
           Home
         </Navbar.Link>
-        <Navbar.Link href="#">About</Navbar.Link>
-        <Navbar.Link href="#">Services</Navbar.Link>
-        <Navbar.Link href="#">Pricing</Navbar.Link>
-        <Navbar.Link href="#">Contact</Navbar.Link>
+        <Navbar.Link
+          href="#"
+          className="hover:bg-cyan-200 transition ease-in-out duration-200"
+        >
+          About
+        </Navbar.Link>
+        <Navbar.Link
+          href="#"
+          className="hover:bg-cyan-200 transition ease-in-out duration-200"
+        >
+          Services
+        </Navbar.Link>
+        <Navbar.Link
+          href="#"
+          className="hover:bg-cyan-200 transition ease-in-out duration-200"
+        >
+          Pricing
+        </Navbar.Link>
+        <Navbar.Link
+          href="#"
+          className="hover:bg-cyan-200 transition ease-in-out duration-200"
+        >
+          Contact
+        </Navbar.Link>
       </Navbar.Collapse>
     </Navbar>
   );
