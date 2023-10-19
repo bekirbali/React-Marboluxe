@@ -876,17 +876,20 @@
 
 import { Avatar, Dropdown, Navbar } from "flowbite-react";
 import logo from "../assets/logoForMarboLuxe.png";
+import "../app.css";
 
 export default function NavbarWithDropdown() {
   return (
-    <Navbar fluid rounded>
-      <Navbar.Brand href="https://flowbite-react.com">
+    <Navbar fluid>
+      <Navbar.Brand href="/">
         <img src={logo} className="mr-3 h-6 sm:h-9" alt="Flowbite React Logo" />
         <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
           Marboluxe
         </span>
       </Navbar.Brand>
-      <div className="flex md:order-2">
+
+      {/*eslint-disable-next-line flowtype/require-valid-file-annotation*/}
+      {/* <div className="flex md:order-1">
         <Dropdown
           arrowIcon={false}
           inline
@@ -911,8 +914,8 @@ export default function NavbarWithDropdown() {
           <Dropdown.Item>Sign out</Dropdown.Item>
         </Dropdown>
         <Navbar.Toggle />
-      </div>
-      <Navbar.Collapse>
+      </div> */}
+      <Navbar.Collapse className="md:order-2">
         <Navbar.Link href="#" active>
           Home
         </Navbar.Link>
