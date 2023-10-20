@@ -4,7 +4,7 @@ import { dogalTaslar } from "../utils";
 const Urunler = () => {
   return (
     <div className="p-4">
-      <h1 className="text-center text-3xl font-bold my-4">Doğal Taşlar</h1>
+      <h1 className="text-center text-3xl font-bold my-4">Ürünler</h1>
       <div className="flex flex-wrap justify-center gap-4">
         {dogalTaslar[0].map((tas) => {
           return (
