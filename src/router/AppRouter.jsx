@@ -10,14 +10,12 @@ import Plakalar from "../pages/Plakalar";
 import Projeler from "../pages/Projeler";
 import Tezgahlar from "../pages/Tezgahlar";
 import Urunler from "../pages/Urunler";
-import Header from "../components/Header";
 import Footer from "../components/Footer";
 
 const AppRouter = () => {
   return (
     <>
       <NavBar />
-      <Header />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="dogal-taslar" element={<DogalTaslar />} />
