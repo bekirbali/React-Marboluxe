@@ -57,7 +57,7 @@ const Home = () => {
                 <img
                   src={mermer}
                   alt="Mermer"
-                  className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
+                  className="w-full h-[270px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer "
                 />
               </Link>
             </div>
@@ -71,7 +71,7 @@ const Home = () => {
                 <img
                   src={kuvars}
                   alt="Kuvars"
-                  className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
+                  className="w-full h-[270px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer "
                 />
               </Link>
             </div>
@@ -85,7 +85,7 @@ const Home = () => {
                 <img
                   src={porselen}
                   alt="Mermer"
-                  className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
+                  className="w-full h-[270px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer "
                 />
               </Link>
             </div>
@@ -99,7 +99,7 @@ const Home = () => {
                 <img
                   src={bejMermer}
                   alt="Bej Mermer"
-                  className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
+                  className="w-full h-[270px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer "
                 />
               </Link>
             </div>
@@ -113,7 +113,7 @@ const Home = () => {
                 <img
                   src={traverten}
                   alt="Traverten"
-                  className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
+                  className="w-full h-[270px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer "
                 />
               </Link>
             </div>
@@ -127,7 +127,7 @@ const Home = () => {
                 <img
                   src={oniks}
                   alt="Oniks"
-                  className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
+                  className="w-full h-[270px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer "
                 />
               </Link>
             </div>
@@ -137,7 +137,7 @@ const Home = () => {
           </div>
           <div className=" w-[75%] text-center">
             <Link to="/dogal-taslar">
-              <button className="rounded-md  bg-yellow-300 p-2 font-semibold my-4 hover:shadow-md hover:shadow-slate-500 transition ease-in-out ">
+              <button className="rounded-md  bg-yellow-300 p-2 font-semibold my-4 hover:shadow-md hover:shadow-slate-500 duration-100 ease-in-out ">
                 Daha Fazla
               </button>
             </Link>
