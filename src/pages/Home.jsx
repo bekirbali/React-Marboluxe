@@ -79,16 +79,18 @@ const Home = () => {
               <p className="hover:cursor-pointer font-bold">Kuvars</p>
             </Link>
           </div>
-          <div className="w-[75%] text-center md:w-[25%] flex flex-col justify-center items-center overflow-hidden ">
+          <div className="w-[75%] text-center md:w-[25%] flex flex-col justify-center items-center ">
+            <div className="w-full h-[270px] overflow-hidden">
+              <Link to="/dogal-taslar">
+                <img
+                  src={porselen}
+                  alt="Mermer"
+                  className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
+                />
+              </Link>
+            </div>
             <Link to="/dogal-taslar">
-              <img
-                src={porselen}
-                alt="Porselen"
-                className="w-full h-[270px] hover:scale-[1.25] transition duration-500 hover:cursor-pointer "
-              />
-            </Link>
-            <Link to="/dogal-taslar">
-              <p className="hover:cursor-pointer font-bold">Porselen</p>
+              <p className="hover:cursor-pointer font-bold">Poerselen</p>
             </Link>
           </div>
           <div className="w-[75%] text-center md:w-[25%] flex flex-col justify-center items-center ">
