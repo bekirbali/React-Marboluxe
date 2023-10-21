@@ -875,7 +875,7 @@
 // export default NavBar;
 
 import { Avatar, Dropdown, Navbar } from "flowbite-react";
-import logo from "../assets/logoForMarboLuxe.png";
+import logo from "../assets/logoForMarboLuxe.jpeg";
 import "../app.css";
 import { Link } from "react-router-dom";
 

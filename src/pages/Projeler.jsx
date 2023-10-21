@@ -9,7 +9,13 @@ const Projeler = () => {
         {dogalTaslar[0].map((tas) => {
           return (
             <div className="flex flex-col items-center justify-center w-[24%]">
-              <img src={tas.image} alt="test" className="w-full h-[250px] " />
+              <div className="w-full overflow-hidden">
+                <img
+                  src={tas.image}
+                  alt="test"
+                  className="w-full h-[250px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
+                />
+              </div>
               <p className="text-center">{tas.name}</p>
             </div>
           );
