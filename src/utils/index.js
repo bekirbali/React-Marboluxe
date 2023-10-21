@@ -1,89 +1,204 @@
-export const ozelKoleksiyon = [
+export const dogalTaslar = [
   [
     {
-      image: "./images/koleksiyon/page-1/panda-emerald-marble.jpg",
+      image: "./images/dogal/Oniks/Blue-Ice-Onyx-1-300x300.avif",
+      name: "Blue Ice Onyx 101",
+    },
+    {
+      image: "./images/dogal/Oniks/greenIceOnyx.avif",
+      name: "Green Ice Onyx 101",
+    },
+    {
+      image: "./images/dogal/Oniks/pinkIceOnyx.avif",
+      name: "Pink Ice Onyx 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-1/DESERT-WAVE-2-300x300.avif",
+      name: "Desert Wave 102",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-1/panda-emerald-marble-300x300.avif",
       name: "Panda Emerald Marble 101",
     },
     {
-      image: "./images/koleksiyon/page-1/RAIN-FOREST-BROWN-3.avif",
+      image:
+        "./images/dogal/Mermer/MermerPage-1/RAIN-FOREST-BROWN-3-300x300.avif",
       name: "Rain Forest Brown 103",
     },
     {
-      image: "./images/koleksiyon/page-1/RAIN-FOREST-GREEN1-300x300.avif",
+      image:
+        "./images/dogal/Mermer/MermerPage-1/RAIN-FOREST-GREEN1-300x300.avif",
       name: "Rain Forest Green 101",
     },
     {
-      image: "./images/koleksiyon/page-1/Panda-Azul-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-1/Panda-Azul-300x300.avif",
       name: "Panda Azul 101",
     },
     {
-      image: "./images/koleksiyon/page-1/Panda-Azul-2-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-1/Panda-Azul-2-300x300.avif",
       name: "Panda Azul 102",
     },
     {
-      image: "./images/koleksiyon/page-1/Agate-Blue-1-1-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-1/Black-Leopar2-300x300.avif",
+      name: "Magma Gold 102",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-1/ICE-JADE-5-300x300.avif",
+      name: "Ice Jade 106",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-1/Petrified-Wood-Marble-1-300x300.avif",
+      name: "Petrified Wood Marble 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-1/DARK-EMPERADOR2-300x300.avif",
+      name: "Dark Emperador 102",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-1/Agate-Blue-1-1-300x300.avif",
       name: "Agate Blue 1",
     },
     {
-      image: "./images/koleksiyon/page-1/Agate-Blue-2-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-1/Agate-Blue-2-300x300.avif",
       name: "Agate Blue 2",
     },
     {
-      image: "./images/koleksiyon/page-1/Agate-Green-1-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-1/Agate-Green-1-300x300.avif",
       name: "Agate Green 1",
     },
     {
-      image: "./images/koleksiyon/page-1/Agate-Green-2-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-1/Agate-Green-2-300x300.avif",
       name: "Agate Green 2",
     },
     {
-      image: "./images/koleksiyon/page-1/Agate-Purple-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-1/Agate-Purple-300x300.avif",
       name: "Agate Purple 1",
     },
     {
-      image: "./images/koleksiyon/page-1/Grey-Agate-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-1/Grey-Agate-300x300.avif",
       name: "Grey Agate 1",
     },
     {
-      image: "./images/koleksiyon/page-1/Petrified-Wood-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-1/Petrified-Wood-300x300.avif",
       name: "Petrified Wood 1",
     },
     {
-      image: "./images/koleksiyon/page-1/Agate-White-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-1/Agate-White-300x300.avif",
       name: "Agate White 1",
     },
     {
-      image: "./images/koleksiyon/page-1/Round-Agathe-1-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-1/Round-Agathe-1-300x300.avif",
       name: "Round Agathe 1",
     },
     {
-      image: "./images/koleksiyon/page-1/Round-Agathe-2-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-1/Round-Agathe-2-300x300.avif",
       name: "Round Agathe 2",
     },
     {
-      image: "./images/koleksiyon/page-1/AGATE-ATHENA-GOLD-1-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-1/Azul-Macaubas-300x300.avif",
+      name: "Azul Macaubas 101",
+    },
+  ],
+  [
+    {
+      image: "./images/dogal/Mermer/MermerPage-1/Azul-Macaubas2-300x300.avif",
+      name: "Azul Macaubas 102",
+    },
+    {
+      image: "./images/dogal/Granit/Black-Leopar-300x300.avif",
+      name: "Black Leopar 101",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-1/Serpegiante-light-300x300.avif",
+      name: "Serpegiante Light 101",
+    },
+    { image: "./images/dogal/Oniks/tigerOnyx-1.avif", name: "Tiger Oniks 101" },
+    { image: "./images/dogal/Oniks/tigerOnyx-2.avif", name: "Tiger Oniks 102" },
+    { image: "./images/dogal/Oniks/woodenOnyx.avif", name: "Wooden Onyx 101" },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-1/AFYON-WHITE-SPIDER-300x300.avif",
+      name: "Afyon Beyaz Mermer Spider 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-2/PANDA-WHITE-5-300x300.avif",
+      name: "Panda White 105",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-2/PANDA-WHITE-6-300x300.avif",
+      name: "Panda White 106",
+    },
+    {
+      image: "./images/dogal/BejMermer/BejMermerPage-1/BEACH-300x300.avif",
+      name: "Beach 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-2/Cafe-Chino-300x300.avif",
+      name: "Picasso 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-2/Nero-Gold-300x300.avif",
+      name: "Nero Gold 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-2/Armani-300x300.avif",
+      name: "Armani",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-2/Chateaux-300x300.avif",
+      name: "Chateaux",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-2/Pinguino-Classic-1-300x300.avif",
+      name: "Pinguino Klasik",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-2/Bardiglio-Black-1-300x300.avif",
+      name: "Bardiglio Black 101",
+    },
+    {
+      image: "./images/dogal/BejMermer/BejMermerPage-1/Botticino-300x300.avif",
+      name: "Botticino 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-2/PINGUINO2-300x300.avif",
+      name: "Pinguino 102",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-2/AGATE-ATHENA-GOLD-1-300x300.avif",
       name: "Agate Athena Gold",
     },
     {
-      image: "./images/koleksiyon/page-1/Rosa-Quartz-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-2/Rosa-Quartz-300x300.avif",
       name: "Rosa Quartz 1",
     },
     {
-      image: "./images/koleksiyon/page-1/Yellow-Tiger-Agate-300x300.avif",
+      image:
+        "./images/dogal/Mermer/MermerPage-2/Yellow-Tiger-Agate-300x300.avif",
       name: "Yellow Tiger Agate 1",
     },
     {
-      image: "./images/koleksiyon/page-1/Agate-Black-Dim-Gold-1-300x300.avif",
+      image:
+        "./images/dogal/Mermer/MermerPage-2/Agate-Black-Dim-Gold-1-300x300.avif",
       name: "Agate Black Dim Gold",
     },
     {
-      image: "./images/koleksiyon/page-1/Agate-Cezanne-Gold-1-300x300.avif",
+      image:
+        "./images/dogal/Mermer/MermerPage-2/Agate-Cezanne-Gold-1-300x300.avif",
       name: "Agate Cezanne Gold",
     },
     {
-      image: "./images/koleksiyon/page-1/Agate-Phoenix-1-300x300.avif",
+      image: "./images/dogal/Mermer/MermerPage-2/Agate-Phoenix-1-300x300.avif",
       name: "Agate Phoenix",
     },
+  ],
+  [
     {
       image: "./images/koleksiyon/page-1/Amazonite-1-300x300.avif",
       name: "Amazonite",
@@ -96,141 +211,90 @@ export const ozelKoleksiyon = [
       image: "./images/koleksiyon/page-1/Green-Agate-1-300x300.avif",
       name: "Green Agate",
     },
-  ],
-  [
     {
       image: "./images/koleksiyon/page-2/turtle-1-300x300.avif",
-      name: "Turtle 101",
-    },
-    {
-      image: "./images/koleksiyon/page-2/Emerald1-1-300x300.avif",
       name: "Turtle 102",
     },
     {
-      image: "./images/koleksiyon/page-2/Emerald2-1-300x300.avif",
+      image: "./images/koleksiyon/page-2/Emerald1-1-300x300.avif",
       name: "Emerald 101",
     },
     {
-      image: "./images/koleksiyon/page-2/Emerald3-1-300x300.avif",
+      image: "./images/koleksiyon/page-2/Emerald2-1-300x300.avif",
       name: "Emerald 102",
     },
     {
-      image: "./images/koleksiyon/page-2/Emerald4-1-300x300.avif",
+      image: "./images/koleksiyon/page-2/Emerald3-1-300x300.avif",
       name: "Emerald 103",
     },
     {
-      image: "./images/koleksiyon/page-2/Hills-300x300.avif",
+      image: "./images/koleksiyon/page-2/Emerald4-1-300x300.avif",
       name: "Emerald 104",
     },
     {
-      image: "./images/koleksiyon/page-2/WHITE-ONYX-2-300x300.avif",
+      image: "./images/koleksiyon/page-2/Hills-300x300.avif",
       name: "Hills 101",
     },
     {
-      image: "./images/koleksiyon/page-2/RAIN-FOREST-BROWN-2-300x300.avif",
+      image: "./images/dogal/Oniks/WHITE-ONYX-2-300x300.avif",
       name: "Beyaz Oniks 102",
     },
     {
-      image: "./images/koleksiyon/page-2/Turtle-300x300.avif",
+      image: "./images/Mermer/MermerPage-3/PANDA-WHITE2-300x300.avif",
+      name: "Panda White 104",
+    },
+    {
+      image: "./images/Mermer/MermerPage-3/Serpegiante-300x300.avif",
+      name: "Serpegiante 101",
+    },
+    {
+      image: "./images/Mermer/MermerPage-3/Marmara-White-Marble-300x300.avif",
+      name: "Marmara Beyaz Mermer 101",
+    },
+    {
+      image: "./images/Mermer/MermerPage-3/Zebra-White-1-300x300.avif",
+      name: "Zebra White 101",
+    },
+    {
+      image: "./images/Mermer/MermerPage-3/Blue-Rain-300x300.avif",
+      name: "Blue Rain 101",
+    },
+    {
+      image: "./images/Mermer/MermerPage-3/Fusion-300x300.avif",
+      name: "Fusion 101",
+    },
+    {
+      image: "./images/Mermer/MermerPage-3/RAIN-FOREST-BROWN-2-300x300.avif",
       name: "Rain Forest Brown 102",
     },
     {
-      image: "./images/koleksiyon/page-2/VERDE-FOREST-300x300.avif",
-      name: "Verde Forest 101",
+      image: "./images/Mermer/MermerPage-3/Statuario-300x300.avif",
+      name: "Statuario 101",
     },
     {
-      image: "./images/koleksiyon/page-2/BLACK-AZIZA-300x300.avif",
-      name: "Black Aziza 101",
+      image: "./images/Mermer/MermerPage-3/Nero1-300x300.avif",
+      name: "Nero 101",
     },
     {
-      image: "./images/koleksiyon/page-2/ICE-JADE-300x300.avif",
-      name: "Ice Jade 101",
+      image: "./images/Mermer/MermerPage-3/Bruno-perla-1-300x300.avif",
+      name: "Bruno Perla 101",
     },
     {
-      image: "./images/koleksiyon/page-2/DESERT-WAVE-300x300.avif",
-      name: "Desert Wave 101",
+      image: "./images/Mermer/MermerPage-3/Zebra-White-300x300.avif",
+      name: "Zebra Black 102",
     },
-  ],
-];
-
-export const dogalTaslar = [
-  [
-    { image: "./images/mermer.avif", name: "Blue Ice Onyx 101" },
-    { image: "./images/mermer.avif", name: "Green Ice Onyx 101" },
-    { image: "./images/mermer.avif", name: "Pink Ice Onyx 101" },
-    { image: "./images/mermer.avif", name: "Desert Wave 102" },
-    { image: "./images/mermer.avif", name: "Panda Emerald Marble 101" },
-    { image: "./images/mermer.avif", name: "Rain Forest Brown 103" },
-    { image: "./images/mermer.avif", name: "Rain Forest Green 101" },
-    { image: "./images/mermer.avif", name: "Panda Azul 101" },
-    { image: "./images/mermer.avif", name: "Panda Azul 102" },
-    { image: "./images/mermer.avif", name: "Magma Gold 102" },
-    { image: "./images/mermer.avif", name: "Ice Jade 106" },
-    { image: "./images/mermer.avif", name: "Petrified Wood Marble 101" },
-    { image: "./images/mermer.avif", name: "Dark Emperador 102" },
-    { image: "./images/mermer.avif", name: "Agate Blue 1" },
-    { image: "./images/mermer.avif", name: "Agate Blue 2" },
-    { image: "./images/mermer.avif", name: "Agate Green 1" },
-    { image: "./images/mermer.avif", name: "Agate Green 2" },
-    { image: "./images/mermer.avif", name: "Agate Purple 1" },
-    { image: "./images/mermer.avif", name: "Grey Agate 1" },
-    { image: "./images/mermer.avif", name: "Petrified Wood 1" },
-    { image: "./images/mermer.avif", name: "Agate White 1" },
-    { image: "./images/mermer.avif", name: "Round Agathe 1" },
-    { image: "./images/mermer.avif", name: "Round Agathe 2" },
-    { image: "./images/mermer.avif", name: "Azul Macaubas 101" },
-  ],
-  [
-    { image: "./images/mermer.avif", name: "Azul Macaubas 102" },
-    { image: "./images/mermer.avif", name: "Black Leopar 101" },
-    { image: "./images/mermer.avif", name: "Serpegiante Light 101" },
-    { image: "./images/mermer.avif", name: "Tiger Oniks 101" },
-    { image: "./images/mermer.avif", name: "Tiger Oniks 102" },
-    { image: "./images/mermer.avif", name: "Wooden Onyx 101" },
-    { image: "./images/mermer.avif", name: "Afyon Beyaz Mermer Spider 101" },
-    { image: "./images/mermer.avif", name: "Panda White 105" },
-    { image: "./images/mermer.avif", name: "Panda White 106" },
-    { image: "./images/mermer.avif", name: "Beach 101" },
-    { image: "./images/mermer.avif", name: "Picasso 101" },
-    { image: "./images/mermer.avif", name: "Nero Gold 101" },
-    { image: "./images/mermer.avif", name: "Armani" },
-    { image: "./images/mermer.avif", name: "Chateaux" },
-    { image: "./images/mermer.avif", name: "Pinguino Klasik" },
-    { image: "./images/mermer.avif", name: "Bardiglio Black 101" },
-    { image: "./images/mermer.avif", name: "Botticino 101" },
-    { image: "./images/mermer.avif", name: "Pinguino 102" },
-    { image: "./images/mermer.avif", name: "Agate Athena Gold" },
-    { image: "./images/mermer.avif", name: "Rosa Quartz 1" },
-    { image: "./images/mermer.avif", name: "Yellow Tiger Agate 1" },
-    { image: "./images/mermer.avif", name: "Agate Black Dim Gold" },
-    { image: "./images/mermer.avif", name: "Agate Cezanne Gold" },
-    { image: "./images/mermer.avif", name: "Agate Phoenix" },
-  ],
-  [
-    { image: "./images/mermer.avif", name: "Amazonite" },
-    { image: "./images/mermer.avif", name: "Fluorite" },
-    { image: "./images/mermer.avif", name: "Green Agate" },
-    { image: "./images/mermer.avif", name: "Turtle 102" },
-    { image: "./images/mermer.avif", name: "Emerald 101" },
-    { image: "./images/mermer.avif", name: "Emerald 102" },
-    { image: "./images/mermer.avif", name: "Emerald 103" },
-    { image: "./images/mermer.avif", name: "Emerald 104" },
-    { image: "./images/mermer.avif", name: "Hills 101" },
-    { image: "./images/mermer.avif", name: "Beyaz Oniks 102" },
-    { image: "./images/mermer.avif", name: "Panda White 104" },
-    { image: "./images/mermer.avif", name: "Serpegiante 101" },
-    { image: "./images/mermer.avif", name: "Marmara Beyaz Mermer 101" },
-    { image: "./images/mermer.avif", name: "Zebra White 101" },
-    { image: "./images/mermer.avif", name: "Blue Rain 101" },
-    { image: "./images/mermer.avif", name: "Fusion 101" },
-    { image: "./images/mermer.avif", name: "Rain Forest Brown 102" },
-    { image: "./images/mermer.avif", name: "Statuario 101" },
-    { image: "./images/mermer.avif", name: "Nero 101" },
-    { image: "./images/mermer.avif", name: "Bruno Perla 101" },
-    { image: "./images/mermer.avif", name: "Zebra Black 102" },
-    { image: "./images/mermer.avif", name: "Bruno 101" },
-    { image: "./images/mermer.avif", name: "Ice Jade 102" },
-    { image: "./images/mermer.avif", name: "Panda White 102" },
+    {
+      image: "./images/Mermer/MermerPage-3/Bruno-300x300.avif",
+      name: "Bruno 101",
+    },
+    {
+      image: "./images/Mermer/MermerPage-3/ICE-JADE-1-300x300.avif",
+      name: "Ice Jade 102",
+    },
+    {
+      image: "./images/Mermer/MermerPage-3/PANDA-WHITE-2-300x300.avif",
+      name: "Panda White 102",
+    },
   ],
   [
     { image: "./images/mermer.avif", name: "Turtle 101" },
@@ -512,6 +576,161 @@ export const dogalTaslar = [
     { image: "./images/mermer.avif", name: "Beyaz Oniks 101" },
     { image: "./images/mermer.avif", name: "Dark Desert Rose 101" },
     { image: "./images/mermer.avif", name: "Light Desert Rose 101" },
+  ],
+];
+
+export const ozelKoleksiyon = [
+  [
+    {
+      image: "./images/koleksiyon/page-1/panda-emerald-marble.jpg",
+      name: "Panda Emerald Marble 101",
+    },
+    {
+      image: "./images/koleksiyon/page-1/RAIN-FOREST-BROWN-3.avif",
+      name: "Rain Forest Brown 103",
+    },
+    {
+      image: "./images/koleksiyon/page-1/RAIN-FOREST-GREEN1-300x300.avif",
+      name: "Rain Forest Green 101",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Panda-Azul-300x300.avif",
+      name: "Panda Azul 101",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Panda-Azul-2-300x300.avif",
+      name: "Panda Azul 102",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Blue-1-1-300x300.avif",
+      name: "Agate Blue 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Blue-2-300x300.avif",
+      name: "Agate Blue 2",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Green-1-300x300.avif",
+      name: "Agate Green 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Green-2-300x300.avif",
+      name: "Agate Green 2",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Purple-300x300.avif",
+      name: "Agate Purple 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Grey-Agate-300x300.avif",
+      name: "Grey Agate 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Petrified-Wood-300x300.avif",
+      name: "Petrified Wood 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-White-300x300.avif",
+      name: "Agate White 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Round-Agathe-1-300x300.avif",
+      name: "Round Agathe 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Round-Agathe-2-300x300.avif",
+      name: "Round Agathe 2",
+    },
+    {
+      image: "./images/koleksiyon/page-1/AGATE-ATHENA-GOLD-1-300x300.avif",
+      name: "Agate Athena Gold",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Rosa-Quartz-300x300.avif",
+      name: "Rosa Quartz 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Yellow-Tiger-Agate-300x300.avif",
+      name: "Yellow Tiger Agate 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Black-Dim-Gold-1-300x300.avif",
+      name: "Agate Black Dim Gold",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Cezanne-Gold-1-300x300.avif",
+      name: "Agate Cezanne Gold",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Phoenix-1-300x300.avif",
+      name: "Agate Phoenix",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Amazonite-1-300x300.avif",
+      name: "Amazonite",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Fluorite-1-300x300.avif",
+      name: "Fluorite",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Green-Agate-1-300x300.avif",
+      name: "Green Agate",
+    },
+  ],
+  [
+    {
+      image: "./images/koleksiyon/page-2/turtle-1-300x300.avif",
+      name: "Turtle 101",
+    },
+    {
+      image: "./images/koleksiyon/page-2/Emerald1-1-300x300.avif",
+      name: "Turtle 102",
+    },
+    {
+      image: "./images/koleksiyon/page-2/Emerald2-1-300x300.avif",
+      name: "Emerald 101",
+    },
+    {
+      image: "./images/koleksiyon/page-2/Emerald3-1-300x300.avif",
+      name: "Emerald 102",
+    },
+    {
+      image: "./images/koleksiyon/page-2/Emerald4-1-300x300.avif",
+      name: "Emerald 103",
+    },
+    {
+      image: "./images/koleksiyon/page-2/Hills-300x300.avif",
+      name: "Emerald 104",
+    },
+    {
+      image: "./images/koleksiyon/page-2/WHITE-ONYX-2-300x300.avif",
+      name: "Hills 101",
+    },
+    {
+      image: "./images/koleksiyon/page-2/RAIN-FOREST-BROWN-2-300x300.avif",
+      name: "Beyaz Oniks 102",
+    },
+    {
+      image: "./images/koleksiyon/page-2/Turtle-300x300.avif",
+      name: "Rain Forest Brown 102",
+    },
+    {
+      image: "./images/koleksiyon/page-2/VERDE-FOREST-300x300.avif",
+      name: "Verde Forest 101",
+    },
+    {
+      image: "./images/koleksiyon/page-2/BLACK-AZIZA-300x300.avif",
+      name: "Black Aziza 101",
+    },
+    {
+      image: "./images/koleksiyon/page-2/ICE-JADE-300x300.avif",
+      name: "Ice Jade 101",
+    },
+    {
+      image: "./images/koleksiyon/page-2/DESERT-WAVE-300x300.avif",
+      name: "Desert Wave 101",
+    },
   ],
 ];
 
