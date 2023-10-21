@@ -1,44 +1,155 @@
 export const ozelKoleksiyon = [
   [
-    { image: "./images/mermer.avif", name: "Panda Emerald Marble 101" },
-    { image: "./images/mermer.avif", name: "Rain Forest Brown 103" },
-    { image: "./images/mermer.avif", name: "Rain Forest Green 101" },
-    { image: "./images/mermer.avif", name: "Panda Azul 101" },
-    { image: "./images/mermer.avif", name: "Panda Azul 102" },
-    { image: "./images/mermer.avif", name: "Agate Blue 1" },
-    { image: "./images/mermer.avif", name: "Agate Blue 2" },
-    { image: "./images/mermer.avif", name: "Agate Green 1" },
-    { image: "./images/mermer.avif", name: "Agate Green 2" },
-    { image: "./images/mermer.avif", name: "Agate Purple 1" },
-    { image: "./images/mermer.avif", name: "Grey Agate 1" },
-    { image: "./images/mermer.avif", name: "Petrified Wood 1" },
-    { image: "./images/mermer.avif", name: "Agate White 1" },
-    { image: "./images/mermer.avif", name: "Round Agathe 1" },
-    { image: "./images/mermer.avif", name: "Round Agathe 2" },
-    { image: "./images/mermer.avif", name: "Agate Athena Gold" },
-    { image: "./images/mermer.avif", name: "Rosa Quartz 1" },
-    { image: "./images/mermer.avif", name: "Yellow Tiger Agate 1" },
-    { image: "./images/mermer.avif", name: "Agate Black Dim Gold" },
-    { image: "./images/mermer.avif", name: "Agate Cezanne Gold" },
-    { image: "./images/mermer.avif", name: "Agate Phoenix" },
-    { image: "./images/mermer.avif", name: "Amazonite" },
-    { image: "./images/mermer.avif", name: "Fluorite" },
-    { image: "./images/mermer.avif", name: "Green Agate" },
+    {
+      image: "./images/koleksiyon/page-1/panda-emerald-marble.jpg",
+      name: "Panda Emerald Marble 101",
+    },
+    {
+      image: "./images/koleksiyon/page-1/RAIN-FOREST-BROWN-3.avif",
+      name: "Rain Forest Brown 103",
+    },
+    {
+      image: "./images/koleksiyon/page-1/RAIN-FOREST-GREEN1-300x300.avif",
+      name: "Rain Forest Green 101",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Panda-Azul-300x300.avif",
+      name: "Panda Azul 101",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Panda-Azul-2-300x300.avif",
+      name: "Panda Azul 102",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Blue-1-1-300x300.avif",
+      name: "Agate Blue 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Blue-2-300x300.avif",
+      name: "Agate Blue 2",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Green-1-300x300.avif",
+      name: "Agate Green 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Green-2-300x300.avif",
+      name: "Agate Green 2",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Purple-300x300.avif",
+      name: "Agate Purple 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Grey-Agate-300x300.avif",
+      name: "Grey Agate 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Petrified-Wood-300x300.avif",
+      name: "Petrified Wood 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-White-300x300.avif",
+      name: "Agate White 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Round-Agathe-1-300x300.avif",
+      name: "Round Agathe 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Round-Agathe-2-300x300.avif",
+      name: "Round Agathe 2",
+    },
+    {
+      image: "./images/koleksiyon/page-1/AGATE-ATHENA-GOLD-1-300x300.avif",
+      name: "Agate Athena Gold",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Rosa-Quartz-300x300.avif",
+      name: "Rosa Quartz 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Yellow-Tiger-Agate-300x300.avif",
+      name: "Yellow Tiger Agate 1",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Black-Dim-Gold-1-300x300.avif",
+      name: "Agate Black Dim Gold",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Cezanne-Gold-1-300x300.avif",
+      name: "Agate Cezanne Gold",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Agate-Phoenix-1-300x300.avif",
+      name: "Agate Phoenix",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Amazonite-1-300x300.avif",
+      name: "Amazonite",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Fluorite-1-300x300.avif",
+      name: "Fluorite",
+    },
+    {
+      image: "./images/koleksiyon/page-1/Green-Agate-1-300x300.avif",
+      name: "Green Agate",
+    },
   ],
   [
-    { image: "./images/mermer.avif", name: "Turtle 101" },
-    { image: "./images/mermer.avif", name: "Turtle 102" },
-    { image: "./images/mermer.avif", name: "Emerald 101" },
-    { image: "./images/mermer.avif", name: "Emerald 102" },
-    { image: "./images/mermer.avif", name: "Emerald 103" },
-    { image: "./images/mermer.avif", name: "Emerald 104" },
-    { image: "./images/mermer.avif", name: "Hills 101" },
-    { image: "./images/mermer.avif", name: "Beyaz Oniks 102" },
-    { image: "./images/mermer.avif", name: "Rain Forest Brown 102" },
-    { image: "./images/mermer.avif", name: "Verde Forest 101" },
-    { image: "./images/mermer.avif", name: "Black Aziza 101" },
-    { image: "./images/mermer.avif", name: "Ice Jade 101" },
-    { image: "./images/mermer.avif", name: "Desert Wave 101" },
+    {
+      image: "./images/koleksiyon/page-2/turtle-1-300x300.avif",
+      name: "Turtle 101",
+    },
+    {
+      image: "./images/koleksiyon/page-2/Emerald1-1-300x300.avif",
+      name: "Turtle 102",
+    },
+    {
+      image: "./images/koleksiyon/page-2/Emerald2-1-300x300.avif",
+      name: "Emerald 101",
+    },
+    {
+      image: "./images/koleksiyon/page-2/Emerald3-1-300x300.avif",
+      name: "Emerald 102",
+    },
+    {
+      image: "./images/koleksiyon/page-2/Emerald4-1-300x300.avif",
+      name: "Emerald 103",
+    },
+    {
+      image: "./images/koleksiyon/page-2/Hills-300x300.avif",
+      name: "Emerald 104",
+    },
+    {
+      image: "./images/koleksiyon/page-2/WHITE-ONYX-2-300x300.avif",
+      name: "Hills 101",
+    },
+    {
+      image: "./images/koleksiyon/page-2/RAIN-FOREST-BROWN-2-300x300.avif",
+      name: "Beyaz Oniks 102",
+    },
+    {
+      image: "./images/koleksiyon/page-2/Turtle-300x300.avif",
+      name: "Rain Forest Brown 102",
+    },
+    {
+      image: "./images/koleksiyon/page-2/VERDE-FOREST-300x300.avif",
+      name: "Verde Forest 101",
+    },
+    {
+      image: "./images/koleksiyon/page-2/BLACK-AZIZA-300x300.avif",
+      name: "Black Aziza 101",
+    },
+    {
+      image: "./images/koleksiyon/page-2/ICE-JADE-300x300.avif",
+      name: "Ice Jade 101",
+    },
+    {
+      image: "./images/koleksiyon/page-2/DESERT-WAVE-300x300.avif",
+      name: "Desert Wave 101",
+    },
   ],
 ];
 
