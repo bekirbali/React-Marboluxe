@@ -33,10 +33,12 @@ import "swiper/css/navigation";
 
 // import required modules
 import { Navigation, Pagination } from "swiper/modules";
+import Header from "../components/Header";
 
 const Home = () => {
   return (
     <div>
+      <Header />
       <div className="mermerTezgah flex flex-col items-center justify-center bg-slate-50 ">
         {/* Mermer tezgah fotoları */}
         <section className="photosOfMermerTezgah flex flex-wrap justify-center gap-4 bg-slate-50">
