@@ -268,7 +268,7 @@ const Home = () => {
         </section>
 
         {/* Plakalar ve Dekoratif Ürünler */}
-        <section className="p-2 flex flex-col items-center gap-4 ">
+        <section className="p-2 flex flex-col items-center gap-8 ">
           <div>
             <h2 className="text-2xl text-center font-bold p-2 text-[#555555] ">
               Plakalar ve Dekoratif Ürünler
@@ -281,46 +281,63 @@ const Home = () => {
             </p>
           </div>
           <div className="flex gap-4">
-            <div className="bigPics flex flex-col gap-2">
-              <Link to="/" className="overflow-hidden">
-                <img
+            <div className="bigPics flex flex-col gap-4">
+              <Link
+                to="/"
+                className="overflow-hidden hover:-translate-y-2 ease-in-out duration-200"
+              >
+                {/* <img
                   src={plakalar}
                   alt=""
                   className="hover:scale-[1.15] transition ease-in-out duration-500"
-                />
+                /> */}
+                <img src={plakalar} alt="" />
               </Link>
-              <Link to="/" className="overflow-hidden">
-                <img
+              <Link
+                to="/"
+                className="overflow-hidden hover:-translate-y-2 ease-in-out duration-200"
+              >
+                {/* <img
                   src={dekoratif}
                   alt=""
                   className="hover:scale-[1.15] transition ease-in-out duration-500"
-                />
+                /> */}
+                <img src={dekoratif} alt="" />
               </Link>
             </div>
-            <div className="smallPics flex flex-col gap-2 justify-between">
-              <div className="cnc overflow-hidden">
-                <Link to="/" className="overflow-hidden">
-                  <img
+            <div className="smallPics flex flex-col gap-4 justify-between">
+              <div className="cnc overflow-hidden hover:-translate-y-2 ease-in-out duration-200">
+                <Link to="/">
+                  {/* <img
                     src={cnc}
                     alt=""
                     className="hover:scale-[1.15] transition ease-in-out duration-500"
-                  />
+                  /> */}
+                  <img src={cnc} alt="" />
                 </Link>
               </div>
               <div className="mozaikMagaza flex w-full justify-between">
-                <Link to="/" className="overflow-hidden">
-                  <img
+                <Link
+                  to="/"
+                  className="overflow-hidden hover:-translate-y-2 ease-in-out duration-200"
+                >
+                  {/* <img
                     src={mozaik}
                     alt=""
                     className="hover:scale-[1.15] transition ease-in-out duration-500"
-                  />
+                  /> */}
+                  <img src={mozaik} alt="" />
                 </Link>
-                <Link to="/" className="overflow-hidden">
-                  <img
+                <Link
+                  to="/"
+                  className="overflow-hidden hover:-translate-y-2 ease-in-out duration-200"
+                >
+                  {/* <img
                     src={magazalar}
                     alt=""
                     className="hover:scale-[1.15] transition ease-in-out duration-500"
-                  />
+                  /> */}
+                  <img src={magazalar} alt="" />
                 </Link>
               </div>
             </div>
