@@ -400,127 +400,203 @@ export const dogalTaslar = [
   //     name: "Dış Mekan – Referans 105",
   //   },
   // ],
-  [
-    {
-      image: "./images/dogal/DisMekan/DisMekanReferans106.avif",
-      name: "Dış Mekan – Referans 106",
-    },
-    {
-      image: "./images/dogal/DisMekan/DisMekanReferans107.avif",
-      name: "Dış Mekan – Referans 107",
-    },
-    {
-      image: "./images/dogal/DisMekan/DisMekanReferans108.avif",
-      name: "Dış Mekan – Referans 108",
-    },
-    {
-      image: "./images/dogal/DisMekan/DisMekanReferans109.avif",
-      name: "Dış Mekan – Referans 109",
-    },
-    {
-      image: "./images/dogal/DisMekan/DisMekanReferans110.avif",
-      name: "Dış Mekan – Referans 110",
-    },
-    {
-      image: "./images/dogal/DisMekan/DisMekanReferans111.avif",
-      name: "Dış Mekan – Referans 111",
-    },
-    {
-      image: "./images/dogal/DisMekan/DisMekanReferans112.avif",
-      name: "Dış Mekan – Referans 112",
-    },
-    {
-      image: "./images/dogal/DisMekan/DisMekanReferans113.avif",
-      name: "Dış Mekan – Referans 113",
-    },
-    {
-      image: "./images/dogal/DisMekan/DisMekanReferans114.avif",
-      name: "Dış Mekan – Referans 114",
-    },
-    {
-      image: "./images/dogal/DisMekan/DisMekanReferans115.avif",
-      name: "Dış Mekan – Referans 115",
-    },
-    {
-      image: "./images/dogal/DisMekan/DisMekanReferans116.avif",
-      name: "Dış Mekan – Referans 116",
-    },
-    {
-      image: "./images/dogal/DisMekan/DisMekanReferans117.avif",
-      name: "Dış Mekan – Referans 117",
-    },
-    {
-      image: "./images/dogal/DisMekan/DisMekanReferans118.avif",
-      name: "Dış Mekan – Referans 118",
-    },
-    {
-      image: "./images/dogal/Oniks/Velluto-Onyx2-300x300.avif",
-      name: "Velluto Oniks 101",
-    },
-    {
-      image: "./images/dogal/Oniks/SILVER-ONYX-2-300x300.avif",
-      name: "Gümüş Oniks 101",
-    },
-    {
-      image: "./images/dogal/Oniks/SILVER-ONYX-4-300x300.avif",
-      name: "Gümüş Oniks 102",
-    },
-    {
-      image:
-        "./images/dogal/Mermer/MermerPage-4/AFYON-WHITE-ARCOBALENO-1-300x300.avif",
-      name: "Afyon Beyaz Mermer Arcobaleno 101",
-    },
-    {
-      image:
-        "./images/dogal/Mermer/MermerPage-4/AFYON-WHITE-GOLDEN-GRAY-300x300.avif",
-      name: "Afyon Beyaz Mermer Golden Gray 101",
-    },
-    {
-      image:
-        "./images/dogal/Mermer/MermerPage-4/afyon_beyaz_a_la_vogue-1-300x300.avif",
-      name: "Afyon Beyaz Mermer A La Vogue 101",
-    },
-    {
-      image: "./images/dogal/Mermer/MermerPage-4/",
-      name: "Afyon Beyaz Mermer Billur 101",
-    },
-    {
-      image: "./images/dogal/Mermer/MermerPage-4/",
-      name: "Afyon Beyaz Mermer Billur 102",
-    },
-    {
-      image: "./images/dogal/Mermer/MermerPage-4/",
-      name: "Afyon Beyaz Mermer Billur 103",
-    },
-    { image: "./images/mermer.avif", name: "Sperenza 101" },
-    { image: "./images/mermer.avif", name: "Calacatta 101" },
-  ],
-  [
-    { image: "./images/mermer.avif", name: "Calacatta 102" },
-    { image: "./images/mermer.avif", name: "Gold Oniks 101" },
-    { image: "./images/mermer.avif", name: "Cocacola Oniks 101" },
-    { image: "./images/mermer.avif", name: "Coquillage 101" },
-    { image: "./images/mermer.avif", name: "Bianco Crema 101" },
-    { image: "./images/mermer.avif", name: "Bianco Crema 102" },
-    { image: "./images/mermer.avif", name: "Bianco Crema 103" },
-    { image: "./images/mermer.avif", name: "Golden Crema 101" },
-    { image: "./images/mermer.avif", name: "Sunny 101" },
-    { image: "./images/mermer.avif", name: "Sunny Light 101" },
-    { image: "./images/mermer.avif", name: "Mocca – Cilalı 101" },
-    { image: "./images/mermer.avif", name: "Gargamel 101" },
-    { image: "./images/mermer.avif", name: "Calimero 101" },
-    { image: "./images/mermer.avif", name: "Calimero – Küp Taşlar 101" },
-    { image: "./images/mermer.avif", name: "Calimero – Küp Taşlar 102" },
-    { image: "./images/mermer.avif", name: "Calimero – Küp Taşlar 103" },
-    { image: "./images/mermer.avif", name: "Gümüş Traverten 101" },
-    { image: "./images/mermer.avif", name: "Gümüş Traverten 102" },
-    { image: "./images/mermer.avif", name: "Gümüş Traverten 103" },
-    { image: "./images/mermer.avif", name: "Verde Guatemala 101" },
-    { image: "./images/mermer.avif", name: "Verde Forest 101" },
-    { image: "./images/mermer.avif", name: "Elazığ Vişne 101" },
-    { image: "./images/mermer.avif", name: "Volakas Bianco 101" },
-    { image: "./images/mermer.avif", name: "Lilla 102" },
-  ],
+  // [
+  //   {
+  //     image: "./images/dogal/DisMekan/DisMekanReferans106.avif",
+  //     name: "Dış Mekan – Referans 106",
+  //   },
+  //   {
+  //     image: "./images/dogal/DisMekan/DisMekanReferans107.avif",
+  //     name: "Dış Mekan – Referans 107",
+  //   },
+  //   {
+  //     image: "./images/dogal/DisMekan/DisMekanReferans108.avif",
+  //     name: "Dış Mekan – Referans 108",
+  //   },
+  //   {
+  //     image: "./images/dogal/DisMekan/DisMekanReferans109.avif",
+  //     name: "Dış Mekan – Referans 109",
+  //   },
+  //   {
+  //     image: "./images/dogal/DisMekan/DisMekanReferans110.avif",
+  //     name: "Dış Mekan – Referans 110",
+  //   },
+  //   {
+  //     image: "./images/dogal/DisMekan/DisMekanReferans111.avif",
+  //     name: "Dış Mekan – Referans 111",
+  //   },
+  //   {
+  //     image: "./images/dogal/DisMekan/DisMekanReferans112.avif",
+  //     name: "Dış Mekan – Referans 112",
+  //   },
+  //   {
+  //     image: "./images/dogal/DisMekan/DisMekanReferans113.avif",
+  //     name: "Dış Mekan – Referans 113",
+  //   },
+  //   {
+  //     image: "./images/dogal/DisMekan/DisMekanReferans114.avif",
+  //     name: "Dış Mekan – Referans 114",
+  //   },
+  //   {
+  //     image: "./images/dogal/DisMekan/DisMekanReferans115.avif",
+  //     name: "Dış Mekan – Referans 115",
+  //   },
+  //   {
+  //     image: "./images/dogal/DisMekan/DisMekanReferans116.avif",
+  //     name: "Dış Mekan – Referans 116",
+  //   },
+  //   {
+  //     image: "./images/dogal/DisMekan/DisMekanReferans117.avif",
+  //     name: "Dış Mekan – Referans 117",
+  //   },
+  //   {
+  //     image: "./images/dogal/DisMekan/DisMekanReferans118.avif",
+  //     name: "Dış Mekan – Referans 118",
+  //   },
+  //   {
+  //     image: "./images/dogal/Oniks/Velluto-Onyx2-300x300.avif",
+  //     name: "Velluto Oniks 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Oniks/SILVER-ONYX-2-300x300.avif",
+  //     name: "Gümüş Oniks 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Oniks/SILVER-ONYX-4-300x300.avif",
+  //     name: "Gümüş Oniks 102",
+  //   },
+  //   {
+  //     image:
+  //       "./images/dogal/Mermer/MermerPage-4/AFYON-WHITE-ARCOBALENO-1-300x300.avif",
+  //     name: "Afyon Beyaz Mermer Arcobaleno 101",
+  //   },
+  //   {
+  //     image:
+  //       "./images/dogal/Mermer/MermerPage-4/AFYON-WHITE-GOLDEN-GRAY-300x300.avif",
+  //     name: "Afyon Beyaz Mermer Golden Gray 101",
+  //   },
+  //   {
+  //     image:
+  //       "./images/dogal/Mermer/MermerPage-4/afyon_beyaz_a_la_vogue-1-300x300.avif",
+  //     name: "Afyon Beyaz Mermer A La Vogue 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Mermer/MermerPage-4/",
+  //     name: "Afyon Beyaz Mermer Billur 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Mermer/MermerPage-4/",
+  //     name: "Afyon Beyaz Mermer Billur 102",
+  //   },
+  //   {
+  //     image: "./images/dogal/Mermer/MermerPage-4/",
+  //     name: "Afyon Beyaz Mermer Billur 103",
+  //   },
+  //   {
+  //     image: "./images/dogal/Mermer/MermerPage-4/SPERENZA-300x300.avif",
+  //     name: "Sperenza 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Mermer/MermerPage-4/AMARANTE-1-300x300.avif",
+  //     name: "Calacatta 101",
+  //   },
+  // ],
+  // [
+  //   {
+  //     image: "./images/dogal/Mermer/MermerPage-4/AMARANTE-2-300x300.avif",
+  //     name: "Calacatta 102",
+  //   },
+  //   { image: "./images/dogal/Oniks/goldOnyx.avif", name: "Gold Oniks 101" },
+  //   {
+  //     image: "./images/dogal/Oniks/cocacolaonyx1-300x300.avif",
+  //     name: "Cocacola Oniks 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Limestone/COQUILLAGE-300x300.avif",
+  //     name: "Coquillage 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Limestone/BIANCO-CREMA-300x300.avif",
+  //     name: "Bianco Crema 101",
+  //   },
+  //   {
+  //     image:
+  //       "./images/dogal/Limestone/bianco-crema-bombe-4-scaled-1-300x300.avif",
+  //     name: "Bianco Crema 102",
+  //   },
+  //   {
+  //     image:
+  //       "./images/dogal/Limestonebianco-crema-bombe-3-scaled103-300x300.avif/",
+  //     name: "Bianco Crema 103",
+  //   },
+  //   {
+  //     image: "./images/dogal/Limestone/GOLDEN-CREMA-300x300.avif",
+  //     name: "Golden Crema 101",
+  //   },
+  //   { image: "./images/dogal/Limestone/SUNNY-300x300.avif", name: "Sunny 101" },
+  //   {
+  //     image: "./images/dogal/Limestone/SUNNY-LIGHT-300x300.avif",
+  //     name: "Sunny Light 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Limestone/mocca-cilali-1-300x300.avif",
+  //     name: "Mocca – Cilalı 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Bazalt/GARGAMEL-300x300.avif",
+  //     name: "Gargamel 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Bazalt/CALIMERO-300x300.avif",
+  //     name: "Calimero 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Bazalt/Kup-Tas-Siyah-Bazalt1-300x300.avif",
+  //     name: "Calimero – Küp Taşlar 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Bazalt/Kup-Tas-Siyah-Bazalt2-300x300.avif",
+  //     name: "Calimero – Küp Taşlar 102",
+  //   },
+  //   {
+  //     image: "./images/dogal/Bazalt/Kup-Tas-Siyah-Bazalt3-300x300.avif",
+  //     name: "Calimero – Küp Taşlar 103",
+  //   },
+  //   {
+  //     image:
+  //       "./images/dogal/Traverten/SILVER-TRAVERTINE-VEIN-CUT-1-300x300.avif",
+  //     name: "Gümüş Traverten 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Traverten/SILVER-TRAVERTINE-1-300x300.avif",
+  //     name: "Gümüş Traverten 102",
+  //   },
+  //   {
+  //     image: "./images/dogal/Traverten/SILVER-TRAVERTINE-2-300x300.avif",
+  //     name: "Gümüş Traverten 103",
+  //   },
+  //   {
+  //     image:
+  //       "./images/dogal/Mermer/MermerPage-4/VERDE-GUATEMALA-1-300x300.avif",
+  //     name: "Verde Guatemala 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Mermer/MermerPage-4/VERDE-FOREST-300x300.avif",
+  //     name: "Verde Forest 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Mermer/MermerPage-4/ELAZIG-VISNE-300x300.avif",
+  //     name: "Elazığ Vişne 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Mermer/MermerPage-4/VOLAKAS-BIANCO-300x300.avif",
+  //     name: "Volakas Bianco 101",
+  //   },
+  //   {
+  //     image: "./images/dogal/Mermer/MermerPage-4/LILLA-2-300x300.avif",
+  //     name: "Lilla 102",
+  //   },
+  // ],
   [
     { image: "./images/mermer.avif", name: "Rosalia 101" },
     { image: "./images/mermer.avif", name: "Rosalia Light 101" },
