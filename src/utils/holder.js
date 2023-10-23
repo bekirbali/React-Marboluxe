@@ -1213,54 +1213,181 @@ export const urunler = [
         "./images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik4-300x300.png",
       name: "Waterjet Mozaik WJC - 03",
     },
-    { image: "./images/", name: "Duş Teknesi – Referans" },
-    { image: "./images/", name: "Kolon – Referans 1001" },
-    { image: "./images/", name: "Kolon – Referans 1002" },
-    { image: "./images/", name: "Kolon – Referans 1003" },
-    { image: "./images/", name: "Kolon – Referans 1004" },
-    { image: "./images/", name: "Kolon – Referans 1005" },
-    { image: "./images/", name: "Kolon – Referans 1006" },
-    { image: "./images/", name: "Kolon – Referans 1007" },
-    { image: "./images/", name: "Kolon – Referans 1008" },
-    { image: "./images/", name: "Duvar Dekorasyonları – Referans 1001" },
-    { image: "./images/", name: "Duvar Dekorasyonları – Referans 1002" },
-    { image: "./images/", name: "Duvar Dekorasyonları – Referans 1003" },
-    { image: "./images/", name: "Duvar Dekorasyonları – Referans 1004" },
-    { image: "./images/", name: "Duvar Dekorasyonları – Referans 1005" },
-    { image: "./images/", name: "Duvar Dekorasyonları – Referans 1006" },
-    { image: "./images/", name: "Duvar Dekorasyonları – Referans 1007" },
-    { image: "./images/", name: "Afyon Beyaz CNC 1001" },
+    {
+      image: "./images/urunler/Dekoratif/DusTeknesi/dusTeknesi.png",
+      name: "Duş Teknesi – Referans",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/DusTeknesi/arcobalenokuvet-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1001",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/DusTeknesi/arcobalenokuvet2-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1002",
+    },
+    {
+      image: "./images/urunler/Dekoratif/DusTeknesi/nocekuvet-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1003",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/DusTeknesi/warmwalnutkuvet-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1004",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/DusTeknesi/warmwalnutkuvet2-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1005",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kolon/1001.jpg",
+      name: "Kolon – Referans 1001",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kolon/1002.jpg",
+      name: "Kolon – Referans 1002",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kolon/1003.jpg",
+      name: "Kolon – Referans 1003",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kolon/1004.jpg",
+      name: "Kolon – Referans 1004",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kolon/1005.jpg",
+      name: "Kolon – Referans 1005",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kolon/1006.jpg",
+      name: "Kolon – Referans 1006",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kolon/1007.jpg",
+      name: "Kolon – Referans 1007",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kolon/1008.jpg",
+      name: "Kolon – Referans 1008",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kolon/a1001.png",
+      name: "Dekoratif Ürünler – Kolon 1001",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kolon/a1002.png",
+      name: "Dekoratif Ürünler – Kolon 1002",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kolon/a1003.png",
+      name: "Dekoratif Ürünler – Kolon 1003",
+    },
+  ],
+  [
+    {
+      image: "./images/urunler/Dekoratif/Kolon/a1004.png",
+      name: "Dekoratif Ürünler – Kolon 1004",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kolon/a1005.png",
+      name: "Dekoratif Ürünler – Kolon 1005",
+    },
+    {
+      image: "./images/",
+      name: "Duvar Dekorasyonları – Referans 1001",
+    },
+    {
+      image: "./images/",
+      name: "Duvar Dekorasyonları – Referans 1002",
+    },
+    {
+      image: "./images/",
+      name: "Duvar Dekorasyonları – Referans 1003",
+    },
+    {
+      image: "./images/",
+      name: "Duvar Dekorasyonları – Referans 1004",
+    },
+    {
+      image: "./images/",
+      name: "Duvar Dekorasyonları – Referans 1005",
+    },
+    {
+      image: "./images/",
+      name: "Duvar Dekorasyonları – Referans 1006",
+    },
+    {
+      image: "./images/",
+      name: "Duvar Dekorasyonları – Referans 1007",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Korkuluk/korkuluk5-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1001",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Korkuluk/korkuluk4-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1002",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Korkuluk/korkuluk3-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1003",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Korkuluk/korkuluk1-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1004",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Korkuluk/korkuluk2-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1005",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kurna/kurna1-300x300.jpg",
+      name: "Kurna BS-01",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kurna/kurna2-300x300.jpg",
+      name: "Kurna BS-02",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kurna/kurna3-300x300.png",
+      name: "Kurna BS-03",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kurna/kurna4-300x300.png",
+      name: "Kurna BS-04",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kurna/kurna5-300x300.png",
+      name: "Kurna BS-05",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kurna/kurna6-300x300.png",
+      name: "Kurna BS-06",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kurna/kurna7-300x300.png",
+      name: "Kurna BS-07",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kurna/kurna8-300x300.png",
+      name: "Kurna BS-08",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kurna/kurna9-300x300.png",
+      name: "Kurna BS-09",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Kurna/kurna10-300x300.png",
+      name: "Kurna BS-10",
+    },
   ],
   [
     { image: "./images/", name: "Afyon Beyaz CNC 1001" },
-    { image: "./images/", name: "Afyon Beyaz CNC 1001" },
-    { image: "./images/", name: "Dekoratif Ürünler – Duş Teknesi 1001" },
-    { image: "./images/", name: "Dekoratif Ürünler – Duş Teknesi 1002" },
-    { image: "./images/", name: "Dekoratif Ürünler – Duş Teknesi 1003" },
-    { image: "./images/", name: "Dekoratif Ürünler – Duş Teknesi 1004" },
-    { image: "./images/", name: "Dekoratif Ürünler – Duş Teknesi 1005" },
-    { image: "./images/", name: "Dekoratif Ürünler – Kolon 1001" },
-    { image: "./images/", name: "Dekoratif Ürünler – Kolon 1002" },
-    { image: "./images/", name: "Dekoratif Ürünler – Kolon 1003" },
-    { image: "./images/", name: "Dekoratif Ürünler – Kolon 1004" },
-    { image: "./images/", name: "Dekoratif Ürünler – Kolon 1005" },
-    { image: "./images/", name: "Dekoratif Ürünler – Korkuluk 1001" },
-    { image: "./images/", name: "Dekoratif Ürünler – Korkuluk 1002" },
-    { image: "./images/", name: "Dekoratif Ürünler – Korkuluk 1003" },
-    { image: "./images/", name: "Dekoratif Ürünler – Korkuluk 1004" },
-    { image: "./images/", name: "Dekoratif Ürünler – Korkuluk 1005" },
-    { image: "./images/", name: "Kurna BS-01" },
-    { image: "./images/", name: "Kurna BS-02" },
-    { image: "./images/", name: "Kurna BS-03" },
-    { image: "./images/", name: "Kurna BS-04" },
-    { image: "./images/", name: "Kurna BS-05" },
-    { image: "./images/", name: "Kurna BS-06" },
-    { image: "./images/", name: "Kurna BS-07" },
-  ],
-  [
-    { image: "./images/", name: "Kurna BS-08" },
-    { image: "./images/", name: "Kurna BS-09" },
-    { image: "./images/", name: "Kurna BS-10" },
+    { image: "./images/", name: "Afyon Beyaz CNC 1002" },
+    { image: "./images/", name: "Afyon Beyaz CNC 1003" },
     { image: "./images/", name: "Dekoratif Ürünler – Söve 1001" },
     { image: "./images/", name: "Dekoratif Ürünler – Söve 1002" },
     { image: "./images/", name: "Dekoratif Ürünler – Söve 1003" },
