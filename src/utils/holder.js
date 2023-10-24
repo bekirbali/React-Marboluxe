@@ -994,17 +994,17 @@ export const plakalar = [
   [
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Blue-Ice-Onyx-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Blue-Ice-Onyx-300x300.png",
       name: "Blue Ice Onyx 1001",
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Green-Ice-Onyx-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Green-Ice-Onyx-300x300.png",
       name: "Green Ice Onyx 1001",
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Pink-Ice-Onyx-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Pink-Ice-Onyx-300x300.png",
       name: "Pink Ice Onyx 1001",
     },
     {
@@ -1131,7 +1131,7 @@ export const plakalar = [
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/greenonyx3-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/greenonyx3-300x300.png",
       name: "Green Oniks 1001",
     },
     {
@@ -1181,7 +1181,7 @@ export const plakalar = [
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/salmononyx-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/salmononyx-300x300.png",
       name: "Salmon Oniks 1001",
     },
     {
@@ -1206,22 +1206,22 @@ export const plakalar = [
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Salmononyx-300x300(1).png",
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Salmononyx-300x300(1).png",
       name: "Salmon Oniks 1002",
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/tigeronyx-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/tigeronyx-300x300.png",
       name: "Tiger Oniks 1001",
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Tigeronyx-300x300(1).png",
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Tigeronyx-300x300(1).png",
       name: "Tiger Oniks 1002",
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Wooden-Onyx-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Wooden-Onyx-300x300.png",
       name: "Wooden Oniks 1001",
     },
     {
@@ -1238,12 +1238,12 @@ export const plakalar = [
   [
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Wooden-Onyx-2-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Wooden-Onyx-2-300x300.png",
       name: "Wooden Oniks 1002",
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/whiteonyx-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/whiteonyx-300x300.png",
       name: "Beyaz Oniks 1001",
     },
     {
@@ -1774,8 +1774,16 @@ export const plakalar = [
         "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Beach-300x300.png",
       name: "Beach 1001",
     },
-    { image: "./images/Lilla-2-300x300.png", name: "Lilla 1002" },
-    { image: "./images/Lilla-3-300x300.png", name: "Lilla 1003" },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Lilla-2-300x300.png",
+      name: "Lilla 1002",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Lilla-3-300x300.png",
+      name: "Lilla 1003",
+    },
     {
       image:
         "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/925-Nebula-300x300.jpg",
@@ -3056,13 +3064,13 @@ export const plakalar = [
         "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/9-marineblue-300x300.png",
       name: "Afyon Beyaz Marine Blue 1001",
     },
+  ],
+  [
     {
       image:
         "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/8-marineblue-300x300.png",
       name: "Afyon Beyaz Marine Blue 1002",
     },
-  ],
-  [
     { image: "./images/mermer.avif", name: "Afyon Beyaz Marine Blue 1003" },
     { image: "./images/mermer.avif", name: "Afyon Beyaz Marine Blue 1004" },
     { image: "./images/mermer.avif", name: "Gümüş Oniks 1002" },
@@ -3086,9 +3094,9 @@ export const plakalar = [
     { image: "./images/mermer.avif", name: "Elazığ Vişne 1008" },
     { image: "./images/mermer.avif", name: "Elazığ Vişne 1009" },
     { image: "./images/mermer.avif", name: "Elazığ Vişne 1010" },
-    { image: "./images/mermer.avif", name: "Elazığ Vişne 1011" },
   ],
   [
+    { image: "./images/mermer.avif", name: "Elazığ Vişne 1011" },
     { image: "./images/mermer.avif", name: "Elazığ Vişne 1012" },
     { image: "./images/mermer.avif", name: "Pinguino 1010" },
     { image: "./images/mermer.avif", name: "Verde Escuro 1001" },
@@ -3112,9 +3120,9 @@ export const plakalar = [
     { image: "./images/mermer.avif", name: "Füme 1003" },
     { image: "./images/mermer.avif", name: "Füme 1004" },
     { image: "./images/mermer.avif", name: "Füme 1005" },
-    { image: "./images/mermer.avif", name: "Füme 1006" },
   ],
   [
+    { image: "./images/mermer.avif", name: "Füme 1006" },
     { image: "./images/mermer.avif", name: "Iris 1001" },
     { image: "./images/mermer.avif", name: "Iris 1002" },
     { image: "./images/mermer.avif", name: "Iris 1003" },
@@ -3138,9 +3146,9 @@ export const plakalar = [
     { image: "./images/mermer.avif", name: "Pinguino 1006" },
     { image: "./images/mermer.avif", name: "Pinguino 1007" },
     { image: "./images/mermer.avif", name: "Pinguino 1008" },
-    { image: "./images/mermer.avif", name: "Pinguino 1009" },
   ],
   [
+    { image: "./images/mermer.avif", name: "Pinguino 1009" },
     { image: "./images/mermer.avif", name: "Black Orion 1001" },
     { image: "./images/mermer.avif", name: "Black Aziza 1001" },
     { image: "./images/mermer.avif", name: "Black Aziza 1002" },
@@ -3164,9 +3172,9 @@ export const plakalar = [
     { image: "./images/mermer.avif", name: "Mont Blanc 1002" },
     { image: "./images/mermer.avif", name: "Mont Blanc 1003" },
     { image: "./images/mermer.avif", name: "Mont Blanc 1004" },
-    { image: "./images/mermer.avif", name: "Metell 1001" },
   ],
   [
+    { image: "./images/mermer.avif", name: "Metell 1001" },
     { image: "./images/mermer.avif", name: "Metell Klasik 1001" },
     { image: "./images/mermer.avif", name: "Ocean 1001" },
     { image: "./images/mermer.avif", name: "Ocean 1002" },
@@ -3190,9 +3198,9 @@ export const plakalar = [
     { image: "./images/mermer.avif", name: "Madreperla Klasik 1001" },
     { image: "./images/mermer.avif", name: "Polar White 1001" },
     { image: "./images/mermer.avif", name: "Polar White 1002" },
-    { image: "./images/mermer.avif", name: "Polar White 1003" },
   ],
   [
+    { image: "./images/mermer.avif", name: "Polar White 1003" },
     { image: "./images/mermer.avif", name: "Polar White 1004" },
     { image: "./images/mermer.avif", name: "Polar White 1005" },
     { image: "./images/mermer.avif", name: "Polar White 1006" },
@@ -3216,9 +3224,9 @@ export const plakalar = [
     { image: "./images/mermer.avif", name: "Bellissima 1001" },
     { image: "./images/mermer.avif", name: "Bellissima 1002" },
     { image: "./images/mermer.avif", name: "Bellissima 1003" },
-    { image: "./images/mermer.avif", name: "Tigrato 1001" },
   ],
   [
+    { image: "./images/mermer.avif", name: "Tigrato 1001" },
     { image: "./images/mermer.avif", name: "Calimero 1001" },
     { image: "./images/mermer.avif", name: "Cappadoce Düz Kesim 1001" },
     { image: "./images/mermer.avif", name: "Cashmere 1001" },
@@ -3242,9 +3250,9 @@ export const plakalar = [
     { image: "./images/mermer.avif", name: "Rosa Minho 101" },
     { image: "./images/mermer.avif", name: "Gargamel 1001" },
     { image: "./images/mermer.avif", name: "Güneş Düz Kesim 1001" },
-    { image: "./images/mermer.avif", name: "Warm Walnut 1001" },
   ],
   [
+    { image: "./images/mermer.avif", name: "Warm Walnut 1001" },
     { image: "./images/mermer.avif", name: "Warm Walnut Düz Kesim 1001" },
     { image: "./images/mermer.avif", name: "Noce Düz Kesim 1001" },
     { image: "./images/mermer.avif", name: "Imperial Red 101" },

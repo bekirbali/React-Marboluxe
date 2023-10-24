@@ -1,12 +1,13 @@
 import React from "react";
 import { dogalTaslar } from "../utils";
+import { plakalar } from "../utils/holder";
 
 const Plakalar = () => {
   return (
     <div className="p-4">
       <h1 className="text-center text-3xl font-bold my-4">Plakalar</h1>
       <div className="flex flex-wrap justify-center gap-4">
-        {dogalTaslar[4].map((tas) => {
+        {plakalar[16].map((tas) => {
           return (
             <div className="flex flex-col items-center justify-center w-[24%]">
               <div className="w-full overflow-hidden">
