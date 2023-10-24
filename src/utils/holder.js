@@ -817,6 +817,93 @@ export const urunler = [
     },
     {
       image:
+        "./images/urunler/Cnc/DuvarDekorasyonlari/1-3-e1613195727324-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1001",
+    },
+    {
+      image:
+        "./images/urunler/Cnc/DuvarDekorasyonlari/2-1-e1613196095826-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1002",
+    },
+    {
+      image:
+        "./images/urunler/Cnc/DuvarDekorasyonlari/3-5-e1613197515614-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1003",
+    },
+    {
+      image:
+        "./images/urunler/Cnc/DuvarDekorasyonlari/5-7-scaled-1-300x300.jpg",
+      name: "Duvar Dekorasyonları – Referans 1004",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/DSCN2486-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1005",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/IMG_0482-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1006",
+    },
+    {
+      image:
+        "./images/urunler/Cnc/DuvarDekorasyonlari/17-e1613200822764-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1007",
+    },
+  ],
+  [
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/1-300x300.png",
+      name: "Afyon Beyaz CNC 1001",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/2-300x300.png",
+      name: "Afyon Beyaz CNC 1002",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/3-300x300.png",
+      name: "Afyon Beyaz CNC 1003",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/13-300x300.png",
+      name: "ED-01 Beyaz Traverten",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/12-300x300.png",
+      name: "ED-02 Bianco Crema",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/11-300x300.png",
+      name: "ED-03 Bianco Crema",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/10-300x300.png",
+      name: "ED-04 Beyaz Traverten",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/9-300x300.png",
+      name: "ED-06 Afyon Beyaz Mermer",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/8-300x300.png",
+      name: "ED-06 Beyaz Traverten",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/7-300x300.png",
+      name: "ED-07 Beyaz Traverten",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/6-300x300.png",
+      name: "ED-08 Afyon Beyaz Mermer",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/5-300x300.png",
+      name: "ED-08 Pearl",
+    },
+    {
+      image: "./images/urunler/Cnc/DuvarDekorasyonlari/4-300x300.png",
+      name: "ED-09 Pearl",
+    },
+    {
+      image:
         "./images/urunler/Waterjet/WaterjetMadalyon/1waterjetmadalyon-1-300x300.jpg",
       name: "Waterjet Madalyon 1",
     },
@@ -850,8 +937,6 @@ export const urunler = [
         "./images/urunler/Waterjet/WaterjetMadalyon/7waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 7",
     },
-  ],
-  [
     {
       image:
         "./images/urunler/Waterjet/WaterjetMadalyon/8waterjetmadalyon-300x300.jpg",
@@ -872,6 +957,8 @@ export const urunler = [
         "./images/urunler/Waterjet/WaterjetMadalyon/11waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 11",
     },
+  ],
+  [
     {
       image:
         "./images/urunler/Waterjet/WaterjetMadalyon/12waterjetmadalyon-300x300.jpg",
@@ -992,6 +1079,8 @@ export const urunler = [
         "./images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19_2-300x300.jpg",
       name: "Waterjet Madalyon WJM-19-2",
     },
+  ],
+  [
     {
       image:
         "./images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19_3-300x300.jpg",
@@ -1112,6 +1201,8 @@ export const urunler = [
         "./images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon39-300x300.png",
       name: "Waterjet Madalyon WJM-39",
     },
+  ],
+  [
     {
       image:
         "./images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon40-300x300.png",
@@ -1222,6 +1313,8 @@ export const urunler = [
         "./images/urunler/Dekoratif/DusTeknesi/arcobalenokuvet-300x300.jpg",
       name: "Dekoratif Ürünler – Duş Teknesi 1001",
     },
+  ],
+  [
     {
       image:
         "./images/urunler/Dekoratif/DusTeknesi/arcobalenokuvet2-300x300.jpg",
@@ -1285,8 +1378,6 @@ export const urunler = [
       image: "./images/urunler/Dekoratif/Kolon/a1003.png",
       name: "Dekoratif Ürünler – Kolon 1003",
     },
-  ],
-  [
     {
       image: "./images/urunler/Dekoratif/Kolon/a1004.png",
       name: "Dekoratif Ürünler – Kolon 1004",
@@ -1294,34 +1385,6 @@ export const urunler = [
     {
       image: "./images/urunler/Dekoratif/Kolon/a1005.png",
       name: "Dekoratif Ürünler – Kolon 1005",
-    },
-    {
-      image: "./images/",
-      name: "Duvar Dekorasyonları – Referans 1001",
-    },
-    {
-      image: "./images/",
-      name: "Duvar Dekorasyonları – Referans 1002",
-    },
-    {
-      image: "./images/",
-      name: "Duvar Dekorasyonları – Referans 1003",
-    },
-    {
-      image: "./images/",
-      name: "Duvar Dekorasyonları – Referans 1004",
-    },
-    {
-      image: "./images/",
-      name: "Duvar Dekorasyonları – Referans 1005",
-    },
-    {
-      image: "./images/",
-      name: "Duvar Dekorasyonları – Referans 1006",
-    },
-    {
-      image: "./images/",
-      name: "Duvar Dekorasyonları – Referans 1007",
     },
     {
       image: "./images/urunler/Dekoratif/Korkuluk/korkuluk5-300x300.jpg",
@@ -1351,6 +1414,8 @@ export const urunler = [
       image: "./images/urunler/Dekoratif/Kurna/kurna2-300x300.jpg",
       name: "Kurna BS-02",
     },
+  ],
+  [
     {
       image: "./images/urunler/Dekoratif/Kurna/kurna3-300x300.png",
       name: "Kurna BS-03",
@@ -1383,86 +1448,257 @@ export const urunler = [
       image: "./images/urunler/Dekoratif/Kurna/kurna10-300x300.png",
       name: "Kurna BS-10",
     },
+    {
+      image: "./images/urunler/Dekoratif/Sove/classiclightsove-300x300.jpg",
+      name: "Dekoratif Ürünler – Söve 1001",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Sove/ivorycreamsove-300x300.jpg",
+      name: "Dekoratif Ürünler – Söve 1002",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Sove/rossolagunasove-300x300.jpg",
+      name: "Dekoratif Ürünler – Söve 1003",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/Sove/sove-1-e1613029306290-300x300.png",
+      name: "Dekoratif Ürünler – Söve 1004",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm18-2-300x300.jpg",
+      name: "Süpürgelik EFM-18",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/Supurgelik/efm19-e1610007029307-300x300.jpg",
+      name: "Süpürgelik EFM-19",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/Supurgelik/efm20-e1610007366618-300x300.jpg",
+      name: "Süpürgelik EFM-20",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm25-300x300.jpg",
+      name: "Süpürgelik EFM-25",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm26-300x300.jpg",
+      name: "Süpürgelik EFM-26",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm27-300x300.jpg",
+      name: "Süpürgelik EFM-27",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm43-300x300.jpg",
+      name: "Süpürgelik EFM-43",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm44-300x300.jpg",
+      name: "Süpürgelik EFM-44",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm45-300x300.jpg",
+      name: "Süpürgelik EFM-45",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm46-300x300.jpg",
+      name: "Süpürgelik EFM-46",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm47-300x300.jpg",
+      name: "Süpürgelik EFM-47",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm48-300x300.jpg",
+      name: "Süpürgelik EFM-48",
+    },
   ],
   [
-    { image: "./images/", name: "Afyon Beyaz CNC 1001" },
-    { image: "./images/", name: "Afyon Beyaz CNC 1002" },
-    { image: "./images/", name: "Afyon Beyaz CNC 1003" },
-    { image: "./images/", name: "Dekoratif Ürünler – Söve 1001" },
-    { image: "./images/", name: "Dekoratif Ürünler – Söve 1002" },
-    { image: "./images/", name: "Dekoratif Ürünler – Söve 1003" },
-    { image: "./images/", name: "Dekoratif Ürünler – Söve 1004" },
-    { image: "./images/", name: "Süpürgelik EFM-18" },
-    { image: "./images/", name: "Süpürgelik EFM-19" },
-    { image: "./images/", name: "Süpürgelik EFM-20" },
-    { image: "./images/", name: "Süpürgelik EFM-25" },
-    { image: "./images/", name: "Süpürgelik EFM-26" },
-    { image: "./images/", name: "Süpürgelik EFM-27" },
-    { image: "./images/", name: "Süpürgelik EFM-43" },
-    { image: "./images/", name: "Süpürgelik EFM-44" },
-    { image: "./images/", name: "Süpürgelik EFM-45" },
-    { image: "./images/", name: "Süpürgelik EFM-46" },
-    { image: "./images/", name: "Süpürgelik EFM-47" },
-    { image: "./images/", name: "Süpürgelik EFM-48" },
-    { image: "./images/", name: "Süpürgelik EFM-49" },
-    { image: "./images/", name: "Süpürgelik EFM-50" },
-    { image: "./images/", name: "Süpürgelik EFM-51" },
-    { image: "./images/", name: "Süpürgelik EFM-52" },
-    { image: "./images/", name: "Süpürgelik EFM-54" },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm49-300x300.jpg",
+      name: "Süpürgelik EFM-49",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm50-300x300.jpg",
+      name: "Süpürgelik EFM-50",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm51-300x300.jpg",
+      name: "Süpürgelik EFM-51",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm52-300x300.jpg",
+      name: "Süpürgelik EFM-52",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Supurgelik/efm54-300x300.jpg",
+      name: "Süpürgelik EFM-54",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Sutun/sutun4-300x300.jpg",
+      name: "Dekoratif Ürünler – Sütun 1001",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Sutun/sutun1-300x300.jpg",
+      name: "Dekoratif Ürünler – Sütun 1002",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Sutun/sutun2-300x300.jpg",
+      name: "Dekoratif Ürünler – Sütun 1003",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Sutun/sutun3-300x300.jpg",
+      name: "Dekoratif Ürünler – Sütun 1004",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/Sampuanlik/alavoguesampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1001",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/Sampuanlik/classiclightsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1002",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/Sampuanlik/dynastiesampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1003",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/Sampuanlik/euphoriesampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1004",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/Sampuanlik/eventailsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1005",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/Sampuanlik/pearlsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1006",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/Sampuanlik/saffronsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1007",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/Sampuanlik/warmwalnutsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1008",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Aksesuar/lodos-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1001",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Aksesuar/medusa-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1002",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Aksesuar/novel-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1003",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Aksesuar/paperholder-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1004",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Aksesuar/sahara-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1005",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Aksesuar/eagle-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1006",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Aksesuar/efesusgirls-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1007",
+    },
   ],
   [
-    { image: "./images/", name: "Dekoratif Ürünler – Sütun 1001" },
-    { image: "./images/", name: "Dekoratif Ürünler – Sütun 1002" },
-    { image: "./images/", name: "Dekoratif Ürünler – Sütun 1003" },
-    { image: "./images/", name: "Dekoratif Ürünler – Sütun 1004" },
-    { image: "./images/", name: "ED-01 Beyaz Traverten" },
-    { image: "./images/", name: "ED-02 Bianco Crema" },
-    { image: "./images/", name: "ED-03 Bianco Crema" },
-    { image: "./images/", name: "ED-04 Beyaz Traverten" },
-    { image: "./images/", name: "ED-06 Afyon Beyaz Mermer" },
-    { image: "./images/", name: "ED-06 Beyaz Traverten" },
-    { image: "./images/", name: "ED-07 Beyaz Traverten" },
-    { image: "./images/", name: "ED-08 Afyon Beyaz Mermer" },
-    { image: "./images/", name: "ED-08 Pearl" },
-    { image: "./images/", name: "ED-09 Pearl" },
-    { image: "./images/", name: "Dekoratif Ürünler – Şampuanlık 1001" },
-    { image: "./images/", name: "Dekoratif Ürünler – Şampuanlık 1002" },
-    { image: "./images/", name: "Dekoratif Ürünler – Şampuanlık 1003" },
-    { image: "./images/", name: "Dekoratif Ürünler – Şampuanlık 1004" },
-    { image: "./images/", name: "Dekoratif Ürünler – Şampuanlık 1005" },
-    { image: "./images/", name: "Dekoratif Ürünler – Şampuanlık 1006" },
-    { image: "./images/", name: "Dekoratif Ürünler – Şampuanlık 1007" },
-    { image: "./images/", name: "Dekoratif Ürünler – Şampuanlık 1008" },
-    { image: "./images/", name: "Dekoratif Ürünler – Aksesuar 1001" },
-    { image: "./images/", name: "Dekoratif Ürünler – Aksesuar 1002" },
+    {
+      image: "./images/urunler/Dekoratif/Aksesuar/anfora-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1008",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Aksesuar/shaman-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1009",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Aksesuar/soapdish-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1010",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Aksesuar/towelbar-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1011",
+    },
+    {
+      image: "./images/urunler/Dekoratif/BahceSuslemesi/anavarza-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1001",
+    },
+    {
+      image: "./images/urunler/Dekoratif/BahceSuslemesi/harmony-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1002",
+    },
+    {
+      image:
+        "./images/urunler/Dekoratif/BahceSuslemesi/kengerleaves-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1003",
+    },
+    {
+      image: "./images/urunler/Dekoratif/BahceSuslemesi/kizuwatna-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1004",
+    },
+    {
+      image: "./images/urunler/Dekoratif/BahceSuslemesi/momentum-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1005",
+    },
+    {
+      image: "./images/urunler/Dekoratif/BahceSuslemesi/puduhepa-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1006",
+    },
+    {
+      image: "./images/urunler/Dekoratif/BahceSuslemesi/raindrop-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1007",
+    },
+    {
+      image: "./images/urunler/Dekoratif/BahceSuslemesi/rodos-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1008",
+    },
+    {
+      image: "./images/urunler/Dekoratif/BahceSuslemesi/sangarios-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1009",
+    },
+    {
+      image: "./images/urunler/Dekoratif/BahceSuslemesi/swanlake-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1010",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Aplik/honeysconce-300x300.jpg",
+      name: "Dekoratif Ürünler – Aplik 1001",
+    },
+    {
+      image: "./images/urunler/Dekoratif/Aplik/ivorycreamsconce-300x300.jpg",
+      name: "Dekoratif Ürünler – Aplik 1002",
+    },
+    {
+      image: "./images/urunler/Cnc/Tabureler/1-3-300x300.png",
+      name: "Tabure1 – Beyaz Traverten",
+    },
+    {
+      image: "./images/urunler/Cnc/Tabureler/2-2-300x300.png",
+      name: "Tabure2 – Beyaz Traverten",
+    },
+    {
+      image: "./images/urunler/Cnc/Tabureler/3-2-300x300.png",
+      name: "Tabure2 – Beyaz Traverten",
+    },
   ],
-  [
-    { image: "./images/", name: "Dekoratif Ürünler – Aksesuar 1003" },
-    { image: "./images/", name: "Dekoratif Ürünler – Aksesuar 1004" },
-    { image: "./images/", name: "Dekoratif Ürünler – Aksesuar 1005" },
-    { image: "./images/", name: "Dekoratif Ürünler – Aksesuar 1006" },
-    { image: "./images/", name: "Dekoratif Ürünler – Aksesuar 1007" },
-    { image: "./images/", name: "Dekoratif Ürünler – Aksesuar 1008" },
-    { image: "./images/", name: "Dekoratif Ürünler – Aksesuar 1009" },
-    { image: "./images/", name: "Dekoratif Ürünler – Aksesuar 1010" },
-    { image: "./images/", name: "Dekoratif Ürünler – Aksesuar 1011" },
-    { image: "./images/", name: "Dekoratif Ürünler – Bahçe Süslemesi 1001" },
-    { image: "./images/", name: "Dekoratif Ürünler – Bahçe Süslemesi 1002" },
-    { image: "./images/", name: "Dekoratif Ürünler – Bahçe Süslemesi 1003" },
-    { image: "./images/", name: "Dekoratif Ürünler – Bahçe Süslemesi 1004" },
-    { image: "./images/", name: "Dekoratif Ürünler – Bahçe Süslemesi 1005" },
-    { image: "./images/", name: "Dekoratif Ürünler – Bahçe Süslemesi 1006" },
-    { image: "./images/", name: "Dekoratif Ürünler – Bahçe Süslemesi 1007" },
-    { image: "./images/", name: "Dekoratif Ürünler – Bahçe Süslemesi 1008" },
-    { image: "./images/", name: "Dekoratif Ürünler – Bahçe Süslemesi 1009" },
-    { image: "./images/", name: "Dekoratif Ürünler – Bahçe Süslemesi 1010" },
-    { image: "./images/", name: "Dekoratif Ürünler – Aplik 1001" },
-    { image: "./images/", name: "Dekoratif Ürünler – Aplik 1002" },
-  ],
-  [
-    { image: "./images/", name: "Tabure1 – Beyaz Traverten" },
-    { image: "./images/", name: "Tabure2 – Beyaz Traverten" },
-  ],
-  [],
-  [],
 ];
