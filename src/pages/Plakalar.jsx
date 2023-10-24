@@ -9,12 +9,12 @@ const Plakalar = () => {
       <div className="flex flex-wrap justify-center gap-4">
         {plakalar[16].map((tas) => {
           return (
-            <div className="flex flex-col items-center justify-center w-[24%]">
+            <div className="flex flex-col items-center justify-center w-[24%] shadow-sm shadow-cyan-700 max-w-[300px]">
               <div className="w-full overflow-hidden">
                 <img
                   src={tas.image}
                   alt="test"
-                  className="w-full h-[250px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
+                  className="w-full h-[250px] hover:scale-[1.10] transition duration-700 hover:cursor-pointer"
                 />
               </div>
               <p className="text-center">{tas.name}</p>
