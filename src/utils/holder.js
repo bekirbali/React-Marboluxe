@@ -1602,82 +1602,362 @@ export const plakalar = [
     },
   ],
   [
-    { image: "./images/mermer.avif", name: "Alps Blue 10001" },
-    { image: "./images/mermer.avif", name: "Azul Macobus 10001" },
-    { image: "./images/mermer.avif", name: "Van Gogh Blue 10001" },
-    { image: "./images/mermer.avif", name: "Afyon White Spider 1001" },
-    { image: "./images/mermer.avif", name: "Daisy" },
-    { image: "./images/mermer.avif", name: "Aymina" },
-    { image: "./images/mermer.avif", name: "Alaska" },
-    { image: "./images/mermer.avif", name: "Bolera" },
-    { image: "./images/mermer.avif", name: "Cordelia" },
-    { image: "./images/mermer.avif", name: "Lusetia White" },
-    { image: "./images/mermer.avif", name: "Sierra White" },
-    { image: "./images/mermer.avif", name: "Mia" },
-    { image: "./images/mermer.avif", name: "Aria" },
-    { image: "./images/mermer.avif", name: "Rossa White" },
-    { image: "./images/mermer.avif", name: "Visendra" },
-    { image: "./images/mermer.avif", name: "Tornado" },
-    { image: "./images/mermer.avif", name: "Admira" },
-    { image: "./images/mermer.avif", name: "Lusida Grey" },
-    { image: "./images/mermer.avif", name: "Olivia" },
-    { image: "./images/mermer.avif", name: "Sima" },
-    { image: "./images/mermer.avif", name: "Elatris" },
-    { image: "./images/mermer.avif", name: "Caramela" },
-    { image: "./images/mermer.avif", name: "Lusida Black" },
-    { image: "./images/mermer.avif", name: "Rugiada" },
+    {
+      image:
+        "./images/plakalar/PorselenPlakalar/SinteredPlakalar/Alps-Blue-300x300.jpg",
+      name: "Alps Blue 10001",
+    },
+    {
+      image:
+        "./images/plakalar/PorselenPlakalar/SinteredPlakalar/Azul-Macobus-300x300.jpg",
+      name: "Azul Macobus 10001",
+    },
+    {
+      image:
+        "./images/plakalar/PorselenPlakalar/SinteredPlakalar/Van-Gogh-Blue-300x300.jpg",
+      name: "Van Gogh Blue 10001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Afyon-White-Spider-300x300.png",
+      name: "Afyon White Spider 1001",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Daisy-4001-Close-Up-300x300.jpg",
+      name: "Daisy",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Aymina-3001-Close-Up-300x300.jpg",
+      name: "Aymina",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/alaska-4403-300x300.jpg",
+      name: "Alaska",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/7268-bolera-300x300.jpg",
+      name: "Bolera",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Cordelia-2001-Close-Up-300x300.jpg",
+      name: "Cordelia",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Lusetia-White-5601-Close-Up-300x300.jpg",
+      name: "Lusetia White",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/6102-sierra-white-300x300.jpg",
+      name: "Sierra White",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/mia-300x300.jpg",
+      name: "Mia",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/aria-2105-300x300.jpg",
+      name: "Aria",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/rossa-white-300x300.jpg",
+      name: "Rossa White",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Visendra-2102-Close-Up-300x300.jpg",
+      name: "Visendra",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Tornado-2104-300x300.jpg",
+      name: "Tornado",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Admira-2101-Close-Up-300x300.jpg",
+      name: "Admira",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Lusida-Grey-300x300.jpg",
+      name: "Lusida Grey",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/olivia-300x300.jpg",
+      name: "Olivia",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Sima-300x300.jpg",
+      name: "Sima",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Elatris-4004-Close-Up-300x300.jpg",
+      name: "Elatris",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Caramela-2005-Close-Up-300x300.jpg",
+      name: "Caramela",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Lusida-Black-5701-Close-Up-300x300.jpg",
+      name: "Lusida Black",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Rugiada-2209-Close-Up-300x300.jpg",
+      name: "Rugiada",
+    },
   ],
   [
-    { image: "./images/mermer.avif", name: "Santa" },
-    { image: "./images/mermer.avif", name: "Nidia" },
-    { image: "./images/mermer.avif", name: "Sadira" },
-    { image: "./images/mermer.avif", name: "Mirat" },
-    { image: "./images/mermer.avif", name: "Hiearapolis" },
-    { image: "./images/mermer.avif", name: "Arcadia" },
-    { image: "./images/mermer.avif", name: "Artemis" },
-    { image: "./images/mermer.avif", name: "Barents" },
-    { image: "./images/mermer.avif", name: "Beach 1001" },
-    { image: "./images/mermer.avif", name: "Lapland" },
-    { image: "./images/mermer.avif", name: "Lilla 1002" },
-    { image: "./images/mermer.avif", name: "Lilla 1003" },
-    { image: "./images/mermer.avif", name: "Nebula" },
-    { image: "./images/mermer.avif", name: "Nephila" },
-    { image: "./images/mermer.avif", name: "Olympos" },
-    { image: "./images/mermer.avif", name: "Sineda" },
-    { image: "./images/mermer.avif", name: "Alpino" },
-    { image: "./images/mermer.avif", name: "Tundra" },
-    { image: "./images/mermer.avif", name: "Mora" },
-    { image: "./images/mermer.avif", name: "Fuga" },
-    { image: "./images/mermer.avif", name: "Versilia" },
-    { image: "./images/mermer.avif", name: "Lebedos" },
-    { image: "./images/mermer.avif", name: "Keops" },
-    { image: "./images/mermer.avif", name: "Linen" },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/3303-santa-300x300.jpg",
+      name: "Santa",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/nidia-2015-calisco-quartz-stone-p795226-1b-300x300.jpg",
+      name: "Nidia",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Sadira-2210-Close-Up-300x300.jpg",
+      name: "Sadira",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/614-Mirat-300x300.jpg",
+      name: "Mirat",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/Hiearapolis-100-300x300.jpg",
+      name: "Hiearapolis",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/402-Arcadia-300x300.jpg",
+      name: "Arcadia",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/Artemis-220-300x300.jpg",
+      name: "Artemis",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/955-Barents-300x300.jpg",
+      name: "Barents",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/900-Lapland-300x300.jpg",
+      name: "Lapland",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Beach-300x300.png",
+      name: "Beach 1001",
+    },
+    { image: "./images/Lilla-2-300x300.png", name: "Lilla 1002" },
+    { image: "./images/Lilla-3-300x300.png", name: "Lilla 1003" },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/925-Nebula-300x300.jpg",
+      name: "Nebula",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/995-Nephila-300x300.jpg",
+      name: "Nephila",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/936-Olympos-300x300.jpg",
+      name: "Olympos",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/990-Sineda-300x300.jpg",
+      name: "Sineda",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/560-Alpino-300x300.jpg",
+      name: "Alpino",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/870-Tundra-300x300.jpg",
+      name: "Tundra",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/725-Mora-300x300.jpg",
+      name: "Mora",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/470-Fuga-300x300.jpg",
+      name: "Fuga",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/935-Versilia-300x300.jpg",
+      name: "Versilia",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/345-Lebedos-300x300.jpg",
+      name: "Lebedos",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/Keops-175-300x300.jpg",
+      name: "Keops",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/875-Linen-300x300.jpg",
+      name: "Linen",
+    },
   ],
   [
-    { image: "./images/mermer.avif", name: "Terra" },
-    { image: "./images/mermer.avif", name: "Smyrna" },
-    { image: "./images/mermer.avif", name: "Lapaz" },
-    { image: "./images/mermer.avif", name: "Troas" },
-    { image: "./images/mermer.avif", name: "Etna" },
-    { image: "./images/mermer.avif", name: "Ares" },
-    { image: "./images/mermer.avif", name: "Boreas" },
-    { image: "./images/mermer.avif", name: "Elvas" },
-    { image: "./images/mermer.avif", name: "Kromit" },
-    { image: "./images/mermer.avif", name: "Savana" },
-    { image: "./images/mermer.avif", name: "Gharma" },
-    { image: "./images/mermer.avif", name: "Toros" },
-    { image: "./images/mermer.avif", name: "Carbone" },
-    { image: "./images/mermer.avif", name: "Hermes" },
-    { image: "./images/mermer.avif", name: "Armani Grey 10001" },
-    { image: "./images/mermer.avif", name: "Calacatta Victory" },
-    { image: "./images/mermer.avif", name: "Carrara 10001" },
-    { image: "./images/mermer.avif", name: "Carrara Ultimo 10001" },
-    { image: "./images/mermer.avif", name: "Invisible White 10001" },
-    { image: "./images/mermer.avif", name: "Felisia" },
-    { image: "./images/mermer.avif", name: "Macchia 10001" },
-    { image: "./images/mermer.avif", name: "Marquina Venato 10001" },
-    { image: "./images/mermer.avif", name: "Modern Statuario 10001" },
-    { image: "./images/mermer.avif", name: "Pantheon" },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/890-Terra-300x300.jpg",
+      name: "Terra",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/815-Smyrna-300x300.jpg",
+      name: "Smyrna",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/332-Lapaz-300x300.jpg",
+      name: "Lapaz",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/912-Troas-300x300.jpg",
+      name: "Troas",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/Etna-170-300x300.jpg",
+      name: "Etna",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/930-Ares-300x300.jpg",
+      name: "Ares",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/645-Boreas-300x300.jpg",
+      name: "Boreas",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/811-Elvas-300x300.jpg",
+      name: "Elvas",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/580-Kromit-300x300.jpg",
+      name: "Kromit",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/759-Savana-300x300.jpg",
+      name: "Savana",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/911-Gharma-300x300.jpg",
+      name: "Gharma",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/880-Toros-300x300.jpg",
+      name: "Toros",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/997-Carbone-300x300.jpg",
+      name: "Carbone",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/465-Hermes-300x300.jpg",
+      name: "Hermes",
+    },
+    {
+      image:
+        "./images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Armani-Grey_lamar-2-300x300.jpg",
+      name: "Armani Grey 10001",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/1219_calacatta_victory_e4c55-300x300.jpg",
+      name: "Calacatta Victory",
+    },
+    {
+      image:
+        "./images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Carrara_lamar-2-300x300.jpg",
+      name: "Carrara 10001",
+    },
+    {
+      image:
+        "./images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Carrara-Ultimo_lamar-2-300x300.jpg",
+      name: "Carrara Ultimo 10001",
+    },
+    {
+      image:
+        "./images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/invisible-White_lamar-2-300x300.jpg",
+      name: "Invisible White 10001",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/3302-felisia-300x300.jpg",
+      name: "Felisia",
+    },
+    {
+      image:
+        "./images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Macchia_lamar-2-300x300.jpg",
+      name: "Macchia 10001",
+    },
+    {
+      image:
+        "./images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Marquina-Venato_lamar-2-300x300.jpg",
+      name: "Marquina Venato 10001",
+    },
+    {
+      image:
+        "./images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Modern-Statuario_lamar-2-300x300.jpg",
+      name: "Modern Statuario 10001",
+    },
+    {
+      image:
+        "./images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/7220_pantheon_fbf13-300x300.jpg",
+      name: "Pantheon",
+    },
   ],
   [
     { image: "./images/mermer.avif", name: "Pietra Grey 10001" },
