@@ -2825,68 +2825,242 @@ export const plakalar = [
       name: "Ice Jade 10003",
     },
     {
-      image: "./images/plakalar/PorselenPlakalar/SinteredPlakalar/",
+      image:
+        "./images/plakalar/PorselenPlakalar/SinteredPlakalar/Silk-White-1-300x300.png",
       name: "Silk White 10001",
     },
     {
-      image: "./images/plakalar/PorselenPlakalar/SinteredPlakalar/",
+      image:
+        "./images/plakalar/PorselenPlakalar/SinteredPlakalar/Glacier-White-1-300x300.png",
       name: "Glacier White 10001",
     },
     {
-      image: "./images/plakalar/PorselenPlakalar/SinteredPlakalar/",
+      image:
+        "./images/plakalar/PorselenPlakalar/SinteredPlakalar/Pure-White-1-300x300.png",
       name: "Pure White 10001",
     },
     {
-      image: "./images/plakalar/PorselenPlakalar/SinteredPlakalar/",
+      image:
+        "./images/plakalar/PorselenPlakalar/SinteredPlakalar/Ivory-Travertine-300x300.jpg",
       name: "Ivory Travertine Porcelain 10001",
     },
     {
-      image: "./images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/",
+      image:
+        "./images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/6-CALACATTA-300x300.jpg",
       name: "Calacatta 10001",
     },
-    { image: "./images/mermer.avif", name: "Crema Bella 1001" },
-    { image: "./images/mermer.avif", name: "Botanica 1001" },
-    { image: "./images/mermer.avif", name: "Luna Piera 1001" },
-    { image: "./images/mermer.avif", name: "Limpido 1001" },
-    { image: "./images/mermer.avif", name: "Dark Emperador 1001" },
-    { image: "./images/mermer.avif", name: "Dark Emperador Klasik 1001" },
-    { image: "./images/mermer.avif", name: "Dune 1001" },
-    { image: "./images/mermer.avif", name: "Luna 1001" },
-    { image: "./images/mermer.avif", name: "Light Emperador 1001" },
-    { image: "./images/mermer.avif", name: "Emperador Perla 1001" },
-    { image: "./images/mermer.avif", name: "Emperador Perla Klasik 1001" },
-    { image: "./images/mermer.avif", name: "Mondo-1001" },
-    { image: "./images/mermer.avif", name: "Brume 1001" },
-    { image: "./images/mermer.avif", name: "Avorio 1001" },
-    { image: "./images/mermer.avif", name: "Bardiglio Blu 1002" },
-    { image: "./images/mermer.avif", name: "Crema Foret 1001" },
-    { image: "./images/mermer.avif", name: "Bardiglio Blu 1003" },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Crema-Bella-2222-300x300.png",
+      name: "Crema Bella 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Botanica-648-300x300.png",
+      name: "Botanica 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Luna-Piera-1906-300x300.png",
+      name: "Luna Piera 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Limpido-204-300x300.png",
+      name: "Limpido 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/DarkEmperador-2471-300x300.png",
+      name: "Dark Emperador 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/DarkEmperadorClassic-2154-300x300.png",
+      name: "Dark Emperador Klasik 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Dune-2413-300x300.png",
+      name: "Dune 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Luna-542-300x300.png",
+      name: "Luna 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Light-Emperador-1679--300x300.png",
+      name: "Light Emperador 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/emperador-perla-535-300x300.png",
+      name: "Emperador Perla 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/EmperadorPerlaClassic-2396-300x300.png",
+      name: "Emperador Perla Klasik 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Mondo-2381-300x300.png",
+      name: "Mondo-1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Brume-3264-300x300.png",
+      name: "Brume 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/avorio-1498-300x300.png",
+      name: "Avorio 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-2/Crema-Foret-1907-300x300.png",
+      name: "Crema Foret 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-2/Colorata-3263-300x300.png",
+      name: "Colorata 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-2/Duru-1-300x300.png",
+      name: "Duru 1001",
+    },
   ],
   [
-    { image: "./images/mermer.avif", name: "Colorata 1001" },
-    { image: "./images/mermer.avif", name: "Duru 1001" },
-    { image: "./images/mermer.avif", name: "Bardiglio Blu 1004" },
-    { image: "./images/mermer.avif", name: "Bardiglio Blu 1005" },
-    { image: "./images/mermer.avif", name: "Burdur Bej 1001" },
-    { image: "./images/mermer.avif", name: "Bardiglio Blu 1006" },
-    { image: "./images/mermer.avif", name: "Bardiglio Blu 1007" },
-    { image: "./images/mermer.avif", name: "Bardiglio Blu 1008" },
-    { image: "./images/mermer.avif", name: "Bardiglio Blu 1009" },
-    { image: "./images/mermer.avif", name: "Bardiglio Blu 1010" },
-    { image: "./images/mermer.avif", name: "Blue Bahia 1001" },
-    { image: "./images/mermer.avif", name: "Blue Bahia 1002" },
-    { image: "./images/mermer.avif", name: "Blue Moon 1001" },
-    { image: "./images/mermer.avif", name: "Blue Moon 1003" },
-    { image: "./images/mermer.avif", name: "Blue Moon 1004" },
-    { image: "./images/mermer.avif", name: "Blue Moon 1005" },
-    { image: "./images/mermer.avif", name: "Blue Moon 1006" },
-    { image: "./images/mermer.avif", name: "Blue Moon 1007" },
-    { image: "./images/mermer.avif", name: "Blue Stone 1001" },
-    { image: "./images/mermer.avif", name: "Blue Stone 1002" },
-    { image: "./images/mermer.avif", name: "Blue Stone 1003" },
-    { image: "./images/mermer.avif", name: "Blue Moon Gold 1001" },
-    { image: "./images/mermer.avif", name: "Afyon Beyaz Marine Blue 1001" },
-    { image: "./images/mermer.avif", name: "Afyon Beyaz Marine Blue 1002" },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-2/Burdur-Bej-1043-300x300.png",
+      name: "Burdur Bej 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/18-bardiglioblu-300x300.png",
+      name: "Bardiglio Blu 1002",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/19-bardiglioblu-300x300.png",
+      name: "Bardiglio Blu 1003",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/21-bardiglioblu-300x300.png",
+      name: "Bardiglio Blu 1004",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/22-bardiglioblu-300x300.png",
+      name: "Bardiglio Blu 1005",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/23-bardiglioblu-300x300.png",
+      name: "Bardiglio Blu 1006",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/bardiglioblu1-300x300.png",
+      name: "Bardiglio Blu 1007",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/bardiglioblu2-300x300.png",
+      name: "Bardiglio Blu 1008",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/bardiglioblu3-300x300.png",
+      name: "Bardiglio Blu 1009",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/bardiglioblu4-300x300.png",
+      name: "Bardiglio Blu 1010",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/2-Bluebahia-300x300.png",
+      name: "Blue Bahia 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/1-Bluebahia-300x300.png",
+      name: "Blue Bahia 1002",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/17-bluemoon-300x300.png",
+      name: "Blue Moon 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/16-bluemoon-600x600.avif",
+      name: "Blue Moon 1002",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/15-bluemoon-300x300.png",
+      name: "Blue Moon 1003",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/14-bluemoon-300x300.png",
+      name: "Blue Moon 1004",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/13-bluemoon-1-300x300.png",
+      name: "Blue Moon 1005",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/10-bluemoon-1-300x300.png",
+      name: "Blue Moon 1006",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/11-bluemoon-300x300.png",
+      name: "Blue Moon 1007",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/bluestone1-300x300.png",
+      name: "Blue Stone 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/bluestone2-300x300.png",
+      name: "Blue Stone 1002",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/bluestone3-300x300.png",
+      name: "Blue Stone 1003",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/bluemoongold-300x300.png",
+      name: "Blue Moon Gold 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/9-marineblue-300x300.png",
+      name: "Afyon Beyaz Marine Blue 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/8-marineblue-300x300.png",
+      name: "Afyon Beyaz Marine Blue 1002",
+    },
   ],
   [
     { image: "./images/mermer.avif", name: "Afyon Beyaz Marine Blue 1003" },
