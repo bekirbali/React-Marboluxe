@@ -1,6 +1,5 @@
 import React from "react";
-import { dogalTaslar } from "../utils";
-import { urunler } from "../utils/holder";
+import { urunler } from "../utils";
 
 const Urunler = () => {
   return (
