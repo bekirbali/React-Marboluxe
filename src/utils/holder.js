@@ -2757,26 +2757,93 @@ export const plakalar = [
         "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/amaranteblu5-300x300.png",
       name: "Calacatta 1016",
     },
-    { image: "./images/40nuagemiel-1-300x300.png", name: "Nuage Miel 1001" },
-    { image: "./images/nuagemiel2-300x300.png", name: "Nuage Miel 1002" },
-    { image: "./images/nuagemiel7-300x300.png", name: "Nuage Miel 1003" },
-    { image: "./images/nuagemiel8-300x300.png", name: "Nuage Miel 1004" },
-    { image: "./images/nuagemiel9-300x300.png", name: "Nuage Miel 1005" },
-    { image: "./images/nuagemiel10-300x300.png", name: "Nuage Miel 1006" },
-    { image: "./images/nuagemiel6-300x300.png", name: "Nuage Miel 1007" },
-    { image: "./images/nuagemiel5-300x300.png", name: "Nuage Miel 1008" },
-    { image: "./images/mermer.avif", name: "Nuage Miel 1009" },
-    { image: "./images/mermer.avif", name: "Nuage Doré 1001" },
-    { image: "./images/mermer.avif", name: "Ice Jade 10001" },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/40nuagemiel-1-300x300.png",
+      name: "Nuage Miel 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel2-300x300.png",
+      name: "Nuage Miel 1002",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel7-300x300.png",
+      name: "Nuage Miel 1003",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel8-300x300.png",
+      name: "Nuage Miel 1004",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel9-300x300.png",
+      name: "Nuage Miel 1005",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel10-300x300.png",
+      name: "Nuage Miel 1006",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel6-300x300.png",
+      name: "Nuage Miel 1007",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel5-300x300.png",
+      name: "Nuage Miel 1008",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel5-300x300.png",
+      name: "Nuage Miel 1009",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/41nuagedore-300x300.png",
+      name: "Nuage Doré 1001",
+    },
+    {
+      image:
+        "./images/plakalar/PorselenPlakalar/SinteredPlakalar/Ice-Jade-2-300x300.jpg",
+      name: "Ice Jade 10001",
+    },
   ],
   [
-    { image: "./images/mermer.avif", name: "Ice Jade 10002" },
-    { image: "./images/mermer.avif", name: "Ice Jade 10003" },
-    { image: "./images/mermer.avif", name: "Silk White 10001" },
-    { image: "./images/mermer.avif", name: "Glacier White 10001" },
-    { image: "./images/mermer.avif", name: "Pure White 10001" },
-    { image: "./images/mermer.avif", name: "Ivory Travertine Porcelain 10001" },
-    { image: "./images/mermer.avif", name: "Calacatta 10001" },
+    {
+      image:
+        "./images/plakalar/PorselenPlakalar/SinteredPlakalar/Ice-Jade-1-300x300.jpg",
+      name: "Ice Jade 10002",
+    },
+    {
+      image:
+        "./images/plakalar/PorselenPlakalar/SinteredPlakalar/Ica-jade-1-300x300.jpg",
+      name: "Ice Jade 10003",
+    },
+    {
+      image: "./images/plakalar/PorselenPlakalar/SinteredPlakalar/",
+      name: "Silk White 10001",
+    },
+    {
+      image: "./images/plakalar/PorselenPlakalar/SinteredPlakalar/",
+      name: "Glacier White 10001",
+    },
+    {
+      image: "./images/plakalar/PorselenPlakalar/SinteredPlakalar/",
+      name: "Pure White 10001",
+    },
+    {
+      image: "./images/plakalar/PorselenPlakalar/SinteredPlakalar/",
+      name: "Ivory Travertine Porcelain 10001",
+    },
+    {
+      image: "./images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/",
+      name: "Calacatta 10001",
+    },
     { image: "./images/mermer.avif", name: "Crema Bella 1001" },
     { image: "./images/mermer.avif", name: "Botanica 1001" },
     { image: "./images/mermer.avif", name: "Luna Piera 1001" },
