@@ -3096,12 +3096,36 @@ export const plakalar = [
         "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/5-marineblue-300x300.png",
       name: "Afyon Beyaz Marine Blue 1007",
     },
-    { image: "./images/mermer.avif", name: "Gümüş Oniks 1002" },
-    { image: "./images/mermer.avif", name: "Gold Oniks 1001" },
-    { image: "./images/mermer.avif", name: "Gold Oniks 1002" },
-    { image: "./images/mermer.avif", name: "Cocacola Oniks 1001" },
-    { image: "./images/mermer.avif", name: "Cocacola Oniks 1002" },
-    { image: "./images/mermer.avif", name: "Satin Oniks 1001" },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/silveronyx2-300x300.png",
+      name: "Gümüş Oniks 1002",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Gold-Onyx-300x300.png",
+      name: "Gold Oniks 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Gold-Onyx1-300x300.png",
+      name: "Gold Oniks 1002",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Cocacola-Oniks1-300x300.png",
+      name: "Cocacola Oniks 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Cocacola-Oniks2-300x300.png",
+      name: "Cocacola Oniks 1002",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/satinonyx-300x300.png",
+      name: "Satin Oniks 1001",
+    },
     { image: "./images/mermer.avif", name: "River 1001" },
     { image: "./images/mermer.avif", name: "Beyaz Traverten 1001" },
     { image: "./images/mermer.avif", name: "Epica 1001" },
