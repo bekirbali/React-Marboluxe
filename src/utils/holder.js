@@ -3071,17 +3071,37 @@ export const plakalar = [
         "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/8-marineblue-300x300.png",
       name: "Afyon Beyaz Marine Blue 1002",
     },
-    { image: "./images/mermer.avif", name: "Afyon Beyaz Marine Blue 1003" },
-    { image: "./images/mermer.avif", name: "Afyon Beyaz Marine Blue 1004" },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/7-marineblue-300x300.png",
+      name: "Afyon Beyaz Marine Blue 1003",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/6-marineblue-300x300.png",
+      name: "Afyon Beyaz Marine Blue 1004",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/3-marineblue-300x300.png",
+      name: "Afyon Beyaz Marine Blue 1005",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/4-marineblue-300x300.png",
+      name: "Afyon Beyaz Marine Blue 1006",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/5-marineblue-300x300.png",
+      name: "Afyon Beyaz Marine Blue 1007",
+    },
     { image: "./images/mermer.avif", name: "Gümüş Oniks 1002" },
     { image: "./images/mermer.avif", name: "Gold Oniks 1001" },
     { image: "./images/mermer.avif", name: "Gold Oniks 1002" },
     { image: "./images/mermer.avif", name: "Cocacola Oniks 1001" },
     { image: "./images/mermer.avif", name: "Cocacola Oniks 1002" },
     { image: "./images/mermer.avif", name: "Satin Oniks 1001" },
-    { image: "./images/mermer.avif", name: "Afyon Beyaz Marine Blue 1005" },
-    { image: "./images/mermer.avif", name: "Afyon Beyaz Marine Blue 1006" },
-    { image: "./images/mermer.avif", name: "Afyon Beyaz Marine Blue 1007" },
     { image: "./images/mermer.avif", name: "River 1001" },
     { image: "./images/mermer.avif", name: "Beyaz Traverten 1001" },
     { image: "./images/mermer.avif", name: "Epica 1001" },
