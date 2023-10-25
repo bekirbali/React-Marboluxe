@@ -3126,22 +3126,78 @@ export const plakalar = [
         "./images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/satinonyx-300x300.png",
       name: "Satin Oniks 1001",
     },
-    { image: "./images/mermer.avif", name: "River 1001" },
-    { image: "./images/mermer.avif", name: "Beyaz Traverten 1001" },
-    { image: "./images/mermer.avif", name: "Epica 1001" },
-    { image: "./images/mermer.avif", name: "Elazığ Vişne 1002" },
-    { image: "./images/mermer.avif", name: "Elazığ Vişne 1003" },
-    { image: "./images/mermer.avif", name: "Elazığ Vişne 1004" },
-    { image: "./images/mermer.avif", name: "Elazığ Vişne 1005" },
-    { image: "./images/mermer.avif", name: "Elazığ Vişne 1006" },
-    { image: "./images/mermer.avif", name: "Elazığ Vişne 1007" },
-    { image: "./images/mermer.avif", name: "Elazığ Vişne 1008" },
-    { image: "./images/mermer.avif", name: "Elazığ Vişne 1009" },
-    { image: "./images/mermer.avif", name: "Elazığ Vişne 1010" },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/TravertenPlakalar/River-2836-300x300.png",
+      name: "River 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/TravertenPlakalar/Ivory-Cream-2475-300x300.png",
+      name: "Beyaz Traverten 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/32-epicalight-300x300.png",
+      name: "Epica 1001",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/elazigvisne1-300x300.png",
+      name: "Elazığ Vişne 1002",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/elazigvisne2-300x300.png",
+      name: "Elazığ Vişne 1003",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne3-300x300.png",
+      name: "Elazığ Vişne 1004",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne4-300x300.png",
+      name: "Elazığ Vişne 1005",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne5-300x300.png",
+      name: "Elazığ Vişne 1006",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne6-300x300.png",
+      name: "Elazığ Vişne 1007",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne7-300x300.png",
+      name: "Elazığ Vişne 1008",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne9-300x300.png",
+      name: "Elazığ Vişne 1009",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne8-300x300.png",
+      name: "Elazığ Vişne 1010",
+    },
   ],
   [
-    { image: "./images/mermer.avif", name: "Elazığ Vişne 1011" },
-    { image: "./images/mermer.avif", name: "Elazığ Vişne 1012" },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne10-300x300.png",
+      name: "Elazığ Vişne 1011",
+    },
+    {
+      image:
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne10-300x300.png",
+      name: "Elazığ Vişne 1012",
+    },
     { image: "./images/mermer.avif", name: "Pinguino 1010" },
     { image: "./images/mermer.avif", name: "Verde Escuro 1001" },
     { image: "./images/mermer.avif", name: "Klasik Traverten 1001" },
