@@ -3931,7 +3931,8 @@ export const plakalar = [
       name: "Rosa Porinho 101",
     },
     {
-      image: "./images/AKSARAY-YAYLAK-300x300.png",
+      image:
+        "./images/plakalar/DogalTasPlakalar/GranitPlakalar/AKSARAY-YAYLAK-300x300.png",
       name: "Aksaray Yaylak 101",
     },
     {
@@ -3955,7 +3956,8 @@ export const plakalar = [
       name: "Noce Düz Kesim 1001",
     },
     {
-      image: "./images/MagnificaVeinCut-273-300x300.png",
+      image:
+        "./images/plakalar/DogalTasPlakalar/TravertenPlakalar/MagnificaVeinCut-273-300x300.png",
       name: "Magnifica Düz Kesim 1001",
     },
     {
