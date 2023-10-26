@@ -200,39 +200,39 @@ export const dogalTaslar = [
   ],
   [
     {
-      image: "./images/dogal/koleksiyon/page-1/Amazonite-1-300x300.avif",
+      image: "./images/koleksiyon/page-1/Amazonite-1-300x300.avif",
       name: "Amazonite",
     },
     {
-      image: "./images/dogal/koleksiyon/page-1/Fluorite-1-300x300.avif",
+      image: "./images/koleksiyon/page-1/Fluorite-1-300x300.avif",
       name: "Fluorite",
     },
     {
-      image: "./images/dogal/koleksiyon/page-1/Green-Agate-1-300x300.avif",
+      image: "./images/koleksiyon/page-1/Green-Agate-1-300x300.avif",
       name: "Green Agate",
     },
     {
-      image: "./images/dogal/koleksiyon/page-2/turtle-1-300x300.avif",
+      image: "./images/koleksiyon/page-2/turtle-1-300x300.avif",
       name: "Turtle 102",
     },
     {
-      image: "./images/dogal/koleksiyon/page-2/Emerald1-1-300x300.avif",
+      image: "./images/koleksiyon/page-2/Emerald1-1-300x300.avif",
       name: "Emerald 101",
     },
     {
-      image: "./images/dogal/koleksiyon/page-2/Emerald2-1-300x300.avif",
+      image: "./images/koleksiyon/page-2/Emerald2-1-300x300.avif",
       name: "Emerald 102",
     },
     {
-      image: "./images/dogal/koleksiyon/page-2/Emerald3-1-300x300.avif",
+      image: "./images/koleksiyon/page-2/Emerald3-1-300x300.avif",
       name: "Emerald 103",
     },
     {
-      image: "./images/dogal/koleksiyon/page-2/Emerald4-1-300x300.avif",
+      image: "./images/koleksiyon/page-2/Emerald4-1-300x300.avif",
       name: "Emerald 104",
     },
     {
-      image: "./images/dogal/koleksiyon/page-2/Hills-300x300.avif",
+      image: "./images/koleksiyon/page-2/Hills-300x300.avif",
       name: "Hills 101",
     },
     {
@@ -481,15 +481,18 @@ export const dogalTaslar = [
       name: "Afyon Beyaz Mermer A La Vogue 101",
     },
     {
-      image: "./images/dogal/Mermer/MermerPage-4/",
+      image:
+        "./images/dogal/Mermer/MermerPage-4/AFYON-WHITE-BILLUR-1-300x300.avif",
       name: "Afyon Beyaz Mermer Billur 101",
     },
     {
-      image: "./images/dogal/Mermer/MermerPage-4/",
+      image:
+        "./images/dogal/Mermer/MermerPage-4/AFYON-WHITE-BILLUR-2-300x300.avif",
       name: "Afyon Beyaz Mermer Billur 102",
     },
     {
-      image: "./images/dogal/Mermer/MermerPage-4/",
+      image:
+        "./images/dogal/Mermer/MermerPage-4/AFYON-WHITE-BILLUR-3-300x300.avif",
       name: "Afyon Beyaz Mermer Billur 103",
     },
     {
@@ -526,7 +529,7 @@ export const dogalTaslar = [
     },
     {
       image:
-        "./images/dogal/Limestonebianco-crema-bombe-3-scaled103-300x300.avif/",
+        "./images/dogal/Limestone/bianco-crema-bombe-3-scaled103-300x300.avif",
       name: "Bianco Crema 103",
     },
     {
@@ -993,14 +996,18 @@ export const dogalTaslar = [
       name: "Füme 101",
     },
     {
-      image: "./images/dogal/BejMermer/Colorata-300x300.avif",
+      image: "./images/dogal/BejMermer/BejMermerPage-2/Colorata-300x300.avif",
       name: "Colorata 101",
     },
     {
-      image: "./images/dogal/BejMermer/LIGHT-EMPERADOR-300x300.avif",
+      image:
+        "./images/dogal/BejMermer/BejMermerPage-2/LIGHT-EMPERADOR-300x300.avif",
       name: "Light Emperador 101",
     },
-    { image: "./images/dogal/BejMermer/DURU-300x300.avif", name: "Duru 101" },
+    {
+      image: "./images/dogal/BejMermer/BejMermerPage-2/DURU-300x300.avif",
+      name: "Duru 101",
+    },
   ],
   [
     {
