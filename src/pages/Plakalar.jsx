@@ -26,7 +26,7 @@ const Plakalar = () => {
     <div className="p-4 flex flex-col items-center">
       <h1 className="text-center text-3xl font-bold my-4">Plakalar</h1>
       <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
-        {plakalar[24].map((tas, index) => {
+        {plakalar[page].map((tas, index) => {
           return (
             <div
               key={index}
