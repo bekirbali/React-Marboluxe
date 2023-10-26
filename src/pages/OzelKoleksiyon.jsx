@@ -38,7 +38,7 @@ const OzelKoleksiyon = () => {
                   className="w-full h-[250px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
                 />
               </div>
-              <p className="text-center">{tas.name}</p>
+              <p className="text-center p-2">{tas.name}</p>
             </div>
           );
         })}
