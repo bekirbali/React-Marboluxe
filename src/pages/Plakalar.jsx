@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { dogalTaslar } from "../utils";
 import { plakalar } from "../utils/holder";
 
 const Plakalar = () => {
