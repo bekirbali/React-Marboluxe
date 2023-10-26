@@ -882,12 +882,12 @@ import { Link } from "react-router-dom";
 export default function NavbarWithDropdown() {
   return (
     <Navbar fluid>
-      <Navbar.Brand href="/">
+      <Link to="/" className="flex">
         <img src={logo} className="mr-3 h-6 sm:h-9" alt="Flowbite React Logo" />
         <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
           Marboluxe
         </span>
-      </Navbar.Brand>
+      </Link>
       {/* eslint-disable-next-line flowtype/require-valid-file-annotation*/}
       {/* <div className="flex md:order-1">
         <Dropdown
@@ -928,45 +928,53 @@ export default function NavbarWithDropdown() {
       </div> */}
       <Navbar.Toggle />
       <Navbar.Collapse className="md:order-2">
-        <Link to="/ozel-koleksiyon">
-          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
-            Özel Koleksiyon
-          </Navbar.Link>
+        <Link
+          to="/ozel-koleksiyon"
+          className="hover:text-cyan-700 transition ease-in-out duration-200"
+        >
+          Özel Koleksiyon
         </Link>
-        <Link to="/dogal-taslar">
-          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
-            Doğal Taşlar
-          </Navbar.Link>
+        <Link
+          to="/dogal-taslar"
+          className="hover:text-cyan-700 transition ease-in-out duration-200"
+        >
+          Doğal Taşlar
         </Link>
-        <Link to="/plakalar">
-          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
-            Plakalar
-          </Navbar.Link>
+        <Link
+          to="/plakalar"
+          className="hover:text-cyan-700 transition ease-in-out duration-200"
+        >
+          Plakalar
         </Link>
-        <Link to="/tezgahlar">
-          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
-            Tezgahlar
-          </Navbar.Link>
+        <Link
+          to="/tezgahlar"
+          className="hover:text-cyan-700 transition ease-in-out duration-200"
+        >
+          Tezgahlar
         </Link>
-        <Link to="/ocaklar">
-          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
-            Ocaklar
-          </Navbar.Link>
+        <Link
+          to="/ocaklar"
+          className="hover:text-cyan-700 transition ease-in-out duration-200"
+        >
+          Ocaklar
         </Link>
-        <Link to="/urunler">
-          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
-            Ürünler
-          </Navbar.Link>
+        <Link
+          to="/urunler"
+          className="hover:text-cyan-700 transition ease-in-out duration-200"
+        >
+          Ürünler
         </Link>
-        <Link to="/projeler">
-          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
-            Projeler
-          </Navbar.Link>
+        <Link
+          to="/projeler"
+          className="hover:text-cyan-700 transition ease-in-out duration-200"
+        >
+          Projeler
         </Link>
-        <Link to="/kataloglar">
-          <Navbar.Link className="hover:bg-cyan-200 transition ease-in-out duration-200">
-            Kataloglar
-          </Navbar.Link>
+        <Link
+          to="/kataloglar"
+          className="hover:text-cyan-700 transition ease-in-out duration-200"
+        >
+          Kataloglar
         </Link>
       </Navbar.Collapse>
     </Navbar>
