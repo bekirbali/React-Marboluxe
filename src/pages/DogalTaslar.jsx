@@ -5,7 +5,21 @@ const DogalTaslar = () => {
   const [page, setPage] = useState(0);
 
   const pageHandler = (e) => {
-    console.log(e);
+    if (e.target.value === "prev") {
+      if (page === 0) {
+        console.log("firstPage");
+        return;
+      }
+      setPage(page - 1);
+      return;
+    }
+    if (e.target.value === "next") {
+      if (page === dogalTaslar.length - 1) {
+        console.log("lastPage");
+        return;
+      }
+      setPage(page + 1);
+    }
   };
 
   return (
@@ -31,10 +45,16 @@ const DogalTaslar = () => {
         })}
       </div>
       <div className="buttons flex gap-4 mt-4" onClick={pageHandler}>
-        <button className="bg-yellow-400 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded w-52">
+        <button
+          value="prev"
+          className="bg-yellow-400 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded w-52"
+        >
           Previous Page
         </button>
-        <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-52">
+        <button
+          value="next"
+          className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-52"
+        >
           Next Page
         </button>
       </div>
