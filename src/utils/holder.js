@@ -3362,32 +3362,32 @@ export const plakalar = [
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel2-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel3-300x300.png",
       name: "Nebel 1003",
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel3-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel4-300x300.png",
       name: "Nebel 1004",
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel4-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel8-300x300.png",
       name: "Nebel 1005",
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel5-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel7-300x300.png",
       name: "Nebel 1006",
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel6-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel5-300x300.png",
       name: "Nebel 1007",
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel7-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel6-300x300.png",
       name: "Nebel 1008",
     },
     {
@@ -3412,7 +3412,7 @@ export const plakalar = [
     },
     {
       image:
-        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/pinguino4-300x300.png",
+        "./images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/pinguino4-300x300.png",
       name: "Pinguino 1005",
     },
     {

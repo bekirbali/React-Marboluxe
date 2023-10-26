@@ -7,7 +7,7 @@ const Plakalar = () => {
     <div className="p-4">
       <h1 className="text-center text-3xl font-bold my-4">Plakalar</h1>
       <div className="flex flex-wrap justify-center gap-4">
-        {plakalar[17].map((tas) => {
+        {plakalar[19].map((tas) => {
           return (
             <div className="flex flex-col items-center justify-center w-[24%] shadow-sm shadow-cyan-700 max-w-[300px]">
               <div className="w-full overflow-hidden">
