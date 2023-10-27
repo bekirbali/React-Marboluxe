@@ -1,8 +1,10 @@
 import React, { useState } from "react";
 import { urunler } from "../utils";
+import { useNavigate } from "react-router-dom";
 
 const Urunler = () => {
   const [page, setPage] = useState(0);
+  const navigate = useNavigate();
 
   const pageHandler = (e) => {
     if (e.target.value === "prev") {
@@ -31,7 +33,10 @@ const Urunler = () => {
               key={index}
               className="flex flex-col items-center justify-center shadow-sm shadow-cyan-700 max-w-[300px]"
             >
-              <div className="w-full overflow-hidden">
+              <div
+                onClick={() => navigate(`${tas.name}`, { state: tas })}
+                className="w-full overflow-hidden"
+              >
                 <img
                   src={tas.image}
                   alt="test"
