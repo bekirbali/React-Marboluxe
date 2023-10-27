@@ -12,6 +12,7 @@ import Tezgahlar from "../pages/Tezgahlar";
 import Urunler from "../pages/Urunler";
 import Footer from "../components/Footer";
 import Breadcrumbs from "../components/Breadcrumbs";
+import Details from "../components/Details";
 
 const AppRouter = () => {
   return (
@@ -21,6 +22,7 @@ const AppRouter = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="dogal-taslar" element={<DogalTaslar />} />
+        <Route path="dogal-taslar/:name" element={<Details />} />
         <Route path="kataloglar" element={<Kataloglar />} />
         <Route path="ocaklar" element={<Ocaklar />} />
         <Route path="ozel-koleksiyon" element={<OzelKoleksiyon />} />

@@ -1,9 +1,10 @@
 import React from "react";
-import { useLocation } from "react-router-dom";
+import { useLocation, useParams } from "react-router-dom";
 
 const Breadcrumbs = () => {
   const location = useLocation();
-  console.log(location);
+  const params = useParams();
+  console.log(location, "=> location", params, "=>params");
   return <div>{location.pathname.slice(1)}</div>;
 };
 
