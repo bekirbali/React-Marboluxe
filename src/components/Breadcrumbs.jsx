@@ -5,7 +5,11 @@ const Breadcrumbs = () => {
   const location = useLocation();
   const params = useParams();
   console.log(location, "=> location", params, "=>params");
-  return <div>{location.pathname.slice(1)}</div>;
+  return (
+    <div className="h-[120px] flex items-center bg-yellow-400">
+      {location.pathname.slice(1)}
+    </div>
+  );
 };
 
 export default Breadcrumbs;
