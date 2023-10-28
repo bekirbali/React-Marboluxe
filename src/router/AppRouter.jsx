@@ -24,12 +24,19 @@ const AppRouter = () => {
         <Route path="dogal-taslar" element={<DogalTaslar />} />
         <Route path="dogal-taslar/:name" element={<Details />} />
         <Route path="kataloglar" element={<Kataloglar />} />
+        <Route path="kataloglar/:name" element={<Details />} />
         <Route path="ocaklar" element={<Ocaklar />} />
+        <Route path="ocaklar/:name" element={<Details />} />
         <Route path="ozel-koleksiyon" element={<OzelKoleksiyon />} />
+        <Route path="ozel-koleksiyon/:name" element={<Details />} />
         <Route path="plakalar" element={<Plakalar />} />
+        <Route path="plakalar/:name" element={<Details />} />
         <Route path="projeler" element={<Projeler />} />
+        <Route path="projeler/:name" element={<Details />} />
         <Route path="tezgahlar" element={<Tezgahlar />} />
+        <Route path="tezgahlar/:name" element={<Details />} />
         <Route path="urunler" element={<Urunler />} />
+        <Route path="urunler/:name" element={<Details />} />
       </Routes>
       <Footer />
     </>

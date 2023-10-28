@@ -1,13 +1,17 @@
 import React from "react";
-import { useLocation, useParams } from "react-router-dom";
+import { Link, useLocation, useParams } from "react-router-dom";
 
 const Breadcrumbs = () => {
   const location = useLocation();
-  const params = useParams();
-  console.log(location, "=> location", params, "=>params");
+  console.log(location.pathname.split("/")[1]);
   return (
-    <div className="h-[120px] flex items-center bg-yellow-400">
-      {location.pathname.slice(1)}
+    <div className="h-[120px] flex flex-col justify-around items-start bg-[#f1f1f1] pl-24">
+      <h2>
+        {location.pathname.split("/")[1].split("-").join(" ").toUpperCase()}
+      </h2>
+      <Link to={`/${location.pathname.split("/")[1]}`}>
+        <p>{location.pathname.slice(1).split("%").join("-")}</p>
+      </Link>
     </div>
   );
 };
