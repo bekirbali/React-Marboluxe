@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { urunler } from "../utils";
 import { useNavigate } from "react-router-dom";
+import Breadcrumbs from "../components/Breadcrumbs";
 
 const Urunler = () => {
   const [page, setPage] = useState(0);
@@ -24,45 +25,48 @@ const Urunler = () => {
     }
   };
   return (
-    <div className="p-4 flex flex-col items-center">
-      <h1 className="text-center text-3xl font-bold my-4">Ürünler</h1>
-      <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
-        {urunler[page].map((tas, index) => {
-          return (
-            <div
-              key={index}
-              className="flex flex-col items-center justify-center shadow-sm shadow-cyan-700 max-w-[300px]"
-            >
+    <>
+      <Breadcrumbs />
+      <div className="p-4 flex flex-col items-center">
+        <h1 className="text-center text-3xl font-bold my-4">Ürünler</h1>
+        <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
+          {urunler[page].map((tas, index) => {
+            return (
               <div
-                onClick={() => navigate(`${tas.name}`, { state: tas })}
-                className="w-full overflow-hidden"
+                key={index}
+                className="flex flex-col items-center justify-center shadow-sm shadow-cyan-700 max-w-[300px]"
               >
-                <img
-                  src={tas.image}
-                  alt="test"
-                  className="w-full h-[250px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
-                />
+                <div
+                  onClick={() => navigate(`${tas.name}`, { state: tas })}
+                  className="w-full overflow-hidden"
+                >
+                  <img
+                    src={tas.image}
+                    alt="test"
+                    className="w-full h-[250px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
+                  />
+                </div>
+                <p className="text-center p-2">{tas.name}</p>
               </div>
-              <p className="text-center p-2">{tas.name}</p>
-            </div>
-          );
-        })}
+            );
+          })}
+        </div>
+        <div className="buttons flex gap-4 mt-4" onClick={pageHandler}>
+          <button
+            value="prev"
+            className="bg-yellow-400 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded w-52"
+          >
+            Previous Page
+          </button>
+          <button
+            value="next"
+            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-52"
+          >
+            Next Page
+          </button>
+        </div>
       </div>
-      <div className="buttons flex gap-4 mt-4" onClick={pageHandler}>
-        <button
-          value="prev"
-          className="bg-yellow-400 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded w-52"
-        >
-          Previous Page
-        </button>
-        <button
-          value="next"
-          className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-52"
-        >
-          Next Page
-        </button>
-      </div>
-    </div>
+    </>
   );
 };
 
