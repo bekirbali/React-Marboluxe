@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { plakalar } from "../utils/holder";
+import { plakalar } from "../utils/index";
 import { useNavigate } from "react-router-dom";
 import Breadcrumbs from "../components/Breadcrumbs";
 
