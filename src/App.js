@@ -26,7 +26,7 @@ const App = () => {
     }
   };
   return (
-    <div ref={scrollRef} onScroll={scrollHandler}>
+    <div ref={scrollRef} onScroll={scrollHandler} className="">
       <AppRouter />
     </div>
   );

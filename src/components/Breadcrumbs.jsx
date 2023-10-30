@@ -4,7 +4,7 @@ import { Link, useLocation, useParams } from "react-router-dom";
 const Breadcrumbs = () => {
   const location = useLocation();
   return (
-    <div className="h-[120px] flex flex-col justify-around items-start bg-[#f1f1f1] pl-24">
+    <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
       <h2>
         {location.pathname
           .split("/")[1]
@@ -12,9 +12,10 @@ const Breadcrumbs = () => {
           .join(" ")
           .toLocaleUpperCase()}
       </h2>
-      <Link to={`/${location.pathname.split("/")[1]}`}>
-        <div className="flex">
-          {location.pathname
+      <Link to={`/${location.pathname.split("/")[1]}`}></Link>
+      <div className="flex justify-center flex-wrap">
+        <Link to="/">Marboluxe{">>"}</Link>
+        {/* {location.pathname
             .slice(1)
             .split("%")
             .join("-")
@@ -26,9 +27,9 @@ const Breadcrumbs = () => {
               >
                 {`${word}>>`}
               </p>
-            ))}
-        </div>
-      </Link>
+            ))} */}
+        <Link> {location.pathname.slice(1).split("/").join(">>")}</Link>
+      </div>
     </div>
   );
 };
