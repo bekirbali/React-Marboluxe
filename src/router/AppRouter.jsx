@@ -15,9 +15,8 @@ import Details from "../components/Details";
 
 const AppRouter = () => {
   return (
-    <>
+    <div>
       <NavBar />
-
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="dogal-taslar" element={<DogalTaslar />} />
@@ -38,7 +37,7 @@ const AppRouter = () => {
         <Route path="urunler/:name" element={<Details />} />
       </Routes>
       <Footer />
-    </>
+    </div>
   );
 };
 
