@@ -1383,89 +1383,400 @@ export const tezgahlar = [
     },
   ],
   [
-    { image: "./images/tezgahlar/", name: "Lebedos" },
-    { image: "./images/tezgahlar/", name: "Keops" },
-    { image: "./images/tezgahlar/", name: "Linen" },
-    { image: "./images/tezgahlar/", name: "Terra" },
-    { image: "./images/tezgahlar/", name: "Smyrna" },
-    { image: "./images/tezgahlar/", name: "Lapaz" },
-    { image: "./images/tezgahlar/", name: "Troas" },
-    { image: "./images/tezgahlar/", name: "Etna" },
-    { image: "./images/tezgahlar/", name: "Ares" },
-    { image: "./images/tezgahlar/", name: "Boreas" },
-    { image: "./images/tezgahlar/", name: "Elvas" },
-    { image: "./images/tezgahlar/", name: "Kromit" },
-    { image: "./images/tezgahlar/", name: "Savana" },
-    { image: "./images/tezgahlar/", name: "Gharma" },
-    { image: "./images/tezgahlar/", name: "Toros" },
-    { image: "./images/tezgahlar/", name: "Carbone" },
-    { image: "./images/tezgahlar/", name: "Hermes" },
-    { image: "./images/tezgahlar/", name: "Armani Grey 10001" },
-    { image: "./images/tezgahlar/", name: "Calacatta Victory" },
-    { image: "./images/tezgahlar/", name: "Carrara 10001" },
-    { image: "./images/tezgahlar/", name: "Carrara Ultimo 10001" },
-    { image: "./images/tezgahlar/", name: "Invisible White 10001" },
-    { image: "./images/tezgahlar/", name: "Felisia" },
-    { image: "./images/tezgahlar/", name: "Macchia 10001" },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/345-Lebedos-300x300.jpg",
+      name: "Lebedos",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/Keops-175-300x300.jpg",
+      name: "Keops",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/875-Linen-300x300.jpg",
+      name: "Linen",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/890-Terra-300x300.jpg",
+      name: "Terra",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/815-Smyrna-300x300.jpg",
+      name: "Smyrna",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/332-Lapaz-300x300.jpg",
+      name: "Lapaz",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/912-Troas-300x300.jpg",
+      name: "Troas",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/Etna-170-300x300.jpg",
+      name: "Etna",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/930-Ares-300x300.jpg",
+      name: "Ares",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/645-Boreas-300x300.jpg",
+      name: "Boreas",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/811-Elvas-300x300.jpg",
+      name: "Elvas",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/580-Kromit-300x300.jpg",
+      name: "Kromit",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/759-Savana-300x300.jpg",
+      name: "Savana",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/911-Gharma-300x300.jpg",
+      name: "Gharma",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/880-Toros-300x300.jpg",
+      name: "Toros",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/997-Carbone-300x300.jpg",
+      name: "Carbone",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/465-Hermes-300x300.jpg",
+      name: "Hermes",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Armani-Grey_lamar-2-300x300.jpg",
+      name: "Armani Grey 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/1219_calacatta_victory_e4c55-300x300.jpg",
+      name: "Calacatta Victory",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Carrara_lamar-2-300x300.jpg",
+      name: "Carrara 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Carrara-Ultimo_lamar-2-300x300.jpg",
+      name: "Carrara Ultimo 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/invisible-White_lamar-2-300x300.jpg",
+      name: "Invisible White 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Macchia_lamar-2-300x300.jpg",
+      name: "Macchia 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/3302-felisia-300x300.jpg",
+      name: "Felisia",
+    },
   ],
   [
-    { image: "./images/tezgahlar/", name: "Marquina Venato 10001" },
-    { image: "./images/tezgahlar/", name: "Modern Statuario 10001" },
-    { image: "./images/tezgahlar/", name: "Pantheon" },
-    { image: "./images/tezgahlar/", name: "Pietra Grey 10001" },
-    { image: "./images/tezgahlar/", name: "Rome 10001" },
-    { image: "./images/tezgahlar/", name: "Sahara Noir 10001" },
-    { image: "./images/tezgahlar/", name: "Statuario Elite 10001" },
-    { image: "./images/tezgahlar/", name: "Polaris" },
-    { image: "./images/tezgahlar/", name: "Anemon" },
-    { image: "./images/tezgahlar/", name: "Alinda" },
-    { image: "./images/tezgahlar/", name: "Kristella White" },
-    { image: "./images/tezgahlar/", name: "Sahara Beige" },
-    { image: "./images/tezgahlar/", name: "Montana" },
-    { image: "./images/tezgahlar/", name: "Aizano" },
-    { image: "./images/tezgahlar/", name: "Retro" },
-    { image: "./images/tezgahlar/", name: "Metropol Grey" },
-    { image: "./images/tezgahlar/", name: "Gala Black" },
-    { image: "./images/tezgahlar/", name: "Aspendos" },
-    { image: "./images/tezgahlar/", name: "Aurora" },
-    { image: "./images/tezgahlar/", name: "Belluno" },
-    { image: "./images/tezgahlar/", name: "Calacatta Veneto" },
-    { image: "./images/tezgahlar/", name: "Calacatta Verona" },
-    { image: "./images/tezgahlar/", name: "Carola" },
-    { image: "./images/tezgahlar/", name: "Teos" },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Marquina-Venato_lamar-2-300x300.jpg",
+      name: "Marquina Venato 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Modern-Statuario_lamar-2-300x300.jpg",
+      name: "Modern Statuario 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Pietra-Grey_lamar-2-300x300.jpg",
+      name: "Pietra Grey 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Rome_lamar-2-300x300.jpg",
+      name: "Rome 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Sahara-Noir_lamar-2-300x300.jpg",
+      name: "Sahara Noir 10001",
+    },
+    {
+      image: "./images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/",
+      name: "Statuario Elite 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/7220_pantheon_fbf13-300x300.jpg",
+      name: "Pantheon",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/2110-Angel-White--300x300.jpg",
+      name: "Polaris",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Anemon-300x300.jpg",
+      name: "Anemon",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Alinda-300x300.jpg",
+      name: "Alinda",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Kristella-White-300x300.jpg",
+      name: "Kristella White",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Sahara-Beige-300x300.jpg",
+      name: "Sahara Beige",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Montana-300x300.jpg",
+      name: "Montana",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Aizano-300x300.jpg",
+      name: "Aizano",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Retro-300x300.jpg",
+      name: "Retro",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Metropol-Grey-300x300.jpg",
+      name: "Metropol Grey",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/5751-Gala-Black--300x300.jpg",
+      name: "Gala Black",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Aspendos-300x300.jpg",
+      name: "Aspendos",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Aurora.-300x300.jpg",
+      name: "Aurora",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Belluno-300x300.jpg",
+      name: "Belluno",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Calacatta-Veneto-300x300.jpg",
+      name: "Calacatta Veneto",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Calacatta-Verona-300x300.jpg",
+      name: "Calacatta Verona",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Carola-300x300.jpg",
+      name: "Carola",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Teos-300x300.jpg",
+      name: "Teos",
+    },
   ],
   [
-    { image: "./images/tezgahlar/", name: "Daphne Crack" },
-    { image: "./images/tezgahlar/", name: "Elixir White" },
-    { image: "./images/tezgahlar/", name: "Fairy White" },
-    { image: "./images/tezgahlar/", name: "Perla" },
-    { image: "./images/tezgahlar/", name: "Iceberg" },
-    { image: "./images/tezgahlar/", name: "Juliet White" },
-    { image: "./images/tezgahlar/", name: "Kashmera White" },
-    { image: "./images/tezgahlar/", name: "La Luna" },
-    { image: "./images/tezgahlar/", name: "Pixie Wings" },
-    { image: "./images/tezgahlar/", name: "Olympos" },
-    { image: "./images/tezgahlar/", name: "Mocca Mousse" },
-    { image: "./images/tezgahlar/", name: "Parma" },
-    { image: "./images/tezgahlar/", name: "Chakra" },
-    { image: "./images/tezgahlar/", name: "Boletus" },
-    { image: "./images/tezgahlar/", name: "Terre Grey" },
-    { image: "./images/tezgahlar/", name: "Babilon" },
-    { image: "./images/tezgahlar/", name: "Charmy" },
-    { image: "./images/tezgahlar/", name: "Forza Füme" },
-    { image: "./images/tezgahlar/", name: "Marquina Tierra" },
-    { image: "./images/tezgahlar/", name: "Spa Black" },
-    { image: "./images/tezgahlar/", name: "Volcano Black" },
-    { image: "./images/tezgahlar/", name: "Ice Jade 10001" },
-    { image: "./images/tezgahlar/", name: "Ice Jade 10002" },
-    { image: "./images/tezgahlar/", name: "Ice Jade 10003" },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Daphne-Crack-300x300.jpg",
+      name: "Daphne Crack",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Elixir-White-300x300.jpg",
+      name: "Elixir White",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Fairy-White-300x300.jpg",
+      name: "Fairy White",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Perla-300x300.jpg",
+      name: "Perla",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Iceberg-300x300.jpg",
+      name: "Iceberg",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Juliet-White-300x300.jpg",
+      name: "Juliet White",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Kashmera-White-300x300.jpg",
+      name: "Kashmera White",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/La-Luna-300x300.jpg",
+      name: "La Luna",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Pixie-Wings-300x300.jpg",
+      name: "Pixie Wings",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Olympos-300x300.jpg",
+      name: "Olympos",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Mocca-Mousse-300x300.jpg",
+      name: "Mocca Mousse",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Parma-300x300.jpg",
+      name: "Parma",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Chakra-Beige-300x300.jpg",
+      name: "Chakra",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Boletus-300x300.jpg",
+      name: "Boletus",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Terre-Grey-300x300.jpg",
+      name: "Terre Grey",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Babilon-300x300.jpg",
+      name: "Babilon",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Charmy-300x300.jpg",
+      name: "Charmy",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Forza-Fume-300x300.jpg",
+      name: "Forza Füme",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Marquina-Tierra-300x300.jpg",
+      name: "Marquina Tierra",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Spa-Black-300x300.jpg",
+      name: "Spa Black",
+    },
+    {
+      image:
+        "./images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Volcano-Black-300x300.jpg",
+      name: "Volcano Black",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Ice-Jade-2-300x300.jpg",
+      name: "Ice Jade 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Ice-Jade-1-300x300.jpg",
+      name: "Ice Jade 10002",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Ica-jade-1-300x300.jpg",
+      name: "Ice Jade 10003",
+    },
   ],
   [
-    { image: "./images/tezgahlar/", name: "Silk White 10001" },
-    { image: "./images/tezgahlar/", name: "Glacier White 10001" },
-    { image: "./images/tezgahlar/", name: "Pure White 10001" },
-    { image: "./images/tezgahlar/", name: "Ivory Travertine Porcelain 10001" },
-    { image: "./images/tezgahlar/", name: "Marquina Venato 10001" },
-    { image: "./images/tezgahlar/", name: "Calacatta 10001" },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Silk-White-1-300x300.png",
+      name: "Silk White 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Glacier-White-1-300x300.png",
+      name: "Glacier White 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Pure-White-1-300x300.png",
+      name: "Pure White 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Ivory-Travertine-300x300.jpg",
+      name: "Ivory Travertine Porcelain 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Nero-Marquina1-300x300.avif",
+      name: "Marquina Venato 10001",
+    },
+    {
+      image:
+        "./images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/6-CALACATTA-300x300.jpg",
+      name: "Calacatta 10001",
+    },
   ],
 ];
