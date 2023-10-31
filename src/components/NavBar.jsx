@@ -1,6 +1,6 @@
 // import React from "react";
 // import { Link } from "react-router-dom";
-// import logo from "../assets/logoForMarboLuxe.png";
+// import logo from "../assets/logoForMarboLuxe.jpeg";
 // import "../app.css";
 
 // const NavBar = () => {
