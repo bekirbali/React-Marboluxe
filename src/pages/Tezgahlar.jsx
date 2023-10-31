@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { dogalTaslar } from "../utils";
+import { tezgahlar } from "../utils";
 import { useNavigate } from "react-router-dom";
 import Breadcrumbs from "../components/Breadcrumbs";
 
@@ -17,7 +17,7 @@ const Tezgahlar = () => {
       return;
     }
     if (e.target.value === "next") {
-      if (page === dogalTaslar.length - 1) {
+      if (page === tezgahlar.length - 1) {
         console.log("lastPage");
         return;
       }
@@ -30,7 +30,7 @@ const Tezgahlar = () => {
       <div className="p-4 flex flex-col items-center">
         <h1 className="text-center text-3xl font-bold my-4">Tezgahlar</h1>
         <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
-          {dogalTaslar[page].map((tas, index) => {
+          {tezgahlar[page].map((tas, index) => {
             return (
               <div
                 key={index}
