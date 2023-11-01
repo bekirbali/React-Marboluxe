@@ -318,7 +318,7 @@ const Home = () => {
                   <img src={cnc} alt="" />
                 </Link>
               </div>
-              <div className="mozaikMagaza flex w-full justify-between">
+              <div className="mozaikMagaza flex w-full justify-between gap-4">
                 <Link
                   to="/"
                   className="overflow-hidden hover:-translate-y-2 ease-in-out duration-200"
