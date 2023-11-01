@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import logo from "../assets/logoForMarboLuxe.jpeg";
 import "../app.css";
 
 const SideBar = () => {
@@ -21,17 +20,17 @@ const SideBar = () => {
   const [mozaik, setMozaik] = useState(false);
 
   return (
-    <div>
-      <h2 className="">KATEGORİLER</h2>
+    <div className="mt-10">
+      <h2 className="font-bold">KATEGORİLER</h2>
       <div className="border-b-2 border-gray-500 w-12"></div>
 
       <div className="tezgahlar">
-        <h3 className="font-bold">
+        <Link to="/tezgahlar" className="font-bold">
           Tezgahlar
           <button onClick={() => setTezgahlar(!tezgahlar)} className="ml-2">
             {tezgahlar ? "↑" : "↓"}
           </button>
-        </h3>
+        </Link>
         {tezgahlar && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
             <ul className="kuvars">
@@ -76,12 +75,12 @@ const SideBar = () => {
         )}
       </div>
       <div className="dogal-taslar">
-        <h3 className="font-bold">
+        <Link to="/dogal-taslar" className="font-bold">
           Dogal Taşlar
           <button onClick={() => setDogalTaslar(!dogalTaslar)} className="ml-2">
             {dogalTaslar ? "↑" : "↓"}
           </button>
-        </h3>
+        </Link>
         {dogalTaslar && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
             <ul>
@@ -117,12 +116,12 @@ const SideBar = () => {
         )}
       </div>
       <div className="plakalar">
-        <h3 className="font-bold">
+        <Link to="/plakalar" className="font-bold">
           Plakalar
           <button onClick={() => setPlakalar(!plakalar)} className="ml-2">
             {plakalar ? "↑" : "↓"}
           </button>
-        </h3>
+        </Link>
         {plakalar && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
             <li>Yarı Değerli Plakalar</li>
@@ -175,12 +174,12 @@ const SideBar = () => {
         )}
       </div>
       <div className="bloklar">
-        <h3 className="font-bold">
+        <Link to="/bloklar" className="font-bold">
           Bloklar
           <button onClick={() => setBloklar(!bloklar)} className="ml-2">
             {bloklar ? "↑" : "↓"}
           </button>
-        </h3>
+        </Link>
         {bloklar && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
             <li>Mermer Bloklar</li>
@@ -190,12 +189,12 @@ const SideBar = () => {
         )}
       </div>
       <div className="urunler">
-        <h3 className="font-bold">
+        <Link to="/urunler" className="font-bold">
           Ürünler
           <button onClick={() => setUrunler(!urunler)} className="ml-2">
             {urunler ? "↑" : "↓"}
           </button>
-        </h3>
+        </Link>
         {urunler && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
             <ul className="cnc">
@@ -279,12 +278,12 @@ const SideBar = () => {
         )}
       </div>
       <div className="terrazo">
-        <h3 className="font-bold">
+        <Link to="/terrazo" className="font-bold">
           Terrazo
           <button onClick={() => setTerrazo(!terrazo)} className="ml-2">
             {terrazo ? "↑" : "↓"}
           </button>
-        </h3>
+        </Link>
         {terrazo && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
             <li>İç Mekan</li>
