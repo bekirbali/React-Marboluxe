@@ -675,35 +675,3 @@ export const dogalTaslarMermer = [
     },
   ],
 ];
-
-export const dogalTaslarMermerBeyaz = [
-  {
-    image: "./images/dogal/Mermer/MermerPage-1/AFYON-WHITE-SPIDER-300x300.avif",
-    name: "Afyon Beyaz Mermer Spider 101",
-  },
-  {
-    image:
-      "./images/dogal/Mermer/MermerPage-3/Marmara-White-Marble-300x300.avif",
-    name: "Marmara Beyaz Mermer 101",
-  },
-  {
-    image:
-      "./images/dogal/Mermer/MermerPage-3/AFYON-WHITE-BILLUR-GOLD-1-300x300.avif",
-    name: "Afyon Beyaz Mermer Billur Gold 101",
-  },
-  {
-    image:
-      "./images/dogal/Mermer/MermerPage-3/AFYON-WHITE-BILLUR-GOLD-2-300x300.avif",
-    name: "Afyon Beyaz Mermer Billur Gold 102",
-  },
-  {
-    image:
-      "./images/dogal/Mermer/MermerPage-3/Marmara-White-Marble-300x300.avif",
-    name: "Marmara Beyaz Mermer 101",
-  },
-  {
-    image:
-      "./images/dogal/Mermer/MermerPage-4/AFYON-WHITE-ARCOBALENO-1-300x300.avif",
-    name: "Afyon Beyaz Mermer Arcobaleno 101",
-  },
-];

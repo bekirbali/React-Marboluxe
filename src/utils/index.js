@@ -7823,3 +7823,210 @@ export const dogalTaslarMermer = [
     },
   ],
 ];
+
+export const dogalTaslarMermerBeyaz = [
+  [
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-1/AFYON-WHITE-SPIDER-300x300.avif",
+      name: "Afyon Beyaz Mermer Spider 101",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-3/Marmara-White-Marble-300x300.avif",
+      name: "Marmara Beyaz Mermer 101",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-4/AFYON-WHITE-BILLUR-1-300x300.avif",
+      name: "Afyon Beyaz Mermer Billur 101",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-4/AFYON-WHITE-BILLUR-2-300x300.avif",
+      name: "Afyon Beyaz Mermer Billur 102",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-4/AFYON-WHITE-BILLUR-3-300x300.avif",
+      name: "Afyon Beyaz Mermer Billur 103",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-3/AFYON-WHITE-BILLUR-GOLD-1-300x300.avif",
+      name: "Afyon Beyaz Mermer Billur Gold 101",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-3/AFYON-WHITE-BILLUR-GOLD-2-300x300.avif",
+      name: "Afyon Beyaz Mermer Billur Gold 102",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-3/Marmara-White-Marble-300x300.avif",
+      name: "Marmara Beyaz Mermer 101",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-4/AFYON-WHITE-ARCOBALENO-1-300x300.avif",
+      name: "Afyon Beyaz Mermer Arcobaleno 101",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-4/afyon_beyaz_a_la_vogue-1-300x300.avif",
+      name: "Afyon Beyaz Mermer A La Vogue 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-4/AFYON-SUGAR-300x300.jpg",
+      name: "Afyon Beyaz Mermer Şeker 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-5/MARINE-BLUE-1-300x300.avif",
+      name: "Afyon Beyaz Marine Blue 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-5/MARINE-BLUE-2-300x300.avif",
+      name: "Afyon Beyaz Marine Blue 106",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-1/Agate-White-300x300.avif",
+      name: "Agate White 1",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-7/PANDA-WHITE-300x300.avif",
+      name: "Panda White 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-3/PANDA-WHITE-2-300x300.avif",
+      name: "Panda White 102",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-7/PANDA-WHITE-3-300x300.avif",
+      name: "Panda White 103",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-3/PANDA-WHITE2-300x300.avif",
+      name: "Panda White 104",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-2/PANDA-WHITE-5-300x300.avif",
+      name: "Panda White 105",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-2/PANDA-WHITE-6-300x300.avif",
+      name: "Panda White 106",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-3/Zebra-White-1-300x300.avif",
+      name: "Zebra White 101",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-3/White-Beauty-Premium-300x300.avif",
+      name: "White Beauty Premium",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-7/POLAR-WHITE-300x300.avif",
+      name: "Polar White 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-7/CRYSTAL-WHITE-300x300.avif",
+      name: "Crystal White 101",
+    },
+  ],
+  [
+    {
+      image: "./images/dogal/Mermer/MermerPage-3/Statuario-300x300.avif",
+      name: "Statuario 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-3/calacattaoro-1-300x300.avif",
+      name: "Calacatta Oro 101",
+    },
+    {
+      image:
+        "./images/dogal/Mermer/MermerPage-3/Carrara-Arabescato-1-300x300.avif",
+      name: "Carrara Arabescato 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-4/SPERENZA-300x300.avif",
+      name: "Sperenza 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-4/VOLAKAS-BIANCO-300x300.avif",
+      name: "Volakas Bianco 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-4/LILLA-2-300x300.avif",
+      name: "Lilla 102",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-6/EPICA-LIGHT-300x300.avif",
+      name: "Epica Light 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-6/EPICA-DARK-300x300.avif",
+      name: "Epica Dark 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-6/MONT-BLANC-300x300.avif",
+      name: "Mont Blanc 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-6/METELL-300x300.avif",
+      name: "Metell 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-6/METELL-CLASSIC-300x300.avif",
+      name: "Metell Klasik 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-6/OCEAN-300x300.avif",
+      name: "Ocean 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-6/LILLA-300x300.avif",
+      name: "Lilla 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-6/NEW-YORK-300x300.avif",
+      name: "New York 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-6/VOLAKAS-300x300.avif",
+      name: "Volakas 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-7/calacatta-1-300x300.avif",
+      name: "Calacatta 105",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-7/CARRARA-300x300.avif",
+      name: "Carrara 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-7/CARRARA-BREZZA-300x300.avif",
+      name: "Carrara Brezza 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-7/MADREPERLA-300x300.avif",
+      name: "Madreperla 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-7/OLEA-300x300.avif",
+      name: "Olea 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-7/VIOLET-300x300.avif",
+      name: "Violet 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-7/BELLISSIMA-300x300.avif",
+      name: "Bellissima 101",
+    },
+    {
+      image: "./images/dogal/Mermer/MermerPage-7/armonia-1-300x300.avif",
+      name: "Armonia 101",
+    },
+  ],
+];
