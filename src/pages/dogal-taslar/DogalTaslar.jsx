@@ -1,13 +1,15 @@
-import React, { useState } from "react";
-import { dogalTaslar } from "../utils";
+import React, { useContext, useEffect, useState } from "react";
+import { dogalTaslar } from "../../utils";
 import { useNavigate } from "react-router-dom";
-import Breadcrumbs from "../components/Breadcrumbs";
-import SideBar from "../components/SideBar";
+import Breadcrumbs from "../../components/Breadcrumbs";
+import SideBar from "../../components/SideBar";
+import { MarboContext } from "../../context/MarboContext";
 
 const DogalTaslar = () => {
   const [page, setPage] = useState(0);
 
   const navigate = useNavigate();
+  const { setDogalTaslar } = useContext(MarboContext);
 
   const pageHandler = (e) => {
     if (e.target.value === "prev") {
@@ -26,6 +28,10 @@ const DogalTaslar = () => {
       setPage(page + 1);
     }
   };
+
+  useEffect(() => {
+    setDogalTaslar(true);
+  }, []);
 
   return (
     <>

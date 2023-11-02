@@ -1,6 +1,7 @@
 import "./app.css";
 import React, { useRef, useState } from "react";
 import AppRouter from "./router/AppRouter";
+import MarboContextProvider from "./context/MarboContext";
 
 const App = () => {
   const scrollRef = useRef();
@@ -27,7 +28,9 @@ const App = () => {
   };
   return (
     <div ref={scrollRef} onScroll={scrollHandler} className="">
-      <AppRouter />
+      <MarboContextProvider>
+        <AppRouter />
+      </MarboContextProvider>
     </div>
   );
 };
