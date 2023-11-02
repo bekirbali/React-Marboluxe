@@ -24,7 +24,7 @@ const AppRouter = () => {
         <Route path="dogal-taslar" element={<DogalTaslar />} />
         <Route path="dogal-taslar/:name" element={<Details />} />
         <Route path="dogal-taslar/mermer" element={<DogalTaslarMermer />} />
-        <Route path="dogal-taslar/mermer:name" element={<Details />} />
+        {/* <Route path="dogal-taslar/mermer:name" element={<Details />} /> */}
         <Route
           path="dogal-taslar/mermer/beyaz-mermer"
           element={<DogalTaslarMermerBeyaz />}

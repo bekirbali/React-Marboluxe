@@ -1,8 +1,5 @@
 import React, { useState } from "react";
 import { useLocation } from "react-router-dom";
-
-// import test from "/images/mermer.avif";
-import { dogalTaslar } from "../utils";
 import Breadcrumbs from "./Breadcrumbs";
 import DetailModal from "./DetailModal";
 
@@ -22,7 +19,7 @@ const Details = () => {
             className="w-full overflow-hidden"
           >
             <img
-              src={state.image.slice(1)}
+              src={state.image}
               alt="test"
               className="hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
             />
