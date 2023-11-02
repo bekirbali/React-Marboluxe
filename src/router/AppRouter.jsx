@@ -1,7 +1,8 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import NavBar from "../components/NavBar";
-import DogalTaslar from "../pages/DogalTaslar";
+import DogalTaslar from "../pages/dogal-taslar/DogalTaslar";
+import DogalTaslarMermer from "../pages/dogal-taslar/DogalTaslarMermer";
 import Home from "../pages/Home";
 import Kataloglar from "../pages/Kataloglar";
 import Ocaklar from "../pages/Ocaklar";
@@ -12,6 +13,7 @@ import Tezgahlar from "../pages/Tezgahlar";
 import Urunler from "../pages/Urunler";
 import Footer from "../components/Footer";
 import Details from "../components/Details";
+import DogalTaslarMermerBeyaz from "../pages/dogal-taslar/DogalTaslarMermerBeyaz";
 
 const AppRouter = () => {
   return (
@@ -21,6 +23,13 @@ const AppRouter = () => {
         <Route path="/" element={<Home />} />
         <Route path="dogal-taslar" element={<DogalTaslar />} />
         <Route path="dogal-taslar/:name" element={<Details />} />
+        <Route path="dogal-taslar/mermer" element={<DogalTaslarMermer />} />
+        <Route path="dogal-taslar/mermer:name" element={<Details />} />
+        <Route
+          path="dogal-taslar/mermer/beyaz-mermer"
+          element={<DogalTaslarMermerBeyaz />}
+        />
+        <Route path="dogal-taslar/mermer:name" element={<Details />} />
         <Route path="kataloglar" element={<Kataloglar />} />
         <Route path="kataloglar/:name" element={<Details />} />
         <Route path="ocaklar" element={<Ocaklar />} />

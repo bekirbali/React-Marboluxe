@@ -1,23 +1,41 @@
-import React, { useState } from "react";
+import React, { useContext, useState } from "react";
 import { Link } from "react-router-dom";
 import "../app.css";
+import { MarboContext } from "../context/MarboContext";
 
 const SideBar = () => {
-  const [tezgahlar, setTezgahlar] = useState(false);
-  const [dogalTaslar, setDogalTaslar] = useState(false);
-  const [plakalar, setPlakalar] = useState(false);
-  const [bloklar, setBloklar] = useState(false);
-  const [urunler, setUrunler] = useState(false);
-  const [terrazo, setTerrazo] = useState(false);
-  const [mermer, setMermer] = useState(false);
-  const [porselenPlaka, setPorselenPlaka] = useState(false);
-  const [kuvarsPlaka, setKuvarsPlaka] = useState(false);
-  const [kuvarsTezgah, setKuvarsTezgah] = useState(false);
-  const [porselenTezgah, setPorselenTezgah] = useState(false);
-  const [cnc, setCnc] = useState(false);
-  const [waterjet, setWaterjet] = useState(false);
-  const [dekoratifUrunler, setDekoratifUrunler] = useState(false);
-  const [mozaik, setMozaik] = useState(false);
+  const {
+    tezgahlar,
+    setTezgahlar,
+    dogalTaslar,
+    setDogalTaslar,
+    plakalar,
+    setPlakalar,
+    bloklar,
+    setBloklar,
+    urunler,
+    setUrunler,
+    terrazo,
+    setTerrazo,
+    mermer,
+    setMermer,
+    porselenPlaka,
+    setPorselenPlaka,
+    kuvarsPlaka,
+    setKuvarsPlaka,
+    kuvarsTezgah,
+    setKuvarsTezgah,
+    porselenTezgah,
+    setPorselenTezgah,
+    cnc,
+    setCnc,
+    waterjet,
+    setWaterjet,
+    dekoratifUrunler,
+    setDekoratifUrunler,
+    mozaik,
+    setMozaik,
+  } = useContext(MarboContext);
 
   return (
     <div className="mt-10">
@@ -77,22 +95,24 @@ const SideBar = () => {
       <div className="dogal-taslar">
         <Link to="/dogal-taslar" className="font-bold">
           Dogal Taşlar
-          <button onClick={() => setDogalTaslar(!dogalTaslar)} className="ml-2">
-            {dogalTaslar ? "↑" : "↓"}
-          </button>
         </Link>
+        <button onClick={() => setDogalTaslar(!dogalTaslar)} className="ml-2">
+          {dogalTaslar ? "↑" : "↓"}
+        </button>
         {dogalTaslar && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
             <ul>
               <h4>
-                Mermer
+                <Link to="/dogal-taslar/mermer">Mermer</Link>
                 <button onClick={() => setMermer(!mermer)} className="ml-2">
                   {mermer ? "↑" : "↓"}
                 </button>
               </h4>
               {mermer && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2">
-                  <li>Beyaz Mermer</li>
+                  <Link to="/dogal-taslar/mermer/beyaz-mermer">
+                    Beyaz Mermer
+                  </Link>
                   <li>Gri Mermer</li>
                   <li>Kahverengi Mermer</li>
                   <li>Mavi Mermer</li>
