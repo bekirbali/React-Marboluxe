@@ -7856,14 +7856,6 @@ export const dogalTaslarMermerBeyaz = [
       name: "Afyon Beyaz Mermer Şeker 101",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-5/MARINE-BLUE-1-300x300.avif",
-      name: "Afyon Beyaz Marine Blue 101",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/MARINE-BLUE-2-300x300.avif",
-      name: "Afyon Beyaz Marine Blue 106",
-    },
-    {
       image: "/images/dogal/Mermer/MermerPage-1/Agate-White-300x300.avif",
       name: "Agate White 1",
     },
@@ -7908,8 +7900,6 @@ export const dogalTaslarMermerBeyaz = [
       image: "/images/dogal/Mermer/MermerPage-7/CRYSTAL-WHITE-300x300.avif",
       name: "Crystal White 101",
     },
-  ],
-  [
     {
       image: "/images/dogal/Mermer/MermerPage-3/Statuario-300x300.avif",
       name: "Statuario 101",
@@ -7918,6 +7908,8 @@ export const dogalTaslarMermerBeyaz = [
       image: "/images/dogal/Mermer/MermerPage-3/calacattaoro-1-300x300.avif",
       name: "Calacatta Oro 101",
     },
+  ],
+  [
     {
       image:
         "/images/dogal/Mermer/MermerPage-3/Carrara-Arabescato-1-300x300.avif",
@@ -8021,10 +8013,6 @@ export const DogalTaslarMermerGri = [
       name: "Azul Macaubas 102",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-2/Bardiglio-Black-1-300x300.avif",
-      name: "Bardiglio Black 101",
-    },
-    {
       image: "/images/dogal/Mermer/MermerPage-2/Agate-Phoenix-1-300x300.avif",
       name: "Agate Phoenix",
     },
@@ -8035,6 +8023,120 @@ export const DogalTaslarMermerGri = [
     {
       image: "/images/dogal/Mermer/MermerPage-3/zebragrey-1-300x300.avif",
       name: "Zebra Grey 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-5/IRIS-1-300x300.avif",
+      name: "Iris 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-5/IRIS-2-300x300.avif",
+      name: "Iris 102",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-5/IRIS-3-300x300.avif",
+      name: "Iris 103",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-5/IRIS-4-300x300.avif",
+      name: "Iris 104",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-7/woodenlight1-300x300.avif",
+      name: "Wooden Light 101",
+    },
+  ],
+];
+
+export const dogalTaslarMermerKahverengi = [
+  [
+    {
+      image:
+        "/images/dogal/Mermer/MermerPage-1/RAIN-FOREST-BROWN-3-300x300.avif",
+      name: "Rain Forest Brown 103",
+    },
+    {
+      image:
+        "/images/dogal/Mermer/MermerPage-1/Petrified-Wood-Marble-1-300x300.avif",
+      name: "Petrified Wood Marble 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-1/DARK-EMPERADOR2-300x300.avif",
+      name: "Dark Emperador 102",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-1/Petrified-Wood-300x300.avif",
+      name: "Petrified Wood 1",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-1/Round-Agathe-1-300x300.avif",
+      name: "Round Agathe 1",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-1/Serpegiante-light-300x300.avif",
+      name: "Serpegiante Light 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-2/Armani-300x300.avif",
+      name: "Armani",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-2/Chateaux-300x300.avif",
+      name: "Chateaux",
+    },
+    {
+      image:
+        "/images/dogal/Mermer/MermerPage-2/Yellow-Tiger-Agate-300x300.avif",
+      name: "Yellow Tiger Agate 1",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-3/Serpegiante-300x300.avif",
+      name: "Serpegiante 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-3/Bruno-perla-1-300x300.avif",
+      name: "Bruno Perla 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-3/Bruno-300x300.avif",
+      name: "Bruno 101",
+    },
+    {
+      image:
+        "/images/dogal/Mermer/MermerPage-4/LIGHT-EMPERADOR-CLASSIC-300x300.avif",
+      name: "Light Emperador Klasik Mermer",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-7/RAIN-FOREST-BROWN-300x300.avif",
+      name: "Rain Forest Brown 101",
+    },
+  ],
+];
+
+export const dogalTaslarMermerMavi = [
+  [
+    {
+      image: "/images/dogal/Mermer/MermerPage-1/Panda-Azul-300x300.avif",
+      name: "Panda Azul 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-1/Panda-Azul-2-300x300.avif",
+      name: "Panda Azul 102",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-1/Agate-Blue-1-1-300x300.avif",
+      name: "Agate Blue 1",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-3/Blue-Rain-300x300.avif",
+      name: "Blue Rain 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-5/MARINE-BLUE-1-300x300.avif",
+      name: "Afyon Beyaz Marine Blue 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-5/MARINE-BLUE-2-300x300.avif",
+      name: "Afyon Beyaz Marine Blue 106",
     },
     {
       image: "/images/dogal/Mermer/MermerPage-4/BLUEMOON-3-300x300.avif",
@@ -8077,24 +8179,329 @@ export const DogalTaslarMermerGri = [
       name: "Bardiglio Blu 104",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-5/IRIS-1-300x300.avif",
-      name: "Iris 101",
+      image: "/images/dogal/Mermer/MermerPage-5/bluemoongold-1-300x300.avif",
+      name: "Blue Moon Gold 101",
+    },
+  ],
+];
+
+export const dogalTaslarMermerSiyah = [
+  [
+    {
+      image:
+        "/images/dogal/Mermer/MermerPage-2/Pinguino-Classic-1-300x300.avif",
+      name: "Pinguino Klasik",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-5/IRIS-2-300x300.avif",
-      name: "Iris 102",
+      image: "/images/dogal/Mermer/MermerPage-2/Bardiglio-Black-1-300x300.avif",
+      name: "Bardiglio Black 101",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-5/IRIS-3-300x300.avif",
-      name: "Iris 103",
+      image: "/images/dogal/Mermer/MermerPage-2/PINGUINO2-300x300.avif",
+      name: "Pinguino 102",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-5/IRIS-4-300x300.avif",
-      name: "Iris 104",
+      image:
+        "/images/dogal/Mermer/MermerPage-2/Agate-Black-Dim-Gold-1-300x300.avif",
+      name: "Agate Black Dim Gold",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/woodenlight1-300x300.avif",
-      name: "Wooden Light 101",
+      image: "/images/dogal/Mermer/MermerPage-3/Nero1-300x300.avif",
+      name: "Nero 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-3/Zebra-White-300x300.avif",
+      name: "Zebra Black 102",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-4/NERO-MARQUINA-300x300.avif",
+      name: "Nero Marquina 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-4/NEBEL-300x300.avif",
+      name: "Nebel 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-5/Nero-1-300x300.avif",
+      name: "Nero 102",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-6/BLACK-OLIVE-300x300.avif",
+      name: "Black Olive 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-6/PINGUINO-300x300.avif",
+      name: "Pinguino 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-6/BLACK-ORION-1-300x300.avif",
+      name: "Black Orion 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-6/BLACK-AZIZA-300x300.avif",
+      name: "Black Aziza 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-6/PORTORO-300x300.avif",
+      name: "Portoro 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-6/SILVER-DRAGON-300x300.avif",
+      name: "Silver Dragon 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-6/zebrablack-300x300.avif",
+      name: "Zebra Black 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-7/ICE-JADE-2-300x300.avif",
+      name: "Ice Jade 103",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-7/ICE-JADE-3-300x300.avif",
+      name: "Ice Jade 104",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-7/ICE-JADE-4-300x300.avif",
+      name: "Ice Jade 105",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-3/ICE-JADE-1-300x300.avif",
+      name: "Ice Jade 102",
+    },
+  ],
+];
+
+export const dogalTaslarMermerYesil = [
+  [
+    {
+      image:
+        "/images/dogal/Mermer/MermerPage-1/panda-emerald-marble-300x300.avif",
+      name: "Panda Emerald Marble 101",
+    },
+    {
+      image:
+        "/images/dogal/Mermer/MermerPage-1/RAIN-FOREST-GREEN1-300x300.avif",
+      name: "Rain Forest Green 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-1/ICE-JADE-5-300x300.avif",
+      name: "Ice Jade 106",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-1/Agate-Green-1-300x300.avif",
+      name: "Agate Green 1",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-1/Agate-Green-2-300x300.avif",
+      name: "Agate Green 2",
+    },
+    {
+      image: "/images/koleksiyon/page-1/Amazonite-1-300x300.avif",
+      name: "Amazonite",
+    },
+    {
+      image: "/images/koleksiyon/page-1/Fluorite-1-300x300.avif",
+      name: "Fluorite",
+    },
+    {
+      image: "/images/koleksiyon/page-1/Green-Agate-1-300x300.avif",
+      name: "Green Agate",
+    },
+    {
+      image: "/images/koleksiyon/page-2/turtle-1-300x300.avif",
+      name: "Turtle 102",
+    },
+    {
+      image: "/images/koleksiyon/page-2/Emerald1-1-300x300.avif",
+      name: "Emerald 101",
+    },
+    {
+      image: "/images/koleksiyon/page-2/Emerald2-1-300x300.avif",
+      name: "Emerald 102",
+    },
+    {
+      image: "/images/koleksiyon/page-2/Emerald3-1-300x300.avif",
+      name: "Emerald 103",
+    },
+    {
+      image: "/images/koleksiyon/page-2/Emerald4-1-300x300.avif",
+      name: "Emerald 104",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-3/Fusion-300x300.avif",
+      name: "Fusion 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-3/Turtle-300x300.avif",
+      name: "Turtle 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-4/VERDE-GUATEMALA-1-300x300.avif",
+      name: "Verde Guatemala 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-4/VERDE-FOREST-300x300.avif",
+      name: "Verde Forest 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-6/VERDE-GUATEMALA-2-300x300.avif",
+      name: "Verde Guatemala 102",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-6/VERDE-ESCURO-300x300.avif",
+      name: "Verde Escuro 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-7/ICE-JADE-300x300.avif",
+      name: "Ice Jade 101",
+    },
+  ],
+];
+
+export const dogalTaslarBejMermer = [
+  [
+    {
+      image: "/images/dogal/Mermer/MermerPage-1/DARK-EMPERADOR2-300x300.avif",
+      name: "Dark Emperador 102",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-1/BEACH-300x300.avif",
+      name: "Beach 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-2/Armani-300x300.avif",
+      name: "Armani",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-2/Chateaux-300x300.avif",
+      name: "Chateaux",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-1/Botticino-300x300.avif",
+      name: "Botticino 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-3/Bruno-perla-1-300x300.avif",
+      name: "Bruno Perla 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-3/Bruno-300x300.avif",
+      name: "Bruno 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-4/Rosalia1-2-300x300.avif",
+      name: "Rosalia 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-4/rosaliaLight.avif",
+      name: "Rosalia Light 101",
+    },
+    {
+      image:
+        "/images/dogal/Mermer/MermerPage-4/LIGHT-EMPERADOR-CLASSIC-300x300.avif",
+      name: "Light Emperador Klasik Mermer",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-1/CREMA-BELLA-300x300.avif",
+      name: "Crema Bella 101",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-1/Crema-Foret-300x300.avif",
+      name: "Crema Foret 101",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-1/LUNA-300x300.avif",
+      name: "Luna 101",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-1/BOTANICA-300x300.avif",
+      name: "Botanica 101",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-1/LIMPIDO-300x300.avif",
+      name: "Limpido 101",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-1/LUNA-PIERA-300x300.avif",
+      name: "Luna Piera 101",
+    },
+    {
+      image:
+        "/images/dogal/BejMermer/BejMermerPage-1/DARK-EMPERADOR-300x300.avif",
+      name: "Dark Emperador 101",
+    },
+    {
+      image:
+        "/images/dogal/BejMermer/BejMermerPage-1/DARK-EMPERADOR-CLASSIC-300x300.avif",
+      name: "Dark Emperador Klasik 101",
+    },
+    {
+      image:
+        "/images/dogal/BejMermer/BejMermerPage-1/Bruno-perla-2-300x300.avif",
+      name: "Bruno Perla 102",
+    },
+    {
+      image:
+        "/images/dogal/BejMermer/BejMermerPage-1/emperador-perla-300x300.avif",
+      name: "Emperador Perla 101",
+    },
+    {
+      image:
+        "/images/dogal/BejMermer/BejMermerPage-1/EMPERADOR-PERLA-CLASSIC-300x300.avif",
+      name: "Emperador Perla Klasik 101",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-1/MONDO-300x300.avif",
+      name: "Mondo 101",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-2/DUNE-300x300.avif",
+      name: "Dune 101",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-2/BRUME-300x300.avif",
+      name: "Brume 101",
+    },
+  ],
+  [
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-2/AVORIO-300x300.avif",
+      name: "Avorio 101",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-2/BLACK-PEARL-300x300.avif",
+      name: "Black Pearl 101",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-2/BURSA-BEIGE-300x300.avif",
+      name: "Bursa Bej 101",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-2/Colorata-300x300.avif",
+      name: "Colorata 101",
+    },
+    {
+      image:
+        "/images/dogal/BejMermer/BejMermerPage-2/LIGHT-EMPERADOR-300x300.avif",
+      name: "Light Emperador 101",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-2/DURU-300x300.avif",
+      name: "Duru 101",
+    },
+    {
+      image:
+        "/images/dogal/BejMermer/BejMermerPage-2/SPANISH-DARK-EMPERADOR-300x300.avif",
+      name: "İspanyol Dark Emperador 101",
+    },
+    {
+      image: "/images/dogal/Mermer/MermerPage-7/Medium-Emperador-300x300.avif",
+      name: "Medium Emperador 101",
+    },
+    {
+      image: "/images/dogal/BejMermer/BejMermerPage-2/PIETRA-GREY-300x300.avif",
+      name: "Pietra Grey 101",
     },
   ],
 ];

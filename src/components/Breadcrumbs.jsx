@@ -3,6 +3,7 @@ import { Link, useLocation, useParams } from "react-router-dom";
 
 const Breadcrumbs = () => {
   const location = useLocation();
+  console.log(location.pathname);
   return (
     <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
       <h2>
@@ -12,23 +13,27 @@ const Breadcrumbs = () => {
           .join(" ")
           .toLocaleUpperCase()}
       </h2>
-      <Link to={`/${location.pathname.split("/")[1]}`}></Link>
+
+      {/* <Link to={`/${location.pathname.split("/")[1]}`}>text</Link> */}
       <div className="flex justify-center flex-wrap">
         <Link to="/">Marboluxe{">>"}</Link>
-        {/* {location.pathname
+        <div>
+          {location.pathname
             .slice(1)
             .split("%")
             .join("-")
             .split("/")
             .map((word, index) => (
-              <p
+              <Link
+                to={`/${word}`}
                 key={index}
                 className="hover:cursor-pointer hover:text-cyan-700"
               >
-                {`${word}>>`}
-              </p>
-            ))} */}
-        <Link> {location.pathname.slice(1).split("/").join(">>")}</Link>
+                {word}
+              </Link>
+            ))}
+        </div>
+        {/* <Link> {location.pathname.slice(1).split("/").join(">>")}</Link> */}
       </div>
     </div>
   );
