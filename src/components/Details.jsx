@@ -1,11 +1,13 @@
 import React, { useState } from "react";
-import { useLocation } from "react-router-dom";
+import { useLocation, useParams } from "react-router-dom";
 import Breadcrumbs from "./Breadcrumbs";
 import DetailModal from "./DetailModal";
 
 const Details = () => {
   const location = useLocation();
   const { state } = location;
+  const { image } = useParams();
+  console.log(image);
 
   const [modal, setModal] = useState(false);
 
