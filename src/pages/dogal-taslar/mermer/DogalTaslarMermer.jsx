@@ -1,16 +1,16 @@
-import React, { useContext, useEffect, useState } from "react";
-import { dogalTaslar } from "../../utils";
+import React, { useContext, useState } from "react";
+import { dogalTaslarMermer } from "../../../utils";
 import { useNavigate } from "react-router-dom";
-import Breadcrumbs from "../../components/Breadcrumbs";
-import SideBar from "../../components/SideBar";
-import { MarboContext } from "../../context/MarboContext";
+import Breadcrumbs from "../../../components/Breadcrumbs";
+import SideBar from "../../../components/SideBar";
+import { MarboContext } from "../../../context/MarboContext";
 
-const DogalTaslar = () => {
+const DogalTaslarMermer = () => {
   const [page, setPage] = useState(0);
 
+  const { setMermer } = useContext(MarboContext);
+
   const navigate = useNavigate();
-  const { setDogalTaslar, setPlakalar, setTezgahlar } =
-    useContext(MarboContext);
 
   const pageHandler = (e) => {
     if (e.target.value === "prev") {
@@ -22,7 +22,7 @@ const DogalTaslar = () => {
       return;
     }
     if (e.target.value === "next") {
-      if (page === dogalTaslar.length - 1) {
+      if (page === dogalTaslarMermer.length - 1) {
         console.log("lastPage");
         return;
       }
@@ -30,11 +30,8 @@ const DogalTaslar = () => {
     }
   };
 
-  useEffect(() => {
-    setDogalTaslar(true);
-    setPlakalar(false);
-    setTezgahlar(false);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+  useState(() => {
+    setMermer(true);
   }, []);
 
   return (
@@ -46,9 +43,9 @@ const DogalTaslar = () => {
         </div>
 
         <div className="p-4 flex flex-col items-center flex-[4]">
-          <h1 className="text-center text-3xl font-bold my-4">Doğal Taşlar</h1>
+          <h1 className="text-center text-3xl font-bold my-4">Mermer</h1>
           <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4 ">
-            {dogalTaslar[page].map((tas, index) => {
+            {dogalTaslarMermer[page].map((tas, index) => {
               return (
                 <div
                   key={index}
@@ -89,4 +86,4 @@ const DogalTaslar = () => {
   );
 };
 
-export default DogalTaslar;
+export default DogalTaslarMermer;

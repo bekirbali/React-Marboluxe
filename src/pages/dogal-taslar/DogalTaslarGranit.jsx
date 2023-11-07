@@ -1,16 +1,13 @@
-import React, { useContext, useEffect, useState } from "react";
-import { dogalTaslar } from "../../utils";
+import React, { useState } from "react";
+import { dogalTaslarGranit } from "../../utils";
 import { useNavigate } from "react-router-dom";
 import Breadcrumbs from "../../components/Breadcrumbs";
 import SideBar from "../../components/SideBar";
-import { MarboContext } from "../../context/MarboContext";
 
-const DogalTaslar = () => {
+const DogalTaslarGranit = () => {
   const [page, setPage] = useState(0);
 
   const navigate = useNavigate();
-  const { setDogalTaslar, setPlakalar, setTezgahlar } =
-    useContext(MarboContext);
 
   const pageHandler = (e) => {
     if (e.target.value === "prev") {
@@ -22,20 +19,13 @@ const DogalTaslar = () => {
       return;
     }
     if (e.target.value === "next") {
-      if (page === dogalTaslar.length - 1) {
+      if (page === dogalTaslarGranit.length - 1) {
         console.log("lastPage");
         return;
       }
       setPage(page + 1);
     }
   };
-
-  useEffect(() => {
-    setDogalTaslar(true);
-    setPlakalar(false);
-    setTezgahlar(false);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
 
   return (
     <>
@@ -46,9 +36,9 @@ const DogalTaslar = () => {
         </div>
 
         <div className="p-4 flex flex-col items-center flex-[4]">
-          <h1 className="text-center text-3xl font-bold my-4">Doğal Taşlar</h1>
+          <h1 className="text-center text-3xl font-bold my-4">Granit</h1>
           <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4 ">
-            {dogalTaslar[page].map((tas, index) => {
+            {dogalTaslarGranit[page].map((tas, index) => {
               return (
                 <div
                   key={index}
@@ -89,4 +79,4 @@ const DogalTaslar = () => {
   );
 };
 
-export default DogalTaslar;
+export default DogalTaslarGranit;
