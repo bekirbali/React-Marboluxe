@@ -1,13 +1,16 @@
-import React, { useState } from "react";
-import { dogalTaslarMermer } from "../../utils";
+import React, { useContext, useEffect, useState } from "react";
+import { plakalarMermer } from "../../utils/index";
 import { useNavigate } from "react-router-dom";
 import Breadcrumbs from "../../components/Breadcrumbs";
 import SideBar from "../../components/SideBar";
+import { MarboContext } from "../../context/MarboContext";
 
-const DogalTaslarMermer = () => {
+const PlakalarMermer = () => {
   const [page, setPage] = useState(0);
-
   const navigate = useNavigate();
+
+  const { setPlakalar, setDogalTaslar, setTezgahlar } =
+    useContext(MarboContext);
 
   const pageHandler = (e) => {
     if (e.target.value === "prev") {
@@ -19,7 +22,7 @@ const DogalTaslarMermer = () => {
       return;
     }
     if (e.target.value === "next") {
-      if (page === dogalTaslarMermer.length - 1) {
+      if (page === plakalarMermer.length - 1) {
         console.log("lastPage");
         return;
       }
@@ -27,18 +30,26 @@ const DogalTaslarMermer = () => {
     }
   };
 
+  useEffect(() => {
+    setPlakalar(true);
+    setDogalTaslar(false);
+    setTezgahlar(false);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
   return (
     <>
       <Breadcrumbs />
-      <div className="main-holder-dogalTas flex justify-between w-[90%] mx-auto ">
+      <div className="main-holder-plakalarMermer flex justify-between w-[90%] mx-auto ">
         <div className="flex-[1] ">
           <SideBar />
         </div>
-
         <div className="p-4 flex flex-col items-center flex-[4]">
-          <h1 className="text-center text-3xl font-bold my-4">Mermer</h1>
-          <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4 ">
-            {dogalTaslarMermer[page].map((tas, index) => {
+          <h1 className="text-center text-3xl font-bold my-4">
+            Mermer Plakalar
+          </h1>
+          <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
+            {plakalarMermer[page].map((tas, index) => {
               return (
                 <div
                   key={index}
@@ -79,4 +90,4 @@ const DogalTaslarMermer = () => {
   );
 };
 
-export default DogalTaslarMermer;
+export default PlakalarMermer;
