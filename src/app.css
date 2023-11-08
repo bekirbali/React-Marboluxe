@@ -45,3 +45,7 @@ h3 {
 .dropdownStyle {
   background-color: red;
 }
+
+.active {
+  font-weight: 700;
+}

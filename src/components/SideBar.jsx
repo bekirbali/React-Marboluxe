@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { Link } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import "../app.css";
 import { MarboContext } from "../context/MarboContext";
 
@@ -43,16 +43,24 @@ const SideBar = () => {
       <div className="border-b-2 border-gray-500 w-12"></div>
 
       <div className="tezgahlar">
-        <Link to="/tezgahlar" className="font-bold">
+        <NavLink
+          className={({ isActive }) => isActive && "active"}
+          to="/tezgahlar"
+        >
           Tezgahlar
-        </Link>
+        </NavLink>
         <button onClick={() => setTezgahlar(!tezgahlar)} className="ml-2">
           {tezgahlar ? "↑" : "↓"}
         </button>
         {tezgahlar && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
             <ul className="kuvars">
-              <Link to="/tezgahlar/kuvars">Kuvars Tezgah</Link>
+              <NavLink
+                className={({ isActive }) => isActive && "active"}
+                to="/tezgahlar/kuvars"
+              >
+                Kuvars Tezgah
+              </NavLink>
               <button
                 onClick={() => setKuvarsTezgah(!kuvarsTezgah)}
                 className="ml-2"
@@ -61,15 +69,38 @@ const SideBar = () => {
               </button>
               {kuvarsTezgah && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
-                  <Link to="/tezgahlar/kuvars/caesar">Caesarstone Tezgah</Link>
-                  <Link to="/tezgahlar/kuvars/calisco">Calisco Tezgah</Link>
-                  <Link to="/tezgahlar/kuvars/belenco">Belenco Tezgah</Link>
-                  <Link to="/tezgahlar/kuvars/cimstone">Çimstone Tezgah</Link>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/tezgahlar/kuvars/caesar"
+                  >
+                    Caesarstone Tezgah
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/tezgahlar/kuvars/calisco"
+                  >
+                    Calisco Tezgah
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/tezgahlar/kuvars/belenco"
+                  >
+                    Belenco Tezgah
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/tezgahlar/kuvars/cimstone"
+                  >
+                    Çimstone Tezgah
+                  </NavLink>
                 </div>
               )}
             </ul>
             <ul className="porselen">
-              <Link to="/tezgahlar/porselen">
+              <NavLink
+                className={({ isActive }) => isActive && "active"}
+                to="/tezgahlar/porselen"
+              >
                 Porselen Tezgah
                 <button
                   onClick={() => setPorselenTezgah(!porselenTezgah)}
@@ -77,21 +108,33 @@ const SideBar = () => {
                 >
                   {porselenTezgah ? "↑" : "↓"}
                 </button>
-              </Link>
+              </NavLink>
               {porselenTezgah && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
-                  <Link to="/tezgahlar/porselen/sintered">
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/tezgahlar/porselen/sintered"
+                  >
                     Sintered Stone Tezgah
-                  </Link>
-                  <Link to="/tezgahlar/porselen/levantec">
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/tezgahlar/porselen/levantec"
+                  >
                     Levantec Porselen Tezgah
-                  </Link>
-                  <Link to="/tezgahlar/porselen/estestone">
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/tezgahlar/porselen/estestone"
+                  >
                     Estestone Porselen Tezgah
-                  </Link>
-                  <Link to="/tezgahlar/porselen/lamar">
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/tezgahlar/porselen/lamar"
+                  >
                     Lamar Porselen Tezgah
-                  </Link>
+                  </NavLink>
                 </div>
               )}
             </ul>
@@ -99,9 +142,12 @@ const SideBar = () => {
         )}
       </div>
       <div className="dogal-taslar">
-        <Link to="/dogal-taslar" className="font-bold">
+        <NavLink
+          className={({ isActive }) => isActive && "active"}
+          to="/dogal-taslar"
+        >
           Dogal Taşlar
-        </Link>
+        </NavLink>
         <button onClick={() => setDogalTaslar(!dogalTaslar)} className="ml-2">
           {dogalTaslar ? "↑" : "↓"}
         </button>
@@ -109,59 +155,169 @@ const SideBar = () => {
           <ul className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
             <ul>
               <h4>
-                <Link to="/dogal-taslar/mermer">Mermer</Link>
+                <NavLink
+                  className={({ isActive }) => isActive && "active"}
+                  to="/dogal-taslar/mermer"
+                >
+                  Mermer
+                </NavLink>
                 <button onClick={() => setMermer(!mermer)} className="ml-2">
                   {mermer ? "↑" : "↓"}
                 </button>
               </h4>
               {mermer && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
-                  <Link to="/dogal-taslar/mermer/beyaz-mermer">
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/dogal-taslar/mermer/beyaz-mermer"
+                  >
                     Beyaz Mermer
-                  </Link>
-                  <Link to="/dogal-taslar/mermer/gri-mermer">Gri Mermer</Link>
-                  <Link to="/dogal-taslar/mermer/kahverengi-mermer">
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/dogal-taslar/mermer/gri-mermer"
+                  >
+                    Gri Mermer
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/dogal-taslar/mermer/kahverengi-mermer"
+                  >
                     Kahverengi Mermer
-                  </Link>
-                  <Link to="/dogal-taslar/mermer/mavi-mermer">Mavi Mermer</Link>
-                  <Link to="/dogal-taslar/mermer/siyah-mermer">
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/dogal-taslar/mermer/mavi-mermer"
+                  >
+                    Mavi Mermer
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/dogal-taslar/mermer/siyah-mermer"
+                  >
                     Siyah Mermer
-                  </Link>
-                  <Link to="/dogal-taslar/mermer/yesil-mermer">
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/dogal-taslar/mermer/yesil-mermer"
+                  >
                     Yeşil Mermer
-                  </Link>
-                  <Link to="/ozel-koleksiyon">Özel Mermer Koleksiyonu</Link>
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/ozel-koleksiyon"
+                  >
+                    Özel Mermer Koleksiyonu
+                  </NavLink>
                 </div>
               )}
             </ul>
-            <Link to="/dogal-taslar/bej-mermer">Bej Mermer</Link>
-            <Link to="/dogal-taslar/traverten">Traverten</Link>
-            <Link to="/dogal-taslar/kuvars">Kuvars</Link>
-            <Link to="/dogal-taslar/granit">Granit</Link>
-            <Link to="/dogal-taslar/oniks">Oniks</Link>
-            <Link to="/dogal-taslar/limestone">Linkmestone</Link>
-            <Link to="/dogal-taslar/andezit">Andezit</Link>
-            <Link to="/dogal-taslar/bazalt">Bazalt</Link>
-            <Link to="/dogal-taslar/dolomit">Dolomit</Link>
-            <Link to="/dogal-taslar/dis-mekan">Dış Mekan</Link>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/dogal-taslar/bej-mermer"
+            >
+              Bej Mermer
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/dogal-taslar/traverten"
+            >
+              Traverten
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/dogal-taslar/kuvars"
+            >
+              Kuvars
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/dogal-taslar/granit"
+            >
+              Granit
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/dogal-taslar/oniks"
+            >
+              Oniks
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/dogal-taslar/limestone"
+            >
+              Linkmestone
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/dogal-taslar/andezit"
+            >
+              Andezit
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/dogal-taslar/bazalt"
+            >
+              Bazalt
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/dogal-taslar/dolomit"
+            >
+              Dolomit
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/dogal-taslar/dis-mekan"
+            >
+              Dış Mekan
+            </NavLink>
           </ul>
         )}
       </div>
       <div className="plakalar">
-        <Link to="/plakalar" className="font-bold">
+        <NavLink
+          className={({ isActive }) => isActive && "active"}
+          to="/plakalar"
+        >
           Plakalar
-        </Link>
+        </NavLink>
         <button onClick={() => setPlakalar(!plakalar)} className="ml-2">
           {plakalar ? "↑" : "↓"}
         </button>
         {plakalar && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
-            <Link to="/plakalar/yari-degerli">Yarı Değerli Plakalar</Link>
-            <Link to="/plakalar/mermer">Mermer Plakalar</Link>
-            <Link to="/plakalar/bej-mermer">Bej Mermer Plakalar</Link>
-            <Link to="/plakalar/granit">Granit Plakalar</Link>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/plakalar/yari-degerli"
+            >
+              Yarı Değerli Plakalar
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/plakalar/mermer"
+            >
+              Mermer Plakalar
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/plakalar/bej-mermer"
+            >
+              Bej Mermer Plakalar
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/plakalar/granit"
+            >
+              Granit Plakalar
+            </NavLink>
             <ul>
-              <Link to="/plakalar/porselen-plakalar">Porselen Plakalar</Link>
+              <NavLink
+                className={({ isActive }) => isActive && "active"}
+                to="/plakalar/porselen-plakalar"
+              >
+                Porselen Plakalar
+              </NavLink>
               <button
                 onClick={() => setPorselenPlaka(!porselenPlaka)}
                 className="ml-2"
@@ -170,23 +326,40 @@ const SideBar = () => {
               </button>
               {porselenPlaka && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
-                  <Link to="/plakalar/porselen-plakalar/sintered">
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/plakalar/porselen-plakalar/sintered"
+                  >
                     Sintered Stone Plakalar
-                  </Link>
-                  <Link to="/plakalar/porselen-plakalar/levantec">
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/plakalar/porselen-plakalar/levantec"
+                  >
                     Levantec Porselen Plakalar
-                  </Link>
-                  <Link to="/plakalar/porselen-plakalar/estestone">
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/plakalar/porselen-plakalar/estestone"
+                  >
                     Estestone Porselen Plakalar
-                  </Link>
-                  <Link to="/plakalar/porselen-plakalar/lamar">
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/plakalar/porselen-plakalar/lamar"
+                  >
                     Lamar Porselen Plakalar
-                  </Link>
+                  </NavLink>
                 </div>
               )}
             </ul>
             <ul>
-              <Link to="/plakalar/kuvars-plakalar">Kuvars Plakalar</Link>
+              <NavLink
+                className={({ isActive }) => isActive && "active"}
+                to="/plakalar/kuvars-plakalar"
+              >
+                Kuvars Plakalar
+              </NavLink>
               <button
                 onClick={() => setKuvarsPlaka(!kuvarsPlaka)}
                 className="ml-2"
@@ -195,32 +368,67 @@ const SideBar = () => {
               </button>
               {kuvarsPlaka && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
-                  <Link to="/plakalar/kuvars-plakalar/caesarstone">
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/plakalar/kuvars-plakalar/caesarstone"
+                  >
                     Caesarstone Kuvars Plakalar
-                  </Link>
-                  <Link to="/plakalar/kuvars-plakalar/calisco">
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/plakalar/kuvars-plakalar/calisco"
+                  >
                     Calisco Kuvars Plakalar
-                  </Link>
-                  <Link to="/plakalar/kuvars-plakalar/belenco">
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/plakalar/kuvars-plakalar/belenco"
+                  >
                     Belenco Kuvars Plakalar
-                  </Link>
-                  <Link to="/plakalar/kuvars-plakalar/cimstone">
+                  </NavLink>
+                  <NavLink
+                    className={({ isActive }) => isActive && "active"}
+                    to="/plakalar/kuvars-plakalar/cimstone"
+                  >
                     Çimstone Kuvars Plakalar
-                  </Link>
+                  </NavLink>
                 </div>
               )}
             </ul>
-            <Link to="/plakalar/oniks">Oniks Plakalar</Link>
-            <Link to="/plakalar/limestone">Limestone Plakalar</Link>
-            <Link to="/plakalar/traverten">Traverten Plakalar</Link>
-            <Link to="/plakalar/andezit-bazalt">Andezit - Bazalt Plakalar</Link>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/plakalar/oniks"
+            >
+              Oniks Plakalar
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/plakalar/limestone"
+            >
+              Limestone Plakalar
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/plakalar/traverten"
+            >
+              Traverten Plakalar
+            </NavLink>
+            <NavLink
+              className={({ isActive }) => isActive && "active"}
+              to="/plakalar/andezit-bazalt"
+            >
+              Andezit - Bazalt Plakalar
+            </NavLink>
           </ul>
         )}
       </div>
       <div className="bloklar">
-        <Link to="/bloklar" className="font-bold">
+        <NavLink
+          className={({ isActive }) => isActive && "active"}
+          to="/bloklar"
+        >
           Bloklar
-        </Link>
+        </NavLink>
         <button onClick={() => setBloklar(!bloklar)} className="ml-2">
           {bloklar ? "↑" : "↓"}
         </button>
@@ -233,9 +441,12 @@ const SideBar = () => {
         )}
       </div>
       <div className="urunler">
-        <Link to="/urunler" className="font-bold">
+        <NavLink
+          className={({ isActive }) => isActive && "active"}
+          to="/urunler"
+        >
           Ürünler
-        </Link>
+        </NavLink>
         <button onClick={() => setUrunler(!urunler)} className="ml-2">
           {urunler ? "↑" : "↓"}
         </button>
@@ -322,9 +533,12 @@ const SideBar = () => {
         )}
       </div>
       <div className="terrazo">
-        <Link to="/terrazo" className="font-bold">
+        <NavLink
+          className={({ isActive }) => isActive && "active"}
+          to="/terrazo"
+        >
           Terrazo
-        </Link>
+        </NavLink>
         <button onClick={() => setTerrazo(!terrazo)} className="ml-2">
           {terrazo ? "↑" : "↓"}
         </button>
