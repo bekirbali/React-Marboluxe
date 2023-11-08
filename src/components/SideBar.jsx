@@ -38,11 +38,11 @@ const SideBar = () => {
   } = useContext(MarboContext);
 
   return (
-    <div className="mt-10 max-w-[200px] mx-auto">
+    <div className="mt-10 max-w-[200px] mx-auto flex flex-col gap-4">
       <h2 className="font-bold">KATEGORİLER</h2>
       <div className="border-b-2 border-gray-500 w-12"></div>
 
-      <div className="tezgahlar border-b-2 border-gray-500 py-2">
+      <div className="tezgahlar border-b-2 border-gray-500 pb-2 ">
         <NavLink
           className={({ isActive }) => isActive && "active"}
           to="/tezgahlar"
@@ -141,7 +141,7 @@ const SideBar = () => {
           </ul>
         )}
       </div>
-      <div className="dogal-taslar border-b-2 border-gray-500 py-2">
+      <div className="dogal-taslar border-b-2 border-gray-500 pb-2 ">
         <NavLink
           className={({ isActive }) => isActive && "active"}
           to="/dogal-taslar"
@@ -275,7 +275,7 @@ const SideBar = () => {
           </ul>
         )}
       </div>
-      <div className="plakalar border-b-2 border-gray-500 py-2">
+      <div className="plakalar border-b-2 border-gray-500 pb-2 ">
         <NavLink
           className={({ isActive }) => isActive && "active"}
           to="/plakalar"
@@ -422,7 +422,7 @@ const SideBar = () => {
           </ul>
         )}
       </div>
-      <div className="bloklar border-b-2 border-gray-500 py-2">
+      <div className="bloklar border-b-2 border-gray-500 pb-2 ">
         <NavLink
           className={({ isActive }) => isActive && "active"}
           to="/bloklar"
@@ -440,7 +440,7 @@ const SideBar = () => {
           </ul>
         )}
       </div>
-      <div className="urunler border-b-2 border-gray-500 py-2">
+      <div className="urunler border-b-2 border-gray-500 pb-2 ">
         <NavLink
           className={({ isActive }) => isActive && "active"}
           to="/urunler"
@@ -532,7 +532,7 @@ const SideBar = () => {
           </ul>
         )}
       </div>
-      <div className="terrazo border-b-2 border-gray-500 py-2">
+      <div className="terrazo border-b-2 border-gray-500 pb-2 ">
         <NavLink
           className={({ isActive }) => isActive && "active"}
           to="/terrazo"

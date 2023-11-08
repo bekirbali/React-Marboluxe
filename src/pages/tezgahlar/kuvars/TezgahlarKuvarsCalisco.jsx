@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useEffect } from "react";
 import { tezgahlarKuvarsCalisco } from "../../../utils";
 import { useNavigate } from "react-router-dom";
 import Breadcrumbs from "../../../components/Breadcrumbs";
@@ -6,28 +6,9 @@ import SideBar from "../../../components/SideBar";
 import { MarboContext } from "../../../context/MarboContext";
 
 const TezgahlarKuvarsCalisco = () => {
-  const [page, setPage] = useState(0);
   const navigate = useNavigate();
 
   const { setDogalTaslar, setPlakalar } = useContext(MarboContext);
-
-  const pageHandler = (e) => {
-    if (e.target.value === "prev") {
-      if (page === 0) {
-        console.log("firstPage");
-        return;
-      }
-      setPage(page - 1);
-      return;
-    }
-    if (e.target.value === "next") {
-      if (page === tezgahlarKuvarsCalisco.length - 1) {
-        console.log("lastPage");
-        return;
-      }
-      setPage(page + 1);
-    }
-  };
 
   useEffect(() => {
     setPlakalar(false);
@@ -48,7 +29,7 @@ const TezgahlarKuvarsCalisco = () => {
             Calisco Kuvars Tezgahlar
           </h1>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4">
-            {tezgahlarKuvarsCalisco[page].map((tas, index) => {
+            {tezgahlarKuvarsCalisco[0].map((tas, index) => {
               return (
                 <div
                   key={index}
@@ -70,20 +51,6 @@ const TezgahlarKuvarsCalisco = () => {
                 </div>
               );
             })}
-          </div>
-          <div className="buttons flex gap-4 mt-4" onClick={pageHandler}>
-            <button
-              value="prev"
-              className="bg-yellow-400 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded w-52"
-            >
-              Previous Page
-            </button>
-            <button
-              value="next"
-              className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-52"
-            >
-              Next Page
-            </button>
           </div>
         </div>
       </div>

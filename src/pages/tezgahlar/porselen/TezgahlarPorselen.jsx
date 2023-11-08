@@ -9,7 +9,8 @@ const TezgahlarPorselen = () => {
   const [page, setPage] = useState(0);
   const navigate = useNavigate();
 
-  const { setDogalTaslar, setPlakalar } = useContext(MarboContext);
+  const { setDogalTaslar, setPlakalar, setKuvarsTezgah, setPorselenTezgah } =
+    useContext(MarboContext);
 
   const pageHandler = (e) => {
     if (e.target.value === "prev") {
@@ -32,7 +33,8 @@ const TezgahlarPorselen = () => {
   useEffect(() => {
     setPlakalar(false);
     setDogalTaslar(false);
-
+    setKuvarsTezgah(false);
+    setPorselenTezgah(true);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
