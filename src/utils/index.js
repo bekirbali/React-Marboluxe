@@ -1286,11 +1286,13 @@ export const dogalTaslar = [
 export const ozelKoleksiyon = [
   [
     {
-      image: "/images/koleksiyon/page-1/panda-emerald-marble.jpg",
+      image:
+        "/images/dogal/Mermer/MermerPage-1/panda-emerald-marble-300x300.avif",
       name: "Panda Emerald Marble 101",
     },
     {
-      image: "/images/koleksiyon/page-1/RAIN-FOREST-BROWN-3.avif",
+      image:
+        "/images/dogal/Mermer/MermerPage-1/RAIN-FOREST-BROWN-3-300x300.avif",
       name: "Rain Forest Brown 103",
     },
     {
