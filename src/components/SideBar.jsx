@@ -52,26 +52,24 @@ const SideBar = () => {
         {tezgahlar && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
             <ul className="kuvars">
-              <h4>
-                Kuvars Tezgah
-                <button
-                  onClick={() => setKuvarsTezgah(!kuvarsTezgah)}
-                  className="ml-2"
-                >
-                  {kuvarsTezgah ? "↑" : "↓"}
-                </button>
-              </h4>
+              <Link to="/tezgahlar/kuvars">Kuvars Tezgah</Link>
+              <button
+                onClick={() => setKuvarsTezgah(!kuvarsTezgah)}
+                className="ml-2"
+              >
+                {kuvarsTezgah ? "↑" : "↓"}
+              </button>
               {kuvarsTezgah && (
-                <div className="ml-2 border-l-2 border-gray-300 pl-2">
-                  <li>Caesarstone Tezgah</li>
-                  <li>Calisco Tezgah</li>
-                  <li>Belenco Tezgah</li>
-                  <li>Çimstone Tezgah</li>
+                <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
+                  <Link to="/tezgahlar/kuvars/caesar">Caesarstone Tezgah</Link>
+                  <Link to="/tezgahlar/kuvars/calisco">Calisco Tezgah</Link>
+                  <Link to="/tezgahlar/kuvars/belenco">Belenco Tezgah</Link>
+                  <Link to="/tezgahlar/kuvars/cimstone">Çimstone Tezgah</Link>
                 </div>
               )}
             </ul>
             <ul className="porselen">
-              <h4>
+              <Link to="/tezgahlar/porselen">
                 Porselen Tezgah
                 <button
                   onClick={() => setPorselenTezgah(!porselenTezgah)}
@@ -79,13 +77,21 @@ const SideBar = () => {
                 >
                   {porselenTezgah ? "↑" : "↓"}
                 </button>
-              </h4>
+              </Link>
               {porselenTezgah && (
-                <div className="ml-2 border-l-2 border-gray-300 pl-2">
-                  <li>Sintered Stone Tezgah</li>
-                  <li>Levantec Porselen Tezgah</li>
-                  <li>Estestone Porselen Tezgah</li>
-                  <li>Lamar Porselen Tezgah</li>
+                <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
+                  <Link to="/tezgahlar/porselen/sintered">
+                    Sintered Stone Tezgah
+                  </Link>
+                  <Link to="/tezgahlar/porselen/levantec">
+                    Levantec Porselen Tezgah
+                  </Link>
+                  <Link to="/tezgahlar/porselen/estestone">
+                    Estestone Porselen Tezgah
+                  </Link>
+                  <Link to="/tezgahlar/porselen/lamar">
+                    Lamar Porselen Tezgah
+                  </Link>
                 </div>
               )}
             </ul>
