@@ -12,10 +12,10 @@ const TezgahlarPorselenSintered = () => {
     useContext(MarboContext);
 
   useEffect(() => {
-    setPorselenPlaka(true);
-    setKuvarsPlaka(false);
-    setDogalTaslar(false);
-    setTezgahlar(false);
+    // setPorselenPlaka(true);
+    // setKuvarsPlaka(false);
+    // setDogalTaslar(false);
+    // setTezgahlar(false);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
