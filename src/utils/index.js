@@ -6361,13 +6361,13 @@ export const tezgahlar = [
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/57-Vanilla-Noir-300x300.jpg",
       name: "Vanilla Noir",
     },
-  ],
-  [
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/58-Piatto-Black-300x300.jpg",
       name: "Piatto Black",
     },
+  ],
+  [
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/59-Black-Noir-300x300.jpg",
@@ -6758,7 +6758,8 @@ export const tezgahlar = [
       name: "Sahara Noir 10001",
     },
     {
-      image: "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/",
+      image:
+        "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Statuario-Elite_lamar-2-300x300.jpg",
       name: "Statuario Elite 10001",
     },
     {
@@ -14077,7 +14078,8 @@ export const tezgahlarPorselen = [
       name: "Calacatta 10001",
     },
     {
-      image: "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/",
+      image:
+        "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Statuario-Elite_lamar-2-300x300.jpg",
       name: "Statuario Elite 10001",
     },
   ],
@@ -15043,7 +15045,8 @@ export const tezgahlarPorselenLamar = [
       name: "Calacatta 10001",
     },
     {
-      image: "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/",
+      image:
+        "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Statuario-Elite_lamar-2-300x300.jpg",
       name: "Statuario Elite 10001",
     },
     {
