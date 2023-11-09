@@ -3,6 +3,7 @@ import { ozelKoleksiyon } from "../utils";
 import { useNavigate } from "react-router-dom";
 import Breadcrumbs from "../components/Breadcrumbs";
 import SideBar from "../components/SideBar";
+import Buttons from "../components/Buttons";
 
 const OzelKoleksiyon = () => {
   const [page, setPage] = useState(0);
@@ -73,6 +74,7 @@ const OzelKoleksiyon = () => {
             >
               Next Page
             </button>
+            <Buttons />
           </div>
         </div>
       </div>
