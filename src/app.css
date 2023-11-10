@@ -8,6 +8,9 @@ h2,
 h3 {
   cursor: default;
 }
+svg {
+  cursor: pointer;
+}
 
 .swiper {
   width: 100%;

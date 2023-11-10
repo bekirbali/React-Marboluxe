@@ -10,21 +10,22 @@ const OzelKoleksiyon = () => {
   const navigate = useNavigate();
 
   const pageHandler = (e) => {
-    if (e.target.value === "prev") {
-      if (page === 0) {
-        console.log("firstPage");
-        return;
-      }
-      setPage(page - 1);
-      return;
-    }
-    if (e.target.value === "next") {
-      if (page === ozelKoleksiyon.length - 1) {
-        console.log("lastPage");
-        return;
-      }
-      setPage(page + 1);
-    }
+    // if (e.target.value === "prev") {
+    //   if (page === 0) {
+    //     console.log("firstPage");
+    //     return;
+    //   }
+    //   setPage(page - 1);
+    //   return;
+    // }
+    // if (e.target.value === "next") {
+    //   if (page === ozelKoleksiyon.length - 1) {
+    //     console.log("lastPage");
+    //     return;
+    //   }
+    //   setPage(page + 1);
+    // }
+    console.log(e.target.value);
   };
   return (
     <>
@@ -61,7 +62,7 @@ const OzelKoleksiyon = () => {
               );
             })}
           </div>
-          <div className="buttons flex gap-4 mt-4" onClick={pageHandler}>
+          <div className="buttons flex gap-4 mt-4">
             <button
               value="prev"
               className="bg-yellow-400 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded w-52"
@@ -74,7 +75,7 @@ const OzelKoleksiyon = () => {
             >
               Next Page
             </button>
-            <Buttons />
+            <Buttons setPage={setPage} page={page} />
           </div>
         </div>
       </div>

@@ -1,29 +1,50 @@
 import React, { useState } from "react";
-import { dogalTaslar } from "../utils";
+import { dogalTaslar, dogalTaslarMermer } from "../utils";
 import { useNavigate } from "react-router-dom";
 import Breadcrumbs from "../components/Breadcrumbs";
+import {
+  BsFillArrowLeftCircleFill,
+  BsFillArrowRightCircleFill,
+} from "react-icons/bs";
 
 const Kataloglar = () => {
   const [page, setPage] = useState(0);
   const navigate = useNavigate();
 
-  const pageHandler = (e) => {
-    if (e.target.value === "prev") {
-      if (page === 0) {
-        console.log("firstPage");
-        return;
-      }
-      setPage(page - 1);
+  const backHandler = () => {
+    if (page === 0) {
+      console.log("firstPage");
       return;
     }
-    if (e.target.value === "next") {
-      if (page === dogalTaslar.length - 1) {
-        console.log("lastPage");
-        return;
-      }
-      setPage(page + 1);
-    }
+    setPage(page - 1);
+    return;
   };
+
+  const nextHandler = () => {
+    if (page === dogalTaslarMermer.length - 1) {
+      console.log("lastPage");
+      return;
+    }
+    setPage(page + 1);
+  };
+
+  // const pageHandler = (e) => {
+  //   if (e.target.value === "prev") {
+  //     if (page === 0) {
+  //       console.log("firstPage");
+  //       return;
+  //     }
+  //     setPage(page - 1);
+  //     return;
+  //   }
+  //   if (e.target.value === "next") {
+  //     if (page === dogalTaslar.length - 1) {
+  //       console.log("lastPage");
+  //       return;
+  //     }
+  //     setPage(page + 1);
+  //   }
+  // };
   return (
     <>
       <Breadcrumbs />
@@ -51,19 +72,17 @@ const Kataloglar = () => {
             );
           })}
         </div>
-        <div className="buttons flex gap-4 mt-4" onClick={pageHandler}>
-          <button
-            value="prev"
-            className="bg-yellow-400 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded w-52"
-          >
-            Previous Page
-          </button>
-          <button
-            value="next"
-            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-52"
-          >
-            Next Page
-          </button>
+        <div className="buttons flex gap-4 mt-4">
+          <BsFillArrowLeftCircleFill
+            size={24}
+            color="gray"
+            onClick={backHandler}
+          />
+          <BsFillArrowRightCircleFill
+            size={24}
+            color="gray"
+            onClick={nextHandler}
+          />
         </div>
       </div>
     </>
