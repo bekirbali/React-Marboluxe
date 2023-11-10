@@ -33,8 +33,6 @@ const SideBar = () => {
     setWaterjet,
     dekoratifUrunler,
     setDekoratifUrunler,
-    mozaik,
-    setMozaik,
   } = useContext(MarboContext);
 
   return (
@@ -42,7 +40,7 @@ const SideBar = () => {
       <h2 className="font-bold">KATEGORİLER</h2>
       <div className="border-b-2 border-gray-500 w-12"></div>
 
-      <div className="tezgahlar border-b-2 border-gray-500 pb-2 ">
+      <div className="tezgahlar border-b-2 border-gray-300 pb-2 ">
         <NavLink
           className={({ isActive }) => (isActive ? "active" : "")}
           to="/tezgahlar"
@@ -141,7 +139,7 @@ const SideBar = () => {
           </ul>
         )}
       </div>
-      <div className="dogal-taslar border-b-2 border-gray-500 pb-2 ">
+      <div className="dogal-taslar border-b-2 border-gray-300 pb-2 ">
         <NavLink
           className={({ isActive }) => (isActive ? "active" : "")}
           to="/dogal-taslar"
@@ -275,7 +273,7 @@ const SideBar = () => {
           </ul>
         )}
       </div>
-      <div className="plakalar border-b-2 border-gray-500 pb-2 ">
+      <div className="plakalar border-b-2 border-gray-300 pb-2 ">
         <NavLink
           className={({ isActive }) => (isActive ? "active" : "")}
           to="/plakalar"
@@ -422,7 +420,7 @@ const SideBar = () => {
           </ul>
         )}
       </div>
-      <div className="bloklar border-b-2 border-gray-500 pb-2 ">
+      <div className="bloklar border-b-2 border-gray-300 pb-2 ">
         <NavLink
           className={({ isActive }) => (isActive ? "active" : "")}
           to="/bloklar"
@@ -440,7 +438,7 @@ const SideBar = () => {
           </ul>
         )}
       </div>
-      <div className="urunler border-b-2 border-gray-500 pb-2 ">
+      <div className="urunler border-b-2 border-gray-300 pb-2 ">
         <NavLink
           className={({ isActive }) => (isActive ? "active" : "")}
           to="/urunler"
@@ -453,39 +451,47 @@ const SideBar = () => {
         {urunler && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
             <ul className="cnc">
-              <h4>
+              <NavLink to="/urunler/cnc">
                 CNC Ürünler
                 <button onClick={() => setCnc(!cnc)} className="ml-2">
                   {cnc ? "↑" : "↓"}
                 </button>
-              </h4>
+              </NavLink>
               {cnc && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2">
-                  <li>Duvar Dekorasyonları</li>
-                  <li>Masalar</li>
-                  <li>Sehpalar</li>
-                  <li>Tabureler</li>
+                  <NavLink to="/urunler/cnc/duvar">
+                    Duvar Dekorasyonları
+                  </NavLink>
+                  <NavLink to="/urunler/cnc/masalar">Masalar</NavLink>
+                  <NavLink to="/urunler/cnc/sehpalar">Sehpalar</NavLink>
+                  <NavLink to="/urunler/cnc/tabureler">Tabureler</NavLink>
                 </div>
               )}
             </ul>
             <ul className="waterjet">
-              <h4>
+              <NavLink to="/urunler/waterjet">
                 Waterjet
                 <button onClick={() => setWaterjet(!waterjet)} className="ml-2">
                   {waterjet ? "↑" : "↓"}
                 </button>
-              </h4>
+              </NavLink>
               {waterjet && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2">
-                  <li>Waterjet Madalyon</li>
-                  <li>Waterjet Mozaik</li>
-                  <li>Waterjet Bordür</li>
-                  <li>Waterjet Karo</li>
+                  <NavLink to="/urunler/waterjet/madalyon">
+                    Waterjet Madalyon
+                  </NavLink>
+                  <NavLink to="/urunler/waterjet/mozaik">
+                    Waterjet Mozaik
+                  </NavLink>
+                  <NavLink to="/urunler/waterjet/bordur">
+                    Waterjet Bordür
+                  </NavLink>
+                  <NavLink to="/urunler/waterjet/karo">Waterjet Karo</NavLink>
                 </div>
               )}
             </ul>
             <ul className="dekoratif-urunler">
-              <h4>
+              <NavLink to="/urunler/dekoratif">
                 Dekoratif Ürünler
                 <button
                   onClick={() => setDekoratifUrunler(!dekoratifUrunler)}
@@ -493,46 +499,31 @@ const SideBar = () => {
                 >
                   {dekoratifUrunler ? "↑" : "↓"}
                 </button>
-              </h4>
+              </NavLink>
               {dekoratifUrunler && (
-                <div className="ml-2 border-l-2 border-gray-300 pl-2">
-                  <li>Süpürgelik</li>
-                  <li>Kolon</li>
-                  <li>Kurna</li>
-                  <li>Sütun</li>
-                  <li>Korkuluk</li>
-                  <li>Söve</li>
-                  <li>Duş Teknesi</li>
-                  <li>Bahçe Süslemesi</li>
-                  <li>Aksesuar</li>
-                  <li>Aplik</li>
-                  <li>Şampuanlık</li>
-                </div>
-              )}
-            </ul>
-            <ul className="mozaik">
-              <h4>
-                Mozaik
-                <button onClick={() => setMozaik(!mozaik)} className="ml-2">
-                  {mozaik ? "↑" : "↓"}
-                </button>
-              </h4>
-              {mozaik && (
-                <div className="ml-2 border-l-2 border-gray-300 pl-2">
-                  <li>Cam Mozaik</li>
-                  <li>Klasik Mozaik</li>
-                  <li>Patlarma Mozaik</li>
-                  <li>Dizayn Mozaik</li>
-                  <li>Fine Line Mozaik</li>
-                  <li>Mini Pattern Mozaik</li>
-                  <li>Bordür Mozaik</li>
+                <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
+                  <NavLink to="/urunler/dekoratif/supurgelik">
+                    Süpürgelik
+                  </NavLink>
+                  <NavLink to="/urunler/dekoratif/kolon">Kolon</NavLink>
+                  <NavLink to="/urunler/dekoratif/kurna">Kurna</NavLink>
+                  <NavLink to="/urunler/dekoratif/sutun">Sütun</NavLink>
+                  <NavLink to="/urunler/dekoratif/korkuluk">Korkuluk</NavLink>
+                  <NavLink to="/urunler/dekoratif/sove">Söve</NavLink>
+                  <NavLink to="/urunler/dekoratif/dus">Duş Teknesi</NavLink>
+                  <NavLink to="/urunler/dekoratif/bahce">
+                    Bahçe Süslemesi
+                  </NavLink>
+                  <NavLink to="/urunler/dekoratif/aksesuar">Aksesuar</NavLink>
+                  <NavLink to="/urunler/dekoratif/aplik">Aplik</NavLink>
+                  <NavLink to="/urunler/dekoratif/sampuan">Şampuanlık</NavLink>
                 </div>
               )}
             </ul>
           </ul>
         )}
       </div>
-      <div className="terrazo border-b-2 border-gray-500 pb-2 ">
+      <div className="terrazo border-b-2 border-gray-300 pb-2 ">
         <NavLink
           className={({ isActive }) => (isActive ? "active" : "")}
           to="/terrazo"

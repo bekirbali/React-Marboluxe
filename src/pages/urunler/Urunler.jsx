@@ -1,14 +1,14 @@
 import React, { useState } from "react";
-import { ozelKoleksiyon } from "../utils";
+import { urunler } from "../../utils";
 import { useNavigate } from "react-router-dom";
-import Breadcrumbs from "../components/Breadcrumbs";
-import SideBar from "../components/SideBar";
+import Breadcrumbs from "../../components/Breadcrumbs";
 import {
   BsFillArrowLeftCircleFill,
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
+import SideBar from "../../components/SideBar";
 
-const OzelKoleksiyon = () => {
+const Urunler = () => {
   const [page, setPage] = useState(0);
   const navigate = useNavigate();
 
@@ -22,7 +22,7 @@ const OzelKoleksiyon = () => {
   };
 
   const nextHandler = () => {
-    if (page === ozelKoleksiyon.length - 1) {
+    if (page === urunler.length - 1) {
       console.log("lastPage");
       return;
     }
@@ -30,36 +30,34 @@ const OzelKoleksiyon = () => {
   };
 
   // const pageHandler = (e) => {
-  // if (e.target.value === "prev") {
-  //   if (page === 0) {
-  //     console.log("firstPage");
+  //   if (e.target.value === "prev") {
+  //     if (page === 0) {
+  //       console.log("firstPage");
+  //       return;
+  //     }
+  //     setPage(page - 1);
   //     return;
   //   }
-  //   setPage(page - 1);
-  //   return;
-  // }
-  // if (e.target.value === "next") {
-  //   if (page === ozelKoleksiyon.length - 1) {
-  //     console.log("lastPage");
-  //     return;
+  //   if (e.target.value === "next") {
+  //     if (page === urunler.length - 1) {
+  //       console.log("lastPage");
+  //       return;
+  //     }
+  //     setPage(page + 1);
   //   }
-  //   setPage(page + 1);
-  // }
-  //   console.log(e.target.value);
   // };
   return (
     <>
       <Breadcrumbs />
-      <div className="main-holder-plakalar flex justify-between w-[90%] mx-auto ">
+      <div className="main-holder-dogalTas flex justify-between w-[90%] mx-auto ">
         <div className="flex-[1] ">
           <SideBar />
         </div>
-        <div className="p-4 flex flex-col items-center mb-24 flex-[4]">
-          <h1 className="text-center text-3xl font-bold my-4">
-            Özel Koleksiyon
-          </h1>
+
+        <div className="p-4 flex flex-col items-center flex-[4]">
+          <h1 className="text-center text-3xl font-bold my-4">Ürünler</h1>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4">
-            {ozelKoleksiyon[page].map((tas, index) => {
+            {urunler[page].map((tas, index) => {
               return (
                 <div
                   key={index}
@@ -100,4 +98,4 @@ const OzelKoleksiyon = () => {
   );
 };
 
-export default OzelKoleksiyon;
+export default Urunler;
