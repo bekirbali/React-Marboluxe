@@ -10,7 +10,7 @@ import OzelKoleksiyon from "../pages/OzelKoleksiyon";
 import Plakalar from "../pages/plakalar/Plakalar";
 import Projeler from "../pages/Projeler";
 import Tezgahlar from "../pages/tezgahlar/Tezgahlar";
-import Urunler from "../pages/Urunler";
+import Urunler from "../pages/urunler/Urunler";
 import Footer from "../components/Footer";
 import Details from "../components/Details";
 import DogalTaslarMermerBeyaz from "../pages/dogal-taslar/mermer/DogalTaslarMermerBeyaz";
@@ -57,6 +57,28 @@ import TezgahlarPorselenEstestone from "../pages/tezgahlar/porselen/TezgahlarPor
 import TezgahlarPorselenLamar from "../pages/tezgahlar/porselen/TezgahlarPorselenLamar";
 import TezgahlarPorselenLevantec from "../pages/tezgahlar/porselen/TezgahlarPorselenLevantec";
 import TezgahlarPorselenSintered from "../pages/tezgahlar/porselen/TezgahlarPorselenSintered";
+import UrunlerCnc from "../pages/urunler/cnc/UrunlerCnc";
+import UrunlerCncDuvarlar from "../pages/urunler/cnc/UrunlerCncDuvarlar";
+import UrunlerCncMasalar from "../pages/urunler/cnc/UrunlerCncMasalar";
+import UrunlerCncSehpalar from "../pages/urunler/cnc/UrunlerCncSehpalar";
+import UrunlerCncTabureler from "../pages/urunler/cnc/UrunlerCncTabureler";
+import UrunlerWaterjet from "../pages/urunler/waterjet/UrunlerWaterjet";
+import UrunlerWaterjetBordur from "../pages/urunler/waterjet/UrunlerWaterjetBordur";
+import UrunlerWaterjetKaro from "../pages/urunler/waterjet/UrunlerWaterjetKaro";
+import UrunlerWaterjetMadalyon from "../pages/urunler/waterjet/UrunlerWaterjetMadalyon";
+import UrunlerWaterjetMozaik from "../pages/urunler/waterjet/UrunlerWaterjetMozaik";
+import UrunlerDekoratif from "../pages/urunler/dekoratif/UrunlerDekoratif";
+import UrunlerDekoratifAksesuar from "../pages/urunler/dekoratif/UrunlerDekoratifAksesuar";
+import UrunlerDekoratifAplik from "../pages/urunler/dekoratif/UrunlerDekoratifAplik";
+import UrunlerDekoratifBahce from "../pages/urunler/dekoratif/UrunlerDekoratifBahce";
+import UrunlerDekoratifDus from "../pages/urunler/dekoratif/UrunlerDekoratifDus";
+import UrunlerDekoratifKolon from "../pages/urunler/dekoratif/UrunlerDekoratifKolon";
+import UrunlerDekoratifKorkuluk from "../pages/urunler/dekoratif/UrunlerDekoratifKorkuluk";
+import UrunlerDekoratifKurna from "../pages/urunler/dekoratif/UrunlerDekoratifKurna";
+import UrunlerDekoratifSampuanlik from "../pages/urunler/dekoratif/UrunlerDekoratifSampuanlik";
+import UrunlerDekoratifSove from "../pages/urunler/dekoratif/UrunlerDekoratifSove";
+import UrunlerDekoratifSupurgelik from "../pages/urunler/dekoratif/UrunlerDekoratifSupurgelik";
+import UrunlerDekoratifSutun from "../pages/urunler/dekoratif/UrunlerDekoratifSutun";
 
 const AppRouter = () => {
   return (
@@ -345,17 +367,142 @@ const AppRouter = () => {
             />
           </>
         </>
-        <Route path="kataloglar" element={<Kataloglar />} />
-        <Route path="kataloglar/:name" element={<Details />} />
+
+        {/* Urunler */}
+        <>
+          <Route path="urunler" element={<Urunler />} />
+          <Route path="urunler/:name" element={<Details />} />
+          {/* Cnc Urunler */}
+          <>
+            <Route path="urunler/cnc" element={<UrunlerCnc />} />
+            <Route path="urunler/cnc/:name" element={<Details />} />
+            <Route
+              path="urunler/cnc/duvarlar"
+              element={<UrunlerCncDuvarlar />}
+            />
+            <Route path="urunler/cnc/duvarlar/:name" element={<Details />} />
+            <Route path="urunler/cnc/masalar" element={<UrunlerCncMasalar />} />
+            <Route path="urunler/cnc/masalar/:name" element={<Details />} />
+            <Route
+              path="urunler/cnc/sehpalar"
+              element={<UrunlerCncSehpalar />}
+            />
+            <Route path="urunler/cnc/sehpalar/:name" element={<Details />} />
+            <Route
+              path="urunler/cnc/tabureler"
+              element={<UrunlerCncTabureler />}
+            />
+            <Route path="urunler/cnc/tabureler/:name" element={<Details />} />
+          </>
+          {/* Waterjet Urunler */}
+          <>
+            <Route path="urunler/waterjet/" element={<UrunlerWaterjet />} />
+            <Route path="urunler/waterjet/:name" element={<Details />} />
+            <Route
+              path="urunler/waterjet/bordur"
+              element={<UrunlerWaterjetBordur />}
+            />
+            <Route path="urunler/waterjet/bordur:name" element={<Details />} />
+            <Route
+              path="urunler/waterjet/karo"
+              element={<UrunlerWaterjetKaro />}
+            />
+            <Route path="urunler/waterjet/karo:name" element={<Details />} />
+            <Route
+              path="urunler/waterjet/madalyon"
+              element={<UrunlerWaterjetMadalyon />}
+            />
+            <Route
+              path="urunler/waterjet/madalyon:name"
+              element={<Details />}
+            />
+            <Route
+              path="urunler/waterjet/mozaik"
+              element={<UrunlerWaterjetMozaik />}
+            />
+            <Route path="urunler/waterjet/mozaik:name" element={<Details />} />
+          </>
+          {/* Dekoratif Urunler */}
+          <>
+            <Route path="urunler/dekoratif" element={<UrunlerDekoratif />} />
+            <Route path="urunler/dekoratif/:name" element={<Details />} />
+            <Route
+              path="urunler/dekoratif/aksesuar"
+              element={<UrunlerDekoratifAksesuar />}
+            />
+            <Route
+              path="urunler/dekoratif/aksesuar/:name"
+              element={<Details />}
+            />
+            <Route
+              path="urunler/dekoratif/aplik"
+              element={<UrunlerDekoratifAplik />}
+            />
+            <Route path="urunler/dekoratif/aplik/:name" element={<Details />} />
+            <Route
+              path="urunler/dekoratif/bahce"
+              element={<UrunlerDekoratifBahce />}
+            />
+            <Route path="urunler/dekoratif/bahce/:name" element={<Details />} />
+            <Route
+              path="urunler/dekoratif/dus"
+              element={<UrunlerDekoratifDus />}
+            />
+            <Route path="urunler/dekoratif/dus/:name" element={<Details />} />
+            <Route
+              path="urunler/dekoratif/kolon"
+              element={<UrunlerDekoratifKolon />}
+            />
+            <Route path="urunler/dekoratif/kolon/:name" element={<Details />} />
+            <Route
+              path="urunler/dekoratif/korkuluk"
+              element={<UrunlerDekoratifKorkuluk />}
+            />
+            <Route
+              path="urunler/dekoratif/korkuluk/:name"
+              element={<Details />}
+            />
+            <Route
+              path="urunler/dekoratif/kurna"
+              element={<UrunlerDekoratifKurna />}
+            />
+            <Route path="urunler/dekoratif/kurna/:name" element={<Details />} />
+            <Route
+              path="urunler/dekoratif/sampuanlik"
+              element={<UrunlerDekoratifSampuanlik />}
+            />
+            <Route
+              path="urunler/dekoratif/sampuanlik/:name"
+              element={<Details />}
+            />
+            <Route
+              path="urunler/dekoratif/sove"
+              element={<UrunlerDekoratifSove />}
+            />
+            <Route path="urunler/dekoratif/sove/:name" element={<Details />} />
+            <Route
+              path="urunler/dekoratif/supurgelik"
+              element={<UrunlerDekoratifSupurgelik />}
+            />
+            <Route
+              path="urunler/dekoratif/supurgelik/:name"
+              element={<Details />}
+            />
+            <Route
+              path="urunler/dekoratif/sutun"
+              element={<UrunlerDekoratifSutun />}
+            />
+            <Route path="urunler/dekoratif/sutun/:name" element={<Details />} />
+          </>
+        </>
         <Route path="ocaklar" element={<Ocaklar />} />
         <Route path="ocaklar/:name" element={<Details />} />
+        <Route path="kataloglar" element={<Kataloglar />} />
+        <Route path="kataloglar/:name" element={<Details />} />
         <Route path="ozel-koleksiyon" element={<OzelKoleksiyon />} />
         <Route path="ozel-koleksiyon/:name" element={<Details />} />
         <Route path="projeler" element={<Projeler />} />
         <Route path="projeler/:name" element={<Details />} />
-
-        <Route path="urunler" element={<Urunler />} />
-        <Route path="urunler/:name" element={<Details />} />
       </Routes>
       <Footer />
     </div>
