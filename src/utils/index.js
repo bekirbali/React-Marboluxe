@@ -2384,22 +2384,22 @@ export const urunler = [
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon22-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon22-300x300.png",
       name: "Waterjet Madalyon WJM-22",
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon24-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon24-300x300.png",
       name: "Waterjet Madalyon WJM-24",
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon25-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon25-300x300.png",
       name: "Waterjet Madalyon WJM-25",
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon26-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon26-300x300.png",
       name: "Waterjet Madalyon WJM-26",
     },
     {
@@ -2409,12 +2409,12 @@ export const urunler = [
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon28-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon28-300x300.png",
       name: "Waterjet Madalyon WJM-28",
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon29-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon29-300x300.png",
       name: "Waterjet Madalyon WJM-29",
     },
     {
@@ -16173,22 +16173,22 @@ export const urunlerWaterjet = [
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon22-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon22-300x300.png",
       name: "Waterjet Madalyon WJM-22",
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon24-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon24-300x300.png",
       name: "Waterjet Madalyon WJM-24",
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon25-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon25-300x300.png",
       name: "Waterjet Madalyon WJM-25",
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon26-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon26-300x300.png",
       name: "Waterjet Madalyon WJM-26",
     },
     {
@@ -16198,12 +16198,12 @@ export const urunlerWaterjet = [
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon28-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon28-300x300.png",
       name: "Waterjet Madalyon WJM-28",
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon29-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon29-300x300.png",
       name: "Waterjet Madalyon WJM-29",
     },
     {
@@ -17738,22 +17738,22 @@ export const urunlerWaterjetMadalyon = [
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon22-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon22-300x300.png",
       name: "Waterjet Madalyon WJM-22",
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon24-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon24-300x300.png",
       name: "Waterjet Madalyon WJM-24",
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon25-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon25-300x300.png",
       name: "Waterjet Madalyon WJM-25",
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon26-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon26-300x300.png",
       name: "Waterjet Madalyon WJM-26",
     },
     {
@@ -17763,12 +17763,12 @@ export const urunlerWaterjetMadalyon = [
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon28-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon28-300x300.png",
       name: "Waterjet Madalyon WJM-28",
     },
     {
       image:
-        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon29-300x300.jpg",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon29-300x300.png",
       name: "Waterjet Madalyon WJM-29",
     },
     {

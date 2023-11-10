@@ -510,7 +510,9 @@ const SideBar = () => {
                   </NavLink>
                   <NavLink to="/urunler/dekoratif/aksesuar">Aksesuar</NavLink>
                   <NavLink to="/urunler/dekoratif/aplik">Aplik</NavLink>
-                  <NavLink to="/urunler/dekoratif/sampuan">Şampuanlık</NavLink>
+                  <NavLink to="/urunler/dekoratif/sampuanlik">
+                    Şampuanlık
+                  </NavLink>
                 </div>
               )}
             </ul>
