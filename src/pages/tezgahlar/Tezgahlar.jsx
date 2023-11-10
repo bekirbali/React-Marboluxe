@@ -13,7 +13,7 @@ const Tezgahlar = () => {
   const [page, setPage] = useState(0);
   const navigate = useNavigate();
 
-  const { setDogalTaslar, setPlakalar, setTezgahlar } =
+  const { setDogalTaslar, setPlakalar, setTezgahlar, setUrunler } =
     useContext(MarboContext);
 
   const backHandler = () => {
@@ -55,6 +55,7 @@ const Tezgahlar = () => {
     setPlakalar(false);
     setDogalTaslar(false);
     setTezgahlar(true);
+    setUrunler(false);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 

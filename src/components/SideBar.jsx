@@ -451,14 +451,12 @@ const SideBar = () => {
         {urunler && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
             <ul className="cnc">
-              <NavLink to="/urunler/cnc">
-                CNC Ürünler
-                <button onClick={() => setCnc(!cnc)} className="ml-2">
-                  {cnc ? "↑" : "↓"}
-                </button>
-              </NavLink>
+              <NavLink to="/urunler/cnc">CNC Ürünler</NavLink>
+              <button onClick={() => setCnc(!cnc)} className="ml-2">
+                {cnc ? "↑" : "↓"}
+              </button>
               {cnc && (
-                <div className="ml-2 border-l-2 border-gray-300 pl-2">
+                <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
                   <NavLink to="/urunler/cnc/duvar">
                     Duvar Dekorasyonları
                   </NavLink>
@@ -469,14 +467,12 @@ const SideBar = () => {
               )}
             </ul>
             <ul className="waterjet">
-              <NavLink to="/urunler/waterjet">
-                Waterjet
-                <button onClick={() => setWaterjet(!waterjet)} className="ml-2">
-                  {waterjet ? "↑" : "↓"}
-                </button>
-              </NavLink>
+              <NavLink to="/urunler/waterjet">Waterjet</NavLink>
+              <button onClick={() => setWaterjet(!waterjet)} className="ml-2">
+                {waterjet ? "↑" : "↓"}
+              </button>
               {waterjet && (
-                <div className="ml-2 border-l-2 border-gray-300 pl-2">
+                <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
                   <NavLink to="/urunler/waterjet/madalyon">
                     Waterjet Madalyon
                   </NavLink>
@@ -491,15 +487,13 @@ const SideBar = () => {
               )}
             </ul>
             <ul className="dekoratif-urunler">
-              <NavLink to="/urunler/dekoratif">
-                Dekoratif Ürünler
-                <button
-                  onClick={() => setDekoratifUrunler(!dekoratifUrunler)}
-                  className="ml-2"
-                >
-                  {dekoratifUrunler ? "↑" : "↓"}
-                </button>
-              </NavLink>
+              <NavLink to="/urunler/dekoratif">Dekoratif Ürünler</NavLink>
+              <button
+                onClick={() => setDekoratifUrunler(!dekoratifUrunler)}
+                className="ml-2"
+              >
+                {dekoratifUrunler ? "↑" : "↓"}
+              </button>
               {dekoratifUrunler && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
                   <NavLink to="/urunler/dekoratif/supurgelik">

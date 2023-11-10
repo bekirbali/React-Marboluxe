@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { urunler } from "../../utils";
 import { useNavigate } from "react-router-dom";
 import Breadcrumbs from "../../components/Breadcrumbs";
@@ -7,10 +7,14 @@ import {
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
 import SideBar from "../../components/SideBar";
+import { MarboContext } from "../../context/MarboContext";
 
 const Urunler = () => {
   const [page, setPage] = useState(0);
   const navigate = useNavigate();
+
+  const { setDogalTaslar, setPlakalar, setTezgahlar, setUrunler } =
+    useContext(MarboContext);
 
   const backHandler = () => {
     if (page === 0) {
@@ -46,6 +50,14 @@ const Urunler = () => {
   //     setPage(page + 1);
   //   }
   // };
+
+  useEffect(() => {
+    setPlakalar(false);
+    setDogalTaslar(false);
+    setTezgahlar(false);
+    setUrunler(true);
+  });
+
   return (
     <>
       <Breadcrumbs />

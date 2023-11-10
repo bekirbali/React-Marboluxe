@@ -13,7 +13,7 @@ const DogalTaslar = () => {
   const [page, setPage] = useState(0);
 
   const navigate = useNavigate();
-  const { setDogalTaslar, setPlakalar, setTezgahlar } =
+  const { setDogalTaslar, setPlakalar, setTezgahlar, setUrunler } =
     useContext(MarboContext);
 
   const backHandler = () => {
@@ -55,6 +55,7 @@ const DogalTaslar = () => {
     setDogalTaslar(true);
     setPlakalar(false);
     setTezgahlar(false);
+    setUrunler(false);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
