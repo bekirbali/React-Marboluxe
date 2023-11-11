@@ -1,1589 +1,3883 @@
-export const dogalTaslarMermerBeyaz = [
+export const urunlerCnc = [
   [
     {
-      image:
-        "/images/dogal/Mermer/MermerPage-1/AFYON-WHITE-SPIDER-300x300.avif",
-      name: "Afyon Beyaz Mermer Spider 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-1-300x300.jpg",
+      name: "Masa Referans 1001",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Mermer/MermerPage-3/Marmara-White-Marble-300x300.avif",
-      name: "Marmara Beyaz Mermer 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-2-300x300.jpg",
+      name: "Masa Referans 1002",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Mermer/MermerPage-4/AFYON-WHITE-BILLUR-1-300x300.avif",
-      name: "Afyon Beyaz Mermer Billur 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-3-300x300.jpg",
+      name: "Masa Referans 1003",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Mermer/MermerPage-4/AFYON-WHITE-BILLUR-2-300x300.avif",
-      name: "Afyon Beyaz Mermer Billur 102",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-4-300x300.jpg",
+      name: "Masa Referans 1004",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Mermer/MermerPage-4/AFYON-WHITE-BILLUR-3-300x300.avif",
-      name: "Afyon Beyaz Mermer Billur 103",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-5-300x300.jpg",
+      name: "Masa Referans 1005",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Mermer/MermerPage-3/AFYON-WHITE-BILLUR-GOLD-1-300x300.avif",
-      name: "Afyon Beyaz Mermer Billur Gold 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-6-300x300.jpg",
+      name: "Masa Referans 1006",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Mermer/MermerPage-3/AFYON-WHITE-BILLUR-GOLD-2-300x300.avif",
-      name: "Afyon Beyaz Mermer Billur Gold 102",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-7-300x300.jpg",
+      name: "Masa Referans 1007",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Mermer/MermerPage-3/Marmara-White-Marble-300x300.avif",
-      name: "Marmara Beyaz Mermer 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-8-300x300.jpg",
+      name: "Masa Referans 1008",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Mermer/MermerPage-4/AFYON-WHITE-ARCOBALENO-1-300x300.avif",
-      name: "Afyon Beyaz Mermer Arcobaleno 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-9-300x300.jpg",
+      name: "Masa Referans 1009",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Mermer/MermerPage-4/afyon_beyaz_a_la_vogue-1-300x300.avif",
-      name: "Afyon Beyaz Mermer A La Vogue 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-10-300x300.jpg",
+      name: "Masa Referans 1010",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-4/AFYON-SUGAR-300x300.jpg",
-      name: "Afyon Beyaz Mermer Şeker 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-11-300x300.jpg",
+      name: "Masa Referans 1011",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-1/Agate-White-300x300.avif",
-      name: "Agate White 1",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-12-300x300.jpg",
+      name: "Masa Referans 1012",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/PANDA-WHITE-300x300.avif",
-      name: "Panda White 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-13-300x300.jpg",
+      name: "Masa Referans 1013",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-3/PANDA-WHITE-2-300x300.avif",
-      name: "Panda White 102",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-14-300x300.jpg",
+      name: "Masa Referans 1014",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/PANDA-WHITE-3-300x300.avif",
-      name: "Panda White 103",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-16-300x300.jpg",
+      name: "Masa Referans 1015",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-3/PANDA-WHITE2-300x300.avif",
-      name: "Panda White 104",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-17-300x300.jpg",
+      name: "Masa Referans 1016",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-2/PANDA-WHITE-5-300x300.avif",
-      name: "Panda White 105",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-18-300x300.jpg",
+      name: "Masa Referans 1017",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-2/PANDA-WHITE-6-300x300.avif",
-      name: "Panda White 106",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-19-300x300.jpg",
+      name: "Masa Referans 1018",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-3/Zebra-White-1-300x300.avif",
-      name: "Zebra White 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/Referans-20-300x300.jpg",
+      name: "Masa Referans 1019",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Mermer/MermerPage-3/White-Beauty-Premium-300x300.avif",
-      name: "White Beauty Premium",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/6-300x300.png",
+      name: "Kenar Detayları 1001",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/POLAR-WHITE-300x300.avif",
-      name: "Polar White 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/12-300x300.png",
+      name: "Kenar Detayları 1002",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/CRYSTAL-WHITE-300x300.avif",
-      name: "Crystal White 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/7-300x300.png",
+      name: "Kenar Detayları 1003",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-3/Statuario-300x300.avif",
-      name: "Statuario 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/10-300x300.png",
+      name: "Kenar Detayları 1004",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-3/calacattaoro-1-300x300.avif",
-      name: "Calacatta Oro 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/14-300x300.png",
+      name: "Kenar Detayları 1005",
+      array: "urunler",
     },
   ],
   [
     {
-      image:
-        "/images/dogal/Mermer/MermerPage-3/Carrara-Arabescato-1-300x300.avif",
-      name: "Carrara Arabescato 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/8-300x300.png",
+      name: "Kenar Detayları 1006",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-4/SPERENZA-300x300.avif",
-      name: "Sperenza 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/2-300x300.png",
+      name: "Kenar Detayları 1007",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-4/VOLAKAS-BIANCO-300x300.avif",
-      name: "Volakas Bianco 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/1-300x300.png",
+      name: "Kenar Detayları 1008",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-4/LILLA-2-300x300.avif",
-      name: "Lilla 102",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/19-1-300x300.png",
+      name: "Kenar Detayları 1008-1",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-6/EPICA-LIGHT-300x300.avif",
-      name: "Epica Light 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/20-300x300.png",
+      name: "Kenar Detayları 1009",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-6/EPICA-DARK-300x300.avif",
-      name: "Epica Dark 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/9-300x300.jpg",
+      name: "Kenar Detayları 1011",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-6/MONT-BLANC-300x300.avif",
-      name: "Mont Blanc 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/3-300x300.jpg",
+      name: "Kenar Detayları 1012",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-6/METELL-300x300.avif",
-      name: "Metell 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/15-300x300.png",
+      name: "Kenar Detayları 1013",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-6/METELL-CLASSIC-300x300.avif",
-      name: "Metell Klasik 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/13-300x300.jpg",
+      name: "Kenar Detayları 1014",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-6/OCEAN-300x300.avif",
-      name: "Ocean 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/16-300x300.png",
+      name: "Kenar Detayları 1015",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-6/LILLA-300x300.avif",
-      name: "Lilla 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/18-300x300.png",
+      name: "Kenar Detayları 1016",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-6/NEW-YORK-300x300.avif",
-      name: "New York 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/17-300x300.png",
+      name: "Kenar Detayları 1017",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-6/VOLAKAS-300x300.avif",
-      name: "Volakas 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/11-300x300.jpg",
+      name: "Kenar Detayları 1018",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/calacatta-1-300x300.avif",
-      name: "Calacatta 105",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/31-300x300.jpg",
+      name: "Kenar Detayları 1019",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/CARRARA-300x300.avif",
-      name: "Carrara 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/32-300x300.jpg",
+      name: "Kenar Detayları 1020",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/CARRARA-BREZZA-300x300.avif",
-      name: "Carrara Brezza 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/33-300x300.jpg",
+      name: "Kenar Detayları 1021",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/MADREPERLA-300x300.avif",
-      name: "Madreperla 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/34-300x300.jpg",
+      name: "Kenar Detayları 1022",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/OLEA-300x300.avif",
-      name: "Olea 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/35-300x300.jpg",
+      name: "Kenar Detayları 1023",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/VIOLET-300x300.avif",
-      name: "Violet 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/36-300x300.jpg",
+      name: "Kenar Detayları 1024",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/BELLISSIMA-300x300.avif",
-      name: "Bellissima 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/37-300x300.jpg",
+      name: "Kenar Detayları 1025",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/armonia-1-300x300.avif",
-      name: "Armonia 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/38-300x300.avif",
+      name: "Kenar Detayları 1026",
+      array: "urunler",
     },
-  ],
-];
-
-export const dogalTaslarMermerGri = [
-  [
     {
-      image: "/images/dogal/Mermer/MermerPage-1/Grey-Agate-300x300.avif",
-      name: "Grey Agate 1",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/39-300x300.avif",
+      name: "Kenar Detayları 1027",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-1/Azul-Macaubas-300x300.avif",
-      name: "Azul Macaubas 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/40-300x300.avif",
+      name: "Kenar Detayları 1028",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-1/Azul-Macaubas2-300x300.avif",
-      name: "Azul Macaubas 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-2/Agate-Phoenix-1-300x300.avif",
-      name: "Agate Phoenix",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/koleksiyon/page-2/Emerald1-1-300x300.avif",
-      name: "Emerald 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-3/zebragrey-1-300x300.avif",
-      name: "Zebra Grey 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/IRIS-1-300x300.avif",
-      name: "Iris 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/IRIS-2-300x300.avif",
-      name: "Iris 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/IRIS-3-300x300.avif",
-      name: "Iris 103",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/IRIS-4-300x300.avif",
-      name: "Iris 104",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-7/woodenlight1-300x300.avif",
-      name: "Wooden Light 101",
-      array: "dogalTaslar",
-    },
-  ],
-];
-
-export const dogalTaslarMermerKahverengi = [
-  [
-    {
-      image:
-        "/images/dogal/Mermer/MermerPage-1/RAIN-FOREST-BROWN-3-300x300.avif",
-      name: "Rain Forest Brown 103",
-      array: "dogalTaslar",
-    },
-    {
-      image:
-        "/images/dogal/Mermer/MermerPage-1/Petrified-Wood-Marble-1-300x300.avif",
-      name: "Petrified Wood Marble 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/DARK-EMPERADOR2-300x300.avif",
-      name: "Dark Emperador 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/Petrified-Wood-300x300.avif",
-      name: "Petrified Wood 1",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/Round-Agathe-1-300x300.avif",
-      name: "Round Agathe 1",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/Serpegiante-light-300x300.avif",
-      name: "Serpegiante Light 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-2/Armani-300x300.avif",
-      name: "Armani",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-2/Chateaux-300x300.avif",
-      name: "Chateaux",
-      array: "dogalTaslar",
-    },
-    {
-      image:
-        "/images/dogal/Mermer/MermerPage-2/Yellow-Tiger-Agate-300x300.avif",
-      name: "Yellow Tiger Agate 1",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-3/Serpegiante-300x300.avif",
-      name: "Serpegiante 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-3/Bruno-perla-1-300x300.avif",
-      name: "Bruno Perla 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-3/Bruno-300x300.avif",
-      name: "Bruno 101",
-      array: "dogalTaslar",
-    },
-    {
-      image:
-        "/images/dogal/Mermer/MermerPage-4/LIGHT-EMPERADOR-CLASSIC-300x300.avif",
-      name: "Light Emperador Klasik Mermer",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-7/RAIN-FOREST-BROWN-300x300.avif",
-      name: "Rain Forest Brown 101",
-      array: "dogalTaslar",
-    },
-  ],
-];
-
-export const dogalTaslarMermerMavi = [
-  [
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/Panda-Azul-300x300.avif",
-      name: "Panda Azul 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/Panda-Azul-2-300x300.avif",
-      name: "Panda Azul 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/Agate-Blue-1-1-300x300.avif",
-      name: "Agate Blue 1",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-3/Blue-Rain-300x300.avif",
-      name: "Blue Rain 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/MARINE-BLUE-1-300x300.avif",
-      name: "Afyon Beyaz Marine Blue 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/MARINE-BLUE-2-300x300.avif",
-      name: "Afyon Beyaz Marine Blue 106",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-4/BLUEMOON-3-300x300.avif",
-      name: "Blue Moon 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-4/BLUE-MOON-2-300x300.avif",
-      name: "Blue Moon 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-4/BLUE-MOON-1-2-300x300.avif",
-      name: "Blue Moon 103",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/BLUE-BAHIA-1-300x300.avif",
-      name: "Blue Bahia 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/BLUE-BAHIA2-300x300.avif",
-      name: "Blue Bahia 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/bluestone-300x300.avif",
-      name: "Blue Stone 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/bardiglio-1-300x300.avif",
-      name: "Bardiglio Blu 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/BARDIGLIO-BLU-2-300x300.avif",
-      name: "Bardiglio Blu 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/BARDIGLIO-BLU-3-300x300.avif",
-      name: "Bardiglio Blu 103",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/BARDIGLIO-BLU-4-300x300.avif",
-      name: "Bardiglio Blu 104",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/bluemoongold-1-300x300.avif",
-      name: "Blue Moon Gold 101",
-      array: "dogalTaslar",
-    },
-  ],
-];
-
-export const dogalTaslarMermerSiyah = [
-  [
-    {
-      image:
-        "/images/dogal/Mermer/MermerPage-2/Pinguino-Classic-1-300x300.avif",
-      name: "Pinguino Klasik",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-2/Bardiglio-Black-1-300x300.avif",
-      name: "Bardiglio Black 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-2/PINGUINO2-300x300.avif",
-      name: "Pinguino 102",
-      array: "dogalTaslar",
-    },
-    {
-      image:
-        "/images/dogal/Mermer/MermerPage-2/Agate-Black-Dim-Gold-1-300x300.avif",
-      name: "Agate Black Dim Gold",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-3/Nero1-300x300.avif",
-      name: "Nero 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-3/Zebra-White-300x300.avif",
-      name: "Zebra Black 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-4/NERO-MARQUINA-300x300.avif",
-      name: "Nero Marquina 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-4/NEBEL-300x300.avif",
-      name: "Nebel 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-5/Nero-1-300x300.avif",
-      name: "Nero 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-6/BLACK-OLIVE-300x300.avif",
-      name: "Black Olive 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-6/PINGUINO-300x300.avif",
-      name: "Pinguino 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-6/BLACK-ORION-1-300x300.avif",
-      name: "Black Orion 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-6/BLACK-AZIZA-300x300.avif",
-      name: "Black Aziza 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-6/PORTORO-300x300.avif",
-      name: "Portoro 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-6/SILVER-DRAGON-300x300.avif",
-      name: "Silver Dragon 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-6/zebrablack-300x300.avif",
-      name: "Zebra Black 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-7/ICE-JADE-2-300x300.avif",
-      name: "Ice Jade 103",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-7/ICE-JADE-3-300x300.avif",
-      name: "Ice Jade 104",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-7/ICE-JADE-4-300x300.avif",
-      name: "Ice Jade 105",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-3/ICE-JADE-1-300x300.avif",
-      name: "Ice Jade 102",
-      array: "dogalTaslar",
-    },
-  ],
-];
-
-export const dogalTaslarMermerYesil = [
-  [
-    {
-      image:
-        "/images/dogal/Mermer/MermerPage-1/panda-emerald-marble-300x300.avif",
-      name: "Panda Emerald Marble 101",
-      array: "dogalTaslar",
-    },
-    {
-      image:
-        "/images/dogal/Mermer/MermerPage-1/RAIN-FOREST-GREEN1-300x300.avif",
-      name: "Rain Forest Green 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/ICE-JADE-5-300x300.avif",
-      name: "Ice Jade 106",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/Agate-Green-1-300x300.avif",
-      name: "Agate Green 1",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/Agate-Green-2-300x300.avif",
-      name: "Agate Green 2",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/koleksiyon/page-1/Amazonite-1-300x300.avif",
-      name: "Amazonite",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/koleksiyon/page-1/Fluorite-1-300x300.avif",
-      name: "Fluorite",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/koleksiyon/page-1/Green-Agate-1-300x300.avif",
-      name: "Green Agate",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/koleksiyon/page-2/turtle-1-300x300.avif",
-      name: "Turtle 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/koleksiyon/page-2/Emerald1-1-300x300.avif",
-      name: "Emerald 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/koleksiyon/page-2/Emerald2-1-300x300.avif",
-      name: "Emerald 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/koleksiyon/page-2/Emerald3-1-300x300.avif",
-      name: "Emerald 103",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/koleksiyon/page-2/Emerald4-1-300x300.avif",
-      name: "Emerald 104",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-3/Fusion-300x300.avif",
-      name: "Fusion 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-3/Turtle-300x300.avif",
-      name: "Turtle 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-4/VERDE-GUATEMALA-1-300x300.avif",
-      name: "Verde Guatemala 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-4/VERDE-FOREST-300x300.avif",
-      name: "Verde Forest 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-6/VERDE-GUATEMALA-2-300x300.avif",
-      name: "Verde Guatemala 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-6/VERDE-ESCURO-300x300.avif",
-      name: "Verde Escuro 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-7/ICE-JADE-300x300.avif",
-      name: "Ice Jade 101",
-      array: "dogalTaslar",
-    },
-  ],
-];
-
-export const dogalTaslarBejMermer = [
-  [
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/DARK-EMPERADOR2-300x300.avif",
-      name: "Dark Emperador 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/BejMermer/BejMermerPage-1/BEACH-300x300.avif",
-      name: "Beach 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-2/Armani-300x300.avif",
-      name: "Armani",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-2/Chateaux-300x300.avif",
-      name: "Chateaux",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/BejMermer/BejMermerPage-1/Botticino-300x300.avif",
-      name: "Botticino 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-3/Bruno-perla-1-300x300.avif",
-      name: "Bruno Perla 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-3/Bruno-300x300.avif",
-      name: "Bruno 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-4/Rosalia1-2-300x300.avif",
-      name: "Rosalia 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-4/rosaliaLight.avif",
-      name: "Rosalia Light 101",
-      array: "dogalTaslar",
-    },
-    {
-      image:
-        "/images/dogal/Mermer/MermerPage-4/LIGHT-EMPERADOR-CLASSIC-300x300.avif",
-      name: "Light Emperador Klasik Mermer",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/BejMermer/BejMermerPage-1/CREMA-BELLA-300x300.avif",
-      name: "Crema Bella 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/BejMermer/BejMermerPage-1/Crema-Foret-300x300.avif",
-      name: "Crema Foret 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/BejMermer/BejMermerPage-1/LUNA-300x300.avif",
-      name: "Luna 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/BejMermer/BejMermerPage-1/BOTANICA-300x300.avif",
-      name: "Botanica 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/BejMermer/BejMermerPage-1/LIMPIDO-300x300.avif",
-      name: "Limpido 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/BejMermer/BejMermerPage-1/LUNA-PIERA-300x300.avif",
-      name: "Luna Piera 101",
-      array: "dogalTaslar",
-    },
-    {
-      image:
-        "/images/dogal/BejMermer/BejMermerPage-1/DARK-EMPERADOR-300x300.avif",
-      name: "Dark Emperador 101",
-      array: "dogalTaslar",
-    },
-    {
-      image:
-        "/images/dogal/BejMermer/BejMermerPage-1/DARK-EMPERADOR-CLASSIC-300x300.avif",
-      name: "Dark Emperador Klasik 101",
-      array: "dogalTaslar",
-    },
-    {
-      image:
-        "/images/dogal/BejMermer/BejMermerPage-1/Bruno-perla-2-300x300.avif",
-      name: "Bruno Perla 102",
-      array: "dogalTaslar",
-    },
-    {
-      image:
-        "/images/dogal/BejMermer/BejMermerPage-1/emperador-perla-300x300.avif",
-      name: "Emperador Perla 101",
-      array: "dogalTaslar",
-    },
-    {
-      image:
-        "/images/dogal/BejMermer/BejMermerPage-1/EMPERADOR-PERLA-CLASSIC-300x300.avif",
-      name: "Emperador Perla Klasik 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/BejMermer/BejMermerPage-1/MONDO-300x300.avif",
-      name: "Mondo 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/BejMermer/BejMermerPage-2/DUNE-300x300.avif",
-      name: "Dune 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/BejMermer/BejMermerPage-2/BRUME-300x300.avif",
-      name: "Brume 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/41-300x300.avif",
+      name: "Kenar Detayları 1029",
+      array: "urunler",
     },
   ],
   [
     {
-      image: "/images/dogal/BejMermer/BejMermerPage-2/AVORIO-300x300.avif",
-      name: "Avorio 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/42-300x300.jpg",
+      name: "Kenar Detayları 1030",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/BejMermer/BejMermerPage-2/BLACK-PEARL-300x300.avif",
-      name: "Black Pearl 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/43-300x300.jpg",
+      name: "Kenar Detayları 1031",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/BejMermer/BejMermerPage-2/BURSA-BEIGE-300x300.avif",
-      name: "Bursa Bej 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/44-300x300.jpg",
+      name: "Kenar Detayları 1032",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/BejMermer/BejMermerPage-2/Colorata-300x300.avif",
-      name: "Colorata 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/45-300x300.jpg",
+      name: "Kenar Detayları 1033",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/BejMermer/BejMermerPage-2/LIGHT-EMPERADOR-300x300.avif",
-      name: "Light Emperador 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/46-300x300.jpg",
+      name: "Kenar Detayları 1034",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/BejMermer/BejMermerPage-2/DURU-300x300.avif",
-      name: "Duru 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/47-300x300.jpg",
+      name: "Kenar Detayları 1035",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/BejMermer/BejMermerPage-2/SPANISH-DARK-EMPERADOR-300x300.avif",
-      name: "İspanyol Dark Emperador 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/48-300x300.jpg",
+      name: "Kenar Detayları 1036",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Mermer/MermerPage-7/Medium-Emperador-300x300.avif",
-      name: "Medium Emperador 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/49-300x300.jpg",
+      name: "Kenar Detayları 1037",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/BejMermer/BejMermerPage-2/PIETRA-GREY-300x300.avif",
-      name: "Pietra Grey 101",
-      array: "dogalTaslar",
-    },
-  ],
-];
-
-export const dogalTaslarTraverten = [
-  [
-    {
-      image: "/images/dogal/Traverten/antiquepewter-honed-300x300.avif",
-      name: "Antique Pewter – Honlu 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/50-300x300.jpg",
+      name: "Kenar Detayları 1038",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/antiquepewter-tumbled-300x300.avif",
-      name: "Antique Pewter – Eskitme 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/21-300x300.png",
+      name: "Kenar Detayları 1039",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Traverten/SILVER-TRAVERTINE-VEIN-CUT-1-300x300.avif",
-      name: "Gümüş Traverten 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/22-300x300.png",
+      name: "Kenar Detayları 1040",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/SILVER-TRAVERTINE-1-300x300.avif",
-      name: "Gümüş Traverten 102",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t02bluebahia-300x300.png",
+      name: "T-02 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/SILVER-TRAVERTINE-2-300x300.avif",
-      name: "Gümüş Traverten 103",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t03bluebahia-300x300.png",
+      name: "T-03 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Traverten/SILVER-TRAVERTINE-VEIN-CUT-POLFIL-300x300.avif",
-      name: "Gümüş Traverten Düz Kesim 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t04lilla-300x300.png",
+      name: "T-04 Lilla",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Traverten/SILVER-TRAVERTINE-VEIN-CUT-SAWCUT-300x300.avif",
-      name: "Gümüş Traverten Düz Kesim 102",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t05afyonbeyaz-1-300x300.png",
+      name: "T-05 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/SILVER-TRAVERTINE-VEIN-CUT-300x300.avif",
-      name: "Gümüş Traverten Düz Kesim 103",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t06beyaztraverten-300x300.png",
+      name: "T-06 Beyaz Traverten",
+      array: "urunler",
     },
     {
-      image:
-        "/images/dogal/Traverten/SILVER-TRAVERTINE-VEIN-CUT-1-1-300x300.avif",
-      name: "Gümüş Traverten Düz Kesim 104",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t07bluebahia-300x300.png",
+      name: "T-07 Blue Bahia",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/RIVER--300x300.avif",
-      name: "River 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t07pewterblendveincut-300x300.png",
+      name: "T-07 Gümüş Traverten Düz Kesim",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/Imperial-Blend-300x300.avif",
-      name: "Imperial Blend 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t08pewterblendveincut-300x300.png",
+      name: "T-08 Gümüş Traverten Düz Kesim",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/Royal-Blend-2-300x300.avif",
-      name: "Royal Blend 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t09metell-300x300.png",
+      name: "T-09 Metell",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/WARM-WALNUT-300x300.avif",
-      name: "Warm Walnut 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t11bluebahia-300x300.png",
+      name: "T-11 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/CASHMERE-1-300x300.avif",
-      name: "Cashmere 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t12bluebahia3-300x300.png",
+      name: "T-12 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/WHITE-TRAVERTINE-300x300.avif",
-      name: "Beyaz Traverten 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t13neromarquina-300x300.png",
+      name: "T-13 Nero Marquina",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/WHITE-TRAVERTINE-POLFIL-300x300.avif",
-      name: "Beyaz Traverten 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Traverten/WHITE-TRAVERTINE-VEIN-CUT-300x300.avif",
-      name: "Beyaz Traverten Düz Kesim 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Traverten/WHITE-TRAVERTINE-VEIN-CUT-1-300x300.avif",
-      name: "Beyaz Traverten Düz Kesim 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Traverten/CLASSIC-TRAVERTINE-300x300.avif",
-      name: "Klasik Traverten 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Traverten/CLASSIC-TRAVERTINE-VEIN-CUT-300x300.avif",
-      name: "Klasik Traverten Düz Kesim 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Traverten/RED-TRAVERTINE-300x300.avif",
-      name: "Kırmızı Traverten 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Traverten/Rouge-Fleurs-300x300.avif",
-      name: "Kırmızı Traverten 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Traverten/Rouge-Fleurs2-300x300.avif",
-      name: "Kırmızı Traverten 103",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Traverten/RED-TRAVERTINE-VEIN-CUT-300x300.avif",
-      name: "Kırmızı Traverten Düz Kesim 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t14pewterveincut-300x300.png",
+      name: "T-14 Gümüş Traverten Düz Kesim",
+      array: "urunler",
     },
   ],
   [
     {
-      image: "/images/dogal/Traverten/RED-TRAVERTINE-VEIN-CUT2-300x300.avif",
-      name: "Kırmızı Traverten Düz Kesim 102",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/t15carrara-300x300.avif",
+      name: "T-15 Carrara",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/Cascade-White-300x300.avif",
-      name: "Cascade White 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/k01darkemperador-300x300.avif",
+      name: "K-01 Dark Emperador",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/Cascade-White-Vein-Cut-300x300.avif",
-      name: "Cascade White Düz Kesim 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/k03lilla2-300x300.avif",
+      name: "K-03 Lilla",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/GUNES-DUZ-KESIM-300x300.avif",
-      name: "Güneş Düz Kesim 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/k05pearl1-300x300.avif",
+      name: "K-05 Pearl",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/SAFFRON-300x300.avif",
-      name: "Saffron 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/k07pinguino3-300x300.avif",
+      name: "K-07 Pinguino",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/SAFFRON-VEIN-CUT-300x300.avif",
-      name: "Saffron Düz Kesim 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/k09warmwalnut-300x300.png",
+      name: "K-09 Warm Walnut",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/Magnifica-300x300.avif",
-      name: "Magnifica 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Masalar/k10lilla3-300x300.png",
+      name: "K-10 Lilla",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/MAGNIFICA-VEIN-CUT-1-300x300.avif",
-      name: "Magnifica Düz Kesim 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/1-2-300x300.jpg",
+      name: "Sehpa Referans 1001",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/CAPPADOCE-VEIN-CUT-1-300x300.avif",
-      name: "Cappadoce Düz Kesim 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/2-2-300x300.jpg",
+      name: "Sehpa Referans 1002",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Traverten/KALE-300x300.avif",
-      name: "Kale 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/3-2-300x300.jpg",
+      name: "Sehpa Referans 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/4-2-300x300.jpg",
+      name: "Sehpa Referans 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/5-3-300x300.jpg",
+      name: "Sehpa Referans 1005",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/6-4-300x300.jpg",
+      name: "Sehpa Referans 1006",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/7-4-300x300.jpg",
+      name: "Sehpa Referans 1007",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/8-2-300x300.jpg",
+      name: "Sehpa Referans 1008",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/9-2-300x300.jpg",
+      name: "Sehpa Referans 1009",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/10-2-300x300.jpg",
+      name: "Sehpa Referans 1010",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/11-4-300x300.jpg",
+      name: "Sehpa Referans 1011",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/12-2-300x300.jpg",
+      name: "Sehpa Referans 1012",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/13-4-300x300.jpg",
+      name: "Sehpa Referans 1013",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/14-2-300x300.jpg",
+      name: "Sehpa Referans 1014",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/15-2-300x300.jpg",
+      name: "Sehpa Referans 1015",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/16-2-300x300.jpg",
+      name: "Sehpa Referans 1016",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/17-2-300x300.jpg",
+      name: "Sehpa Referans 1017",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Cnc/Sehpalar/18-2-300x300.jpg",
+      name: "Sehpa Referans 1018",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/19-2-300x300.jpg",
+      name: "Sehpa Referans 1019",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/20-2-300x300.jpg",
+      name: "Sehpa Referans 1020",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/21-2-300x300.jpg",
+      name: "Sehpa Referans 1021",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/22-300x300.jpg",
+      name: "Sehpa Referans 1022",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/23-300x300.jpg",
+      name: "Sehpa Referans 1023",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/24-300x300.jpg",
+      name: "Sehpa Referans 1024",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/25-300x300.jpg",
+      name: "Sehpa Referans 1025",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/26-300x300.jpg",
+      name: "Sehpa Referans 1026",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/27-300x300.jpg",
+      name: "Sehpa Referans 1027",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/28-300x300.jpg",
+      name: "Sehpa Referans 1028",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/29-300x300.jpg",
+      name: "Sehpa Referans 1029",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/30-300x300.jpg",
+      name: "Sehpa Referans 1030",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/31-300x300.jpg",
+      name: "Sehpa Referans 1031",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/32-300x300.jpg",
+      name: "Sehpa Referans 1032",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/33-300x300.jpg",
+      name: "Sehpa Referans 1033",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/34-300x300.jpg",
+      name: "Sehpa Referans 1034",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/35-300x300.jpg",
+      name: "Sehpa Referans 1035",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/36-300x300.jpg",
+      name: "Sehpa Referans 1036",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/37-300x300.jpg",
+      name: "Sehpa Referans 1037",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/38-300x300.jpg",
+      name: "Sehpa Referans 1038",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/39-300x300.jpg",
+      name: "Sehpa Referans 1039",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/40-300x300.jpg",
+      name: "Sehpa Referans 1040",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/41-300x300.jpg",
+      name: "Sehpa Referans 1041",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Cnc/Sehpalar/42-300x300.jpg",
+      name: "Sehpa Referans 1042",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/43-300x300.jpg",
+      name: "Sehpa Referans 1043",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Cnc/Sehpalar/ct02afyonbeyazarcobaleno-300x300.png",
+      name: "CT-02 Afyon Beyaz Arcobaleno",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct02violet-300x300.png",
+      name: "CT-02 Violet",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct03blackberry-300x300.png",
+      name: "CT-03 Blackberry",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct04ivorycream-300x300.png",
+      name: "CT-04 Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct04carrara-300x300.png",
+      name: "CT-04 Carrara",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct04carrara2-1-300x300.png",
+      name: "CT-04-1 Carrara",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct04pewterveincut-300x300.png",
+      name: "CT-04 Gümüş Traverten Düz Kesim",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct04flamingo-300x300.png",
+      name: "CT-04 Kırmızı Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct05afyonbeyazeternal-300x300.png",
+      name: "CT-05 Afyon Beyaz Mermer Eternal",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct05pearl-300x300.png",
+      name: "CT-05 Pearl",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct05silverdragon-300x300.png",
+      name: "CT-05 Silver Dragon",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct07olivemaron-300x300.png",
+      name: "CT-07 Olive Maron",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct08olivemaron-300x300.png",
+      name: "CT-08 Olive Maron",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct09bluebahia-300x300.png",
+      name: "CT-09 Blue Bahia",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct10bluemoon-300x300.png",
+      name: "CT-10 Blue Moon",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct12portoro-300x300.png",
+      name: "CT-12 Portoro",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Cnc/Sehpalar/ct13afyonbeyazarcobaleno-300x300.png",
+      name: "CT-13 Afyon Beyaz Arcobaleno",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct13anmi-300x300.png",
+      name: "CT-13 Amarante, Nuage Miel, Iris",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct13bluebahia2-300x300.png",
+      name: "CT-13 Blue Bahia",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct13icejade-300x300.png",
+      name: "CT-13 Ice Jade",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct14neromarquina-300x300.png",
+      name: "CT-14 Nero Marquina",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct15afyonbeyazeternal-300x300.png",
+      name: "CT-15 Afyon Beyaz Mermer Eternal",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct16afyonbeyazeternal-300x300.png",
+      name: "CT-16 Afyon Beyaz Mermer Eternal",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct17silverdragon-300x300.png",
+      name: "CT-17 Silver Dragon",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct18darkemperador-300x300.png",
+      name: "CT-18 Dark Emperador",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct18silverdragon-300x300.png",
+      name: "CT-18 Silver Dragon",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct19carrara-300x300.png",
+      name: "CT-19 Carrara",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct20spanishdarkemp-300x300.png",
+      name: "CT-20 İspanyol Dark Emperador",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct21eternal-300x300.png",
+      name: "CT-21 Afyon Beyaz Arcobaleno",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct22alavogue-300x300.png",
+      name: "CT-22 Afyon Beyaz A La Vogue",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct23violet-300x300.png",
+      name: "CT-23 Violet",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Cnc/Sehpalar/ct24ispanyoldarkemperador-300x300.png",
+      name: "CT-24 İspanyol Dark Emperador",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Cnc/Sehpalar/ct26afyonbeyazarcobaleno-300x300.png",
+      name: "CT-26 Afyon Beyaz Arcobaleno",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct26abbm-300x300.png",
+      name: "CT-26 Afyon Beyaz Arcobaleno, Blue Moon, Blue Bahia",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct26bluemoon-300x300.png",
+      name: "CT-26 Blue Moon",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct27afyonbeyazalavogue-300x300.png",
+      name: "CT-27 Afyon Beyaz A La Vogue",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/pinguino-1-300x300.png",
+      name: "Pinguino",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/portoro-1-300x300.png",
+      name: "Portoro",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/silverdragon-300x300.png",
+      name: "Silver Dragon",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Cnc/DuvarDekorasyonlari/1-3-e1613195727324-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1001",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Cnc/DuvarDekorasyonlari/2-1-e1613196095826-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1002",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Cnc/DuvarDekorasyonlari/3-5-e1613197515614-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/5-7-scaled-1-300x300.jpg",
+      name: "Duvar Dekorasyonları – Referans 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/DSCN2486-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1005",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/IMG_0482-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1006",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Cnc/DuvarDekorasyonlari/17-e1613200822764-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1007",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/1-300x300.png",
+      name: "Afyon Beyaz CNC 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/2-300x300.png",
+      name: "Afyon Beyaz CNC 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/3-300x300.png",
+      name: "Afyon Beyaz CNC 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/13-300x300.png",
+      name: "ED-01 Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/12-300x300.png",
+      name: "ED-02 Bianco Crema",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/11-300x300.png",
+      name: "ED-03 Bianco Crema",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/10-300x300.png",
+      name: "ED-04 Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/9-300x300.png",
+      name: "ED-06 Afyon Beyaz Mermer",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/8-300x300.png",
+      name: "ED-06 Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/7-300x300.png",
+      name: "ED-07 Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/6-300x300.png",
+      name: "ED-08 Afyon Beyaz Mermer",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/5-300x300.png",
+      name: "ED-08 Pearl",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/4-300x300.png",
+      name: "ED-09 Pearl",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Tabureler/1-3-300x300.png",
+      name: "Tabure1 – Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Tabureler/2-2-300x300.png",
+      name: "Tabure2 – Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Tabureler/3-2-300x300.png",
+      name: "Tabure2 – Beyaz Traverten",
+      array: "urunler",
     },
   ],
 ];
 
-export const dogalTaslarKuvars = [
+export const urunlerWaterjet = [
   [
     {
-      image: "/images/dogal/Mermer/MermerPage-1/Panda-Azul-300x300.avif",
-      name: "Panda Azul 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/Black-Leopar2-300x300.avif",
-      name: "Magma Gold 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/Azul-Macaubas-300x300.avif",
-      name: "Azul Macaubas 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Mermer/MermerPage-1/Azul-Macaubas2-300x300.avif",
-      name: "Azul Macaubas 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/koleksiyon/page-2/turtle-1-300x300.avif",
-      name: "Turtle 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/koleksiyon/page-2/Hills-300x300.avif",
-      name: "Hills 101",
-      array: "dogalTaslar",
-    },
-  ],
-];
-
-export const dogalTaslarGranit = [
-  [
-    {
-      image: "/images/dogal/Granit/Black-Leopar-300x300.avif",
-      name: "Black Leopar 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/Pedras-Granite-300x300.avif",
-      name: "Pedras Granit – Cilalı 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/pedras1-300x300.avif",
-      name: "Pedras Granit – Kumlama 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/pedras3-300x300.avif",
-      name: "Pedras Granit – Kumlama 103",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/White-Walker-300x300.avif",
-      name: "White Walker 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/Kup-Tas-White-Walker1-300x300.avif",
-      name: "White Walker – Küp Taşlar 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/Kup-Tas-White-Walker2-300x300.avif",
-      name: "White Walker – Küp Taşlar 103",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/DESERT-BLACK-300x300.avif",
-      name: "Desert Black 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/ABSOLUTE-BLACK-300x300.avif",
-      name: "Absolute Black 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/STAR-GALAXY-300x300.avif",
-      name: "Star Galaxy 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/PARADISO1-300x300.avif",
-      name: "Paradiso 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/P-WHITE-300x300.avif",
-      name: "P White 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/S-Black-Granite-Cilali-1-1-300x300.avif",
-      name: "S Black – Cilalı 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/S-Black-Granite-Cilali-2-300x300.avif",
-      name: "S Black – Cilalı 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/S-Black-Granite-Honlu-1-1-300x300.avif",
-      name: "S Black – Honlu 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/S-Black-Granite-Honlu-2-300x300.avif",
-      name: "S Black – Honlu 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/S-Black-Granite-Kumlama-1-300x300.avif",
-      name: "S Black – Kumlama 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/S-Black-Granite-Kumlama-2-300x300.avif",
-      name: "S Black – Kumlama 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/ROSA-BETA-300x300.avif",
-      name: "Rosa Beta 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/ROSA-MINHO-300x300.avif",
-      name: "Rosa Minho 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/IMPEARIAL-RED-300x300.avif",
-      name: "Imperial Red 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/ROSA-PORINHO-300x300.avif",
-      name: "Rosa Porinho 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/AKSARAY-YAYLAK-300x300.avif",
-      name: "Aksaray Yaylak 101",
-      array: "dogalTaslar",
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/1waterjetmadalyon-1-300x300.jpg",
+      name: "Waterjet Madalyon 1",
+      array: "urunler",
     },
     {
       image:
-        "/images/dogal/Granit/S-Black-Granite-Kumlu-Fircali-1-300x300.avif",
-      name: "S Black – Kumlama Fırçalı 101",
-      array: "dogalTaslar",
+        "/images/urunler/Waterjet/WaterjetMadalyon/2waterjetmadalyon-1-300x300.jpg",
+      name: "Waterjet Madalyon 2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/3waterjetmadalyon-1-300x300.jpg",
+      name: "Waterjet Madalyon 3",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/4waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 4",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/5waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 5",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/6waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 6",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/7waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 7",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/8waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 8",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/9waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 9",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/10waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 10",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/11waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 11",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/12waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 12",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/13waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 13",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/14waterjetmadalyon-1-300x300.jpg",
+      name: "Waterjet Madalyon 14",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon01-300x300.png",
+      name: "Waterjet Madalyon WJM-01",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon02-300x300.png",
+      name: "Waterjet Madalyon WJM-02",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon03-300x300.png",
+      name: "Waterjet Madalyon WJM-03",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon04-300x300.png",
+      name: "Waterjet Madalyon WJM-04",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon05-300x300.png",
+      name: "Waterjet Madalyon WJM-05",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon07-300x300.png",
+      name: "Waterjet Madalyon WJM-07",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon08-300x300.png",
+      name: "Waterjet Madalyon WJM-08",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon09-300x300.png",
+      name: "Waterjet Madalyon WJM-09",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon10-300x300.png",
+      name: "Waterjet Madalyon WJM-10",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon11-300x300.png",
+      name: "Waterjet Madalyon WJM-11",
+      array: "urunler",
     },
   ],
   [
     {
       image:
-        "/images/dogal/Granit/S-Black-Granite-Kumlu-Fircali-2-300x300.avif",
-      name: "S Black – Kumlama Fırçalı 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Granit/AMAZON-300x300.avif",
-      name: "Amazon 101",
-      array: "dogalTaslar",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon12-300x300.png",
+      name: "Waterjet Madalyon WJM-12",
+      array: "urunler",
     },
     {
       image:
-        "/images/dogal/Granit/White-Walker-kuptaslar-referans-kapak.png-300x300.avif",
-      name: "White Walker – Küp Taşlar 101",
-      array: "dogalTaslar",
-    },
-  ],
-];
-
-export const dogalTaslarOniks = [
-  [
-    {
-      image: "/images/dogal/Oniks/Blue-Ice-Onyx-1-300x300.avif",
-      name: "Blue Ice Onyx 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/greenIceOnyx.avif",
-      name: "Green Ice Onyx 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/pinkIceOnyx.avif",
-      name: "Pink Ice Onyx 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/WHITE-ONYX-300x300.avif",
-      name: "Beyaz Oniks 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/DARK-DESERT-ROSE-300x300.avif",
-      name: "Dark Desert Rose 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/LIGHT-DESERT-ROSE-300x300.avif",
-      name: "Light Desert Rose 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/WHITE-ONYX-2-300x300.avif",
-      name: "Beyaz Oniks 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/AFYON-WHITE-MARBLE-ONYX-1-300x300.avif",
-      name: "Afyon Beyaz Oniks 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/AFYON-WHITE-MARBLE-ONYX-2-300x300.avif",
-      name: "Afyon Beyaz Oniks 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/honeyonyx1-1-300x300.avif",
-      name: "Bal Oniks 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/Bubble-Onyx1-300x300.avif",
-      name: "Bubble Oniks 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/Cappuccino-Onyx2-300x300.avif",
-      name: "Cappuccino Oniks 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/Velluto-Onyx2-300x300.avif",
-      name: "Velluto Oniks 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/SILVER-ONYX-2-300x300.avif",
-      name: "Gümüş Oniks 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/SILVER-ONYX-4-300x300.avif",
-      name: "Gümüş Oniks 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/cocacolaonyx1-300x300.avif",
-      name: "Cocacola Oniks 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/SATIN-ONYX-300x300.avif",
-      name: "Satin Oniks 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/SALMON-ONYX-300x300.avif",
-      name: "Salmon Oniks 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/goldOnyx.avif",
-      name: "Gold Oniks 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/tigerOnyx-1.avif",
-      name: "Tiger Oniks 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/tigerOnyx-2.avif",
-      name: "Tiger Oniks 102",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Oniks/woodenOnyx.avif",
-      name: "Wooden Onyx 101",
-      array: "dogalTaslar",
-    },
-  ],
-];
-
-export const dogalTaslarLimestone = [
-  [
-    {
-      image: "/images/dogal/Limestone/COQUILLAGE-300x300.avif",
-      name: "Coquillage 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Limestone/BIANCO-CREMA-300x300.avif",
-      name: "Bianco Crema 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Limestone/GOLDEN-CREMA-300x300.avif",
-      name: "Golden Crema 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Limestone/SUNNY-LIGHT-300x300.avif",
-      name: "Sunny Light 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Limestone/mocca-cilali-1-300x300.avif",
-      name: "Mocca – Cilalı 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Limestone/mocca-honlu1-300x300.avif",
-      name: "Mocca – Honlu 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Limestone/mocca-eskitme-1-300x300.avif",
-      name: "Mocca – Eskitme 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Limestone/mocca-fircali-1-300x300.avif",
-      name: "Mocca – Fırçalı 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Limestone/Bianco-Bandia-1-300x300.avif",
-      name: "Suni Taş – Bianco Bandia – Honlu 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Limestone/Bianco-Bandia-eskitme-300x300.avif",
-      name: "Suni Taş – Bianco Bandia – Eskitme 101",
-      array: "dogalTaslar",
-    },
-    {
-      image: "/images/dogal/Limestone/Bianco-Bandia-kumlu-300x300.avif",
-      name: "Suni Taş – Bianco Bandia – Kumlama 101",
-      array: "dogalTaslar",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon13-300x300.png",
+      name: "Waterjet Madalyon WJM-13",
+      array: "urunler",
     },
     {
       image:
-        "/images/dogal/Limestone/bianco-crema-bombe-4-scaled-1-300x300.avif",
-      name: "Bianco Crema 102",
-      array: "dogalTaslar",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon14-300x300.png",
+      name: "Waterjet Madalyon WJM-14-1",
+      array: "urunler",
     },
     {
       image:
-        "/images/dogal/Limestone/bianco-crema-bombe-3-scaled103-300x300.avif",
-      name: "Bianco Crema 103",
-      array: "dogalTaslar",
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon14_2-1-300x300.png",
+      name: "Waterjet Madalyon WJM-14-2",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Limestone/SUNNY-300x300.avif",
-      name: "Sunny 101",
-      array: "dogalTaslar",
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon15-300x300.png",
+      name: "Waterjet Madalyon WJM-15-1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon15_2-300x300.png",
+      name: "Waterjet Madalyon WJM-15-2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon16-300x300.png",
+      name: "Waterjet Madalyon WJM-16",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon17-300x300.png",
+      name: "Waterjet Madalyon WJM-17",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon18-300x300.png",
+      name: "Waterjet Madalyon WJM-18",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19-300x300.jpg",
+      name: "Waterjet Madalyon WJM-19-1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19_2-300x300.jpg",
+      name: "Waterjet Madalyon WJM-19-2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19_3-300x300.jpg",
+      name: "Waterjet Madalyon WJM-19-3",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon20-300x300.png",
+      name: "Waterjet Madalyon WJM-20",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon21-300x300.jpg",
+      name: "Waterjet Madalyon WJM-21",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon22-300x300.png",
+      name: "Waterjet Madalyon WJM-22",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon24-300x300.png",
+      name: "Waterjet Madalyon WJM-24",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon25-300x300.png",
+      name: "Waterjet Madalyon WJM-25",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon26-300x300.png",
+      name: "Waterjet Madalyon WJM-26",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon27-300x300.jpg",
+      name: "Waterjet Madalyon WJM-27",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon28-300x300.png",
+      name: "Waterjet Madalyon WJM-28",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon29-300x300.png",
+      name: "Waterjet Madalyon WJM-29",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon30-300x300.jpg",
+      name: "Waterjet Madalyon WJM-30-1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon30_2-300x300.png",
+      name: "Waterjet Madalyon WJM-30-2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon30_3-300x300.png",
+      name: "Waterjet Madalyon WJM-30-3",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon31-300x300.png",
+      name: "Waterjet Madalyon WJM-31",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon31-300x300.png",
+      name: "Waterjet Madalyon WJM-32",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon31-300x300.png",
+      name: "Waterjet Madalyon WJM-33",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon34-300x300.png",
+      name: "Waterjet Madalyon WJM-34-1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon34_2-300x300.png",
+      name: "Waterjet Madalyon WJM-34-2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon35-300x300.png",
+      name: "Waterjet Madalyon WJM-35",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon36-300x300.png",
+      name: "Waterjet Madalyon WJM-36-1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon36_2-300x300.png",
+      name: "Waterjet Madalyon WJM-36-2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon37-300x300.png",
+      name: "Waterjet Madalyon WJM-37",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon38-300x300.png",
+      name: "Waterjet Madalyon WJM-38",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon39-300x300.png",
+      name: "Waterjet Madalyon WJM-39",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon40-300x300.png",
+      name: "Waterjet Madalyon WJM-40",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur1-300x300.png",
+      name: "Waterjet Bordür WJB-01",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur2-300x300.png",
+      name: "Waterjet Bordür WJB-02",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur3-300x300.png",
+      name: "Waterjet Bordür WJB-03",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur4-300x300.png",
+      name: "Waterjet Bordür WJB-04",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur5-300x300.png",
+      name: "Waterjet Bordür WJB-05",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur6-300x300.png",
+      name: "Waterjet Bordür WJB-06",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur7-300x300.png",
+      name: "Waterjet Bordür WJB-07",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro1-300x300.png",
+      name: "Waterjet Karo WJK-01",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro2-300x300.png",
+      name: "Waterjet Karo WJK-02",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro3-300x300.png",
+      name: "Waterjet Karo WJK-03",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro4-300x300.png",
+      name: "Waterjet Karo WJK-04",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro5-300x300.png",
+      name: "Waterjet Karo WJK-05",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro6-300x300.png",
+      name: "Waterjet Karo WJK-06",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro7-300x300.png",
+      name: "Waterjet Karo WJK-07",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro8-300x300.png",
+      name: "Waterjet Karo WJK-08",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro9-300x300.png",
+      name: "Waterjet Karo WJK-09",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro10-300x300.png",
+      name: "Waterjet Karo WJK-10",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik1-300x300.png",
+      name: "Waterjet Mozaik WJC - 01",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik2-300x300.png",
+      name: "Waterjet Mozaik WJC - 02-1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik3-300x300.png",
+      name: "Waterjet Mozaik WJC - 02-2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik4-300x300.png",
+      name: "Waterjet Mozaik WJC - 03",
+      array: "urunler",
     },
   ],
 ];
 
-export const dogalTaslarAndezit = [
+export const urunlerDekoratif = [
   [
     {
-      image: "/images/dogal/Andezit/NIGELLA-300x300.avif",
-      name: "Nigella 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Dekoratif/DusTeknesi/dusTeknesi.png",
+      name: "Duş Teknesi – Referans",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Andezit/NIGELLA-ROSE-300x300.avif",
-      name: "Nigella Rose 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Dekoratif/DusTeknesi/arcobalenokuvet-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1001",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/DusTeknesi/arcobalenokuvet2-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/DusTeknesi/nocekuvet-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/DusTeknesi/warmwalnutkuvet-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1004",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/DusTeknesi/warmwalnutkuvet2-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1005",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1001.jpg",
+      name: "Kolon – Referans 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1002.jpg",
+      name: "Kolon – Referans 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1003.jpg",
+      name: "Kolon – Referans 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1004.jpg",
+      name: "Kolon – Referans 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1005.jpg",
+      name: "Kolon – Referans 1005",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1006.jpg",
+      name: "Kolon – Referans 1006",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1007.jpg",
+      name: "Kolon – Referans 1007",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1008.jpg",
+      name: "Kolon – Referans 1008",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/a1001.png",
+      name: "Dekoratif Ürünler – Kolon 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/a1002.png",
+      name: "Dekoratif Ürünler – Kolon 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/a1003.png",
+      name: "Dekoratif Ürünler – Kolon 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/a1004.png",
+      name: "Dekoratif Ürünler – Kolon 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/a1005.png",
+      name: "Dekoratif Ürünler – Kolon 1005",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Korkuluk/korkuluk5-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Korkuluk/korkuluk4-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Korkuluk/korkuluk3-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Korkuluk/korkuluk1-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Korkuluk/korkuluk2-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1005",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna1-300x300.jpg",
+      name: "Kurna BS-01",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna2-300x300.jpg",
+      name: "Kurna BS-02",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna3-300x300.png",
+      name: "Kurna BS-03",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna4-300x300.png",
+      name: "Kurna BS-04",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna5-300x300.png",
+      name: "Kurna BS-05",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna6-300x300.png",
+      name: "Kurna BS-06",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna7-300x300.png",
+      name: "Kurna BS-07",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna8-300x300.png",
+      name: "Kurna BS-08",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna9-300x300.png",
+      name: "Kurna BS-09",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna10-300x300.png",
+      name: "Kurna BS-10",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sove/classiclightsove-300x300.jpg",
+      name: "Dekoratif Ürünler – Söve 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sove/ivorycreamsove-300x300.jpg",
+      name: "Dekoratif Ürünler – Söve 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sove/rossolagunasove-300x300.jpg",
+      name: "Dekoratif Ürünler – Söve 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sove/sove-1-e1613029306290-300x300.png",
+      name: "Dekoratif Ürünler – Söve 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm18-2-300x300.jpg",
+      name: "Süpürgelik EFM-18",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Supurgelik/efm19-e1610007029307-300x300.jpg",
+      name: "Süpürgelik EFM-19",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Supurgelik/efm20-e1610007366618-300x300.jpg",
+      name: "Süpürgelik EFM-20",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm25-300x300.jpg",
+      name: "Süpürgelik EFM-25",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm26-300x300.jpg",
+      name: "Süpürgelik EFM-26",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm27-300x300.jpg",
+      name: "Süpürgelik EFM-27",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm43-300x300.jpg",
+      name: "Süpürgelik EFM-43",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm44-300x300.jpg",
+      name: "Süpürgelik EFM-44",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm45-300x300.jpg",
+      name: "Süpürgelik EFM-45",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm46-300x300.jpg",
+      name: "Süpürgelik EFM-46",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm47-300x300.jpg",
+      name: "Süpürgelik EFM-47",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm48-300x300.jpg",
+      name: "Süpürgelik EFM-48",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm49-300x300.jpg",
+      name: "Süpürgelik EFM-49",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm50-300x300.jpg",
+      name: "Süpürgelik EFM-50",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm51-300x300.jpg",
+      name: "Süpürgelik EFM-51",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm52-300x300.jpg",
+      name: "Süpürgelik EFM-52",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm54-300x300.jpg",
+      name: "Süpürgelik EFM-54",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sutun/sutun4-300x300.jpg",
+      name: "Dekoratif Ürünler – Sütun 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sutun/sutun1-300x300.jpg",
+      name: "Dekoratif Ürünler – Sütun 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sutun/sutun2-300x300.jpg",
+      name: "Dekoratif Ürünler – Sütun 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sutun/sutun3-300x300.jpg",
+      name: "Dekoratif Ürünler – Sütun 1004",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/alavoguesampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1001",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/classiclightsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1002",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/dynastiesampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1003",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/euphoriesampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1004",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/eventailsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1005",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sampuanlik/pearlsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1006",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/saffronsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1007",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/warmwalnutsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1008",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/lodos-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/medusa-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/novel-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/paperholder-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/sahara-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1005",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/eagle-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1006",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/efesusgirls-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1007",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/anfora-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1008",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/shaman-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1009",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/soapdish-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1010",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/towelbar-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1011",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/anavarza-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/harmony-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1002",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/BahceSuslemesi/kengerleaves-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/kizuwatna-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/momentum-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1005",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/puduhepa-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1006",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/raindrop-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1007",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/rodos-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1008",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/sangarios-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1009",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/swanlake-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1010",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aplik/honeysconce-300x300.jpg",
+      name: "Dekoratif Ürünler – Aplik 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aplik/ivorycreamsconce-300x300.jpg",
+      name: "Dekoratif Ürünler – Aplik 1002",
+      array: "urunler",
     },
   ],
 ];
 
-export const dogalTaslarBazalt = [
+export const urunlerCncDuvarlar = [
   [
     {
-      image: "/images/dogal/Bazalt/GARGAMEL-300x300.avif",
-      name: "Gargamel 101",
-      array: "dogalTaslar",
+      image:
+        "/images/urunler/Cnc/DuvarDekorasyonlari/1-3-e1613195727324-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1001",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Bazalt/CALIMERO-300x300.avif",
-      name: "Calimero 101",
-      array: "dogalTaslar",
+      image:
+        "/images/urunler/Cnc/DuvarDekorasyonlari/2-1-e1613196095826-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1002",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Bazalt/Kup-Tas-Siyah-Bazalt1-300x300.avif",
-      name: "Calimero – Küp Taşlar 101",
-      array: "dogalTaslar",
+      image:
+        "/images/urunler/Cnc/DuvarDekorasyonlari/3-5-e1613197515614-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1003",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Bazalt/Kup-Tas-Siyah-Bazalt2-300x300.avif",
-      name: "Calimero – Küp Taşlar 102",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/5-7-scaled-1-300x300.jpg",
+      name: "Duvar Dekorasyonları – Referans 1004",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Bazalt/Kup-Tas-Siyah-Bazalt3-300x300.avif",
-      name: "Calimero – Küp Taşlar 103",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/DSCN2486-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1005",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/IMG_0482-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1006",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Cnc/DuvarDekorasyonlari/17-e1613200822764-300x300.png",
+      name: "Duvar Dekorasyonları – Referans 1007",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/1-300x300.png",
+      name: "Afyon Beyaz CNC 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/2-300x300.png",
+      name: "Afyon Beyaz CNC 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/3-300x300.png",
+      name: "Afyon Beyaz CNC 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/13-300x300.png",
+      name: "ED-01 Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/12-300x300.png",
+      name: "ED-02 Bianco Crema",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/11-300x300.png",
+      name: "ED-03 Bianco Crema",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/10-300x300.png",
+      name: "ED-04 Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/9-300x300.png",
+      name: "ED-06 Afyon Beyaz Mermer",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/8-300x300.png",
+      name: "ED-06 Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/7-300x300.png",
+      name: "ED-07 Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/6-300x300.png",
+      name: "ED-08 Afyon Beyaz Mermer",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/5-300x300.png",
+      name: "ED-08 Pearl",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/DuvarDekorasyonlari/4-300x300.png",
+      name: "ED-09 Pearl",
+      array: "urunler",
     },
   ],
 ];
 
-export const dogalTaslarDolomit = [
+export const urunlerCncTabureler = [
   [
     {
-      image: "/images/dogal/Dolomit/glacier-300x300.avif",
-      name: "Glacier 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Tabureler/1-3-300x300.png",
+      name: "Tabure1 – Beyaz Traverten",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/Dolomit/glacierwhite-300x300.avif",
-      name: "Glacier White 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Tabureler/2-2-300x300.png",
+      name: "Tabure2 – Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Tabureler/3-2-300x300.png",
+      name: "Tabure2 – Beyaz Traverten",
+      array: "urunler",
     },
   ],
 ];
 
-export const dogalTaslarDisMekan = [
+export const urunlerCncSehpalar = [
   [
     {
-      image: "/images/dogal/DisMekan/DisMekanBlueBahia101.avif",
-      name: "Dış Mekan – Blue Bahia 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/1-2-300x300.jpg",
+      name: "Sehpa Referans 1001",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanWhiteWalker101.avif",
-      name: "Dış Mekan – White Walker 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/2-2-300x300.jpg",
+      name: "Sehpa Referans 1002",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanWhiteWalker102.avif",
-      name: "Dış Mekan – White Walker 102",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/3-2-300x300.jpg",
+      name: "Sehpa Referans 1003",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans101.avif",
-      name: "Dış Mekan – Referans 101",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/4-2-300x300.jpg",
+      name: "Sehpa Referans 1004",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans102.avif",
-      name: "Dış Mekan – Referans 102",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/5-3-300x300.jpg",
+      name: "Sehpa Referans 1005",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans103.avif",
-      name: "Dış Mekan – Referans 103",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/6-4-300x300.jpg",
+      name: "Sehpa Referans 1006",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans104.avif",
-      name: "Dış Mekan – Referans 104",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/7-4-300x300.jpg",
+      name: "Sehpa Referans 1007",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans105.avif",
-      name: "Dış Mekan – Referans 105",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/8-2-300x300.jpg",
+      name: "Sehpa Referans 1008",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans106.avif",
-      name: "Dış Mekan – Referans 106",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/9-2-300x300.jpg",
+      name: "Sehpa Referans 1009",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans107.avif",
-      name: "Dış Mekan – Referans 107",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/10-2-300x300.jpg",
+      name: "Sehpa Referans 1010",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans108.avif",
-      name: "Dış Mekan – Referans 108",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/11-4-300x300.jpg",
+      name: "Sehpa Referans 1011",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans109.avif",
-      name: "Dış Mekan – Referans 109",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/12-2-300x300.jpg",
+      name: "Sehpa Referans 1012",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans110.avif",
-      name: "Dış Mekan – Referans 110",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/13-4-300x300.jpg",
+      name: "Sehpa Referans 1013",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans111.avif",
-      name: "Dış Mekan – Referans 111",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/14-2-300x300.jpg",
+      name: "Sehpa Referans 1014",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans112.avif",
-      name: "Dış Mekan – Referans 112",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/15-2-300x300.jpg",
+      name: "Sehpa Referans 1015",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans113.avif",
-      name: "Dış Mekan – Referans 113",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/16-2-300x300.jpg",
+      name: "Sehpa Referans 1016",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans114.avif",
-      name: "Dış Mekan – Referans 114",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/17-2-300x300.jpg",
+      name: "Sehpa Referans 1017",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans115.avif",
-      name: "Dış Mekan – Referans 115",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/18-2-300x300.jpg",
+      name: "Sehpa Referans 1018",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans116.avif",
-      name: "Dış Mekan – Referans 116",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/19-2-300x300.jpg",
+      name: "Sehpa Referans 1019",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans117.avif",
-      name: "Dış Mekan – Referans 117",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/20-2-300x300.jpg",
+      name: "Sehpa Referans 1020",
+      array: "urunler",
     },
     {
-      image: "/images/dogal/DisMekan/DisMekanReferans118.avif",
-      name: "Dış Mekan – Referans 118",
-      array: "dogalTaslar",
+      image: "/images/urunler/Cnc/Sehpalar/21-2-300x300.jpg",
+      name: "Sehpa Referans 1021",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/22-300x300.jpg",
+      name: "Sehpa Referans 1022",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/23-300x300.jpg",
+      name: "Sehpa Referans 1023",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/24-300x300.jpg",
+      name: "Sehpa Referans 1024",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Cnc/Sehpalar/25-300x300.jpg",
+      name: "Sehpa Referans 1025",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/26-300x300.jpg",
+      name: "Sehpa Referans 1026",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/27-300x300.jpg",
+      name: "Sehpa Referans 1027",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/28-300x300.jpg",
+      name: "Sehpa Referans 1028",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/29-300x300.jpg",
+      name: "Sehpa Referans 1029",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/30-300x300.jpg",
+      name: "Sehpa Referans 1030",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/31-300x300.jpg",
+      name: "Sehpa Referans 1031",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/32-300x300.jpg",
+      name: "Sehpa Referans 1032",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/33-300x300.jpg",
+      name: "Sehpa Referans 1033",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/34-300x300.jpg",
+      name: "Sehpa Referans 1034",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/35-300x300.jpg",
+      name: "Sehpa Referans 1035",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/36-300x300.jpg",
+      name: "Sehpa Referans 1036",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/37-300x300.jpg",
+      name: "Sehpa Referans 1037",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/38-300x300.jpg",
+      name: "Sehpa Referans 1038",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/39-300x300.jpg",
+      name: "Sehpa Referans 1039",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/40-300x300.jpg",
+      name: "Sehpa Referans 1040",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/41-300x300.jpg",
+      name: "Sehpa Referans 1041",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/42-300x300.jpg",
+      name: "Sehpa Referans 1042",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/43-300x300.jpg",
+      name: "Sehpa Referans 1043",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Cnc/Sehpalar/ct02afyonbeyazarcobaleno-300x300.png",
+      name: "CT-02 Afyon Beyaz Arcobaleno",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct02violet-300x300.png",
+      name: "CT-02 Violet",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct03blackberry-300x300.png",
+      name: "CT-03 Blackberry",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct04ivorycream-300x300.png",
+      name: "CT-04 Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct04carrara-300x300.png",
+      name: "CT-04 Carrara",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct04carrara2-1-300x300.png",
+      name: "CT-04-1 Carrara",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct04pewterveincut-300x300.png",
+      name: "CT-04 Gümüş Traverten Düz Kesim",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct04flamingo-300x300.png",
+      name: "CT-04 Kırmızı Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct05afyonbeyazeternal-300x300.png",
+      name: "CT-05 Afyon Beyaz Mermer Eternal",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct05pearl-300x300.png",
+      name: "CT-05 Pearl",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct05silverdragon-300x300.png",
+      name: "CT-05 Silver Dragon",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct07olivemaron-300x300.png",
+      name: "CT-07 Olive Maron",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct08olivemaron-300x300.png",
+      name: "CT-08 Olive Maron",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct09bluebahia-300x300.png",
+      name: "CT-09 Blue Bahia",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct10bluemoon-300x300.png",
+      name: "CT-10 Blue Moon",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct12portoro-300x300.png",
+      name: "CT-12 Portoro",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Cnc/Sehpalar/ct13afyonbeyazarcobaleno-300x300.png",
+      name: "CT-13 Afyon Beyaz Arcobaleno",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct13anmi-300x300.png",
+      name: "CT-13 Amarante, Nuage Miel, Iris",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct13bluebahia2-300x300.png",
+      name: "CT-13 Blue Bahia",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct13icejade-300x300.png",
+      name: "CT-13 Ice Jade",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct14neromarquina-300x300.png",
+      name: "CT-14 Nero Marquina",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct15afyonbeyazeternal-300x300.png",
+      name: "CT-15 Afyon Beyaz Mermer Eternal",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct16afyonbeyazeternal-300x300.png",
+      name: "CT-16 Afyon Beyaz Mermer Eternal",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct17silverdragon-300x300.png",
+      name: "CT-17 Silver Dragon",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct18darkemperador-300x300.png",
+      name: "CT-18 Dark Emperador",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct18silverdragon-300x300.png",
+      name: "CT-18 Silver Dragon",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct19carrara-300x300.png",
+      name: "CT-19 Carrara",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct20spanishdarkemp-300x300.png",
+      name: "CT-20 İspanyol Dark Emperador",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct21eternal-300x300.png",
+      name: "CT-21 Afyon Beyaz Arcobaleno",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct22alavogue-300x300.png",
+      name: "CT-22 Afyon Beyaz A La Vogue",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct23violet-300x300.png",
+      name: "CT-23 Violet",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Cnc/Sehpalar/ct24ispanyoldarkemperador-300x300.png",
+      name: "CT-24 İspanyol Dark Emperador",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Cnc/Sehpalar/ct26afyonbeyazarcobaleno-300x300.png",
+      name: "CT-26 Afyon Beyaz Arcobaleno",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct26abbm-300x300.png",
+      name: "CT-26 Afyon Beyaz Arcobaleno, Blue Moon, Blue Bahia",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct26bluemoon-300x300.png",
+      name: "CT-26 Blue Moon",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/ct27afyonbeyazalavogue-300x300.png",
+      name: "CT-27 Afyon Beyaz A La Vogue",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/pinguino-1-300x300.png",
+      name: "Pinguino",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/portoro-1-300x300.png",
+      name: "Portoro",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Sehpalar/silverdragon-300x300.png",
+      name: "Silver Dragon",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerCncMasalar = [
+  [
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-1-300x300.jpg",
+      name: "Masa Referans 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-2-300x300.jpg",
+      name: "Masa Referans 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-3-300x300.jpg",
+      name: "Masa Referans 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-4-300x300.jpg",
+      name: "Masa Referans 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-5-300x300.jpg",
+      name: "Masa Referans 1005",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-6-300x300.jpg",
+      name: "Masa Referans 1006",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-7-300x300.jpg",
+      name: "Masa Referans 1007",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-8-300x300.jpg",
+      name: "Masa Referans 1008",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-9-300x300.jpg",
+      name: "Masa Referans 1009",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-10-300x300.jpg",
+      name: "Masa Referans 1010",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-11-300x300.jpg",
+      name: "Masa Referans 1011",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-12-300x300.jpg",
+      name: "Masa Referans 1012",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-13-300x300.jpg",
+      name: "Masa Referans 1013",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-14-300x300.jpg",
+      name: "Masa Referans 1014",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-16-300x300.jpg",
+      name: "Masa Referans 1015",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-17-300x300.jpg",
+      name: "Masa Referans 1016",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-18-300x300.jpg",
+      name: "Masa Referans 1017",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-19-300x300.jpg",
+      name: "Masa Referans 1018",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/Referans-20-300x300.jpg",
+      name: "Masa Referans 1019",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/6-300x300.png",
+      name: "Kenar Detayları 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/12-300x300.png",
+      name: "Kenar Detayları 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/7-300x300.png",
+      name: "Kenar Detayları 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/10-300x300.png",
+      name: "Kenar Detayları 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/14-300x300.png",
+      name: "Kenar Detayları 1005",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Cnc/Masalar/8-300x300.png",
+      name: "Kenar Detayları 1006",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/2-300x300.png",
+      name: "Kenar Detayları 1007",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/1-300x300.png",
+      name: "Kenar Detayları 1008",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/19-1-300x300.png",
+      name: "Kenar Detayları 1008-1",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/20-300x300.png",
+      name: "Kenar Detayları 1009",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/9-300x300.jpg",
+      name: "Kenar Detayları 1011",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/3-300x300.jpg",
+      name: "Kenar Detayları 1012",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/15-300x300.png",
+      name: "Kenar Detayları 1013",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/13-300x300.jpg",
+      name: "Kenar Detayları 1014",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/16-300x300.png",
+      name: "Kenar Detayları 1015",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/18-300x300.png",
+      name: "Kenar Detayları 1016",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/17-300x300.png",
+      name: "Kenar Detayları 1017",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/11-300x300.jpg",
+      name: "Kenar Detayları 1018",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/31-300x300.jpg",
+      name: "Kenar Detayları 1019",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/32-300x300.jpg",
+      name: "Kenar Detayları 1020",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/33-300x300.jpg",
+      name: "Kenar Detayları 1021",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/34-300x300.jpg",
+      name: "Kenar Detayları 1022",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/35-300x300.jpg",
+      name: "Kenar Detayları 1023",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/36-300x300.jpg",
+      name: "Kenar Detayları 1024",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/37-300x300.jpg",
+      name: "Kenar Detayları 1025",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/38-300x300.avif",
+      name: "Kenar Detayları 1026",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/39-300x300.avif",
+      name: "Kenar Detayları 1027",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/40-300x300.avif",
+      name: "Kenar Detayları 1028",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/41-300x300.avif",
+      name: "Kenar Detayları 1029",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Cnc/Masalar/42-300x300.jpg",
+      name: "Kenar Detayları 1030",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/43-300x300.jpg",
+      name: "Kenar Detayları 1031",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/44-300x300.jpg",
+      name: "Kenar Detayları 1032",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/45-300x300.jpg",
+      name: "Kenar Detayları 1033",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/46-300x300.jpg",
+      name: "Kenar Detayları 1034",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/47-300x300.jpg",
+      name: "Kenar Detayları 1035",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/48-300x300.jpg",
+      name: "Kenar Detayları 1036",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/49-300x300.jpg",
+      name: "Kenar Detayları 1037",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/50-300x300.jpg",
+      name: "Kenar Detayları 1038",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/21-300x300.png",
+      name: "Kenar Detayları 1039",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/22-300x300.png",
+      name: "Kenar Detayları 1040",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/t02bluebahia-300x300.png",
+      name: "T-02 Afyon Beyaz Arcobaleno",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/t03bluebahia-300x300.png",
+      name: "T-03 Afyon Beyaz Arcobaleno",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/t04lilla-300x300.png",
+      name: "T-04 Lilla",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/t05afyonbeyaz-1-300x300.png",
+      name: "T-05 Afyon Beyaz Arcobaleno",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/t06beyaztraverten-300x300.png",
+      name: "T-06 Beyaz Traverten",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/t07bluebahia-300x300.png",
+      name: "T-07 Blue Bahia",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/t07pewterblendveincut-300x300.png",
+      name: "T-07 Gümüş Traverten Düz Kesim",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/t08pewterblendveincut-300x300.png",
+      name: "T-08 Gümüş Traverten Düz Kesim",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/t09metell-300x300.png",
+      name: "T-09 Metell",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/t11bluebahia-300x300.png",
+      name: "T-11 Afyon Beyaz Arcobaleno",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/t12bluebahia3-300x300.png",
+      name: "T-12 Afyon Beyaz Arcobaleno",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/t13neromarquina-300x300.png",
+      name: "T-13 Nero Marquina",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/t14pewterveincut-300x300.png",
+      name: "T-14 Gümüş Traverten Düz Kesim",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image: "/images/urunler/Cnc/Masalar/t15carrara-300x300.avif",
+      name: "T-15 Carrara",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/k01darkemperador-300x300.avif",
+      name: "K-01 Dark Emperador",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/k03lilla2-300x300.avif",
+      name: "K-03 Lilla",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/k05pearl1-300x300.avif",
+      name: "K-05 Pearl",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/k07pinguino3-300x300.avif",
+      name: "K-07 Pinguino",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/k09warmwalnut-300x300.png",
+      name: "K-09 Warm Walnut",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Cnc/Masalar/k10lilla3-300x300.png",
+      name: "K-10 Lilla",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerWaterjetMadalyon = [
+  [
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/1waterjetmadalyon-1-300x300.jpg",
+      name: "Waterjet Madalyon 1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/2waterjetmadalyon-1-300x300.jpg",
+      name: "Waterjet Madalyon 2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/3waterjetmadalyon-1-300x300.jpg",
+      name: "Waterjet Madalyon 3",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/4waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 4",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/5waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 5",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/6waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 6",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/7waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 7",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/8waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 8",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/9waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 9",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/10waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 10",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/11waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 11",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/12waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 12",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/13waterjetmadalyon-300x300.jpg",
+      name: "Waterjet Madalyon 13",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/14waterjetmadalyon-1-300x300.jpg",
+      name: "Waterjet Madalyon 14",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon01-300x300.png",
+      name: "Waterjet Madalyon WJM-01",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon02-300x300.png",
+      name: "Waterjet Madalyon WJM-02",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon03-300x300.png",
+      name: "Waterjet Madalyon WJM-03",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon04-300x300.png",
+      name: "Waterjet Madalyon WJM-04",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon05-300x300.png",
+      name: "Waterjet Madalyon WJM-05",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon07-300x300.png",
+      name: "Waterjet Madalyon WJM-07",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon08-300x300.png",
+      name: "Waterjet Madalyon WJM-08",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon09-300x300.png",
+      name: "Waterjet Madalyon WJM-09",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon10-300x300.png",
+      name: "Waterjet Madalyon WJM-10",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon11-300x300.png",
+      name: "Waterjet Madalyon WJM-11",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon12-300x300.png",
+      name: "Waterjet Madalyon WJM-12",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon13-300x300.png",
+      name: "Waterjet Madalyon WJM-13",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon14-300x300.png",
+      name: "Waterjet Madalyon WJM-14-1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon14_2-1-300x300.png",
+      name: "Waterjet Madalyon WJM-14-2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon15-300x300.png",
+      name: "Waterjet Madalyon WJM-15-1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon15_2-300x300.png",
+      name: "Waterjet Madalyon WJM-15-2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon16-300x300.png",
+      name: "Waterjet Madalyon WJM-16",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon17-300x300.png",
+      name: "Waterjet Madalyon WJM-17",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon18-300x300.png",
+      name: "Waterjet Madalyon WJM-18",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19-300x300.jpg",
+      name: "Waterjet Madalyon WJM-19-1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19_2-300x300.jpg",
+      name: "Waterjet Madalyon WJM-19-2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19_3-300x300.jpg",
+      name: "Waterjet Madalyon WJM-19-3",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon20-300x300.png",
+      name: "Waterjet Madalyon WJM-20",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon21-300x300.jpg",
+      name: "Waterjet Madalyon WJM-21",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon22-300x300.png",
+      name: "Waterjet Madalyon WJM-22",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon24-300x300.png",
+      name: "Waterjet Madalyon WJM-24",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon25-300x300.png",
+      name: "Waterjet Madalyon WJM-25",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon26-300x300.png",
+      name: "Waterjet Madalyon WJM-26",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon27-300x300.jpg",
+      name: "Waterjet Madalyon WJM-27",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon28-300x300.png",
+      name: "Waterjet Madalyon WJM-28",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon29-300x300.png",
+      name: "Waterjet Madalyon WJM-29",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon30-300x300.jpg",
+      name: "Waterjet Madalyon WJM-30-1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon30_2-300x300.png",
+      name: "Waterjet Madalyon WJM-30-2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon30_3-300x300.png",
+      name: "Waterjet Madalyon WJM-30-3",
+      array: "urunler",
+    },
+  ],
+  [
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon31-300x300.png",
+      name: "Waterjet Madalyon WJM-31",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon31-300x300.png",
+      name: "Waterjet Madalyon WJM-32",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon31-300x300.png",
+      name: "Waterjet Madalyon WJM-33",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon34-300x300.png",
+      name: "Waterjet Madalyon WJM-34-1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon34_2-300x300.png",
+      name: "Waterjet Madalyon WJM-34-2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon35-300x300.png",
+      name: "Waterjet Madalyon WJM-35",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon36-300x300.png",
+      name: "Waterjet Madalyon WJM-36-1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon36_2-300x300.png",
+      name: "Waterjet Madalyon WJM-36-2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon37-300x300.png",
+      name: "Waterjet Madalyon WJM-37",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon38-300x300.png",
+      name: "Waterjet Madalyon WJM-38",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon39-300x300.png",
+      name: "Waterjet Madalyon WJM-39",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon40-300x300.png",
+      name: "Waterjet Madalyon WJM-40",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerWaterjetMozaik = [
+  [
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik1-300x300.png",
+      name: "Waterjet Mozaik WJC - 01",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik2-300x300.png",
+      name: "Waterjet Mozaik WJC - 02-1",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik3-300x300.png",
+      name: "Waterjet Mozaik WJC - 02-2",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik4-300x300.png",
+      name: "Waterjet Mozaik WJC - 03",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerWaterjetKaro = [
+  [
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro1-300x300.png",
+      name: "Waterjet Karo WJK-01",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro2-300x300.png",
+      name: "Waterjet Karo WJK-02",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro3-300x300.png",
+      name: "Waterjet Karo WJK-03",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro4-300x300.png",
+      name: "Waterjet Karo WJK-04",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro5-300x300.png",
+      name: "Waterjet Karo WJK-05",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro6-300x300.png",
+      name: "Waterjet Karo WJK-06",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro7-300x300.png",
+      name: "Waterjet Karo WJK-07",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro8-300x300.png",
+      name: "Waterjet Karo WJK-08",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro9-300x300.png",
+      name: "Waterjet Karo WJK-09",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro10-300x300.png",
+      name: "Waterjet Karo WJK-10",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerWaterjetBordur = [
+  [
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur1-300x300.png",
+      name: "Waterjet Bordür WJB-01",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur2-300x300.png",
+      name: "Waterjet Bordür WJB-02",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur3-300x300.png",
+      name: "Waterjet Bordür WJB-03",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur4-300x300.png",
+      name: "Waterjet Bordür WJB-04",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur5-300x300.png",
+      name: "Waterjet Bordür WJB-05",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur6-300x300.png",
+      name: "Waterjet Bordür WJB-06",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur7-300x300.png",
+      name: "Waterjet Bordür WJB-07",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerDekoratifSupurgelik = [
+  [
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm18-2-300x300.jpg",
+      name: "Süpürgelik EFM-18",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Supurgelik/efm19-e1610007029307-300x300.jpg",
+      name: "Süpürgelik EFM-19",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Supurgelik/efm20-e1610007366618-300x300.jpg",
+      name: "Süpürgelik EFM-20",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm25-300x300.jpg",
+      name: "Süpürgelik EFM-25",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm26-300x300.jpg",
+      name: "Süpürgelik EFM-26",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm27-300x300.jpg",
+      name: "Süpürgelik EFM-27",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm43-300x300.jpg",
+      name: "Süpürgelik EFM-43",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm44-300x300.jpg",
+      name: "Süpürgelik EFM-44",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm45-300x300.jpg",
+      name: "Süpürgelik EFM-45",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm46-300x300.jpg",
+      name: "Süpürgelik EFM-46",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm47-300x300.jpg",
+      name: "Süpürgelik EFM-47",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm48-300x300.jpg",
+      name: "Süpürgelik EFM-48",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm49-300x300.jpg",
+      name: "Süpürgelik EFM-49",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm50-300x300.jpg",
+      name: "Süpürgelik EFM-50",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm51-300x300.jpg",
+      name: "Süpürgelik EFM-51",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm52-300x300.jpg",
+      name: "Süpürgelik EFM-52",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Supurgelik/efm54-300x300.jpg",
+      name: "Süpürgelik EFM-54",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerDekoratifKolon = [
+  [
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1001.jpg",
+      name: "Kolon – Referans 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1002.jpg",
+      name: "Kolon – Referans 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1003.jpg",
+      name: "Kolon – Referans 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1004.jpg",
+      name: "Kolon – Referans 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1005.jpg",
+      name: "Kolon – Referans 1005",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1006.jpg",
+      name: "Kolon – Referans 1006",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1007.jpg",
+      name: "Kolon – Referans 1007",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/1008.jpg",
+      name: "Kolon – Referans 1008",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/a1001.png",
+      name: "Dekoratif Ürünler – Kolon 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/a1002.png",
+      name: "Dekoratif Ürünler – Kolon 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/a1003.png",
+      name: "Dekoratif Ürünler – Kolon 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/a1004.png",
+      name: "Dekoratif Ürünler – Kolon 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kolon/a1005.png",
+      name: "Dekoratif Ürünler – Kolon 1005",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerDekoratifKurna = [
+  [
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna1-300x300.jpg",
+      name: "Kurna BS-01",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna2-300x300.jpg",
+      name: "Kurna BS-02",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna3-300x300.png",
+      name: "Kurna BS-03",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna4-300x300.png",
+      name: "Kurna BS-04",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna5-300x300.png",
+      name: "Kurna BS-05",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna6-300x300.png",
+      name: "Kurna BS-06",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna7-300x300.png",
+      name: "Kurna BS-07",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna8-300x300.png",
+      name: "Kurna BS-08",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna9-300x300.png",
+      name: "Kurna BS-09",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Kurna/kurna10-300x300.png",
+      name: "Kurna BS-10",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerDekoratifSutun = [
+  [
+    {
+      image: "/images/urunler/Dekoratif/Sutun/sutun4-300x300.jpg",
+      name: "Dekoratif Ürünler – Sütun 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sutun/sutun1-300x300.jpg",
+      name: "Dekoratif Ürünler – Sütun 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sutun/sutun2-300x300.jpg",
+      name: "Dekoratif Ürünler – Sütun 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sutun/sutun3-300x300.jpg",
+      name: "Dekoratif Ürünler – Sütun 1004",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerDekoratifKorkuluk = [
+  [
+    {
+      image: "/images/urunler/Dekoratif/Korkuluk/korkuluk5-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Korkuluk/korkuluk4-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Korkuluk/korkuluk3-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Korkuluk/korkuluk1-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Korkuluk/korkuluk2-300x300.jpg",
+      name: "Dekoratif Ürünler – Korkuluk 1005",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerDekoratifSove = [
+  [
+    {
+      image: "/images/urunler/Dekoratif/Sove/classiclightsove-300x300.jpg",
+      name: "Dekoratif Ürünler – Söve 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sove/ivorycreamsove-300x300.jpg",
+      name: "Dekoratif Ürünler – Söve 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sove/rossolagunasove-300x300.jpg",
+      name: "Dekoratif Ürünler – Söve 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sove/sove-1-e1613029306290-300x300.png",
+      name: "Dekoratif Ürünler – Söve 1004",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerDekoratifDus = [
+  [
+    {
+      image: "/images/urunler/Dekoratif/DusTeknesi/dusTeknesi.png",
+      name: "Duş Teknesi – Referans",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/DusTeknesi/arcobalenokuvet-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1001",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/DusTeknesi/arcobalenokuvet2-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/DusTeknesi/nocekuvet-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/DusTeknesi/warmwalnutkuvet-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1004",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/DusTeknesi/warmwalnutkuvet2-300x300.jpg",
+      name: "Dekoratif Ürünler – Duş Teknesi 1005",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerDekoratifBahce = [
+  [
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/anavarza-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/harmony-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1002",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/BahceSuslemesi/kengerleaves-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/kizuwatna-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/momentum-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1005",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/puduhepa-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1006",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/raindrop-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1007",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/rodos-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1008",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/sangarios-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1009",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/BahceSuslemesi/swanlake-300x300.jpg",
+      name: "Dekoratif Ürünler – Bahçe Süslemesi 1010",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerDekoratifAksesuar = [
+  [
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/lodos-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/medusa-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1002",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/novel-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1003",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/paperholder-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1004",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/sahara-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1005",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/eagle-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1006",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/efesusgirls-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1007",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/anfora-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1008",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/shaman-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1009",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/soapdish-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1010",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aksesuar/towelbar-300x300.jpg",
+      name: "Dekoratif Ürünler – Aksesuar 1011",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerDekoratifAplik = [
+  [
+    {
+      image: "/images/urunler/Dekoratif/Aplik/honeysconce-300x300.jpg",
+      name: "Dekoratif Ürünler – Aplik 1001",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Aplik/ivorycreamsconce-300x300.jpg",
+      name: "Dekoratif Ürünler – Aplik 1002",
+      array: "urunler",
+    },
+  ],
+];
+
+export const urunlerDekoratifSampuanlik = [
+  [
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/alavoguesampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1001",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/classiclightsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1002",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/dynastiesampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1003",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/euphoriesampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1004",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/eventailsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1005",
+      array: "urunler",
+    },
+    {
+      image: "/images/urunler/Dekoratif/Sampuanlik/pearlsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1006",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/saffronsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1007",
+      array: "urunler",
+    },
+    {
+      image:
+        "/images/urunler/Dekoratif/Sampuanlik/warmwalnutsampuanlik-300x300.jpg",
+      name: "Dekoratif Ürünler – Şampuanlık 1008",
+      array: "urunler",
     },
   ],
 ];
