@@ -82,19 +82,22 @@ const DogalTaslarBejMermer = () => {
               );
             })}
           </div>
+
           <div className="buttons flex gap-4 mt-4">
-            <div className="buttons flex gap-4 mt-4">
+            <button>
               <BsFillArrowLeftCircleFill
                 size={24}
                 color="gray"
                 onClick={backHandler}
               />
+            </button>
+            <button>
               <BsFillArrowRightCircleFill
                 size={24}
                 color="gray"
                 onClick={nextHandler}
               />
-            </div>
+            </button>
           </div>
         </div>
       </div>

@@ -1,54 +1,14 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useEffect } from "react";
 import { urunlerWaterjetBordur } from "../../../utils";
 import { useNavigate } from "react-router-dom";
 import Breadcrumbs from "../../../components/Breadcrumbs";
-import {
-  BsFillArrowLeftCircleFill,
-  BsFillArrowRightCircleFill,
-} from "react-icons/bs";
 import SideBar from "../../../components/SideBar";
 import { MarboContext } from "../../../context/MarboContext";
 
 const UrunlerWaterjetBordur = () => {
-  const [page, setPage] = useState(0);
   const navigate = useNavigate();
 
   const { setWaterjet } = useContext(MarboContext);
-
-  const backHandler = () => {
-    if (page === 0) {
-      console.log("firstPage");
-      return;
-    }
-    setPage(page - 1);
-    return;
-  };
-
-  const nextHandler = () => {
-    if (page === urunlerWaterjetBordur.length - 1) {
-      console.log("lastPage");
-      return;
-    }
-    setPage(page + 1);
-  };
-
-  // const pageHandler = (e) => {
-  //   if (e.target.value === "prev") {
-  //     if (page === 0) {
-  //       console.log("firstPage");
-  //       return;
-  //     }
-  //     setPage(page - 1);
-  //     return;
-  //   }
-  //   if (e.target.value === "next") {
-  //     if (page === urunlerWaterjetBordur.length - 1) {
-  //       console.log("lastPage");
-  //       return;
-  //     }
-  //     setPage(page + 1);
-  //   }
-  // };
 
   useEffect(() => {
     setWaterjet(true);
@@ -67,7 +27,7 @@ const UrunlerWaterjetBordur = () => {
             Ürünler Waterjet Bordür
           </h1>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4">
-            {urunlerWaterjetBordur[page].map((tas, index) => {
+            {urunlerWaterjetBordur[0].map((tas, index) => {
               return (
                 <div
                   key={index}
@@ -89,18 +49,6 @@ const UrunlerWaterjetBordur = () => {
                 </div>
               );
             })}
-          </div>
-          <div className="buttons flex gap-4 mt-4">
-            <BsFillArrowLeftCircleFill
-              size={24}
-              color="gray"
-              onClick={backHandler}
-            />
-            <BsFillArrowRightCircleFill
-              size={24}
-              color="gray"
-              onClick={nextHandler}
-            />
           </div>
         </div>
       </div>

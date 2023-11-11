@@ -376,11 +376,8 @@ const AppRouter = () => {
           <>
             <Route path="urunler/cnc" element={<UrunlerCnc />} />
             <Route path="urunler/cnc/:name" element={<Details />} />
-            <Route
-              path="urunler/cnc/duvarlar"
-              element={<UrunlerCncDuvarlar />}
-            />
-            <Route path="urunler/cnc/duvarlar/:name" element={<Details />} />
+            <Route path="urunler/cnc/duvar" element={<UrunlerCncDuvarlar />} />
+            <Route path="urunler/cnc/duvar/:name" element={<Details />} />
             <Route path="urunler/cnc/masalar" element={<UrunlerCncMasalar />} />
             <Route path="urunler/cnc/masalar/:name" element={<Details />} />
             <Route

@@ -93,16 +93,20 @@ const TezgahlarKuvarsCim = () => {
             })}
           </div>
           <div className="buttons flex gap-4 mt-4">
-            <BsFillArrowLeftCircleFill
-              size={24}
-              color="gray"
-              onClick={backHandler}
-            />
-            <BsFillArrowRightCircleFill
-              size={24}
-              color="gray"
-              onClick={nextHandler}
-            />
+            <button>
+              <BsFillArrowLeftCircleFill
+                size={24}
+                color="gray"
+                onClick={backHandler}
+              />
+            </button>
+            <button>
+              <BsFillArrowRightCircleFill
+                size={24}
+                color="gray"
+                onClick={nextHandler}
+              />
+            </button>
           </div>
         </div>
       </div>

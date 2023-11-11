@@ -6,8 +6,6 @@ import DetailModal from "./DetailModal";
 const Details = () => {
   const location = useLocation();
   const { state } = location;
-  const { image } = useParams();
-  console.log(image);
 
   const [modal, setModal] = useState(false);
 
@@ -30,6 +28,7 @@ const Details = () => {
         <div>
           <h2 className="font-bold text-2xl">{state.name}</h2>
         </div>
+
         {modal && (
           <div className="absolute w-[100vw] h-[100vh] top-0 ">
             <DetailModal
@@ -40,6 +39,7 @@ const Details = () => {
           </div>
         )}
       </div>
+      <h2 className="text-center">Benzer Ürünler</h2>
     </div>
   );
 };
