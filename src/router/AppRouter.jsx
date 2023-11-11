@@ -399,25 +399,25 @@ const AppRouter = () => {
               path="urunler/waterjet/bordur"
               element={<UrunlerWaterjetBordur />}
             />
-            <Route path="urunler/waterjet/bordur:name" element={<Details />} />
+            <Route path="urunler/waterjet/bordur/:name" element={<Details />} />
             <Route
               path="urunler/waterjet/karo"
               element={<UrunlerWaterjetKaro />}
             />
-            <Route path="urunler/waterjet/karo:name" element={<Details />} />
+            <Route path="urunler/waterjet/karo/:name" element={<Details />} />
             <Route
               path="urunler/waterjet/madalyon"
               element={<UrunlerWaterjetMadalyon />}
             />
             <Route
-              path="urunler/waterjet/madalyon:name"
+              path="urunler/waterjet/madalyon/:name"
               element={<Details />}
             />
             <Route
               path="urunler/waterjet/mozaik"
               element={<UrunlerWaterjetMozaik />}
             />
-            <Route path="urunler/waterjet/mozaik:name" element={<Details />} />
+            <Route path="urunler/waterjet/mozaik/:name" element={<Details />} />
           </>
           {/* Dekoratif Urunler */}
           <>

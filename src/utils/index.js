@@ -10913,46 +10913,55 @@ export const plakalarYariDegerli = [
       image:
         "/images/plakalar/DogalTasPlakalar/YariDegerliPlakalar/Agathe-Blue-300x300.png",
       name: "Agate Blue 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/YariDegerliPlakalar/Agathe-Green-300x300.png",
       name: "Agate Green 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/YariDegerliPlakalar/Agathe-Purple-300x300.png",
       name: "Agate Purple 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/YariDegerliPlakalar/Grey-Agate-1-300x300.png",
       name: "Grey Agate 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/YariDegerliPlakalar/Petrified-Wood-1-300x300.png",
       name: "Petrified Wood 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/YariDegerliPlakalar/Agate-White-300x300.png",
       name: "Agate White 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/YariDegerliPlakalar/Rosa-Quartz-1-300x300.png",
       name: "Rosa Quartz 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/YariDegerliPlakalar/Yellow-Tiger-Agate-1-300x300.png",
       name: "Yellow Tiger Agate 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/YariDegerliPlakalar/Round-Agathe-300x300.png",
       name: "Round Agathe 1001",
+      array: "plakalar",
     },
   ],
 ];
@@ -10963,121 +10972,145 @@ export const plakalarMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/74desertwave-2-300x300.png",
       name: "Desert Wave 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/panda-emerald-marble-300x300.png",
       name: "Panda Emerald Marble 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Rain-Forest-Brown-2-300x300.png",
       name: "Rain Forest Brown 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Rain-Forest-Green-300x300.png",
       name: "Rain Forest Green 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Panda-Azul-300x300.png",
       name: "Panda Azul 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Panda-Azul-2-300x300.png",
       name: "Panda Azul 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Ice-Jade10-300x300.png",
       name: "Ice Jade 1010",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Lilla-5-300x300.png",
       name: "Lilla 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Black-Leopar2-300x300.png",
       name: "Magma Gold 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Petrified-Wood-Marble-300x300.png",
       name: "Petrified Wood Marble 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/black-aziza2-300x300.png",
       name: "Black Aziza 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/picasso-300x300.png",
       name: "Picasso 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/serpeigante-light2-300x300.png",
       name: "Serpegiante Light 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Zebra-Black-2-300x300.png",
       name: "Zebra Black 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Turtle2-1-300x300.png",
       name: "Turtle 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Azul-Macaubas-1-300x300.png",
       name: "Azul Macaubas 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Azul-Macaubas-2-300x300.png",
       name: "Azul Macaubas 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Panda-White8-300x300.png",
       name: "Panda White 1008",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/serpeigante-light-300x300.png",
       name: "Serpegiante Light 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Afyon-White-Spider-300x300.png",
       name: "Afyon White Spider 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Lilla-2-300x300.png",
       name: "Lilla 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Lilla-3-300x300.png",
       name: "Lilla 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/Bardiglio-Black-300x300.png",
       name: "Bardiglio Black 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-1/pinguino11-300x300.png",
       name: "Pinguino 1011",
+      array: "plakalar",
     },
   ],
   [
@@ -11085,121 +11118,145 @@ export const plakalarMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Panda-White6-300x300.png",
       name: "Panda White 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Panda-White7-300x300.png",
       name: "Panda White 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Emerald1-300x300.png",
       name: "Emerald 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Emerald2-300x300.png",
       name: "Emerald 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Emerald3-300x300.png",
       name: "Emerald 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Emerald4-300x300.png",
       name: "Emerald 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Cafe-Chino-300x300.png",
       name: "Picasso 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Panda-White5-300x300.png",
       name: "Panda White 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/serpeigante-300x300.png",
       name: "Serpegiante 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Marmara-White-Marble-300x300.png",
       name: "Marmara Beyaz Mermer 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Zebra-White-300x300.png",
       name: "Zebra White 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Hills-300x300.png",
       name: "Hills 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Fusion-300x300.png",
       name: "Fusion 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Panda-White4-300x300.png",
       name: "Emerald 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Rain-Forest-Brown-300x300.png",
       name: "Rain Forest Brown 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Statuario-300x300.png",
       name: "Statuario 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Nero-300x300.png",
       name: "Nero 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Zebra-Black-300x300.png",
       name: "Zebra Black 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Turtle-300x300.png",
       name: "Turtle 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/calacattaoro-300x300.png",
       name: "Calacatta Oro 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Carrara-Arabescato-300x300.png",
       name: "Carrara Arabescato 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/27-afyonwhitearcobaleno-300x300.png",
       name: "Afyon Beyaz Arcobaleno 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/20-bardiglioblu-300x300.png",
       name: "Bardiglio Blu 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/31-sperenza-300x300.png",
       name: "Sperenza 1001",
+      array: "plakalar",
     },
   ],
   [
@@ -11207,121 +11264,145 @@ export const plakalarMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/37verdeguatemala-300x300.png",
       name: "Verde Guatemala 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/37verdeforest-300x300.png",
       name: "Verde Forest 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/42elazigvisne-300x300.png",
       name: "Elazığ Vişne 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/77volakasbianco-300x300.png",
       name: "Volakas Bianco 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/64neromarquina-1-300x300.png",
       name: "Nero Marquina 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/nebel2-300x300.png",
       name: "Nebel 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/16-bluemoon-300x300.png",
       name: "Blue Moon 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/2324-1-300x300.png",
       name: "Afyon Beyaz Arcobaleno 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/1880-2-1-300x300.png",
       name: "Afyon Beyaz Arcobaleno 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/1878-4-300x300.png",
       name: "Afyon Beyaz Arcobaleno 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/1820-3-300x300.png",
       name: "Afyon Beyaz Arcobaleno 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/770-300x300.png",
       name: "Afyon Beyaz Arcobaleno 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/168-300x300.png",
       name: "Afyon Beyaz Arcobaleno 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/29-afyonwhitegoldengray-300x300.png",
       name: "Afyon Beyaz Golden Gray 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/afyongoldengray5-300x300.png",
       name: "Afyon Beyaz Golden Gray 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/afyongoldengray6-300x300.png",
       name: "Afyon Beyaz Golden Gray 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/afyongoldengray3-300x300.png",
       name: "Afyon Beyaz Golden Gray 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/afyongoldengray2-300x300.png",
       name: "Afyon Beyaz Golden Gray 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/afyongoldengray1-300x300.png",
       name: "Afyon Beyaz Golden Gray 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/26-afyonwhitealavogue-300x300.png",
       name: "Afyon Beyaz A La Vogue 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/Afyonalavogue1-300x300.png",
       name: "Afyon Beyaz A La Vogue 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/Afyonalavogue2-300x300.png",
       name: "Afyon Beyaz A La Vogue 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-3/Afyonalavogue3-300x300.png",
       name: "Afyon Beyaz A La Vogue 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/28-afyonwhitebillur-300x300.png",
       name: "Afyon Beyaz Billur 1001",
+      array: "plakalar",
     },
   ],
   [
@@ -11329,121 +11410,145 @@ export const plakalarMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/afyonwhitebiillur7-300x300.png",
       name: "Afyon Beyaz Billur 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/afyonwhitebiillur8-300x300.png",
       name: "Afyon Beyaz Billur 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/afyonwhitebiillur1-300x300.png",
       name: "Afyon Beyaz Billur 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/afyonwhitebiillur4-300x300.png",
       name: "Afyon Beyaz Billur 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/afyonwhitebiillur3-300x300.png",
       name: "Afyon Beyaz Billur 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/afyonwhitebiillur2-300x300.png",
       name: "Afyon Beyaz Billur 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/afyonwhitebiillur5-300x300.png",
       name: "Afyon Beyaz Billur 1008",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/afyonwhitebiillur6-300x300.png",
       name: "Afyon Beyaz Billur 1009",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/53afyonseker-1-300x300.png",
       name: "Afyon Şeker 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/afyonseker2-300x300.png",
       name: "Afyon Şeker 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/afyonseker3-300x300.png",
       name: "Afyon Şeker 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/afyonseker4-300x300.png",
       name: "Afyon Şeker 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/afyonseker5-300x300.png",
       name: "Afyon Şeker 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/afyonseker6-300x300.png",
       name: "Afyon Şeker 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/24-amarante-300x300.png",
       name: "Calacatta 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/amarante2-300x300.png",
       name: "Calacatta 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/amarante3-300x300.png",
       name: "Calacatta 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/amarante4-300x300.png",
       name: "Calacatta 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/amarante1-300x300.png",
       name: "Calacatta 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/amarante5-300x300.png",
       name: "Calacatta 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/amarante8-300x300.png",
       name: "Calacatta 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/amarante7-300x300.png",
       name: "Calacatta 1008",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-4/amarante6-300x300.png",
       name: "Calacatta 1009",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/18-bardiglioblu-300x300.png",
       name: "Bardiglio Blu 1002",
+      array: "plakalar",
     },
   ],
   [
@@ -11451,121 +11556,145 @@ export const plakalarMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/19-bardiglioblu-300x300.png",
       name: "Bardiglio Blu 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/21-bardiglioblu-300x300.png",
       name: "Bardiglio Blu 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/22-bardiglioblu-300x300.png",
       name: "Bardiglio Blu 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/23-bardiglioblu-300x300.png",
       name: "Bardiglio Blu 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/25-amaranteblu-300x300.png",
       name: "Calacatta 1012",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/40nuagemiel-1-300x300.png",
       name: "Nuage Miel 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/41nuagedore-300x300.png",
       name: "Nuage Doré 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/amarante9-300x300.png",
       name: "Calacatta 1010",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/amarante10-300x300.png",
       name: "Calacatta 1011",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/amaranteblu1-300x300.png",
       name: "Calacatta 1013",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/amaranteblu3-300x300.png",
       name: "Calacatta 1014",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/amaranteblu4-300x300.png",
       name: "Calacatta 1015",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/amaranteblu5-300x300.png",
       name: "Calacatta 1016",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/bardiglioblu1-300x300.png",
       name: "Bardiglio Blu 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/bardiglioblu2-300x300.png",
       name: "Bardiglio Blu 1008",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel2-300x300.png",
       name: "Nuage Miel 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel7-300x300.png",
       name: "Nuage Miel 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel8-300x300.png",
       name: "Nuage Miel 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel9-300x300.png",
       name: "Nuage Miel 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel10-300x300.png",
       name: "Nuage Miel 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel6-300x300.png",
       name: "Nuage Miel 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel5-300x300.png",
       name: "Nuage Miel 1008",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-5/nuagemiel5-300x300.png",
       name: "Nuage Miel 1009",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/bardiglioblu3-300x300.png",
       name: "Bardiglio Blu 1009",
+      array: "plakalar",
     },
   ],
   [
@@ -11573,121 +11702,145 @@ export const plakalarMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/bardiglioblu4-300x300.png",
       name: "Bardiglio Blu 1010",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/2-Bluebahia-300x300.png",
       name: "Blue Bahia 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/1-Bluebahia-300x300.png",
       name: "Blue Bahia 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/17-bluemoon-300x300.png",
       name: "Blue Moon 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/16-bluemoon-600x600.avif",
       name: "Blue Moon 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/15-bluemoon-300x300.png",
       name: "Blue Moon 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/14-bluemoon-300x300.png",
       name: "Blue Moon 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/13-bluemoon-1-300x300.png",
       name: "Blue Moon 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/10-bluemoon-1-300x300.png",
       name: "Blue Moon 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/11-bluemoon-300x300.png",
       name: "Blue Moon 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/bluestone1-300x300.png",
       name: "Blue Stone 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/bluestone2-300x300.png",
       name: "Blue Stone 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/bluestone3-300x300.png",
       name: "Blue Stone 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/bluemoongold-300x300.png",
       name: "Blue Moon Gold 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/9-marineblue-300x300.png",
       name: "Afyon Beyaz Marine Blue 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/8-marineblue-300x300.png",
       name: "Afyon Beyaz Marine Blue 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/7-marineblue-300x300.png",
       name: "Afyon Beyaz Marine Blue 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/6-marineblue-300x300.png",
       name: "Afyon Beyaz Marine Blue 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/3-marineblue-300x300.png",
       name: "Afyon Beyaz Marine Blue 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/4-marineblue-300x300.png",
       name: "Afyon Beyaz Marine Blue 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/5-marineblue-300x300.png",
       name: "Afyon Beyaz Marine Blue 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/32-epicalight-300x300.png",
       name: "Epica 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/elazigvisne1-300x300.png",
       name: "Elazığ Vişne 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-6/elazigvisne2-300x300.png",
       name: "Elazığ Vişne 1003",
+      array: "plakalar",
     },
   ],
   [
@@ -11695,121 +11848,145 @@ export const plakalarMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne3-300x300.png",
       name: "Elazığ Vişne 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne4-300x300.png",
       name: "Elazığ Vişne 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne5-300x300.png",
       name: "Elazığ Vişne 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne6-300x300.png",
       name: "Elazığ Vişne 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne7-300x300.png",
       name: "Elazığ Vişne 1008",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne9-300x300.png",
       name: "Elazığ Vişne 1009",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne8-300x300.png",
       name: "Elazığ Vişne 1010",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne10-300x300.png",
       name: "Elazığ Vişne 1011",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/elazigvisne10-300x300.png",
       name: "Elazığ Vişne 1012",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/Pinguino-300x300.png",
       name: "Pinguino 1010",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/38verdeguatemala-300x300.png",
       name: "Verde Escuro 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/48blackolive-1-300x300.png",
       name: "Black Olive 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/blackolive1-300x300.png",
       name: "Black Olive 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/blackolive2-300x300.png",
       name: "Black Olive 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/blackolive3-300x300.png",
       name: "Black Olive 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/blackolive4-300x300.png",
       name: "Black Olive 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/blackolive5-300x300.png",
       name: "Black Olive 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/blackolive6-300x300.png",
       name: "Black Olive 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/blackolive7-300x300.png",
       name: "Black Olive 1008",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/blackolive8-300x300.png",
       name: "Black Olive 1009",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/blackolive9-300x300.png",
       name: "Black Olive 1010",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/blackolive10-300x300.png",
       name: "Black Olive 1011",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/46fume-300x300.png",
       name: "Füme 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-7/fume1-300x300.png",
       name: "Füme 1002",
+      array: "plakalar",
     },
   ],
   [
@@ -11817,121 +11994,145 @@ export const plakalarMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/fume2-300x300.png",
       name: "Füme 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/fume3-300x300.png",
       name: "Füme 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/fume4-300x300.png",
       name: "Füme 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/fume5-300x300.png",
       name: "Füme 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/45iris-300x300.png",
       name: "Iris 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/iris1-300x300.png",
       name: "Iris 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/iris1-300x300.png",
       name: "Iris 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/iris1-300x300.png",
       name: "Iris 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/iris1-300x300.png",
       name: "Iris 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/iris1-300x300.png",
       name: "Iris 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/iris1-300x300.png",
       name: "Iris 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/iris1-300x300.png",
       name: "Iris 1008",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel1-300x300.png",
       name: "Nebel 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel3-300x300.png",
       name: "Nebel 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel4-300x300.png",
       name: "Nebel 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel8-300x300.png",
       name: "Nebel 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel7-300x300.png",
       name: "Nebel 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel5-300x300.png",
       name: "Nebel 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/nebel6-300x300.png",
       name: "Nebel 1008",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/79pinguino-300x300.png",
       name: "Pinguino 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/pinguino1-300x300.png",
       name: "Pinguino 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/pinguino2-300x300.png",
       name: "Pinguino 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/pinguino3-300x300.png",
       name: "Pinguino 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-8/pinguino4-300x300.png",
       name: "Pinguino 1005",
+      array: "plakalar",
     },
   ],
   [
@@ -11939,121 +12140,145 @@ export const plakalarMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/pinguino5-300x300.png",
       name: "Pinguino 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/pinguino6-300x300.png",
       name: "Pinguino 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/pinguino7-300x300.png",
       name: "Pinguino 1008",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/pinguino8-300x300.png",
       name: "Pinguino 1009",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/47blackorion-1-300x300.png",
       name: "Black Orion 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/49blackaziza-1-300x300.png",
       name: "Black Aziza 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/black-aziza-300x300.png",
       name: "Black Aziza 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/35portoro-300x300.png",
       name: "Portoro 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/34.silverdragon-300x300.png",
       name: "Silver Dragon 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/35.stlaurent-300x300.png",
       name: "Saint Laurent 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/52Zebra-Black-300x300.png",
       name: "Zebra Black 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/Zebra-Black-3-300x300.png",
       name: "Zebra Black 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/Ice-Jade1-300x300.png",
       name: "Ice Jade 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/Ice-Jade2-300x300.png",
       name: "Ice Jade 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/Ice-Jade3-300x300.png",
       name: "Ice Jade 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/Ice-Jade4-300x300.png",
       name: "Ice Jade 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/Ice-Jade5-300x300.png",
       name: "Ice Jade 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/Ice-Jade6-300x300.png",
       name: "Ice Jade 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/Ice-Jade7-300x300.png",
       name: "Ice Jade 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/Ice-Jade8-300x300.png",
       name: "Ice Jade 1008",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/Ice-Jade9-300x300.png",
       name: "Ice Jade 1009",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/43montblanc-300x300.png",
       name: "Mont Blanc 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/montblanc2-300x300.png",
       name: "Mont Blanc 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-9/montblanc2-300x300.png",
       name: "Mont Blanc 1003",
+      array: "plakalar",
     },
   ],
   [
@@ -12061,121 +12286,145 @@ export const plakalarMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/montblanc4-300x300.png",
       name: "Mont Blanc 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/62metell-300x300.png",
       name: "Metell 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/63metellclassic-300x300.png",
       name: "Metell Klasik 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/66ocean-300x300.png",
       name: "Ocean 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/ocean2-1-300x300.png",
       name: "Ocean 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/60lilla-300x300.png",
       name: "Lilla 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/Lilla-4-300x300.png",
       name: "Lilla 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/72newyork-300x300.png",
       name: "New York 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/69volakas-300x300.png",
       name: "Volakas 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/volakasbianco1-300x300.png",
       name: "Volakas Bianco 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/volakasbianco2-300x300.png",
       name: "Volakas Bianco 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/volakasbianco3-300x300.png",
       name: "Volakas Bianco 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/volakasbianco4-300x300.png",
       name: "Volakas Bianco 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/volakasbianco5-300x300.png",
       name: "Volakas Bianco 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/volakasbianco6-300x300.png",
       name: "Volakas Bianco 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/volakasbianco7-300x300.png",
       name: "Volakas Bianco 1008",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/55carrara-300x300.png",
       name: "Carrara 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/56carrarabrezza-300x300.png",
       name: "Carrara Brezza 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/carrarabrezza4-300x300.png",
       name: "Carrara Brezza 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/carrarabrezza2-300x300.png",
       name: "Carrara Brezza 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/carrarabrezza3-300x300.png",
       name: "Carrara Brezza 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/44madreperla-300x300.png",
       name: "Madreperla 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/44madreperlaclassic-1-300x300.png",
       name: "Madreperla Klasik 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-10/71polarwhite-1-300x300.png",
       name: "Polar White 1001",
+      array: "plakalar",
     },
   ],
   [
@@ -12183,121 +12432,145 @@ export const plakalarMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/polarwhite2-300x300.png",
       name: "Polar White 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/polarwhite3-300x300.png",
       name: "Polar White 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/polarwhite4-300x300.png",
       name: "Polar White 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/polarwhite6-300x300.png",
       name: "Polar White 1005",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/polarwhite7-300x300.png",
       name: "Polar White 1006",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/polarwhite8-300x300.png",
       name: "Polar White 1007",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/polarwhite9-300x300.png",
       name: "Polar White 1008",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/78muglagrili-300x300.png",
       name: "Muğla Grili 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/76olea-300x300.png",
       name: "Olea 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/39pandawhite-300x300.png",
       name: "Panda White 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/Panda-White1-300x300.png",
       name: "Panda White 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/Panda-White2-300x300.png",
       name: "Panda White 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/Panda-White3-300x300.png",
       name: "Panda White 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/50blackberry-300x300.png",
       name: "Blackberry 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/51blackberryduzkesim-300x300.png",
       name: "Blackberry Düz Kesim 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/74desertwave-300x300.png",
       name: "Desert Wave 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/61marmelade-300x300.png",
       name: "Marmelade 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/67violet-300x300.png",
       name: "Violet 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/70zambak-300x300.png",
       name: "Zambak 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/zambak2-300x300.png",
       name: "Zambak 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/zambak3-300x300.png",
       name: "Zambak 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/73rainforestbrown-300x300.png",
       name: "Rain Forest Brown 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/57bellissima-300x300.png",
       name: "Bellissima 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-11/bellissima2-300x300.png",
       name: "Bellissima 1002",
+      array: "plakalar",
     },
   ],
   [
@@ -12305,41 +12578,49 @@ export const plakalarMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-12/bellissima3-300x300.png",
       name: "Bellissima 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-12/68tigrato-300x300.png",
       name: "Tigrato 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-12/54crstalwhite-300x300.png",
       name: "Crystal White 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-12/75woodeblight-300x300.png",
       name: "Wooden Light 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-12/8-marineblue-300x300.png",
       name: "Beyaz Mermer 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-12/17-bluemoon-300x300.png",
       name: "Blue Moon Mavi Mermer",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-12/47blackorion-300x300.png",
       name: "Siyah Mermer Plakalar",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-12/37verdeforest-300x300.png",
       name: "Yeşil Mermer Plakalar",
+      array: "plakalar",
     },
   ],
 ];
@@ -12350,121 +12631,145 @@ export const plakalarBejMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/DarkEmperador-2-300x300.png",
       name: "Dark Emperador 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Beach-300x300.png",
       name: "Beach 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Botticino-1-300x300.png",
       name: "Botticino 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Blue-Rain-300x300.png",
       name: "Blue Rain 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Bruno-300x300.png",
       name: "Bruno 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/zebragrey-300x300.png",
       name: "Zebra Grey 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Botticino-2-300x300.png",
       name: "Botticino 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Rosalia-300x300.png",
       name: "Rosalia 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Rosalia-light-300x300.png",
       name: "Rosalia Light 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/LightEmperadorClassic-3188-300x300.png",
       name: "Light Emperador Klasik 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Crema-Bella-2222-300x300.png",
       name: "Crema Bella 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Botanica-648-300x300.png",
       name: "Botanica 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Luna-Piera-1906-300x300.png",
       name: "Luna Piera 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Limpido-204-300x300.png",
       name: "Limpido 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/DarkEmperador-2471-300x300.png",
       name: "Dark Emperador 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/DarkEmperadorClassic-2154-300x300.png",
       name: "Dark Emperador Klasik 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Dune-2413-300x300.png",
       name: "Dune 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Luna-542-300x300.png",
       name: "Luna 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Light-Emperador-1679--300x300.png",
       name: "Light Emperador 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/emperador-perla-535-300x300.png",
       name: "Emperador Perla 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/EmperadorPerlaClassic-2396-300x300.png",
       name: "Emperador Perla Klasik 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Mondo-2381-300x300.png",
       name: "Mondo-1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/Brume-3264-300x300.png",
       name: "Brume 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-1/avorio-1498-300x300.png",
       name: "Avorio 1001",
+      array: "plakalar",
     },
   ],
   [
@@ -12472,36 +12777,43 @@ export const plakalarBejMermer = [
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-2/Crema-Foret-1907-300x300.png",
       name: "Crema Foret 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-2/Colorata-3263-300x300.png",
       name: "Colorata 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-2/Duru-1-300x300.png",
       name: "Duru 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-2/Burdur-Bej-1043-300x300.png",
       name: "Burdur Bej 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-2/Black-Pearl-654-300x300.png",
       name: "Black Pearl 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-2/33.spanishdarkemperador-300x300.png",
       name: "İspanyol Dark Emperador 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/BejMermerPlakalar/BejMermerPlakalar-2/36pietragray-300x300.png",
       name: "Pietra Gray 1001",
+      array: "plakalar",
     },
   ],
 ];
@@ -12512,121 +12824,145 @@ export const plakalarGranit = [
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/Black-Leopar-300x300.png",
       name: "Black Leopar 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/Pedras-Granite-300x300.png",
       name: "Pedras Granit – Cilalı 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/pedras1-300x300.png",
       name: "Pedras Granit – Kumlama 102",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/pedras3-300x300.png",
       name: "Pedras Granit – Kumlama 103",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/White-Walker-300x300.png",
       name: "White Walker 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/White-Walker-kuptaslar-referans-kapak.png-300x300.png",
       name: "White Walker – Küp Taşlar 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/Kup-Tas-White-Walker1-300x300.jpg",
       name: "White Walker – Küp Taşlar 102",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/Kup-Tas-White-Walker2-300x300.jpg",
       name: "White Walker – Küp Taşlar 103",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/DESERT-BLACK-300x300.png",
       name: "Desert Black 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/ABSOLUTE-BLACK-300x300.png",
       name: "Absolute Black 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/STAR-GALAXY-300x300.png",
       name: "Star Galaxy 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/PARADISO1-300x300.png",
       name: "Paradiso 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/P-WHITE-300x300.png",
       name: "P White 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/S-Black-Granite-Cilali-1-1-300x300.jpg",
       name: "S Black – Cilalı 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/S-Black-Granite-Cilali-2-300x300.jpg",
       name: "S Black – Cilalı 102",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/S-Black-Granite-Honlu-1-1-300x300.jpg",
       name: "S Black – Honlu 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/S-Black-Granite-Honlu-2-300x300.jpg",
       name: "S Black – Honlu 102",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/S-Black-Granite-Kumlama-1-300x300.jpg",
       name: "S Black – Kumlama 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/S-Black-Granite-Kumlama-2-300x300.jpg",
       name: "S Black – Kumlama 102",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/S-Black-Granite-Kumlu-Fircali-1-300x300.jpg",
       name: "S Black – Kumlama Fırçalı 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/S-Black-Granite-Kumlu-Fircali-2-300x300.jpg",
       name: "S Black – Kumlama Fırçalı 102",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/AMAZON-300x300.png",
       name: "Amazon 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/ROSA-BETA-300x300.png",
       name: "Rosa Beta 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/ROSA-MINHO-300x300.png",
       name: "Rosa Minho 101",
+      array: "plakalar",
     },
   ],
   [
@@ -12634,16 +12970,19 @@ export const plakalarGranit = [
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/IMPEARIAL-RED-300x300.png",
       name: "Imperial Red 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/ROSA-PORINHO-300x300.png",
       name: "Rosa Porinho 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/GranitPlakalar/AKSARAY-YAYLAK-300x300.png",
       name: "Aksaray Yaylak 101",
+      array: "plakalar",
     },
   ],
 ];
@@ -12654,121 +12993,145 @@ export const plakalarOniks = [
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Blue-Ice-Onyx-300x300.png",
       name: "Blue Ice Onyx 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Green-Ice-Onyx-300x300.png",
       name: "Green Ice Onyx 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Pink-Ice-Onyx-300x300.png",
       name: "Pink Ice Onyx 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/greenonyx3-300x300.png",
       name: "Green Oniks 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/salmononyx-300x300.png",
       name: "Salmon Oniks 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Salmononyx-300x300(1).png",
       name: "Salmon Oniks 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/tigeronyx-300x300.png",
       name: "Tiger Oniks 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Tigeronyx-300x300(1).png",
       name: "Tiger Oniks 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Wooden-Onyx-300x300.png",
       name: "Wooden Oniks 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Wooden-Onyx-2-300x300.png",
       name: "Wooden Oniks 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/whiteonyx-300x300.png",
       name: "Beyaz Oniks 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/whiteonyx2-300x300.png",
       name: "Beyaz Oniks 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/whteonyx-300x300.png",
       name: "Beyaz Oniks 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/honeyonyx1-300x300.png",
       name: "Bal Oniks 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/honeyonyx2-300x300.png",
       name: "Bal Oniks 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/honeyonyx3-300x300.png",
       name: "Bal Oniks 1003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/honeyonyx4-300x300.png",
       name: "Bal Oniks 1004",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Bubble-Onyx-1-300x300.png",
       name: "Bubble Oniks 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Cappuccino-Onyx-1-300x300.png",
       name: "Cappuccino Oniks 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Velluto-Onyx-1-300x300.png",
       name: "Velluto Oniks 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/silveronyx-300x300.png",
       name: "Gümüş Oniks 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/silveronyx2-300x300.png",
       name: "Gümüş Oniks 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-1/Gold-Onyx-300x300.png",
       name: "Gold Oniks 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/MermerPlakalar/MermerPlakalar-2/Afyon-White-Marble-Onyx-300x300.png",
       name: "Afyon Beyaz Mermer Oniks 1001",
+      array: "plakalar",
     },
   ],
   [
@@ -12776,36 +13139,43 @@ export const plakalarOniks = [
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-2/Gold-Onyx1-300x300.png",
       name: "Gold Oniks 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-2/Cocacola-Oniks1-300x300.png",
       name: "Cocacola Oniks 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-2/Cocacola-Oniks2-300x300.png",
       name: "Cocacola Oniks 1002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-2/satinonyx-300x300.png",
       name: "Satin Oniks 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-2/darkdesertrose-300x300.png",
       name: "Dark Desert Rose 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-2/lightdesertrose-300x300.png",
       name: "Light Desert Rose 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/OnixPlakalar/OnixPlakalar-2/lightdesertrose2-300x300.png",
       name: "Light Desert Rose 1002",
+      array: "plakalar",
     },
   ],
 ];
@@ -12816,31 +13186,37 @@ export const plakalarLimestone = [
       image:
         "/images/plakalar/DogalTasPlakalar/LimestonePlakalar/coquillage-1-300x300.png",
       name: "Coquillage 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/LimestonePlakalar/biancokrema-300x300.png",
       name: "Bianco Crema 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/LimestonePlakalar/goldenkrema-300x300.png",
       name: "Golden Crema 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/LimestonePlakalar/sunny-1-300x300.png",
       name: "Sunny 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/LimestonePlakalar/sunnylight-300x300.png",
       name: "Sunny Light 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/LimestonePlakalar/Bianco-Bandia-300x300.png",
       name: "Suni Taş – Bianco Bandia 1001",
+      array: "plakalar",
     },
   ],
 ];
@@ -12851,86 +13227,103 @@ export const plakalarTraverten = [
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/Pewter-Blend-568-300x300.png",
       name: "Gümüş Traverten 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/PewterBlendVeinCut-2255-300x300.png",
       name: "Gümüş Traverten Düz Kesim 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/River-2836-300x300.png",
       name: "River 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/Ivory-Cream-2475-300x300.png",
       name: "Beyaz Traverten 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/ClassicTraverten-1024-300x300.png",
       name: "Klasik Traverten 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/Ivory-CreamVeinCut-902-300x300.png",
       name: "Beyaz Traverten Düz Kesim 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/ClassicTravertineVeinCut-3072-300x300.png",
       name: "Klasik Traverten Düz Kesim 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/Cappadoce-Duz-Kesim-300x300.png",
       name: "Cappadoce Düz Kesim 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/cashmere-300x300.png",
       name: "Cashmere 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/KirmiziTraverten-323-300x300.png",
       name: "Kırmızı Traverten 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/kirmizi-traverten-vein-cut-300x300.png",
       name: "Kırmızı Traverten Düz Kesim 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/SaffroonVeinCut-2040-300x300.png",
       name: "Saffron Düz Kesim 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/GunesVeinCut-9-300x300.png",
       name: "Güneş Düz Kesim 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/Warmwalnut-1476-300x300.png",
       name: "Warm Walnut 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/WarmWalnutVeinCut-4794-300x300.png",
       name: "Warm Walnut Düz Kesim 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/NoceVeinCut-04-300x300.png",
       name: "Noce Düz Kesim 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/TravertenPlakalar/MagnificaVeinCut-273-300x300.png",
       name: "Magnifica Düz Kesim 1001",
+      array: "plakalar",
     },
   ],
 ];
@@ -12941,16 +13334,19 @@ export const plakalarAndezitBazalt = [
       image:
         "/images/plakalar/DogalTasPlakalar/AndezitPlakalar/calimero-1-300x300.png",
       name: "Calimero 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/AndezitPlakalar/gargamel-1-300x300.png",
       name: "Gargamel 1001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/DogalTasPlakalar/AndezitPlakalar/nigella-1-300x300.png",
       name: "Nigella 1001",
+      array: "plakalar",
     },
   ],
 ];
@@ -12961,121 +13357,145 @@ export const plakalarKuvars = [
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/1-Vivid-White-300x300.jpg",
       name: "Vivid White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/2-Snow-300x300.jpg",
       name: "Snow",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/3-White-Shimmer-300x300.jpg",
       name: "White Shimmer",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/4-Frosty-Carrina-300x300.jpg",
       name: "Frosty Carrina",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/5-Pure-White-300x300.jpg",
       name: "Pure White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/6-Nougat-300x300.jpg",
       name: "Nougat",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/7-Organic-White-300x300.jpg",
       name: "Organic White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/8-Ocean-Foam-300x300.jpg",
       name: "Ocean Foam",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/9-Intense-White-300x300.jpg",
       name: "Intense White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/10-London-Grey-300x300.jpg",
       name: "London Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/11-Empira-White-300x300.jpg",
       name: "Empira White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/12-White-Attica-300x300.jpg",
       name: "White Attica",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/13-Ice-Snow-300x300.jpg",
       name: "Ice Snow",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/14-Statuario-Maximus-300x300.jpg",
       name: "Statuario Maximus",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/15-Cosmopolitan-White-300x300.jpg",
       name: "Cosmopolitan White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/16-Calacatta-Maximus-300x300.jpg",
       name: "Calacatta Maximus",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/17-Cloudburst-Concrete-300x300.jpg",
       name: "Cloudburst Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/18-Statuario-Nuvo-300x300.jpg",
       name: "Statuario Nuvo",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/19-Montblanc-300x300.jpg",
       name: "Montblanc",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/20-Frozen-Terra-300x300.jpg",
       name: "Frozen Terra",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/21-Georgian-Bluffs-300x300.jpg",
       name: "Georgian Bluffs",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/22-Misty-Carrera-300x300.jpg",
       name: "Misty Carrera",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/23-Nordic-Loft-300x300.jpg",
       name: "Nordic Loft",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/24-Alpine-Mist-300x300.jpg",
       name: "Alpine Mist",
+      array: "plakalar",
     },
   ],
   [
@@ -13083,121 +13503,145 @@ export const plakalarKuvars = [
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/25-Dreamy-Marfil-300x300.jpg",
       name: "Dreamy Marfil",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/26-Clamshell-300x300.jpg",
       name: "Clamshell",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/27-Calacatta-Nuvo-300x300.jpg",
       name: "Calacatta Nuvo",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/28-Bianco-Drift-300x300.jpg",
       name: "Bianco Drift",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/29-Taj-Royale-300x300.jpg",
       name: "Taj Royale",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/30-Buttermilk-300x300.jpg",
       name: "Buttermilk",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/31-Haze-300x300.jpg",
       name: "Haze",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/32-Linen-300x300.jpg",
       name: "Linen",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/33-Raw-Concrete-300x300.jpg",
       name: "Raw Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/34-Urban-300x300.jpg",
       name: "Urban",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/35-Topus-Concrete-300x300.jpg",
       name: "Topus Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/36-Primordia-300x300.jpg",
       name: "Primordia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/37-Symphony-Grey-300x300.jpg",
       name: "Symphony Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/38-Airy-Concrete-300x300.jpg",
       name: "Airy Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/39-Noble-Grey-300x300.jpg",
       name: "Noble Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/40-Sleek-Concrete-300x300.jpg",
       name: "Sleek Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/41-Shitake-300x300.jpg",
       name: "Shitake",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/42-Turbine-Grey-300x300.jpg",
       name: "Turbine Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/43-Oyster-300x300.jpg",
       name: "Oyster",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/44-Atlantic-Salt-300x300.jpg",
       name: "Atlantic Salt",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/45-Titan-300x300.jpg",
       name: "Titan",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/46-Woodlands-300x300.jpg",
       name: "Woodlands",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/47-Oxidian-300x300.jpg",
       name: "Oxidian",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/48-Fresh-Concrete-300x300.jpg",
       name: "Fresh Concrete",
+      array: "plakalar",
     },
   ],
   [
@@ -13205,121 +13649,145 @@ export const plakalarKuvars = [
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/49-Concrete-300x300.jpg",
       name: "Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/50-Raven-300x300.jpg",
       name: "Raven",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/51-Ginger-300x300.jpg",
       name: "Ginger",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/52-Lagos-Blue-300x300.jpg",
       name: "Lagos Blue",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/53-Excava-300x300.jpg",
       name: "Excava",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/54-Rugged-Concrete-300x300.jpg",
       name: "Rugged Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/55-Piatra-Grey-300x300.jpg",
       name: "Piatra Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/56-Black-Tempal-300x300.jpg",
       name: "Black Tempal",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/57-Vanilla-Noir-300x300.jpg",
       name: "Vanilla Noir",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/58-Piatto-Black-300x300.jpg",
       name: "Piatto Black",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/59-Black-Noir-300x300.jpg",
       name: "Black Noir",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/60-Jet-Black-300x300.jpg",
       name: "Jet Black",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Daisy-4001-Close-Up-300x300.jpg",
       name: "Daisy",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Aymina-3001-Close-Up-300x300.jpg",
       name: "Aymina",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/alaska-4403-300x300.jpg",
       name: "Alaska",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/7268-bolera-300x300.jpg",
       name: "Bolera",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Cordelia-2001-Close-Up-300x300.jpg",
       name: "Cordelia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Lusetia-White-5601-Close-Up-300x300.jpg",
       name: "Lusetia White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/6102-sierra-white-300x300.jpg",
       name: "Sierra White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/mia-300x300.jpg",
       name: "Mia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/aria-2105-300x300.jpg",
       name: "Aria",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/rossa-white-300x300.jpg",
       name: "Rossa White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Visendra-2102-Close-Up-300x300.jpg",
       name: "Visendra",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Tornado-2104-300x300.jpg",
       name: "Tornado",
+      array: "plakalar",
     },
   ],
   [
@@ -13327,121 +13795,145 @@ export const plakalarKuvars = [
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Admira-2101-Close-Up-300x300.jpg",
       name: "Admira",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Lusida-Grey-300x300.jpg",
       name: "Lusida Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/olivia-300x300.jpg",
       name: "Olivia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Sima-300x300.jpg",
       name: "Sima",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Elatris-4004-Close-Up-300x300.jpg",
       name: "Elatris",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Caramela-2005-Close-Up-300x300.jpg",
       name: "Caramela",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Lusida-Black-5701-Close-Up-300x300.jpg",
       name: "Lusida Black",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Rugiada-2209-Close-Up-300x300.jpg",
       name: "Rugiada",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/3303-santa-300x300.jpg",
       name: "Santa",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/nidia-2015-calisco-quartz-stone-p795226-1b-300x300.jpg",
       name: "Nidia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Sadira-2210-Close-Up-300x300.jpg",
       name: "Sadira",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/614-Mirat-300x300.jpg",
       name: "Mirat",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/Hiearapolis-100-300x300.jpg",
       name: "Hiearapolis",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/402-Arcadia-300x300.jpg",
       name: "Arcadia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/Artemis-220-300x300.jpg",
       name: "Artemis",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/955-Barents-300x300.jpg",
       name: "Barents",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/900-Lapland-300x300.jpg",
       name: "Lapland",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/925-Nebula-300x300.jpg",
       name: "Nebula",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/995-Nephila-300x300.jpg",
       name: "Nephila",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/936-Olympos-300x300.jpg",
       name: "Olympos",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/990-Sineda-300x300.jpg",
       name: "Sineda",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/560-Alpino-300x300.jpg",
       name: "Alpino",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/870-Tundra-300x300.jpg",
       name: "Tundra",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/725-Mora-300x300.jpg",
       name: "Mora",
+      array: "plakalar",
     },
   ],
   [
@@ -13449,121 +13941,145 @@ export const plakalarKuvars = [
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/470-Fuga-300x300.jpg",
       name: "Fuga",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/935-Versilia-300x300.jpg",
       name: "Versilia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/345-Lebedos-300x300.jpg",
       name: "Lebedos",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/Keops-175-300x300.jpg",
       name: "Keops",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/875-Linen-300x300.jpg",
       name: "Linen",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/890-Terra-300x300.jpg",
       name: "Terra",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/815-Smyrna-300x300.jpg",
       name: "Smyrna",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/332-Lapaz-300x300.jpg",
       name: "Lapaz",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/912-Troas-300x300.jpg",
       name: "Troas",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/Etna-170-300x300.jpg",
       name: "Etna",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/930-Ares-300x300.jpg",
       name: "Ares",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/645-Boreas-300x300.jpg",
       name: "Boreas",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/811-Elvas-300x300.jpg",
       name: "Elvas",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/580-Kromit-300x300.jpg",
       name: "Kromit",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/759-Savana-300x300.jpg",
       name: "Savana",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/911-Gharma-300x300.jpg",
       name: "Gharma",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/880-Toros-300x300.jpg",
       name: "Toros",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/997-Carbone-300x300.jpg",
       name: "Carbone",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/465-Hermes-300x300.jpg",
       name: "Hermes",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/1219_calacatta_victory_e4c55-300x300.jpg",
       name: "Calacatta Victory",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/3302-felisia-300x300.jpg",
       name: "Felisia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/7220_pantheon_fbf13-300x300.jpg",
       name: "Pantheon",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/2110-Angel-White--300x300.jpg",
       name: "Polaris",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Anemon-300x300.jpg",
       name: "Anemon",
+      array: "plakalar",
     },
   ],
   [
@@ -13571,121 +14087,145 @@ export const plakalarKuvars = [
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Alinda-300x300.jpg",
       name: "Alinda",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Kristella-White-300x300.jpg",
       name: "Kristella White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Sahara-Beige-300x300.jpg",
       name: "Sahara Beige",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Montana-300x300.jpg",
       name: "Montana",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Aizano-300x300.jpg",
       name: "Aizano",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Retro-300x300.jpg",
       name: "Retro",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Metropol-Grey-300x300.jpg",
       name: "Metropol Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/5751-Gala-Black--300x300.jpg",
       name: "Gala Black",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Aspendos-300x300.jpg",
       name: "Aspendos",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Aurora.-300x300.jpg",
       name: "Aurora",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Belluno-300x300.jpg",
       name: "Belluno",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Calacatta-Veneto-300x300.jpg",
       name: "Calacatta Veneto",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Calacatta-Verona-300x300.jpg",
       name: "Calacatta Verona",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Carola-300x300.jpg",
       name: "Carola",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Teos-300x300.jpg",
       name: "Teos",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Daphne-Crack-300x300.jpg",
       name: "Daphne Crack",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Elixir-White-300x300.jpg",
       name: "Elixir White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Fairy-White-300x300.jpg",
       name: "Fairy White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Perla-300x300.jpg",
       name: "Perla",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Iceberg-300x300.jpg",
       name: "Iceberg",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Juliet-White-300x300.jpg",
       name: "Juliet White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Kashmera-White-300x300.jpg",
       name: "Kashmera White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/La-Luna-300x300.jpg",
       name: "La Luna",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Pixie-Wings-300x300.jpg",
       name: "Pixie Wings",
+      array: "plakalar",
     },
   ],
   [
@@ -13693,61 +14233,73 @@ export const plakalarKuvars = [
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Olympos-300x300.jpg",
       name: "Olympos",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Mocca-Mousse-300x300.jpg",
       name: "Mocca Mousse",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Parma-300x300.jpg",
       name: "Parma",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Chakra-Beige-300x300.jpg",
       name: "Chakra",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Boletus-300x300.jpg",
       name: "Boletus",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Terre-Grey-300x300.jpg",
       name: "Terre Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Babilon-300x300.jpg",
       name: "Babilon",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Charmy-300x300.jpg",
       name: "Charmy",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Forza-Fume-300x300.jpg",
       name: "Forza Füme",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Marquina-Tierra-300x300.jpg",
       name: "Marquina Tierra",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Spa-Black-300x300.jpg",
       name: "Spa Black",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Volcano-Black-300x300.jpg",
       name: "Volcano Black",
+      array: "plakalar",
     },
   ],
 ];
@@ -13758,121 +14310,145 @@ export const plakalarKuvarsBelenco = [
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/1219_calacatta_victory_e4c55-300x300.jpg",
       name: "Calacatta Victory",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/7220_pantheon_fbf13-300x300.jpg",
       name: "Pantheon",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/2110-Angel-White--300x300.jpg",
       name: "Polaris",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Anemon-300x300.jpg",
       name: "Anemon",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Alinda-300x300.jpg",
       name: "Alinda",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Kristella-White-300x300.jpg",
       name: "Kristella White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Sahara-Beige-300x300.jpg",
       name: "Sahara Beige",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Montana-300x300.jpg",
       name: "Montana",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Aizano-300x300.jpg",
       name: "Aizano",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Retro-300x300.jpg",
       name: "Retro",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Metropol-Grey-300x300.jpg",
       name: "Metropol Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/5751-Gala-Black--300x300.jpg",
       name: "Gala Black",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Aspendos-300x300.jpg",
       name: "Aspendos",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Aurora.-300x300.jpg",
       name: "Aurora",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Belluno-300x300.jpg",
       name: "Belluno",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Calacatta-Veneto-300x300.jpg",
       name: "Calacatta Veneto",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Calacatta-Verona-300x300.jpg",
       name: "Calacatta Verona",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Carola-300x300.jpg",
       name: "Carola",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Teos-300x300.jpg",
       name: "Teos",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Daphne-Crack-300x300.jpg",
       name: "Daphne Crack",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Elixir-White-300x300.jpg",
       name: "Elixir White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Fairy-White-300x300.jpg",
       name: "Fairy White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Perla-300x300.jpg",
       name: "Perla",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Iceberg-300x300.jpg",
       name: "Iceberg",
+      array: "plakalar",
     },
   ],
   [
@@ -13880,81 +14456,97 @@ export const plakalarKuvarsBelenco = [
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Juliet-White-300x300.jpg",
       name: "Juliet White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Kashmera-White-300x300.jpg",
       name: "Kashmera White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/La-Luna-300x300.jpg",
       name: "La Luna",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Pixie-Wings-300x300.jpg",
       name: "Pixie Wings",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Olympos-300x300.jpg",
       name: "Olympos",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Mocca-Mousse-300x300.jpg",
       name: "Mocca Mousse",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Parma-300x300.jpg",
       name: "Parma",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Chakra-Beige-300x300.jpg",
       name: "Chakra",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Boletus-300x300.jpg",
       name: "Boletus",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Terre-Grey-300x300.jpg",
       name: "Terre Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Babilon-300x300.jpg",
       name: "Babilon",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Charmy-300x300.jpg",
       name: "Charmy",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Forza-Fume-300x300.jpg",
       name: "Forza Füme",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Marquina-Tierra-300x300.jpg",
       name: "Marquina Tierra",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Spa-Black-300x300.jpg",
       name: "Spa Black",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/BelencoKuvarsPlakalar/Volcano-Black-300x300.jpg",
       name: "Volcano Black",
+      array: "plakalar",
     },
   ],
 ];
@@ -13965,121 +14557,145 @@ export const plakalarKuvarsCimstone = [
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/614-Mirat-300x300.jpg",
       name: "Mirat",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/Hiearapolis-100-300x300.jpg",
       name: "Hiearapolis",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/402-Arcadia-300x300.jpg",
       name: "Arcadia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/Artemis-220-300x300.jpg",
       name: "Artemis",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/955-Barents-300x300.jpg",
       name: "Barents",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/900-Lapland-300x300.jpg",
       name: "Lapland",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/925-Nebula-300x300.jpg",
       name: "Nebula",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/995-Nephila-300x300.jpg",
       name: "Nephila",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/936-Olympos-300x300.jpg",
       name: "Olympos",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/990-Sineda-300x300.jpg",
       name: "Sineda",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/560-Alpino-300x300.jpg",
       name: "Alpino",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/870-Tundra-300x300.jpg",
       name: "Tundra",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/725-Mora-300x300.jpg",
       name: "Mora",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/470-Fuga-300x300.jpg",
       name: "Fuga",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/935-Versilia-300x300.jpg",
       name: "Versilia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/345-Lebedos-300x300.jpg",
       name: "Lebedos",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/Keops-175-300x300.jpg",
       name: "Keops",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/875-Linen-300x300.jpg",
       name: "Linen",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/890-Terra-300x300.jpg",
       name: "Terra",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/815-Smyrna-300x300.jpg",
       name: "Smyrna",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/332-Lapaz-300x300.jpg",
       name: "Lapaz",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/912-Troas-300x300.jpg",
       name: "Troas",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/Etna-170-300x300.jpg",
       name: "Etna",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/930-Ares-300x300.jpg",
       name: "Ares",
+      array: "plakalar",
     },
   ],
   [
@@ -14087,41 +14703,49 @@ export const plakalarKuvarsCimstone = [
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/645-Boreas-300x300.jpg",
       name: "Boreas",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/811-Elvas-300x300.jpg",
       name: "Elvas",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/580-Kromit-300x300.jpg",
       name: "Kromit",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/759-Savana-300x300.jpg",
       name: "Savana",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/911-Gharma-300x300.jpg",
       name: "Gharma",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/880-Toros-300x300.jpg",
       name: "Toros",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/997-Carbone-300x300.jpg",
       name: "Carbone",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CimstoneKuvarsPlakalar/465-Hermes-300x300.jpg",
       name: "Hermes",
+      array: "plakalar",
     },
   ],
 ];
@@ -14132,121 +14756,145 @@ export const plakalarKuvarsCaesarstone = [
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/1-Vivid-White-300x300.jpg",
       name: "Vivid White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/2-Snow-300x300.jpg",
       name: "Snow",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/3-White-Shimmer-300x300.jpg",
       name: "White Shimmer",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/4-Frosty-Carrina-300x300.jpg",
       name: "Frosty Carrina",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/5-Pure-White-300x300.jpg",
       name: "Pure White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/6-Nougat-300x300.jpg",
       name: "Nougat",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/7-Organic-White-300x300.jpg",
       name: "Organic White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/8-Ocean-Foam-300x300.jpg",
       name: "Ocean Foam",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/9-Intense-White-300x300.jpg",
       name: "Intense White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/10-London-Grey-300x300.jpg",
       name: "London Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/11-Empira-White-300x300.jpg",
       name: "Empira White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/12-White-Attica-300x300.jpg",
       name: "White Attica",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/13-Ice-Snow-300x300.jpg",
       name: "Ice Snow",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/14-Statuario-Maximus-300x300.jpg",
       name: "Statuario Maximus",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/15-Cosmopolitan-White-300x300.jpg",
       name: "Cosmopolitan White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/16-Calacatta-Maximus-300x300.jpg",
       name: "Calacatta Maximus",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/17-Cloudburst-Concrete-300x300.jpg",
       name: "Cloudburst Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/18-Statuario-Nuvo-300x300.jpg",
       name: "Statuario Nuvo",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/19-Montblanc-300x300.jpg",
       name: "Montblanc",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/20-Frozen-Terra-300x300.jpg",
       name: "Frozen Terra",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/21-Georgian-Bluffs-300x300.jpg",
       name: "Georgian Bluffs",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/22-Misty-Carrera-300x300.jpg",
       name: "Misty Carrera",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/23-Nordic-Loft-300x300.jpg",
       name: "Nordic Loft",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/24-Alpine-Mist-300x300.jpg",
       name: "Alpine Mist",
+      array: "plakalar",
     },
   ],
   [
@@ -14254,121 +14902,145 @@ export const plakalarKuvarsCaesarstone = [
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/25-Dreamy-Marfil-300x300.jpg",
       name: "Dreamy Marfil",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/26-Clamshell-300x300.jpg",
       name: "Clamshell",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/27-Calacatta-Nuvo-300x300.jpg",
       name: "Calacatta Nuvo",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/28-Bianco-Drift-300x300.jpg",
       name: "Bianco Drift",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/29-Taj-Royale-300x300.jpg",
       name: "Taj Royale",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/30-Buttermilk-300x300.jpg",
       name: "Buttermilk",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/31-Haze-300x300.jpg",
       name: "Haze",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/32-Linen-300x300.jpg",
       name: "Linen",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/33-Raw-Concrete-300x300.jpg",
       name: "Raw Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/34-Urban-300x300.jpg",
       name: "Urban",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/35-Topus-Concrete-300x300.jpg",
       name: "Topus Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/36-Primordia-300x300.jpg",
       name: "Primordia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/37-Symphony-Grey-300x300.jpg",
       name: "Symphony Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/38-Airy-Concrete-300x300.jpg",
       name: "Airy Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/39-Noble-Grey-300x300.jpg",
       name: "Noble Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/40-Sleek-Concrete-300x300.jpg",
       name: "Sleek Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/41-Shitake-300x300.jpg",
       name: "Shitake",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/42-Turbine-Grey-300x300.jpg",
       name: "Turbine Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/43-Oyster-300x300.jpg",
       name: "Oyster",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/44-Atlantic-Salt-300x300.jpg",
       name: "Atlantic Salt",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/45-Titan-300x300.jpg",
       name: "Titan",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/46-Woodlands-300x300.jpg",
       name: "Woodlands",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/47-Oxidian-300x300.jpg",
       name: "Oxidian",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/48-Fresh-Concrete-300x300.jpg",
       name: "Fresh Concrete",
+      array: "plakalar",
     },
   ],
   [
@@ -14376,61 +15048,73 @@ export const plakalarKuvarsCaesarstone = [
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/49-Concrete-300x300.jpg",
       name: "Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/50-Raven-300x300.jpg",
       name: "Raven",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/51-Ginger-300x300.jpg",
       name: "Ginger",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/52-Lagos-Blue-300x300.jpg",
       name: "Lagos Blue",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/53-Excava-300x300.jpg",
       name: "Excava",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/54-Rugged-Concrete-300x300.jpg",
       name: "Rugged Concrete",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/55-Piatra-Grey-300x300.jpg",
       name: "Piatra Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/56-Black-Tempal-300x300.jpg",
       name: "Black Tempal",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/57-Vanilla-Noir-300x300.jpg",
       name: "Vanilla Noir",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/58-Piatto-Black-300x300.jpg",
       name: "Piatto Black",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/59-Black-Noir-300x300.jpg",
       name: "Black Noir",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaesarstoneKuvarsPlakalar/60-Jet-Black-300x300.jpg",
       name: "Jet Black",
+      array: "plakalar",
     },
   ],
 ];
@@ -14441,121 +15125,145 @@ export const plakalarKuvarsCalisco = [
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Daisy-4001-Close-Up-300x300.jpg",
       name: "Daisy",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Aymina-3001-Close-Up-300x300.jpg",
       name: "Aymina",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/alaska-4403-300x300.jpg",
       name: "Alaska",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/7268-bolera-300x300.jpg",
       name: "Bolera",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Cordelia-2001-Close-Up-300x300.jpg",
       name: "Cordelia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Lusetia-White-5601-Close-Up-300x300.jpg",
       name: "Lusetia White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/6102-sierra-white-300x300.jpg",
       name: "Sierra White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/mia-300x300.jpg",
       name: "Mia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/aria-2105-300x300.jpg",
       name: "Aria",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/rossa-white-300x300.jpg",
       name: "Rossa White",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Visendra-2102-Close-Up-300x300.jpg",
       name: "Visendra",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Tornado-2104-300x300.jpg",
       name: "Tornado",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Admira-2101-Close-Up-300x300.jpg",
       name: "Admira",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Lusida-Grey-300x300.jpg",
       name: "Lusida Grey",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/olivia-300x300.jpg",
       name: "Olivia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Sima-300x300.jpg",
       name: "Sima",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Elatris-4004-Close-Up-300x300.jpg",
       name: "Elatris",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Caramela-2005-Close-Up-300x300.jpg",
       name: "Caramela",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Lusida-Black-5701-Close-Up-300x300.jpg",
       name: "Lusida Black",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Rugiada-2209-Close-Up-300x300.jpg",
       name: "Rugiada",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/3303-santa-300x300.jpg",
       name: "Santa",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/nidia-2015-calisco-quartz-stone-p795226-1b-300x300.jpg",
       name: "Nidia",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/Sadira-2210-Close-Up-300x300.jpg",
       name: "Sadira",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/KuvarsPlakalar/CaliscoKuvarsPlakalar/3302-felisia-300x300.jpg",
       name: "Felisia",
+      array: "plakalar",
     },
   ],
 ];
@@ -14566,121 +15274,145 @@ export const plakalarPorselen = [
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Amazonite-1-300x300.png",
       name: "Amazonite 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Patagonia-1-300x300.png",
       name: "Patagonia 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Azul-Macoubas-1-300x300.png",
       name: "Azul Macoubas 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Nero-Marquina-1-300x300.png",
       name: "Nero Marquina 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Panda-White-300x300.png",
       name: "Panda White 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/Roma-Black-1-300x300.jpg",
       name: "Roma Black 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/AquaLimo-1--300x300.jpg",
       name: "Aqua Limo 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/ArabescatoGold-1-300x300.jpg",
       name: "Arabescato Gold 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/blackmarquina-1-300x300.png",
       name: "Black Marquina 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/Carrara-1-300x300.jpg",
       name: "Carrara 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/DiamondGold-1-300x300.jpg",
       name: "Diamond Gold 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/Pietra-Grey-1-300x300.jpg",
       name: "Pietra Grey 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/Travertino-Grey-1-300x300.jpg",
       name: "Travertino Grey 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/VolgaBlue-1-300x300.jpg",
       name: "Volga Blue 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LevantecPlakalar/1.-Bianco-Carrara-levantec-300x300.jpg",
       name: "Bianco Carrara 1",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LevantecPlakalar/2.-Calcatta-Caldia-levantec-300x300.jpg",
       name: "Calcatta Caldia 1",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LevantecPlakalar/4.-Pearl-White-levantec-300x300.jpg",
       name: "Pearl White 1",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LevantecPlakalar/3.-Sahara-Noir-levantec-300x300.jpg",
       name: "Sahara Noir 1",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Serpegiante-Light-300x300.png",
       name: "Serpegiante Light 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Alps-Blue-300x300.jpg",
       name: "Alps Blue 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Azul-Macobus-300x300.jpg",
       name: "Azul Macobus 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Van-Gogh-Blue-300x300.jpg",
       name: "Van Gogh Blue 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Armani-Grey_lamar-2-300x300.jpg",
       name: "Armani Grey 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Carrara_lamar-2-300x300.jpg",
       name: "Carrara 10001",
+      array: "plakalar",
     },
   ],
   [
@@ -14688,86 +15420,103 @@ export const plakalarPorselen = [
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Carrara-Ultimo_lamar-2-300x300.jpg",
       name: "Carrara Ultimo 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/invisible-White_lamar-2-300x300.jpg",
       name: "Invisible White 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Macchia_lamar-2-300x300.jpg",
       name: "Macchia 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Marquina-Venato_lamar-2-300x300.jpg",
       name: "Marquina Venato 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Modern-Statuario_lamar-2-300x300.jpg",
       name: "Modern Statuario 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Pietra-Grey_lamar-2-300x300.jpg",
       name: "Pietra Grey 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Rome_lamar-2-300x300.jpg",
       name: "Rome 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Sahara-Noir_lamar-2-300x300.jpg",
       name: "Sahara Noir 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Statuario-Elite_lamar-2-300x300.jpg",
       name: "Statuario Elite 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Ice-Jade-2-300x300.jpg",
       name: "Ice Jade 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Ice-Jade-1-300x300.jpg",
       name: "Ice Jade 10002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Ica-jade-1-300x300.jpg",
       name: "Ice Jade 10003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Silk-White-1-300x300.png",
       name: "Silk White 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Glacier-White-1-300x300.png",
       name: "Glacier White 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Pure-White-1-300x300.png",
       name: "Pure White 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Ivory-Travertine-300x300.jpg",
       name: "Ivory Travertine Porcelain 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/6-CALACATTA-300x300.jpg",
       name: "Calacatta 10001",
+      array: "plakalar",
     },
   ],
 ];
@@ -14778,81 +15527,97 @@ export const plakalarPorselenSintered = [
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Amazonite-1-300x300.png",
       name: "Amazonite 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Patagonia-1-300x300.png",
       name: "Patagonia 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Azul-Macoubas-1-300x300.png",
       name: "Azul Macoubas 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Nero-Marquina-1-300x300.png",
       name: "Nero Marquina 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Panda-White-300x300.png",
       name: "Panda White 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Serpegiante-Light-300x300.png",
       name: "Serpegiante Light 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Alps-Blue-300x300.jpg",
       name: "Alps Blue 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Azul-Macobus-300x300.jpg",
       name: "Azul Macobus 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Van-Gogh-Blue-300x300.jpg",
       name: "Van Gogh Blue 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Ice-Jade-2-300x300.jpg",
       name: "Ice Jade 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Ice-Jade-1-300x300.jpg",
       name: "Ice Jade 10002",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Ica-jade-1-300x300.jpg",
       name: "Ice Jade 10003",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Silk-White-1-300x300.png",
       name: "Silk White 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Glacier-White-1-300x300.png",
       name: "Glacier White 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Pure-White-1-300x300.png",
       name: "Pure White 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/SinteredPlakalar/Ivory-Travertine-300x300.jpg",
       name: "Ivory Travertine Porcelain 10001",
+      array: "plakalar",
     },
   ],
 ];
@@ -14863,61 +15628,73 @@ export const plakalarPorselenLamar = [
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Armani-Grey_lamar-2-300x300.jpg",
       name: "Armani Grey 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Carrara_lamar-2-300x300.jpg",
       name: "Carrara 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Carrara-Ultimo_lamar-2-300x300.jpg",
       name: "Carrara Ultimo 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/invisible-White_lamar-2-300x300.jpg",
       name: "Invisible White 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Macchia_lamar-2-300x300.jpg",
       name: "Macchia 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Marquina-Venato_lamar-2-300x300.jpg",
       name: "Marquina Venato 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Modern-Statuario_lamar-2-300x300.jpg",
       name: "Modern Statuario 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Pietra-Grey_lamar-2-300x300.jpg",
       name: "Pietra Grey 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Rome_lamar-2-300x300.jpg",
       name: "Rome 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Sahara-Noir_lamar-2-300x300.jpg",
       name: "Sahara Noir 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/Statuario-Elite_lamar-2-300x300.jpg",
       name: "Statuario Elite 10001",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LamarPorselenPlakalar/6-CALACATTA-300x300.jpg",
       name: "Calacatta 10001",
+      array: "plakalar",
     },
   ],
 ];
@@ -14928,46 +15705,55 @@ export const plakalarPorselenEstestone = [
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/Roma-Black-1-300x300.jpg",
       name: "Roma Black 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/AquaLimo-1--300x300.jpg",
       name: "Aqua Limo 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/ArabescatoGold-1-300x300.jpg",
       name: "Arabescato Gold 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/blackmarquina-1-300x300.png",
       name: "Black Marquina 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/Carrara-1-300x300.jpg",
       name: "Carrara 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/DiamondGold-1-300x300.jpg",
       name: "Diamond Gold 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/Pietra-Grey-1-300x300.jpg",
       name: "Pietra Grey 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/Travertino-Grey-1-300x300.jpg",
       name: "Travertino Grey 101",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/EstestonePlakalar/VolgaBlue-1-300x300.jpg",
       name: "Volga Blue 101",
+      array: "plakalar",
     },
   ],
 ];
@@ -14978,21 +15764,25 @@ export const plakalarPorselenLevantec = [
       image:
         "/images/plakalar/PorselenPlakalar/LevantecPlakalar/1.-Bianco-Carrara-levantec-300x300.jpg",
       name: "Bianco Carrara 1",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LevantecPlakalar/2.-Calcatta-Caldia-levantec-300x300.jpg",
       name: "Calcatta Caldia 1",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LevantecPlakalar/4.-Pearl-White-levantec-300x300.jpg",
       name: "Pearl White 1",
+      array: "plakalar",
     },
     {
       image:
         "/images/plakalar/PorselenPlakalar/LevantecPlakalar/3.-Sahara-Noir-levantec-300x300.jpg",
       name: "Sahara Noir 1",
+      array: "plakalar",
     },
   ],
 ];
@@ -15003,121 +15793,145 @@ export const tezgahlarKuvars = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/1-Vivid-White-300x300.jpg",
       name: "Vivid White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/2-Snow-300x300.jpg",
       name: "Snow",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/3-White-Shimmer-300x300.jpg",
       name: "White Shimmer",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/4-Frosty-Carrina-300x300.jpg",
       name: "Frosty Carrina",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/5-Pure-White-300x300.jpg",
       name: "Pure White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/6-Nougat-300x300.jpg",
       name: "Nougat",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/7-Organic-White-300x300.jpg",
       name: "Organic White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/8-Ocean-Foam-300x300.jpg",
       name: "Ocean Foam",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/9-Intense-White-300x300.jpg",
       name: "Intense White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/10-London-Grey-300x300.jpg",
       name: "London Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/11-Empira-White-300x300.jpg",
       name: "Empira White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/12-White-Attica-300x300.jpg",
       name: "White Attica",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/13-Ice-Snow-300x300.jpg",
       name: "Ice Snow",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/14-Statuario-Maximus-300x300.jpg",
       name: "Statuario Maximus",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/15-Cosmopolitan-White-300x300.jpg",
       name: "Cosmopolitan White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/16-Calacatta-Maximus-300x300.jpg",
       name: "Calacatta Maximus",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/17-Cloudburst-Concrete-300x300.jpg",
       name: "Cloudburst Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/18-Statuario-Nuvo-300x300.jpg",
       name: "Statuario Nuvo",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/19-Montblanc-300x300.jpg",
       name: "Montblanc",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/20-Frozen-Terra-300x300.jpg",
       name: "Frozen Terra",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/21-Georgian-Bluffs-300x300.jpg",
       name: "Georgian Bluffs",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/22-Misty-Carrera-300x300.jpg",
       name: "Misty Carrera",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/23-Nordic-Loft-300x300.jpg",
       name: "Nordic Loft",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/24-Alpine-Mist-300x300.jpg",
       name: "Alpine Mist",
+      array: "tezgahlar",
     },
   ],
   [
@@ -15125,121 +15939,145 @@ export const tezgahlarKuvars = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/25-Dreamy-Marfil-300x300.jpg",
       name: "Dreamy Marfil",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/26-Clamshell-300x300.jpg",
       name: "Clamshell",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/27-Calacatta-Nuvo-300x300.jpg",
       name: "Calacatta Nuvo",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/28-Bianco-Drift-300x300.jpg",
       name: "Bianco Drift",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/29-Taj-Royale-300x300.jpg",
       name: "Taj Royale",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/30-Buttermilk-300x300.jpg",
       name: "Buttermilk",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/31-Haze-300x300.jpg",
       name: "Haze",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/32-Linen-300x300.jpg",
       name: "Linen",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/33-Raw-Concrete-300x300.jpg",
       name: "Raw Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/34-Urban-300x300.jpg",
       name: "Urban",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/35-Topus-Concrete-300x300.jpg",
       name: "Topus Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/36-Primordia-300x300.jpg",
       name: "Primordia",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/37-Symphony-Grey-300x300.jpg",
       name: "Symphony Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/38-Airy-Concrete-300x300.jpg",
       name: "Airy Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/39-Noble-Grey-300x300.jpg",
       name: "Noble Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/40-Sleek-Concrete-300x300.jpg",
       name: "Sleek Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/41-Shitake-300x300.jpg",
       name: "Shitake",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/42-Turbine-Grey-300x300.jpg",
       name: "Turbine Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/43-Oyster-300x300.jpg",
       name: "Oyster",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/44-Atlantic-Salt-300x300.jpg",
       name: "Atlantic Salt",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/45-Titan-300x300.jpg",
       name: "Titan",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/46-Woodlands-300x300.jpg",
       name: "Woodlands",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/47-Oxidian-300x300.jpg",
       name: "Oxidian",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/48-Fresh-Concrete-300x300.jpg",
       name: "Fresh Concrete",
+      array: "tezgahlar",
     },
   ],
   [
@@ -15247,120 +16085,144 @@ export const tezgahlarKuvars = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/49-Concrete-300x300.jpg",
       name: "Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/50-Raven-300x300.jpg",
       name: "Raven",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/51-Ginger-300x300.jpg",
       name: "Ginger",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/52-Lagos-Blue-300x300.jpg",
       name: "Lagos Blue",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/53-Excava-300x300.jpg",
       name: "Excava",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/54-Rugged-Concrete-300x300.jpg",
       name: "Rugged Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/55-Piatra-Grey-300x300.jpg",
       name: "Piatra Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/56-Black-Tempal-300x300.jpg",
       name: "Black Tempal",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/57-Vanilla-Noir-300x300.jpg",
       name: "Vanilla Noir",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/58-Piatto-Black-300x300.jpg",
       name: "Piatto Black",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/59-Black-Noir-300x300.jpg",
       name: "Black Noir",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/60-Jet-Black-300x300.jpg",
       name: "Jet Black",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Daisy-4001-Close-Up-300x300.jpg",
       name: "Daisy",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Aymina-3001-Close-Up-300x300.jpg",
       name: "Aymina",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/alaska-4403-300x300.jpg",
       name: "Alaska",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/7268-bolera-300x300.jpg",
       name: "Bolera",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Cordelia-2001-Close-Up-300x300.jpg",
       name: "Cordelia",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Lusetia-White-5601-Close-Up-300x300.jpg",
       name: "Lusetia White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/6102-sierra-white-300x300.jpg",
       name: "Sierra White",
+      array: "tezgahlar",
     },
     {
       image: "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/mia-300x300.jpg",
       name: "Mia",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/aria-2105-300x300.jpg",
       name: "Aria",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/rossa-white-300x300.jpg",
       name: "Rossa White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Visendra-2102-Close-Up-300x300.jpg",
       name: "Visendra",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Tornado-2104-300x300.jpg",
       name: "Tornado",
+      array: "tezgahlar",
     },
   ],
   [
@@ -15368,120 +16230,144 @@ export const tezgahlarKuvars = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Admira-2101-Close-Up-300x300.jpg",
       name: "Admira",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Lusida-Grey-300x300.jpg",
       name: "Lusida Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/olivia-300x300.jpg",
       name: "Olivia",
+      array: "tezgahlar",
     },
     {
       image: "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Sima-300x300.jpg",
       name: "Sima",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Elatris-4004-Close-Up-300x300.jpg",
       name: "Elatris",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Caramela-2005-Close-Up-300x300.jpg",
       name: "Caramela",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Lusida-Black-5701-Close-Up-300x300.jpg",
       name: "Lusida Black",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Rugiada-2209-Close-Up-300x300.jpg",
       name: "Rugiada",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/3303-santa-300x300.jpg",
       name: "Santa",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/nidia-2015-calisco-quartz-stone-p795226-1b-300x300.jpg",
       name: "Nidia",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Sadira-2210-Close-Up-300x300.jpg",
       name: "Sadira",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/614-Mirat-300x300.jpg",
       name: "Mirat",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/Hiearapolis-100-300x300.jpg",
       name: "Hiearapolis",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/402-Arcadia-300x300.jpg",
       name: "Arcadia",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/Artemis-220-300x300.jpg",
       name: "Artemis",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/955-Barents-300x300.jpg",
       name: "Barents",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/900-Lapland-300x300.jpg",
       name: "Lapland",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/925-Nebula-300x300.jpg",
       name: "Nebula",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/995-Nephila-300x300.jpg",
       name: "Nephila",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/936-Olympos-300x300.jpg",
       name: "Olympos",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/990-Sineda-300x300.jpg",
       name: "Sineda",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/560-Alpino-300x300.jpg",
       name: "Alpino",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/870-Tundra-300x300.jpg",
       name: "Tundra",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/725-Mora-300x300.jpg",
       name: "Mora",
+      array: "tezgahlar",
     },
   ],
   [
@@ -15489,121 +16375,145 @@ export const tezgahlarKuvars = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/470-Fuga-300x300.jpg",
       name: "Fuga",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/935-Versilia-300x300.jpg",
       name: "Versilia",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/345-Lebedos-300x300.jpg",
       name: "Lebedos",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/Keops-175-300x300.jpg",
       name: "Keops",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/875-Linen-300x300.jpg",
       name: "Linen",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/890-Terra-300x300.jpg",
       name: "Terra",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/815-Smyrna-300x300.jpg",
       name: "Smyrna",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/332-Lapaz-300x300.jpg",
       name: "Lapaz",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/912-Troas-300x300.jpg",
       name: "Troas",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/Etna-170-300x300.jpg",
       name: "Etna",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/930-Ares-300x300.jpg",
       name: "Ares",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/645-Boreas-300x300.jpg",
       name: "Boreas",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/811-Elvas-300x300.jpg",
       name: "Elvas",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/580-Kromit-300x300.jpg",
       name: "Kromit",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/759-Savana-300x300.jpg",
       name: "Savana",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/911-Gharma-300x300.jpg",
       name: "Gharma",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/880-Toros-300x300.jpg",
       name: "Toros",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/997-Carbone-300x300.jpg",
       name: "Carbone",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/465-Hermes-300x300.jpg",
       name: "Hermes",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/1219_calacatta_victory_e4c55-300x300.jpg",
       name: "Calacatta Victory",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/3302-felisia-300x300.jpg",
       name: "Felisia",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/7220_pantheon_fbf13-300x300.jpg",
       name: "Pantheon",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/2110-Angel-White--300x300.jpg",
       name: "Polaris",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Anemon-300x300.jpg",
       name: "Anemon",
+      array: "tezgahlar",
     },
   ],
   [
@@ -15611,120 +16521,144 @@ export const tezgahlarKuvars = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Alinda-300x300.jpg",
       name: "Alinda",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Kristella-White-300x300.jpg",
       name: "Kristella White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Sahara-Beige-300x300.jpg",
       name: "Sahara Beige",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Montana-300x300.jpg",
       name: "Montana",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Aizano-300x300.jpg",
       name: "Aizano",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Retro-300x300.jpg",
       name: "Retro",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Metropol-Grey-300x300.jpg",
       name: "Metropol Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/5751-Gala-Black--300x300.jpg",
       name: "Gala Black",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Aspendos-300x300.jpg",
       name: "Aspendos",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Aurora.-300x300.jpg",
       name: "Aurora",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Belluno-300x300.jpg",
       name: "Belluno",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Calacatta-Veneto-300x300.jpg",
       name: "Calacatta Veneto",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Calacatta-Verona-300x300.jpg",
       name: "Calacatta Verona",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Carola-300x300.jpg",
       name: "Carola",
+      array: "tezgahlar",
     },
     {
       image: "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Teos-300x300.jpg",
       name: "Teos",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Daphne-Crack-300x300.jpg",
       name: "Daphne Crack",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Elixir-White-300x300.jpg",
       name: "Elixir White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Fairy-White-300x300.jpg",
       name: "Fairy White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Perla-300x300.jpg",
       name: "Perla",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Iceberg-300x300.jpg",
       name: "Iceberg",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Juliet-White-300x300.jpg",
       name: "Juliet White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Kashmera-White-300x300.jpg",
       name: "Kashmera White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/La-Luna-300x300.jpg",
       name: "La Luna",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Pixie-Wings-300x300.jpg",
       name: "Pixie Wings",
+      array: "tezgahlar",
     },
   ],
   [
@@ -15732,61 +16666,73 @@ export const tezgahlarKuvars = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Olympos-300x300.jpg",
       name: "Olympos",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Mocca-Mousse-300x300.jpg",
       name: "Mocca Mousse",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Parma-300x300.jpg",
       name: "Parma",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Chakra-Beige-300x300.jpg",
       name: "Chakra",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Boletus-300x300.jpg",
       name: "Boletus",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Terre-Grey-300x300.jpg",
       name: "Terre Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Babilon-300x300.jpg",
       name: "Babilon",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Charmy-300x300.jpg",
       name: "Charmy",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Forza-Fume-300x300.jpg",
       name: "Forza Füme",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Marquina-Tierra-300x300.jpg",
       name: "Marquina Tierra",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Spa-Black-300x300.jpg",
       name: "Spa Black",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Volcano-Black-300x300.jpg",
       name: "Volcano Black",
+      array: "tezgahlar",
     },
   ],
 ];
@@ -15797,121 +16743,145 @@ export const tezgahlarPorselen = [
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Amazonite-1-300x300.png",
       name: "Amazonite 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Patagonia-1-300x300.png",
       name: "Patagonia 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Azul-Macoubas-1-300x300.png",
       name: "Azul Macoubas 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Nero-Marquina-1-300x300.png",
       name: "Nero Marquina 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Panda-White-300x300.png",
       name: "Panda White 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/Roma-Black-1-300x300.jpg",
       name: "Roma Black 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/AquaLimo-1--300x300.jpg",
       name: "Aqua Limo 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/ArabescatoGold-1-300x300.jpg",
       name: "Arabescato Gold 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/blackmarquina-1-300x300.png",
       name: "Black Marquina 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/Carrara-1-300x300.jpg",
       name: "Carrara 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/DiamondGold-1-300x300.jpg",
       name: "Diamond Gold 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/Pietra-Grey-1-300x300.jpg",
       name: "Pietra Grey 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/Travertino-Grey-1-300x300.jpg",
       name: "Travertino Grey 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/VolgaBlue-1-300x300.jpg",
       name: "Volga Blue 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Ice-Jade-2-300x300.jpg",
       name: "Ice Jade 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Ice-Jade-1-300x300.jpg",
       name: "Ice Jade 10002",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Ica-jade-1-300x300.jpg",
       name: "Ice Jade 10003",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Silk-White-1-300x300.png",
       name: "Silk White 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Glacier-White-1-300x300.png",
       name: "Glacier White 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Pure-White-1-300x300.png",
       name: "Pure White 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Ivory-Travertine-300x300.jpg",
       name: "Ivory Travertine Porcelain 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Nero-Marquina1-300x300.avif",
       name: "Marquina Venato 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/6-CALACATTA-300x300.jpg",
       name: "Calacatta 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Statuario-Elite_lamar-2-300x300.jpg",
       name: "Statuario Elite 10001",
+      array: "tezgahlar",
     },
   ],
   [
@@ -15919,91 +16889,109 @@ export const tezgahlarPorselen = [
       image:
         "/images/tezgahlar/PorselenTezgahlar/LevantecPorselenTezgah/1.-Bianco-Carrara-levantec-300x300.jpg",
       name: "Bianco Carrara 1",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LevantecPorselenTezgah/2.-Calcatta-Caldia-levantec-300x300.jpg",
       name: "Calcatta Caldia 1",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LevantecPorselenTezgah/3.-Sahara-Noir-levantec-300x300.jpg",
       name: "Sahara Noir 1",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LevantecPorselenTezgah/4.-Pearl-White-levantec-300x300.jpg",
       name: "Pearl White 1",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Serpegiante-Light-300x300.png",
       name: "Serpegiante Light 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Alps-Blue-300x300.jpg",
       name: "Alps Blue 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Azul-Macobus-300x300.jpg",
       name: "Azul Macobus 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Van-Gogh-Blue-300x300.jpg",
       name: "Van Gogh Blue 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Armani-Grey_lamar-2-300x300.jpg",
       name: "Armani Grey 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Carrara_lamar-2-300x300.jpg",
       name: "Carrara 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Carrara-Ultimo_lamar-2-300x300.jpg",
       name: "Carrara Ultimo 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/invisible-White_lamar-2-300x300.jpg",
       name: "Invisible White 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Macchia_lamar-2-300x300.jpg",
       name: "Macchia 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Marquina-Venato_lamar-2-300x300.jpg",
       name: "Marquina Venato 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Modern-Statuario_lamar-2-300x300.jpg",
       name: "Modern Statuario 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Pietra-Grey_lamar-2-300x300.jpg",
       name: "Pietra Grey 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Rome_lamar-2-300x300.jpg",
       name: "Rome 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Sahara-Noir_lamar-2-300x300.jpg",
       name: "Sahara Noir 10001",
+      array: "tezgahlar",
     },
   ],
 ];
@@ -16014,120 +17002,144 @@ export const tezgahlarKuvarsBelenco = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/1219_calacatta_victory_e4c55-300x300.jpg",
       name: "Calacatta Victory",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/7220_pantheon_fbf13-300x300.jpg",
       name: "Pantheon",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/2110-Angel-White--300x300.jpg",
       name: "Polaris",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Anemon-300x300.jpg",
       name: "Anemon",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Alinda-300x300.jpg",
       name: "Alinda",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Kristella-White-300x300.jpg",
       name: "Kristella White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Sahara-Beige-300x300.jpg",
       name: "Sahara Beige",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Montana-300x300.jpg",
       name: "Montana",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Aizano-300x300.jpg",
       name: "Aizano",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Retro-300x300.jpg",
       name: "Retro",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Metropol-Grey-300x300.jpg",
       name: "Metropol Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/5751-Gala-Black--300x300.jpg",
       name: "Gala Black",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Aspendos-300x300.jpg",
       name: "Aspendos",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Aurora.-300x300.jpg",
       name: "Aurora",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Belluno-300x300.jpg",
       name: "Belluno",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Calacatta-Veneto-300x300.jpg",
       name: "Calacatta Veneto",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Calacatta-Verona-300x300.jpg",
       name: "Calacatta Verona",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Carola-300x300.jpg",
       name: "Carola",
+      array: "tezgahlar",
     },
     {
       image: "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Teos-300x300.jpg",
       name: "Teos",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Daphne-Crack-300x300.jpg",
       name: "Daphne Crack",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Elixir-White-300x300.jpg",
       name: "Elixir White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Fairy-White-300x300.jpg",
       name: "Fairy White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Perla-300x300.jpg",
       name: "Perla",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Iceberg-300x300.jpg",
       name: "Iceberg",
+      array: "tezgahlar",
     },
   ],
   [
@@ -16135,81 +17147,97 @@ export const tezgahlarKuvarsBelenco = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Juliet-White-300x300.jpg",
       name: "Juliet White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Kashmera-White-300x300.jpg",
       name: "Kashmera White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/La-Luna-300x300.jpg",
       name: "La Luna",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Pixie-Wings-300x300.jpg",
       name: "Pixie Wings",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Olympos-300x300.jpg",
       name: "Olympos",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Mocca-Mousse-300x300.jpg",
       name: "Mocca Mousse",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Parma-300x300.jpg",
       name: "Parma",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Chakra-Beige-300x300.jpg",
       name: "Chakra",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Boletus-300x300.jpg",
       name: "Boletus",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Terre-Grey-300x300.jpg",
       name: "Terre Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Babilon-300x300.jpg",
       name: "Babilon",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Charmy-300x300.jpg",
       name: "Charmy",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Forza-Fume-300x300.jpg",
       name: "Forza Füme",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Marquina-Tierra-300x300.jpg",
       name: "Marquina Tierra",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Spa-Black-300x300.jpg",
       name: "Spa Black",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/BelencoTezgah/Volcano-Black-300x300.jpg",
       name: "Volcano Black",
+      array: "tezgahlar",
     },
   ],
 ];
@@ -16220,121 +17248,145 @@ export const tezgahlarKuvarsCaesarstone = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/1-Vivid-White-300x300.jpg",
       name: "Vivid White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/2-Snow-300x300.jpg",
       name: "Snow",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/3-White-Shimmer-300x300.jpg",
       name: "White Shimmer",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/4-Frosty-Carrina-300x300.jpg",
       name: "Frosty Carrina",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/5-Pure-White-300x300.jpg",
       name: "Pure White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/6-Nougat-300x300.jpg",
       name: "Nougat",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/7-Organic-White-300x300.jpg",
       name: "Organic White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/8-Ocean-Foam-300x300.jpg",
       name: "Ocean Foam",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/9-Intense-White-300x300.jpg",
       name: "Intense White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/10-London-Grey-300x300.jpg",
       name: "London Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/11-Empira-White-300x300.jpg",
       name: "Empira White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/12-White-Attica-300x300.jpg",
       name: "White Attica",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/13-Ice-Snow-300x300.jpg",
       name: "Ice Snow",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/14-Statuario-Maximus-300x300.jpg",
       name: "Statuario Maximus",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/15-Cosmopolitan-White-300x300.jpg",
       name: "Cosmopolitan White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/16-Calacatta-Maximus-300x300.jpg",
       name: "Calacatta Maximus",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/17-Cloudburst-Concrete-300x300.jpg",
       name: "Cloudburst Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/18-Statuario-Nuvo-300x300.jpg",
       name: "Statuario Nuvo",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/19-Montblanc-300x300.jpg",
       name: "Montblanc",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/20-Frozen-Terra-300x300.jpg",
       name: "Frozen Terra",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/21-Georgian-Bluffs-300x300.jpg",
       name: "Georgian Bluffs",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/22-Misty-Carrera-300x300.jpg",
       name: "Misty Carrera",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/23-Nordic-Loft-300x300.jpg",
       name: "Nordic Loft",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/24-Alpine-Mist-300x300.jpg",
       name: "Alpine Mist",
+      array: "tezgahlar",
     },
   ],
   [
@@ -16342,121 +17394,145 @@ export const tezgahlarKuvarsCaesarstone = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/25-Dreamy-Marfil-300x300.jpg",
       name: "Dreamy Marfil",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/26-Clamshell-300x300.jpg",
       name: "Clamshell",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/27-Calacatta-Nuvo-300x300.jpg",
       name: "Calacatta Nuvo",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/28-Bianco-Drift-300x300.jpg",
       name: "Bianco Drift",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/29-Taj-Royale-300x300.jpg",
       name: "Taj Royale",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/30-Buttermilk-300x300.jpg",
       name: "Buttermilk",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/31-Haze-300x300.jpg",
       name: "Haze",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/32-Linen-300x300.jpg",
       name: "Linen",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/33-Raw-Concrete-300x300.jpg",
       name: "Raw Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/34-Urban-300x300.jpg",
       name: "Urban",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/35-Topus-Concrete-300x300.jpg",
       name: "Topus Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/36-Primordia-300x300.jpg",
       name: "Primordia",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/37-Symphony-Grey-300x300.jpg",
       name: "Symphony Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/38-Airy-Concrete-300x300.jpg",
       name: "Airy Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/39-Noble-Grey-300x300.jpg",
       name: "Noble Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/40-Sleek-Concrete-300x300.jpg",
       name: "Sleek Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/41-Shitake-300x300.jpg",
       name: "Shitake",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/42-Turbine-Grey-300x300.jpg",
       name: "Turbine Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/43-Oyster-300x300.jpg",
       name: "Oyster",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/44-Atlantic-Salt-300x300.jpg",
       name: "Atlantic Salt",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/45-Titan-300x300.jpg",
       name: "Titan",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/46-Woodlands-300x300.jpg",
       name: "Woodlands",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/47-Oxidian-300x300.jpg",
       name: "Oxidian",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/48-Fresh-Concrete-300x300.jpg",
       name: "Fresh Concrete",
+      array: "tezgahlar",
     },
   ],
   [
@@ -16464,61 +17540,73 @@ export const tezgahlarKuvarsCaesarstone = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/49-Concrete-300x300.jpg",
       name: "Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/50-Raven-300x300.jpg",
       name: "Raven",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/51-Ginger-300x300.jpg",
       name: "Ginger",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/52-Lagos-Blue-300x300.jpg",
       name: "Lagos Blue",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/53-Excava-300x300.jpg",
       name: "Excava",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/54-Rugged-Concrete-300x300.jpg",
       name: "Rugged Concrete",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/55-Piatra-Grey-300x300.jpg",
       name: "Piatra Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/56-Black-Tempal-300x300.jpg",
       name: "Black Tempal",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/57-Vanilla-Noir-300x300.jpg",
       name: "Vanilla Noir",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/58-Piatto-Black-300x300.jpg",
       name: "Piatto Black",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/59-Black-Noir-300x300.jpg",
       name: "Black Noir",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaesarstoneTezgah/60-Jet-Black-300x300.jpg",
       name: "Jet Black",
+      array: "tezgahlar",
     },
   ],
 ];
@@ -16529,119 +17617,143 @@ export const tezgahlarKuvarsCalisco = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Daisy-4001-Close-Up-300x300.jpg",
       name: "Daisy",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Aymina-3001-Close-Up-300x300.jpg",
       name: "Aymina",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/alaska-4403-300x300.jpg",
       name: "Alaska",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/7268-bolera-300x300.jpg",
       name: "Bolera",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Cordelia-2001-Close-Up-300x300.jpg",
       name: "Cordelia",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Lusetia-White-5601-Close-Up-300x300.jpg",
       name: "Lusetia White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/6102-sierra-white-300x300.jpg",
       name: "Sierra White",
+      array: "tezgahlar",
     },
     {
       image: "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/mia-300x300.jpg",
       name: "Mia",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/aria-2105-300x300.jpg",
       name: "Aria",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/rossa-white-300x300.jpg",
       name: "Rossa White",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Visendra-2102-Close-Up-300x300.jpg",
       name: "Visendra",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Tornado-2104-300x300.jpg",
       name: "Tornado",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Admira-2101-Close-Up-300x300.jpg",
       name: "Admira",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Lusida-Grey-300x300.jpg",
       name: "Lusida Grey",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/olivia-300x300.jpg",
       name: "Olivia",
+      array: "tezgahlar",
     },
     {
       image: "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Sima-300x300.jpg",
       name: "Sima",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Elatris-4004-Close-Up-300x300.jpg",
       name: "Elatris",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Caramela-2005-Close-Up-300x300.jpg",
       name: "Caramela",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Lusida-Black-5701-Close-Up-300x300.jpg",
       name: "Lusida Black",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Rugiada-2209-Close-Up-300x300.jpg",
       name: "Rugiada",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/3303-santa-300x300.jpg",
       name: "Santa",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/nidia-2015-calisco-quartz-stone-p795226-1b-300x300.jpg",
       name: "Nidia",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/Sadira-2210-Close-Up-300x300.jpg",
       name: "Sadira",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CaliscoTezgah/3302-felisia-300x300.jpg",
       name: "Felisia",
+      array: "tezgahlar",
     },
   ],
 ];
@@ -16652,121 +17764,145 @@ export const tezgahlarKuvarsCimstone = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/614-Mirat-300x300.jpg",
       name: "Mirat",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/Hiearapolis-100-300x300.jpg",
       name: "Hiearapolis",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/402-Arcadia-300x300.jpg",
       name: "Arcadia",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/Artemis-220-300x300.jpg",
       name: "Artemis",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/955-Barents-300x300.jpg",
       name: "Barents",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/900-Lapland-300x300.jpg",
       name: "Lapland",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/925-Nebula-300x300.jpg",
       name: "Nebula",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/995-Nephila-300x300.jpg",
       name: "Nephila",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/936-Olympos-300x300.jpg",
       name: "Olympos",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/990-Sineda-300x300.jpg",
       name: "Sineda",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/560-Alpino-300x300.jpg",
       name: "Alpino",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/870-Tundra-300x300.jpg",
       name: "Tundra",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/725-Mora-300x300.jpg",
       name: "Mora",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/470-Fuga-300x300.jpg",
       name: "Fuga",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/935-Versilia-300x300.jpg",
       name: "Versilia",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/345-Lebedos-300x300.jpg",
       name: "Lebedos",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/Keops-175-300x300.jpg",
       name: "Keops",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/875-Linen-300x300.jpg",
       name: "Linen",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/890-Terra-300x300.jpg",
       name: "Terra",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/815-Smyrna-300x300.jpg",
       name: "Smyrna",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/332-Lapaz-300x300.jpg",
       name: "Lapaz",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/912-Troas-300x300.jpg",
       name: "Troas",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/Etna-170-300x300.jpg",
       name: "Etna",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/930-Ares-300x300.jpg",
       name: "Ares",
+      array: "tezgahlar",
     },
   ],
   [
@@ -16774,41 +17910,49 @@ export const tezgahlarKuvarsCimstone = [
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/645-Boreas-300x300.jpg",
       name: "Boreas",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/811-Elvas-300x300.jpg",
       name: "Elvas",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/580-Kromit-300x300.jpg",
       name: "Kromit",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/759-Savana-300x300.jpg",
       name: "Savana",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/911-Gharma-300x300.jpg",
       name: "Gharma",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/880-Toros-300x300.jpg",
       name: "Toros",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/997-Carbone-300x300.jpg",
       name: "Carbone",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/KuvarsTezgahlar/CimstoneTezgah/465-Hermes-300x300.jpg",
       name: "Hermes",
+      array: "tezgahlar",
     },
   ],
 ];
@@ -16819,46 +17963,55 @@ export const tezgahlarPorselenEstestone = [
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/Roma-Black-1-300x300.jpg",
       name: "Roma Black 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/AquaLimo-1--300x300.jpg",
       name: "Aqua Limo 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/ArabescatoGold-1-300x300.jpg",
       name: "Arabescato Gold 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/blackmarquina-1-300x300.png",
       name: "Black Marquina 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/Carrara-1-300x300.jpg",
       name: "Carrara 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/DiamondGold-1-300x300.jpg",
       name: "Diamond Gold 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/Pietra-Grey-1-300x300.jpg",
       name: "Pietra Grey 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/Travertino-Grey-1-300x300.jpg",
       name: "Travertino Grey 101",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/EstestonePorselenTezgah/VolgaBlue-1-300x300.jpg",
       name: "Volga Blue 101",
+      array: "tezgahlar",
     },
   ],
 ];
@@ -16869,66 +18022,79 @@ export const tezgahlarPorselenLamar = [
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Nero-Marquina1-300x300.avif",
       name: "Marquina Venato 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/6-CALACATTA-300x300.jpg",
       name: "Calacatta 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Statuario-Elite_lamar-2-300x300.jpg",
       name: "Statuario Elite 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Armani-Grey_lamar-2-300x300.jpg",
       name: "Armani Grey 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Carrara_lamar-2-300x300.jpg",
       name: "Carrara 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Carrara-Ultimo_lamar-2-300x300.jpg",
       name: "Carrara Ultimo 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/invisible-White_lamar-2-300x300.jpg",
       name: "Invisible White 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Macchia_lamar-2-300x300.jpg",
       name: "Macchia 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Marquina-Venato_lamar-2-300x300.jpg",
       name: "Marquina Venato 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Modern-Statuario_lamar-2-300x300.jpg",
       name: "Modern Statuario 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Pietra-Grey_lamar-2-300x300.jpg",
       name: "Pietra Grey 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Rome_lamar-2-300x300.jpg",
       name: "Rome 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LamarPorselenTezgah/Sahara-Noir_lamar-2-300x300.jpg",
       name: "Sahara Noir 10001",
+      array: "tezgahlar",
     },
   ],
 ];
@@ -16939,21 +18105,25 @@ export const tezgahlarPorselenLevantec = [
       image:
         "/images/tezgahlar/PorselenTezgahlar/LevantecPorselenTezgah/1.-Bianco-Carrara-levantec-300x300.jpg",
       name: "Bianco Carrara 1",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LevantecPorselenTezgah/2.-Calcatta-Caldia-levantec-300x300.jpg",
       name: "Calcatta Caldia 1",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LevantecPorselenTezgah/3.-Sahara-Noir-levantec-300x300.jpg",
       name: "Sahara Noir 1",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/LevantecPorselenTezgah/4.-Pearl-White-levantec-300x300.jpg",
       name: "Pearl White 1",
+      array: "tezgahlar",
     },
   ],
 ];
@@ -16964,81 +18134,97 @@ export const tezgahlarPorselenSintered = [
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Amazonite-1-300x300.png",
       name: "Amazonite 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Patagonia-1-300x300.png",
       name: "Patagonia 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Azul-Macoubas-1-300x300.png",
       name: "Azul Macoubas 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Nero-Marquina-1-300x300.png",
       name: "Nero Marquina 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Panda-White-300x300.png",
       name: "Panda White 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Ice-Jade-2-300x300.jpg",
       name: "Ice Jade 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Ice-Jade-1-300x300.jpg",
       name: "Ice Jade 10002",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Ica-jade-1-300x300.jpg",
       name: "Ice Jade 10003",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Silk-White-1-300x300.png",
       name: "Silk White 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Glacier-White-1-300x300.png",
       name: "Glacier White 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Pure-White-1-300x300.png",
       name: "Pure White 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Ivory-Travertine-300x300.jpg",
       name: "Ivory Travertine Porcelain 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Serpegiante-Light-300x300.png",
       name: "Serpegiante Light 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Alps-Blue-300x300.jpg",
       name: "Alps Blue 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Azul-Macobus-300x300.jpg",
       name: "Azul Macobus 10001",
+      array: "tezgahlar",
     },
     {
       image:
         "/images/tezgahlar/PorselenTezgahlar/SinteredStonePorselenTezgah/Van-Gogh-Blue-300x300.jpg",
       name: "Van Gogh Blue 10001",
+      array: "tezgahlar",
     },
   ],
 ];
@@ -17048,760 +18234,944 @@ export const urunlerCnc = [
     {
       image: "/images/urunler/Cnc/Masalar/Referans-1-300x300.jpg",
       name: "Masa Referans 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-2-300x300.jpg",
       name: "Masa Referans 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-3-300x300.jpg",
       name: "Masa Referans 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-4-300x300.jpg",
       name: "Masa Referans 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-5-300x300.jpg",
       name: "Masa Referans 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-6-300x300.jpg",
       name: "Masa Referans 1006",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-7-300x300.jpg",
       name: "Masa Referans 1007",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-8-300x300.jpg",
       name: "Masa Referans 1008",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-9-300x300.jpg",
       name: "Masa Referans 1009",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-10-300x300.jpg",
       name: "Masa Referans 1010",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-11-300x300.jpg",
       name: "Masa Referans 1011",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-12-300x300.jpg",
       name: "Masa Referans 1012",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-13-300x300.jpg",
       name: "Masa Referans 1013",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-14-300x300.jpg",
       name: "Masa Referans 1014",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-16-300x300.jpg",
       name: "Masa Referans 1015",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-17-300x300.jpg",
       name: "Masa Referans 1016",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-18-300x300.jpg",
       name: "Masa Referans 1017",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-19-300x300.jpg",
       name: "Masa Referans 1018",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-20-300x300.jpg",
       name: "Masa Referans 1019",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/6-300x300.png",
       name: "Kenar Detayları 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/12-300x300.png",
       name: "Kenar Detayları 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/7-300x300.png",
       name: "Kenar Detayları 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/10-300x300.png",
       name: "Kenar Detayları 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/14-300x300.png",
       name: "Kenar Detayları 1005",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Cnc/Masalar/8-300x300.png",
       name: "Kenar Detayları 1006",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/2-300x300.png",
       name: "Kenar Detayları 1007",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/1-300x300.png",
       name: "Kenar Detayları 1008",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/19-1-300x300.png",
       name: "Kenar Detayları 1008-1",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/20-300x300.png",
       name: "Kenar Detayları 1009",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/9-300x300.jpg",
       name: "Kenar Detayları 1011",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/3-300x300.jpg",
       name: "Kenar Detayları 1012",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/15-300x300.png",
       name: "Kenar Detayları 1013",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/13-300x300.jpg",
       name: "Kenar Detayları 1014",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/16-300x300.png",
       name: "Kenar Detayları 1015",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/18-300x300.png",
       name: "Kenar Detayları 1016",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/17-300x300.png",
       name: "Kenar Detayları 1017",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/11-300x300.jpg",
       name: "Kenar Detayları 1018",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/31-300x300.jpg",
       name: "Kenar Detayları 1019",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/32-300x300.jpg",
       name: "Kenar Detayları 1020",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/33-300x300.jpg",
       name: "Kenar Detayları 1021",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/34-300x300.jpg",
       name: "Kenar Detayları 1022",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/35-300x300.jpg",
       name: "Kenar Detayları 1023",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/36-300x300.jpg",
       name: "Kenar Detayları 1024",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/37-300x300.jpg",
       name: "Kenar Detayları 1025",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/38-300x300.avif",
       name: "Kenar Detayları 1026",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/39-300x300.avif",
       name: "Kenar Detayları 1027",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/40-300x300.avif",
       name: "Kenar Detayları 1028",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/41-300x300.avif",
       name: "Kenar Detayları 1029",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Cnc/Masalar/42-300x300.jpg",
       name: "Kenar Detayları 1030",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/43-300x300.jpg",
       name: "Kenar Detayları 1031",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/44-300x300.jpg",
       name: "Kenar Detayları 1032",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/45-300x300.jpg",
       name: "Kenar Detayları 1033",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/46-300x300.jpg",
       name: "Kenar Detayları 1034",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/47-300x300.jpg",
       name: "Kenar Detayları 1035",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/48-300x300.jpg",
       name: "Kenar Detayları 1036",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/49-300x300.jpg",
       name: "Kenar Detayları 1037",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/50-300x300.jpg",
       name: "Kenar Detayları 1038",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/21-300x300.png",
       name: "Kenar Detayları 1039",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/22-300x300.png",
       name: "Kenar Detayları 1040",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t02bluebahia-300x300.png",
       name: "T-02 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t03bluebahia-300x300.png",
       name: "T-03 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t04lilla-300x300.png",
       name: "T-04 Lilla",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t05afyonbeyaz-1-300x300.png",
       name: "T-05 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t06beyaztraverten-300x300.png",
       name: "T-06 Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t07bluebahia-300x300.png",
       name: "T-07 Blue Bahia",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t07pewterblendveincut-300x300.png",
       name: "T-07 Gümüş Traverten Düz Kesim",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t08pewterblendveincut-300x300.png",
       name: "T-08 Gümüş Traverten Düz Kesim",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t09metell-300x300.png",
       name: "T-09 Metell",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t11bluebahia-300x300.png",
       name: "T-11 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t12bluebahia3-300x300.png",
       name: "T-12 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t13neromarquina-300x300.png",
       name: "T-13 Nero Marquina",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t14pewterveincut-300x300.png",
       name: "T-14 Gümüş Traverten Düz Kesim",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Cnc/Masalar/t15carrara-300x300.avif",
       name: "T-15 Carrara",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/k01darkemperador-300x300.avif",
       name: "K-01 Dark Emperador",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/k03lilla2-300x300.avif",
       name: "K-03 Lilla",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/k05pearl1-300x300.avif",
       name: "K-05 Pearl",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/k07pinguino3-300x300.avif",
       name: "K-07 Pinguino",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/k09warmwalnut-300x300.png",
       name: "K-09 Warm Walnut",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/k10lilla3-300x300.png",
       name: "K-10 Lilla",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/1-2-300x300.jpg",
       name: "Sehpa Referans 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/2-2-300x300.jpg",
       name: "Sehpa Referans 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/3-2-300x300.jpg",
       name: "Sehpa Referans 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/4-2-300x300.jpg",
       name: "Sehpa Referans 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/5-3-300x300.jpg",
       name: "Sehpa Referans 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/6-4-300x300.jpg",
       name: "Sehpa Referans 1006",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/7-4-300x300.jpg",
       name: "Sehpa Referans 1007",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/8-2-300x300.jpg",
       name: "Sehpa Referans 1008",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/9-2-300x300.jpg",
       name: "Sehpa Referans 1009",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/10-2-300x300.jpg",
       name: "Sehpa Referans 1010",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/11-4-300x300.jpg",
       name: "Sehpa Referans 1011",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/12-2-300x300.jpg",
       name: "Sehpa Referans 1012",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/13-4-300x300.jpg",
       name: "Sehpa Referans 1013",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/14-2-300x300.jpg",
       name: "Sehpa Referans 1014",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/15-2-300x300.jpg",
       name: "Sehpa Referans 1015",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/16-2-300x300.jpg",
       name: "Sehpa Referans 1016",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/17-2-300x300.jpg",
       name: "Sehpa Referans 1017",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Cnc/Sehpalar/18-2-300x300.jpg",
       name: "Sehpa Referans 1018",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/19-2-300x300.jpg",
       name: "Sehpa Referans 1019",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/20-2-300x300.jpg",
       name: "Sehpa Referans 1020",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/21-2-300x300.jpg",
       name: "Sehpa Referans 1021",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/22-300x300.jpg",
       name: "Sehpa Referans 1022",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/23-300x300.jpg",
       name: "Sehpa Referans 1023",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/24-300x300.jpg",
       name: "Sehpa Referans 1024",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/25-300x300.jpg",
       name: "Sehpa Referans 1025",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/26-300x300.jpg",
       name: "Sehpa Referans 1026",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/27-300x300.jpg",
       name: "Sehpa Referans 1027",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/28-300x300.jpg",
       name: "Sehpa Referans 1028",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/29-300x300.jpg",
       name: "Sehpa Referans 1029",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/30-300x300.jpg",
       name: "Sehpa Referans 1030",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/31-300x300.jpg",
       name: "Sehpa Referans 1031",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/32-300x300.jpg",
       name: "Sehpa Referans 1032",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/33-300x300.jpg",
       name: "Sehpa Referans 1033",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/34-300x300.jpg",
       name: "Sehpa Referans 1034",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/35-300x300.jpg",
       name: "Sehpa Referans 1035",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/36-300x300.jpg",
       name: "Sehpa Referans 1036",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/37-300x300.jpg",
       name: "Sehpa Referans 1037",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/38-300x300.jpg",
       name: "Sehpa Referans 1038",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/39-300x300.jpg",
       name: "Sehpa Referans 1039",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/40-300x300.jpg",
       name: "Sehpa Referans 1040",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/41-300x300.jpg",
       name: "Sehpa Referans 1041",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Cnc/Sehpalar/42-300x300.jpg",
       name: "Sehpa Referans 1042",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/43-300x300.jpg",
       name: "Sehpa Referans 1043",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/Sehpalar/ct02afyonbeyazarcobaleno-300x300.png",
       name: "CT-02 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct02violet-300x300.png",
       name: "CT-02 Violet",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct03blackberry-300x300.png",
       name: "CT-03 Blackberry",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct04ivorycream-300x300.png",
       name: "CT-04 Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct04carrara-300x300.png",
       name: "CT-04 Carrara",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct04carrara2-1-300x300.png",
       name: "CT-04-1 Carrara",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct04pewterveincut-300x300.png",
       name: "CT-04 Gümüş Traverten Düz Kesim",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct04flamingo-300x300.png",
       name: "CT-04 Kırmızı Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct05afyonbeyazeternal-300x300.png",
       name: "CT-05 Afyon Beyaz Mermer Eternal",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct05pearl-300x300.png",
       name: "CT-05 Pearl",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct05silverdragon-300x300.png",
       name: "CT-05 Silver Dragon",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct07olivemaron-300x300.png",
       name: "CT-07 Olive Maron",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct08olivemaron-300x300.png",
       name: "CT-08 Olive Maron",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct09bluebahia-300x300.png",
       name: "CT-09 Blue Bahia",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct10bluemoon-300x300.png",
       name: "CT-10 Blue Moon",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct12portoro-300x300.png",
       name: "CT-12 Portoro",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/Sehpalar/ct13afyonbeyazarcobaleno-300x300.png",
       name: "CT-13 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct13anmi-300x300.png",
       name: "CT-13 Amarante, Nuage Miel, Iris",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct13bluebahia2-300x300.png",
       name: "CT-13 Blue Bahia",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct13icejade-300x300.png",
       name: "CT-13 Ice Jade",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct14neromarquina-300x300.png",
       name: "CT-14 Nero Marquina",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct15afyonbeyazeternal-300x300.png",
       name: "CT-15 Afyon Beyaz Mermer Eternal",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Cnc/Sehpalar/ct16afyonbeyazeternal-300x300.png",
       name: "CT-16 Afyon Beyaz Mermer Eternal",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct17silverdragon-300x300.png",
       name: "CT-17 Silver Dragon",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct18darkemperador-300x300.png",
       name: "CT-18 Dark Emperador",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct18silverdragon-300x300.png",
       name: "CT-18 Silver Dragon",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct19carrara-300x300.png",
       name: "CT-19 Carrara",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct20spanishdarkemp-300x300.png",
       name: "CT-20 İspanyol Dark Emperador",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct21eternal-300x300.png",
       name: "CT-21 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct22alavogue-300x300.png",
       name: "CT-22 Afyon Beyaz A La Vogue",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct23violet-300x300.png",
       name: "CT-23 Violet",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/Sehpalar/ct24ispanyoldarkemperador-300x300.png",
       name: "CT-24 İspanyol Dark Emperador",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/Sehpalar/ct26afyonbeyazarcobaleno-300x300.png",
       name: "CT-26 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct26abbm-300x300.png",
       name: "CT-26 Afyon Beyaz Arcobaleno, Blue Moon, Blue Bahia",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct26bluemoon-300x300.png",
       name: "CT-26 Blue Moon",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct27afyonbeyazalavogue-300x300.png",
       name: "CT-27 Afyon Beyaz A La Vogue",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/pinguino-1-300x300.png",
       name: "Pinguino",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/portoro-1-300x300.png",
       name: "Portoro",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/silverdragon-300x300.png",
       name: "Silver Dragon",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/DuvarDekorasyonlari/1-3-e1613195727324-300x300.png",
       name: "Duvar Dekorasyonları – Referans 1001",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/DuvarDekorasyonlari/2-1-e1613196095826-300x300.png",
       name: "Duvar Dekorasyonları – Referans 1002",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/DuvarDekorasyonlari/3-5-e1613197515614-300x300.png",
       name: "Duvar Dekorasyonları – Referans 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/5-7-scaled-1-300x300.jpg",
       name: "Duvar Dekorasyonları – Referans 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/DSCN2486-300x300.png",
       name: "Duvar Dekorasyonları – Referans 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/IMG_0482-300x300.png",
       name: "Duvar Dekorasyonları – Referans 1006",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/DuvarDekorasyonlari/17-e1613200822764-300x300.png",
       name: "Duvar Dekorasyonları – Referans 1007",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/1-300x300.png",
       name: "Afyon Beyaz CNC 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/2-300x300.png",
       name: "Afyon Beyaz CNC 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/3-300x300.png",
       name: "Afyon Beyaz CNC 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/13-300x300.png",
       name: "ED-01 Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/12-300x300.png",
       name: "ED-02 Bianco Crema",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/11-300x300.png",
       name: "ED-03 Bianco Crema",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/10-300x300.png",
       name: "ED-04 Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/9-300x300.png",
       name: "ED-06 Afyon Beyaz Mermer",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/8-300x300.png",
       name: "ED-06 Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/7-300x300.png",
       name: "ED-07 Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/6-300x300.png",
       name: "ED-08 Afyon Beyaz Mermer",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/5-300x300.png",
       name: "ED-08 Pearl",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/4-300x300.png",
       name: "ED-09 Pearl",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Tabureler/1-3-300x300.png",
       name: "Tabure1 – Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Tabureler/2-2-300x300.png",
       name: "Tabure2 – Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Tabureler/3-2-300x300.png",
       name: "Tabure2 – Beyaz Traverten",
+      array: "urunler",
     },
   ],
 ];
@@ -17812,121 +19182,145 @@ export const urunlerWaterjet = [
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/1waterjetmadalyon-1-300x300.jpg",
       name: "Waterjet Madalyon 1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/2waterjetmadalyon-1-300x300.jpg",
       name: "Waterjet Madalyon 2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/3waterjetmadalyon-1-300x300.jpg",
       name: "Waterjet Madalyon 3",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/4waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 4",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/5waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 5",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/6waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 6",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/7waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 7",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/8waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 8",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/9waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 9",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/10waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 10",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/11waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 11",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/12waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 12",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/13waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 13",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/14waterjetmadalyon-1-300x300.jpg",
       name: "Waterjet Madalyon 14",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon01-300x300.png",
       name: "Waterjet Madalyon WJM-01",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon02-300x300.png",
       name: "Waterjet Madalyon WJM-02",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon03-300x300.png",
       name: "Waterjet Madalyon WJM-03",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon04-300x300.png",
       name: "Waterjet Madalyon WJM-04",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon05-300x300.png",
       name: "Waterjet Madalyon WJM-05",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon07-300x300.png",
       name: "Waterjet Madalyon WJM-07",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon08-300x300.png",
       name: "Waterjet Madalyon WJM-08",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon09-300x300.png",
       name: "Waterjet Madalyon WJM-09",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon10-300x300.png",
       name: "Waterjet Madalyon WJM-10",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon11-300x300.png",
       name: "Waterjet Madalyon WJM-11",
+      array: "urunler",
     },
   ],
   [
@@ -17934,121 +19328,145 @@ export const urunlerWaterjet = [
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon12-300x300.png",
       name: "Waterjet Madalyon WJM-12",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon13-300x300.png",
       name: "Waterjet Madalyon WJM-13",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon14-300x300.png",
       name: "Waterjet Madalyon WJM-14-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon14_2-1-300x300.png",
       name: "Waterjet Madalyon WJM-14-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon15-300x300.png",
       name: "Waterjet Madalyon WJM-15-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon15_2-300x300.png",
       name: "Waterjet Madalyon WJM-15-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon16-300x300.png",
       name: "Waterjet Madalyon WJM-16",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon17-300x300.png",
       name: "Waterjet Madalyon WJM-17",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon18-300x300.png",
       name: "Waterjet Madalyon WJM-18",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19-300x300.jpg",
       name: "Waterjet Madalyon WJM-19-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19_2-300x300.jpg",
       name: "Waterjet Madalyon WJM-19-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19_3-300x300.jpg",
       name: "Waterjet Madalyon WJM-19-3",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon20-300x300.png",
       name: "Waterjet Madalyon WJM-20",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon21-300x300.jpg",
       name: "Waterjet Madalyon WJM-21",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon22-300x300.png",
       name: "Waterjet Madalyon WJM-22",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon24-300x300.png",
       name: "Waterjet Madalyon WJM-24",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon25-300x300.png",
       name: "Waterjet Madalyon WJM-25",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon26-300x300.png",
       name: "Waterjet Madalyon WJM-26",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon27-300x300.jpg",
       name: "Waterjet Madalyon WJM-27",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon28-300x300.png",
       name: "Waterjet Madalyon WJM-28",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon29-300x300.png",
       name: "Waterjet Madalyon WJM-29",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon30-300x300.jpg",
       name: "Waterjet Madalyon WJM-30-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon30_2-300x300.png",
       name: "Waterjet Madalyon WJM-30-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon30_3-300x300.png",
       name: "Waterjet Madalyon WJM-30-3",
+      array: "urunler",
     },
   ],
   [
@@ -18056,158 +19474,191 @@ export const urunlerWaterjet = [
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon31-300x300.png",
       name: "Waterjet Madalyon WJM-31",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon31-300x300.png",
       name: "Waterjet Madalyon WJM-32",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon31-300x300.png",
       name: "Waterjet Madalyon WJM-33",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon34-300x300.png",
       name: "Waterjet Madalyon WJM-34-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon34_2-300x300.png",
       name: "Waterjet Madalyon WJM-34-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon35-300x300.png",
       name: "Waterjet Madalyon WJM-35",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon36-300x300.png",
       name: "Waterjet Madalyon WJM-36-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon36_2-300x300.png",
       name: "Waterjet Madalyon WJM-36-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon37-300x300.png",
       name: "Waterjet Madalyon WJM-37",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon38-300x300.png",
       name: "Waterjet Madalyon WJM-38",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon39-300x300.png",
       name: "Waterjet Madalyon WJM-39",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon40-300x300.png",
       name: "Waterjet Madalyon WJM-40",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur1-300x300.png",
       name: "Waterjet Bordür WJB-01",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur2-300x300.png",
       name: "Waterjet Bordür WJB-02",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur3-300x300.png",
       name: "Waterjet Bordür WJB-03",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur4-300x300.png",
       name: "Waterjet Bordür WJB-04",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur5-300x300.png",
       name: "Waterjet Bordür WJB-05",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur6-300x300.png",
       name: "Waterjet Bordür WJB-06",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur7-300x300.png",
       name: "Waterjet Bordür WJB-07",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro1-300x300.png",
       name: "Waterjet Karo WJK-01",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro2-300x300.png",
       name: "Waterjet Karo WJK-02",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro3-300x300.png",
       name: "Waterjet Karo WJK-03",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro4-300x300.png",
       name: "Waterjet Karo WJK-04",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro5-300x300.png",
       name: "Waterjet Karo WJK-05",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro6-300x300.png",
       name: "Waterjet Karo WJK-06",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro7-300x300.png",
       name: "Waterjet Karo WJK-07",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro8-300x300.png",
       name: "Waterjet Karo WJK-08",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro9-300x300.png",
       name: "Waterjet Karo WJK-09",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro10-300x300.png",
       name: "Waterjet Karo WJK-10",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik1-300x300.png",
       name: "Waterjet Mozaik WJC - 01",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik2-300x300.png",
       name: "Waterjet Mozaik WJC - 02-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik3-300x300.png",
       name: "Waterjet Mozaik WJC - 02-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik4-300x300.png",
       name: "Waterjet Mozaik WJC - 03",
+      array: "urunler",
     },
   ],
 ];
@@ -18217,380 +19668,470 @@ export const urunlerDekoratif = [
     {
       image: "/images/urunler/Dekoratif/DusTeknesi/dusTeknesi.png",
       name: "Duş Teknesi – Referans",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/DusTeknesi/arcobalenokuvet-300x300.jpg",
       name: "Dekoratif Ürünler – Duş Teknesi 1001",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/DusTeknesi/arcobalenokuvet2-300x300.jpg",
       name: "Dekoratif Ürünler – Duş Teknesi 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/DusTeknesi/nocekuvet-300x300.jpg",
       name: "Dekoratif Ürünler – Duş Teknesi 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/DusTeknesi/warmwalnutkuvet-300x300.jpg",
       name: "Dekoratif Ürünler – Duş Teknesi 1004",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/DusTeknesi/warmwalnutkuvet2-300x300.jpg",
       name: "Dekoratif Ürünler – Duş Teknesi 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1001.jpg",
       name: "Kolon – Referans 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1002.jpg",
       name: "Kolon – Referans 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1003.jpg",
       name: "Kolon – Referans 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1004.jpg",
       name: "Kolon – Referans 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1005.jpg",
       name: "Kolon – Referans 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1006.jpg",
       name: "Kolon – Referans 1006",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1007.jpg",
       name: "Kolon – Referans 1007",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1008.jpg",
       name: "Kolon – Referans 1008",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/a1001.png",
       name: "Dekoratif Ürünler – Kolon 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/a1002.png",
       name: "Dekoratif Ürünler – Kolon 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/a1003.png",
       name: "Dekoratif Ürünler – Kolon 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/a1004.png",
       name: "Dekoratif Ürünler – Kolon 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/a1005.png",
       name: "Dekoratif Ürünler – Kolon 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Korkuluk/korkuluk5-300x300.jpg",
       name: "Dekoratif Ürünler – Korkuluk 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Korkuluk/korkuluk4-300x300.jpg",
       name: "Dekoratif Ürünler – Korkuluk 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Korkuluk/korkuluk3-300x300.jpg",
       name: "Dekoratif Ürünler – Korkuluk 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Korkuluk/korkuluk1-300x300.jpg",
       name: "Dekoratif Ürünler – Korkuluk 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Korkuluk/korkuluk2-300x300.jpg",
       name: "Dekoratif Ürünler – Korkuluk 1005",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna1-300x300.jpg",
       name: "Kurna BS-01",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna2-300x300.jpg",
       name: "Kurna BS-02",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna3-300x300.png",
       name: "Kurna BS-03",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna4-300x300.png",
       name: "Kurna BS-04",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna5-300x300.png",
       name: "Kurna BS-05",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna6-300x300.png",
       name: "Kurna BS-06",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna7-300x300.png",
       name: "Kurna BS-07",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna8-300x300.png",
       name: "Kurna BS-08",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna9-300x300.png",
       name: "Kurna BS-09",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna10-300x300.png",
       name: "Kurna BS-10",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sove/classiclightsove-300x300.jpg",
       name: "Dekoratif Ürünler – Söve 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sove/ivorycreamsove-300x300.jpg",
       name: "Dekoratif Ürünler – Söve 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sove/rossolagunasove-300x300.jpg",
       name: "Dekoratif Ürünler – Söve 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sove/sove-1-e1613029306290-300x300.png",
       name: "Dekoratif Ürünler – Söve 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm18-2-300x300.jpg",
       name: "Süpürgelik EFM-18",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Supurgelik/efm19-e1610007029307-300x300.jpg",
       name: "Süpürgelik EFM-19",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Supurgelik/efm20-e1610007366618-300x300.jpg",
       name: "Süpürgelik EFM-20",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm25-300x300.jpg",
       name: "Süpürgelik EFM-25",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm26-300x300.jpg",
       name: "Süpürgelik EFM-26",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm27-300x300.jpg",
       name: "Süpürgelik EFM-27",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm43-300x300.jpg",
       name: "Süpürgelik EFM-43",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm44-300x300.jpg",
       name: "Süpürgelik EFM-44",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm45-300x300.jpg",
       name: "Süpürgelik EFM-45",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm46-300x300.jpg",
       name: "Süpürgelik EFM-46",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm47-300x300.jpg",
       name: "Süpürgelik EFM-47",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm48-300x300.jpg",
       name: "Süpürgelik EFM-48",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm49-300x300.jpg",
       name: "Süpürgelik EFM-49",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm50-300x300.jpg",
       name: "Süpürgelik EFM-50",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm51-300x300.jpg",
       name: "Süpürgelik EFM-51",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm52-300x300.jpg",
       name: "Süpürgelik EFM-52",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm54-300x300.jpg",
       name: "Süpürgelik EFM-54",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sutun/sutun4-300x300.jpg",
       name: "Dekoratif Ürünler – Sütun 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sutun/sutun1-300x300.jpg",
       name: "Dekoratif Ürünler – Sütun 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sutun/sutun2-300x300.jpg",
       name: "Dekoratif Ürünler – Sütun 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sutun/sutun3-300x300.jpg",
       name: "Dekoratif Ürünler – Sütun 1004",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Sampuanlik/alavoguesampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1001",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Sampuanlik/classiclightsampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1002",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Sampuanlik/dynastiesampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1003",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Sampuanlik/euphoriesampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1004",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Sampuanlik/eventailsampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sampuanlik/pearlsampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1006",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Sampuanlik/saffronsampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1007",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Sampuanlik/warmwalnutsampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1008",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/lodos-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/medusa-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/novel-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/paperholder-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/sahara-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1005",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Dekoratif/Aksesuar/eagle-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1006",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/efesusgirls-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1007",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/anfora-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1008",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/shaman-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1009",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/soapdish-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1010",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/towelbar-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1011",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/anavarza-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/harmony-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1002",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/BahceSuslemesi/kengerleaves-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/kizuwatna-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/momentum-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/puduhepa-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1006",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/raindrop-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1007",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/rodos-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1008",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/sangarios-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1009",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/swanlake-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1010",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aplik/honeysconce-300x300.jpg",
       name: "Dekoratif Ürünler – Aplik 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aplik/ivorycreamsconce-300x300.jpg",
       name: "Dekoratif Ürünler – Aplik 1002",
+      array: "urunler",
     },
   ],
 ];
@@ -18601,85 +20142,105 @@ export const urunlerCncDuvarlar = [
       image:
         "/images/urunler/Cnc/DuvarDekorasyonlari/1-3-e1613195727324-300x300.png",
       name: "Duvar Dekorasyonları – Referans 1001",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/DuvarDekorasyonlari/2-1-e1613196095826-300x300.png",
       name: "Duvar Dekorasyonları – Referans 1002",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/DuvarDekorasyonlari/3-5-e1613197515614-300x300.png",
       name: "Duvar Dekorasyonları – Referans 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/5-7-scaled-1-300x300.jpg",
       name: "Duvar Dekorasyonları – Referans 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/DSCN2486-300x300.png",
       name: "Duvar Dekorasyonları – Referans 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/IMG_0482-300x300.png",
       name: "Duvar Dekorasyonları – Referans 1006",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/DuvarDekorasyonlari/17-e1613200822764-300x300.png",
       name: "Duvar Dekorasyonları – Referans 1007",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/1-300x300.png",
       name: "Afyon Beyaz CNC 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/2-300x300.png",
       name: "Afyon Beyaz CNC 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/3-300x300.png",
       name: "Afyon Beyaz CNC 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/13-300x300.png",
       name: "ED-01 Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/12-300x300.png",
       name: "ED-02 Bianco Crema",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/11-300x300.png",
       name: "ED-03 Bianco Crema",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/10-300x300.png",
       name: "ED-04 Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/9-300x300.png",
       name: "ED-06 Afyon Beyaz Mermer",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/8-300x300.png",
       name: "ED-06 Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/7-300x300.png",
       name: "ED-07 Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/6-300x300.png",
       name: "ED-08 Afyon Beyaz Mermer",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/5-300x300.png",
       name: "ED-08 Pearl",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/DuvarDekorasyonlari/4-300x300.png",
       name: "ED-09 Pearl",
+      array: "urunler",
     },
   ],
 ];
@@ -18689,14 +20250,17 @@ export const urunlerCncTabureler = [
     {
       image: "/images/urunler/Cnc/Tabureler/1-3-300x300.png",
       name: "Tabure1 – Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Tabureler/2-2-300x300.png",
       name: "Tabure2 – Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Tabureler/3-2-300x300.png",
       name: "Tabure2 – Beyaz Traverten",
+      array: "urunler",
     },
   ],
 ];
@@ -18706,340 +20270,422 @@ export const urunlerCncSehpalar = [
     {
       image: "/images/urunler/Cnc/Sehpalar/1-2-300x300.jpg",
       name: "Sehpa Referans 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/2-2-300x300.jpg",
       name: "Sehpa Referans 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/3-2-300x300.jpg",
       name: "Sehpa Referans 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/4-2-300x300.jpg",
       name: "Sehpa Referans 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/5-3-300x300.jpg",
       name: "Sehpa Referans 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/6-4-300x300.jpg",
       name: "Sehpa Referans 1006",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/7-4-300x300.jpg",
       name: "Sehpa Referans 1007",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/8-2-300x300.jpg",
       name: "Sehpa Referans 1008",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/9-2-300x300.jpg",
       name: "Sehpa Referans 1009",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/10-2-300x300.jpg",
       name: "Sehpa Referans 1010",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/11-4-300x300.jpg",
       name: "Sehpa Referans 1011",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/12-2-300x300.jpg",
       name: "Sehpa Referans 1012",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/13-4-300x300.jpg",
       name: "Sehpa Referans 1013",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/14-2-300x300.jpg",
       name: "Sehpa Referans 1014",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/15-2-300x300.jpg",
       name: "Sehpa Referans 1015",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/16-2-300x300.jpg",
       name: "Sehpa Referans 1016",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/17-2-300x300.jpg",
       name: "Sehpa Referans 1017",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/18-2-300x300.jpg",
       name: "Sehpa Referans 1018",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/19-2-300x300.jpg",
       name: "Sehpa Referans 1019",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/20-2-300x300.jpg",
       name: "Sehpa Referans 1020",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/21-2-300x300.jpg",
       name: "Sehpa Referans 1021",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/22-300x300.jpg",
       name: "Sehpa Referans 1022",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/23-300x300.jpg",
       name: "Sehpa Referans 1023",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/24-300x300.jpg",
       name: "Sehpa Referans 1024",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Cnc/Sehpalar/25-300x300.jpg",
       name: "Sehpa Referans 1025",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/26-300x300.jpg",
       name: "Sehpa Referans 1026",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/27-300x300.jpg",
       name: "Sehpa Referans 1027",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/28-300x300.jpg",
       name: "Sehpa Referans 1028",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/29-300x300.jpg",
       name: "Sehpa Referans 1029",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/30-300x300.jpg",
       name: "Sehpa Referans 1030",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/31-300x300.jpg",
       name: "Sehpa Referans 1031",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/32-300x300.jpg",
       name: "Sehpa Referans 1032",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/33-300x300.jpg",
       name: "Sehpa Referans 1033",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/34-300x300.jpg",
       name: "Sehpa Referans 1034",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/35-300x300.jpg",
       name: "Sehpa Referans 1035",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/36-300x300.jpg",
       name: "Sehpa Referans 1036",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/37-300x300.jpg",
       name: "Sehpa Referans 1037",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/38-300x300.jpg",
       name: "Sehpa Referans 1038",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/39-300x300.jpg",
       name: "Sehpa Referans 1039",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/40-300x300.jpg",
       name: "Sehpa Referans 1040",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/41-300x300.jpg",
       name: "Sehpa Referans 1041",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/42-300x300.jpg",
       name: "Sehpa Referans 1042",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/43-300x300.jpg",
       name: "Sehpa Referans 1043",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/Sehpalar/ct02afyonbeyazarcobaleno-300x300.png",
       name: "CT-02 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct02violet-300x300.png",
       name: "CT-02 Violet",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct03blackberry-300x300.png",
       name: "CT-03 Blackberry",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct04ivorycream-300x300.png",
       name: "CT-04 Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct04carrara-300x300.png",
       name: "CT-04 Carrara",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Cnc/Sehpalar/ct04carrara2-1-300x300.png",
       name: "CT-04-1 Carrara",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct04pewterveincut-300x300.png",
       name: "CT-04 Gümüş Traverten Düz Kesim",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct04flamingo-300x300.png",
       name: "CT-04 Kırmızı Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct05afyonbeyazeternal-300x300.png",
       name: "CT-05 Afyon Beyaz Mermer Eternal",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct05pearl-300x300.png",
       name: "CT-05 Pearl",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct05silverdragon-300x300.png",
       name: "CT-05 Silver Dragon",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct07olivemaron-300x300.png",
       name: "CT-07 Olive Maron",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct08olivemaron-300x300.png",
       name: "CT-08 Olive Maron",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct09bluebahia-300x300.png",
       name: "CT-09 Blue Bahia",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct10bluemoon-300x300.png",
       name: "CT-10 Blue Moon",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct12portoro-300x300.png",
       name: "CT-12 Portoro",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/Sehpalar/ct13afyonbeyazarcobaleno-300x300.png",
       name: "CT-13 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct13anmi-300x300.png",
       name: "CT-13 Amarante, Nuage Miel, Iris",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct13bluebahia2-300x300.png",
       name: "CT-13 Blue Bahia",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct13icejade-300x300.png",
       name: "CT-13 Ice Jade",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct14neromarquina-300x300.png",
       name: "CT-14 Nero Marquina",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct15afyonbeyazeternal-300x300.png",
       name: "CT-15 Afyon Beyaz Mermer Eternal",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct16afyonbeyazeternal-300x300.png",
       name: "CT-16 Afyon Beyaz Mermer Eternal",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct17silverdragon-300x300.png",
       name: "CT-17 Silver Dragon",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct18darkemperador-300x300.png",
       name: "CT-18 Dark Emperador",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct18silverdragon-300x300.png",
       name: "CT-18 Silver Dragon",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct19carrara-300x300.png",
       name: "CT-19 Carrara",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct20spanishdarkemp-300x300.png",
       name: "CT-20 İspanyol Dark Emperador",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct21eternal-300x300.png",
       name: "CT-21 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Cnc/Sehpalar/ct22alavogue-300x300.png",
       name: "CT-22 Afyon Beyaz A La Vogue",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct23violet-300x300.png",
       name: "CT-23 Violet",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/Sehpalar/ct24ispanyoldarkemperador-300x300.png",
       name: "CT-24 İspanyol Dark Emperador",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Cnc/Sehpalar/ct26afyonbeyazarcobaleno-300x300.png",
       name: "CT-26 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct26abbm-300x300.png",
       name: "CT-26 Afyon Beyaz Arcobaleno, Blue Moon, Blue Bahia",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct26bluemoon-300x300.png",
       name: "CT-26 Blue Moon",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/ct27afyonbeyazalavogue-300x300.png",
       name: "CT-27 Afyon Beyaz A La Vogue",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/pinguino-1-300x300.png",
       name: "Pinguino",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/portoro-1-300x300.png",
       name: "Portoro",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Sehpalar/silverdragon-300x300.png",
       name: "Silver Dragon",
+      array: "urunler",
     },
   ],
 ];
@@ -19049,324 +20695,403 @@ export const urunlerCncMasalar = [
     {
       image: "/images/urunler/Cnc/Masalar/Referans-1-300x300.jpg",
       name: "Masa Referans 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-2-300x300.jpg",
       name: "Masa Referans 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-3-300x300.jpg",
       name: "Masa Referans 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-4-300x300.jpg",
       name: "Masa Referans 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-5-300x300.jpg",
       name: "Masa Referans 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-6-300x300.jpg",
       name: "Masa Referans 1006",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-7-300x300.jpg",
       name: "Masa Referans 1007",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-8-300x300.jpg",
       name: "Masa Referans 1008",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-9-300x300.jpg",
       name: "Masa Referans 1009",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-10-300x300.jpg",
       name: "Masa Referans 1010",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-11-300x300.jpg",
       name: "Masa Referans 1011",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-12-300x300.jpg",
       name: "Masa Referans 1012",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-13-300x300.jpg",
       name: "Masa Referans 1013",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-14-300x300.jpg",
       name: "Masa Referans 1014",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-16-300x300.jpg",
       name: "Masa Referans 1015",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-17-300x300.jpg",
       name: "Masa Referans 1016",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-18-300x300.jpg",
       name: "Masa Referans 1017",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-19-300x300.jpg",
       name: "Masa Referans 1018",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/Referans-20-300x300.jpg",
       name: "Masa Referans 1019",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/6-300x300.png",
       name: "Kenar Detayları 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/12-300x300.png",
       name: "Kenar Detayları 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/7-300x300.png",
       name: "Kenar Detayları 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/10-300x300.png",
       name: "Kenar Detayları 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/14-300x300.png",
       name: "Kenar Detayları 1005",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Cnc/Masalar/8-300x300.png",
       name: "Kenar Detayları 1006",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/2-300x300.png",
       name: "Kenar Detayları 1007",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/1-300x300.png",
       name: "Kenar Detayları 1008",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/19-1-300x300.png",
       name: "Kenar Detayları 1008-1",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/20-300x300.png",
       name: "Kenar Detayları 1009",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/9-300x300.jpg",
       name: "Kenar Detayları 1011",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/3-300x300.jpg",
       name: "Kenar Detayları 1012",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/15-300x300.png",
       name: "Kenar Detayları 1013",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/13-300x300.jpg",
       name: "Kenar Detayları 1014",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/16-300x300.png",
       name: "Kenar Detayları 1015",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/18-300x300.png",
       name: "Kenar Detayları 1016",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/17-300x300.png",
       name: "Kenar Detayları 1017",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/11-300x300.jpg",
       name: "Kenar Detayları 1018",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/31-300x300.jpg",
       name: "Kenar Detayları 1019",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/32-300x300.jpg",
       name: "Kenar Detayları 1020",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/33-300x300.jpg",
       name: "Kenar Detayları 1021",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/34-300x300.jpg",
       name: "Kenar Detayları 1022",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/35-300x300.jpg",
       name: "Kenar Detayları 1023",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/36-300x300.jpg",
       name: "Kenar Detayları 1024",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/37-300x300.jpg",
       name: "Kenar Detayları 1025",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/38-300x300.avif",
       name: "Kenar Detayları 1026",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/39-300x300.avif",
       name: "Kenar Detayları 1027",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/40-300x300.avif",
       name: "Kenar Detayları 1028",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/41-300x300.avif",
       name: "Kenar Detayları 1029",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Cnc/Masalar/42-300x300.jpg",
       name: "Kenar Detayları 1030",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/43-300x300.jpg",
       name: "Kenar Detayları 1031",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/44-300x300.jpg",
       name: "Kenar Detayları 1032",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/45-300x300.jpg",
       name: "Kenar Detayları 1033",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/46-300x300.jpg",
       name: "Kenar Detayları 1034",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/47-300x300.jpg",
       name: "Kenar Detayları 1035",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/48-300x300.jpg",
       name: "Kenar Detayları 1036",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/49-300x300.jpg",
       name: "Kenar Detayları 1037",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/50-300x300.jpg",
       name: "Kenar Detayları 1038",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/21-300x300.png",
       name: "Kenar Detayları 1039",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/22-300x300.png",
       name: "Kenar Detayları 1040",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t02bluebahia-300x300.png",
       name: "T-02 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t03bluebahia-300x300.png",
       name: "T-03 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t04lilla-300x300.png",
       name: "T-04 Lilla",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t05afyonbeyaz-1-300x300.png",
       name: "T-05 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t06beyaztraverten-300x300.png",
       name: "T-06 Beyaz Traverten",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t07bluebahia-300x300.png",
       name: "T-07 Blue Bahia",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t07pewterblendveincut-300x300.png",
       name: "T-07 Gümüş Traverten Düz Kesim",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t08pewterblendveincut-300x300.png",
       name: "T-08 Gümüş Traverten Düz Kesim",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t09metell-300x300.png",
       name: "T-09 Metell",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t11bluebahia-300x300.png",
       name: "T-11 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t12bluebahia3-300x300.png",
       name: "T-12 Afyon Beyaz Arcobaleno",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t13neromarquina-300x300.png",
       name: "T-13 Nero Marquina",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/t14pewterveincut-300x300.png",
       name: "T-14 Gümüş Traverten Düz Kesim",
+      array: "urunler",
     },
   ],
   [
     {
       image: "/images/urunler/Cnc/Masalar/t15carrara-300x300.avif",
       name: "T-15 Carrara",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/k01darkemperador-300x300.avif",
       name: "K-01 Dark Emperador",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/k03lilla2-300x300.avif",
       name: "K-03 Lilla",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/k05pearl1-300x300.avif",
       name: "K-05 Pearl",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/k07pinguino3-300x300.avif",
       name: "K-07 Pinguino",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/k09warmwalnut-300x300.png",
       name: "K-09 Warm Walnut",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Cnc/Masalar/k10lilla3-300x300.png",
       name: "K-10 Lilla",
+      array: "urunler",
     },
   ],
 ];
@@ -19377,121 +21102,145 @@ export const urunlerWaterjetMadalyon = [
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/1waterjetmadalyon-1-300x300.jpg",
       name: "Waterjet Madalyon 1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/2waterjetmadalyon-1-300x300.jpg",
       name: "Waterjet Madalyon 2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/3waterjetmadalyon-1-300x300.jpg",
       name: "Waterjet Madalyon 3",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/4waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 4",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/5waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 5",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/6waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 6",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/7waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 7",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/8waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 8",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/9waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 9",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/10waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 10",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/11waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 11",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/12waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 12",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/13waterjetmadalyon-300x300.jpg",
       name: "Waterjet Madalyon 13",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/14waterjetmadalyon-1-300x300.jpg",
       name: "Waterjet Madalyon 14",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon01-300x300.png",
       name: "Waterjet Madalyon WJM-01",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon02-300x300.png",
       name: "Waterjet Madalyon WJM-02",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon03-300x300.png",
       name: "Waterjet Madalyon WJM-03",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon04-300x300.png",
       name: "Waterjet Madalyon WJM-04",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon05-300x300.png",
       name: "Waterjet Madalyon WJM-05",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon07-300x300.png",
       name: "Waterjet Madalyon WJM-07",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon08-300x300.png",
       name: "Waterjet Madalyon WJM-08",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon09-300x300.png",
       name: "Waterjet Madalyon WJM-09",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon10-300x300.png",
       name: "Waterjet Madalyon WJM-10",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon11-300x300.png",
       name: "Waterjet Madalyon WJM-11",
+      array: "urunler",
     },
   ],
   [
@@ -19499,121 +21248,145 @@ export const urunlerWaterjetMadalyon = [
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon12-300x300.png",
       name: "Waterjet Madalyon WJM-12",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon13-300x300.png",
       name: "Waterjet Madalyon WJM-13",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon14-300x300.png",
       name: "Waterjet Madalyon WJM-14-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon14_2-1-300x300.png",
       name: "Waterjet Madalyon WJM-14-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon15-300x300.png",
       name: "Waterjet Madalyon WJM-15-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon15_2-300x300.png",
       name: "Waterjet Madalyon WJM-15-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon16-300x300.png",
       name: "Waterjet Madalyon WJM-16",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon17-300x300.png",
       name: "Waterjet Madalyon WJM-17",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon18-300x300.png",
       name: "Waterjet Madalyon WJM-18",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19-300x300.jpg",
       name: "Waterjet Madalyon WJM-19-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19_2-300x300.jpg",
       name: "Waterjet Madalyon WJM-19-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon19_3-300x300.jpg",
       name: "Waterjet Madalyon WJM-19-3",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon20-300x300.png",
       name: "Waterjet Madalyon WJM-20",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon21-300x300.jpg",
       name: "Waterjet Madalyon WJM-21",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon22-300x300.png",
       name: "Waterjet Madalyon WJM-22",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon24-300x300.png",
       name: "Waterjet Madalyon WJM-24",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon25-300x300.png",
       name: "Waterjet Madalyon WJM-25",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon26-300x300.png",
       name: "Waterjet Madalyon WJM-26",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon27-300x300.jpg",
       name: "Waterjet Madalyon WJM-27",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon28-300x300.png",
       name: "Waterjet Madalyon WJM-28",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon29-300x300.png",
       name: "Waterjet Madalyon WJM-29",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon30-300x300.jpg",
       name: "Waterjet Madalyon WJM-30-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon30_2-300x300.png",
       name: "Waterjet Madalyon WJM-30-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon30_3-300x300.png",
       name: "Waterjet Madalyon WJM-30-3",
+      array: "urunler",
     },
   ],
   [
@@ -19621,61 +21394,73 @@ export const urunlerWaterjetMadalyon = [
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon31-300x300.png",
       name: "Waterjet Madalyon WJM-31",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon31-300x300.png",
       name: "Waterjet Madalyon WJM-32",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon31-300x300.png",
       name: "Waterjet Madalyon WJM-33",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon34-300x300.png",
       name: "Waterjet Madalyon WJM-34-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon34_2-300x300.png",
       name: "Waterjet Madalyon WJM-34-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon35-300x300.png",
       name: "Waterjet Madalyon WJM-35",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon36-300x300.png",
       name: "Waterjet Madalyon WJM-36-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon36_2-300x300.png",
       name: "Waterjet Madalyon WJM-36-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon37-300x300.png",
       name: "Waterjet Madalyon WJM-37",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon38-300x300.png",
       name: "Waterjet Madalyon WJM-38",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon39-300x300.png",
       name: "Waterjet Madalyon WJM-39",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMadalyon/waterjetmadalyon40-300x300.png",
       name: "Waterjet Madalyon WJM-40",
+      array: "urunler",
     },
   ],
 ];
@@ -19686,21 +21471,25 @@ export const urunlerWaterjetMozaik = [
       image:
         "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik1-300x300.png",
       name: "Waterjet Mozaik WJC - 01",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik2-300x300.png",
       name: "Waterjet Mozaik WJC - 02-1",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik3-300x300.png",
       name: "Waterjet Mozaik WJC - 02-2",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetMozaik/waterjetmozaik4-300x300.png",
       name: "Waterjet Mozaik WJC - 03",
+      array: "urunler",
     },
   ],
 ];
@@ -19710,42 +21499,52 @@ export const urunlerWaterjetKaro = [
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro1-300x300.png",
       name: "Waterjet Karo WJK-01",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro2-300x300.png",
       name: "Waterjet Karo WJK-02",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro3-300x300.png",
       name: "Waterjet Karo WJK-03",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro4-300x300.png",
       name: "Waterjet Karo WJK-04",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro5-300x300.png",
       name: "Waterjet Karo WJK-05",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro6-300x300.png",
       name: "Waterjet Karo WJK-06",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro7-300x300.png",
       name: "Waterjet Karo WJK-07",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro8-300x300.png",
       name: "Waterjet Karo WJK-08",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro9-300x300.png",
       name: "Waterjet Karo WJK-09",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Waterjet/WaterjetKaro/waterjetkaro10-300x300.png",
       name: "Waterjet Karo WJK-10",
+      array: "urunler",
     },
   ],
 ];
@@ -19756,36 +21555,43 @@ export const urunlerWaterjetBordur = [
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur1-300x300.png",
       name: "Waterjet Bordür WJB-01",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur2-300x300.png",
       name: "Waterjet Bordür WJB-02",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur3-300x300.png",
       name: "Waterjet Bordür WJB-03",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur4-300x300.png",
       name: "Waterjet Bordür WJB-04",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur5-300x300.png",
       name: "Waterjet Bordür WJB-05",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur6-300x300.png",
       name: "Waterjet Bordür WJB-06",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Waterjet/WaterjetBordur/waterjetbordur7-300x300.png",
       name: "Waterjet Bordür WJB-07",
+      array: "urunler",
     },
   ],
 ];
@@ -19795,72 +21601,89 @@ export const urunlerDekoratifSupurgelik = [
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm18-2-300x300.jpg",
       name: "Süpürgelik EFM-18",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Supurgelik/efm19-e1610007029307-300x300.jpg",
       name: "Süpürgelik EFM-19",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Supurgelik/efm20-e1610007366618-300x300.jpg",
       name: "Süpürgelik EFM-20",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm25-300x300.jpg",
       name: "Süpürgelik EFM-25",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm26-300x300.jpg",
       name: "Süpürgelik EFM-26",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm27-300x300.jpg",
       name: "Süpürgelik EFM-27",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm43-300x300.jpg",
       name: "Süpürgelik EFM-43",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm44-300x300.jpg",
       name: "Süpürgelik EFM-44",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm45-300x300.jpg",
       name: "Süpürgelik EFM-45",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm46-300x300.jpg",
       name: "Süpürgelik EFM-46",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm47-300x300.jpg",
       name: "Süpürgelik EFM-47",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm48-300x300.jpg",
       name: "Süpürgelik EFM-48",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm49-300x300.jpg",
       name: "Süpürgelik EFM-49",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm50-300x300.jpg",
       name: "Süpürgelik EFM-50",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm51-300x300.jpg",
       name: "Süpürgelik EFM-51",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm52-300x300.jpg",
       name: "Süpürgelik EFM-52",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Supurgelik/efm54-300x300.jpg",
       name: "Süpürgelik EFM-54",
+      array: "urunler",
     },
   ],
 ];
@@ -19870,54 +21693,67 @@ export const urunlerDekoratifKolon = [
     {
       image: "/images/urunler/Dekoratif/Kolon/1001.jpg",
       name: "Kolon – Referans 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1002.jpg",
       name: "Kolon – Referans 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1003.jpg",
       name: "Kolon – Referans 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1004.jpg",
       name: "Kolon – Referans 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1005.jpg",
       name: "Kolon – Referans 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1006.jpg",
       name: "Kolon – Referans 1006",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1007.jpg",
       name: "Kolon – Referans 1007",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/1008.jpg",
       name: "Kolon – Referans 1008",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/a1001.png",
       name: "Dekoratif Ürünler – Kolon 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/a1002.png",
       name: "Dekoratif Ürünler – Kolon 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/a1003.png",
       name: "Dekoratif Ürünler – Kolon 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/a1004.png",
       name: "Dekoratif Ürünler – Kolon 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kolon/a1005.png",
       name: "Dekoratif Ürünler – Kolon 1005",
+      array: "urunler",
     },
   ],
 ];
@@ -19927,42 +21763,52 @@ export const urunlerDekoratifKurna = [
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna1-300x300.jpg",
       name: "Kurna BS-01",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna2-300x300.jpg",
       name: "Kurna BS-02",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna3-300x300.png",
       name: "Kurna BS-03",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna4-300x300.png",
       name: "Kurna BS-04",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna5-300x300.png",
       name: "Kurna BS-05",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna6-300x300.png",
       name: "Kurna BS-06",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna7-300x300.png",
       name: "Kurna BS-07",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna8-300x300.png",
       name: "Kurna BS-08",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna9-300x300.png",
       name: "Kurna BS-09",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Kurna/kurna10-300x300.png",
       name: "Kurna BS-10",
+      array: "urunler",
     },
   ],
 ];
@@ -19972,18 +21818,22 @@ export const urunlerDekoratifSutun = [
     {
       image: "/images/urunler/Dekoratif/Sutun/sutun4-300x300.jpg",
       name: "Dekoratif Ürünler – Sütun 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sutun/sutun1-300x300.jpg",
       name: "Dekoratif Ürünler – Sütun 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sutun/sutun2-300x300.jpg",
       name: "Dekoratif Ürünler – Sütun 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sutun/sutun3-300x300.jpg",
       name: "Dekoratif Ürünler – Sütun 1004",
+      array: "urunler",
     },
   ],
 ];
@@ -19993,22 +21843,27 @@ export const urunlerDekoratifKorkuluk = [
     {
       image: "/images/urunler/Dekoratif/Korkuluk/korkuluk5-300x300.jpg",
       name: "Dekoratif Ürünler – Korkuluk 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Korkuluk/korkuluk4-300x300.jpg",
       name: "Dekoratif Ürünler – Korkuluk 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Korkuluk/korkuluk3-300x300.jpg",
       name: "Dekoratif Ürünler – Korkuluk 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Korkuluk/korkuluk1-300x300.jpg",
       name: "Dekoratif Ürünler – Korkuluk 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Korkuluk/korkuluk2-300x300.jpg",
       name: "Dekoratif Ürünler – Korkuluk 1005",
+      array: "urunler",
     },
   ],
 ];
@@ -20018,18 +21873,22 @@ export const urunlerDekoratifSove = [
     {
       image: "/images/urunler/Dekoratif/Sove/classiclightsove-300x300.jpg",
       name: "Dekoratif Ürünler – Söve 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sove/ivorycreamsove-300x300.jpg",
       name: "Dekoratif Ürünler – Söve 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sove/rossolagunasove-300x300.jpg",
       name: "Dekoratif Ürünler – Söve 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sove/sove-1-e1613029306290-300x300.png",
       name: "Dekoratif Ürünler – Söve 1004",
+      array: "urunler",
     },
   ],
 ];
@@ -20039,28 +21898,34 @@ export const urunlerDekoratifDus = [
     {
       image: "/images/urunler/Dekoratif/DusTeknesi/dusTeknesi.png",
       name: "Duş Teknesi – Referans",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/DusTeknesi/arcobalenokuvet-300x300.jpg",
       name: "Dekoratif Ürünler – Duş Teknesi 1001",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/DusTeknesi/arcobalenokuvet2-300x300.jpg",
       name: "Dekoratif Ürünler – Duş Teknesi 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/DusTeknesi/nocekuvet-300x300.jpg",
       name: "Dekoratif Ürünler – Duş Teknesi 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/DusTeknesi/warmwalnutkuvet-300x300.jpg",
       name: "Dekoratif Ürünler – Duş Teknesi 1004",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/DusTeknesi/warmwalnutkuvet2-300x300.jpg",
       name: "Dekoratif Ürünler – Duş Teknesi 1005",
+      array: "urunler",
     },
   ],
 ];
@@ -20070,43 +21935,53 @@ export const urunlerDekoratifBahce = [
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/anavarza-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/harmony-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1002",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/BahceSuslemesi/kengerleaves-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/kizuwatna-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/momentum-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/puduhepa-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1006",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/raindrop-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1007",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/rodos-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1008",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/sangarios-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1009",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/BahceSuslemesi/swanlake-300x300.jpg",
       name: "Dekoratif Ürünler – Bahçe Süslemesi 1010",
+      array: "urunler",
     },
   ],
 ];
@@ -20116,46 +21991,57 @@ export const urunlerDekoratifAksesuar = [
     {
       image: "/images/urunler/Dekoratif/Aksesuar/lodos-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/medusa-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1002",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/novel-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1003",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/paperholder-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1004",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/sahara-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/eagle-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1006",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/efesusgirls-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1007",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/anfora-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1008",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/shaman-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1009",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/soapdish-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1010",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aksesuar/towelbar-300x300.jpg",
       name: "Dekoratif Ürünler – Aksesuar 1011",
+      array: "urunler",
     },
   ],
 ];
@@ -20165,10 +22051,12 @@ export const urunlerDekoratifAplik = [
     {
       image: "/images/urunler/Dekoratif/Aplik/honeysconce-300x300.jpg",
       name: "Dekoratif Ürünler – Aplik 1001",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Aplik/ivorycreamsconce-300x300.jpg",
       name: "Dekoratif Ürünler – Aplik 1002",
+      array: "urunler",
     },
   ],
 ];
@@ -20179,40 +22067,48 @@ export const urunlerDekoratifSampuanlik = [
       image:
         "/images/urunler/Dekoratif/Sampuanlik/alavoguesampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1001",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Sampuanlik/classiclightsampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1002",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Sampuanlik/dynastiesampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1003",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Sampuanlik/euphoriesampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1004",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Sampuanlik/eventailsampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1005",
+      array: "urunler",
     },
     {
       image: "/images/urunler/Dekoratif/Sampuanlik/pearlsampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1006",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Sampuanlik/saffronsampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1007",
+      array: "urunler",
     },
     {
       image:
         "/images/urunler/Dekoratif/Sampuanlik/warmwalnutsampuanlik-300x300.jpg",
       name: "Dekoratif Ürünler – Şampuanlık 1008",
+      array: "urunler",
     },
   ],
 ];
