@@ -11,12 +11,8 @@ const SideBar = () => {
     setDogalTaslar,
     plakalar,
     setPlakalar,
-    bloklar,
-    setBloklar,
     urunler,
     setUrunler,
-    terrazo,
-    setTerrazo,
     mermer,
     setMermer,
     porselenPlaka,
@@ -420,24 +416,6 @@ const SideBar = () => {
           </ul>
         )}
       </div>
-      <div className="bloklar border-b-2 border-gray-300 pb-2 ">
-        <NavLink
-          className={({ isActive }) => (isActive ? "active" : "")}
-          to="/bloklar"
-        >
-          Bloklar
-        </NavLink>
-        <button onClick={() => setBloklar(!bloklar)} className="ml-2">
-          {bloklar ? "↑" : "↓"}
-        </button>
-        {bloklar && (
-          <ul className="ml-2 border-l-2 border-gray-300 pl-2">
-            <li>Mermer Bloklar</li>
-            <li>Bej Mermer Bloklar</li>
-            <li>Traverten Bloklar</li>
-          </ul>
-        )}
-      </div>
       <div className="urunler border-b-2 border-gray-300 pb-2 ">
         <NavLink
           className={({ isActive }) => (isActive ? "active" : "")}
@@ -516,25 +494,6 @@ const SideBar = () => {
                 </div>
               )}
             </ul>
-          </ul>
-        )}
-      </div>
-      <div className="terrazo border-b-2 border-gray-300 pb-2 ">
-        <NavLink
-          className={({ isActive }) => (isActive ? "active" : "")}
-          to="/terrazo"
-        >
-          Terrazo
-        </NavLink>
-        <button onClick={() => setTerrazo(!terrazo)} className="ml-2">
-          {terrazo ? "↑" : "↓"}
-        </button>
-        {terrazo && (
-          <ul className="ml-2 border-l-2 border-gray-300 pl-2">
-            <li>İç Mekan</li>
-            <li>Dış Mekan</li>
-            <li>Basamak</li>
-            <li>Plakalar</li>
           </ul>
         )}
       </div>
