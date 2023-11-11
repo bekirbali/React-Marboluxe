@@ -1,13 +1,20 @@
-import React, { useState } from "react";
-import { useLocation, useParams } from "react-router-dom";
+import React, { useEffect, useState } from "react";
+import { useLocation } from "react-router-dom";
 import Breadcrumbs from "./Breadcrumbs";
 import DetailModal from "./DetailModal";
+import { dogalTaslar, tezgahlar, urunler, plakalar } from "../utils";
 
 const Details = () => {
   const location = useLocation();
   const { state } = location;
 
   const [modal, setModal] = useState(false);
+  const [currentArray, setCurrentArray] = useState("");
+
+  useEffect(() => {
+    setCurrentArray(state.array);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return (
     <div className=" relative overflow-hidden">
@@ -40,6 +47,21 @@ const Details = () => {
         )}
       </div>
       <h2 className="text-center">Benzer Ürünler</h2>
+      {/* {currentArray[0].map((item) => {
+        return <div>{item.name}</div>;
+      })} */}
+      {currentArray === "dogalTaslar" && (
+        <div> {dogalTaslar[0].slice(0, 8).map((item) => item.name)} </div>
+      )}
+      {currentArray === "plakalar" && (
+        <div> {plakalar[0].slice(0, 8).map((item) => item.name)} </div>
+      )}
+      {currentArray === "tezgahlar" && (
+        <div> {tezgahlar[0].slice(0, 8).map((item) => item.name)} </div>
+      )}
+      {currentArray === "urunler" && (
+        <div> {urunler[0].slice(0, 8).map((item) => item.name)} </div>
+      )}
     </div>
   );
 };
