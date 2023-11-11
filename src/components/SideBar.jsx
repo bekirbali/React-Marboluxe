@@ -36,7 +36,7 @@ const SideBar = () => {
   } = useContext(MarboContext);
 
   return (
-    <div className="mt-10 max-w-[200px] mx-auto flex flex-col gap-4">
+    <div className="mt-10 max-w-[200px] mx-auto flex flex-col gap-4 mb-10 ">
       <h2 className="font-bold">KATEGORİLER</h2>
       <div className="border-b-2 border-gray-500 w-12"></div>
 
