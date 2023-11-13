@@ -250,7 +250,8 @@ const TezgahlarKuvars = () => {
                 <li>* Yeşil Kuvars Taşı</li>
                 <li>* Dumanlı Kuvars Taşı</li>
                 <li>* Sütlü Kuvars Taşı</li>
-                <li>* Sitrin * Ametist</li>
+                <li>* Sitrin</li>
+                <li>* Ametist</li>
               </ul>
             </p>
           </div>

@@ -117,6 +117,37 @@ const UrunlerDekoratif = () => {
               />
             </button>
           </div>
+          <div className="w-full flex flex-col gap-4 mt-4 border-t pt-2">
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              Dekoratif Ürünler
+            </h2>
+            <p className="text-[#777777]">
+              Mermer, doğal taşlar arasındaki en gösterişli malzemelerden
+              biridir. Bu olağanüstü malzeme günümüzde yalnızca duvar kaplama
+              veya yer kaplama malzemesi olarak kullanılmaz. Ev içerisindeki
+              dekorasyonda da mermer kullanımı oldukça yaygınlaşmıştır. Modern,
+              klasik veya özel tasarım mermer dekoratif ürünler ile yaşam
+              alanlarınıza farklı dokunuşlar yapabilirsiniz. Efesus Stone;
+              sadece mermer değil traverten gibi doğal taşlardan da aksesuar
+              tasarımları yapmaktadır. İster evinize ister ofisinizin bir
+              köşesine mükemmel bir şekilde uyabilecek özel tasarım mermer
+              ürünler, doğadan evlerinize gelmektedir. Mermerin göz alıcı
+              dokusunu zamansız tasarımları ve usta işçiliği ile harmanlayıp
+              mekanlara şıklık getiren Efesus Stone aksesuar çeşitliliği ile de
+              dikkat çekmektedir. Aplik, kolon, süpürgelik, kurna, söve, duş
+              teknesi, korkuluk ve bahçe süslemesi gibi aksesuar üretimlerinde
+              mermerin yanı sıra dekoratif traverten ürünlerde üretilmektedir.
+              <ul>
+                <li>* Mermer Süpürgelik</li>
+                <li>* Mermer Kolon</li>
+                <li>* Mermer Kurna</li>
+                <li>* Mermer Sütun</li>
+                <li>* Mermer Korkuluk</li>
+                <li>* Mermer Söve</li>
+                <li>* Traverten Duş Teknesi</li>
+              </ul>
+            </p>
+          </div>
         </div>
       </div>
     </>
