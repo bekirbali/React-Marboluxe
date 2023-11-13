@@ -15,9 +15,19 @@ const DogalTaslarMermerKahverengi = () => {
         </div>
 
         <div className="p-4 flex flex-col items-center flex-[4]">
-          <h1 className="text-center text-3xl font-bold my-4">
-            Kahverengi Mermer
+          <h1 className="font-bold text-3xl text-[#52536e]">
+            Kahverengi Mermer Çeşitleri ve Modelleri
           </h1>
+          <p className="xl:pl-8 xl:m-4 py-4 pb-8 text-[#777777]">
+            <span className="font-bold">Kahverengi mermer</span>, evinizin
+            görünümünü daha iyi hale getirecek güzel bir doğal taştır. İster
+            açık kahverengi mermer ister koyu kahverengi mermer arıyor olun,
+            size hitap edecek bir şey var. Bu taşın farklı türleri, taşın
+            kahverengi arka planına karşı öne çıkan muhteşem damarlara sahiptir.
+            Kahverengi mermer, kahverengi mermer tezgahlar, ters sıçramalar,
+            makyaj tezgahları ve daha fazlası için iyi çalışacaktır. Her yerde,
+            bu taş evinize eklemek için harika bir seçimdir.
+          </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4 ">
             {dogalTaslarMermerKahverengi[0].map((tas, index) => {
               return (

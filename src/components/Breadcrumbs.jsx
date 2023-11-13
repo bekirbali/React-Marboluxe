@@ -4,7 +4,7 @@ import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 
 const Breadcrumbs = () => {
   const location = useLocation();
-  const { state, message } = location;
+  const { state } = location;
   // console.log(state); // const { name } = useParams();
   // console.log(name);
 

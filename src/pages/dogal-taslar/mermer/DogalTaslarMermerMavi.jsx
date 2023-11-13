@@ -15,7 +15,20 @@ const DogalTaslarMermerMavi = () => {
         </div>
 
         <div className="p-4 flex flex-col items-center flex-[4]">
-          <h1 className="text-center text-3xl font-bold my-4">Mavi Mermer</h1>
+          <h1 className="font-bold text-3xl text-[#52536e]">
+            Mavi Mermer Çeşitleri ve Modelleri
+          </h1>
+          <p className="xl:pl-8 xl:m-4 py-4 pb-8 text-[#777777]">
+            <span className="font-bold">Mavi mermer</span>, evinize anında
+            görsel çekicilik katabilen çarpıcı bir doğal taştır. İster açık mavi
+            mermer ister koyu mavi mermer arıyor olun, mavi mermer tezgahlar,
+            ters sıçramalar, makyaj tezgahları veya taştan yapılmış diğer ev
+            yapıları eklemek, alanınızın görünümünü gerçekten iyileştirebilir.
+            Mavi mermer göze çok hoş geliyor ve birçok türde muhteşem damarlar
+            ve diğer renklerin ipuçları bulunuyor. Evinize harika bir renk
+            patlaması katacak bir taş arıyorsanız, mavi mermer mükemmel bir
+            seçimdir.
+          </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4 ">
             {dogalTaslarMermerMavi[0].map((tas, index) => {
               return (

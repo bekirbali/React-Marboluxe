@@ -882,7 +882,7 @@ import { Link } from "react-router-dom";
 export default function NavbarWithDropdown() {
   return (
     <Navbar fluid>
-      <Link to="/" className="flex">
+      <Link to="/" className="flex md:mx-auto lg:mx-0">
         <img src={logo} className="mr-3 h-6 sm:h-9" alt="Flowbite React Logo" />
         <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
           Marboluxe

@@ -67,9 +67,11 @@ const TezgahlarPorselen = () => {
           <SideBar />
         </div>
         <div className="p-4 flex flex-col items-center flex-[4]">
-          <h1 className="text-center text-3xl font-bold my-4">
-            Porselen Tezgahlar
-          </h1>
+          <p className="xl:pl-8 xl:m-4 py-4 pb-8 text-[#777777]">
+            Porselen tezgah modelleri çeşitlilik gösteriyor mu? Porselen mutfak
+            tezgahı fiyatları ortalama ne kadar, önerilen mutfak ve banyo
+            porselen tezgah markaları…
+          </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4">
             {tezgahlarPorselen[page].map((tas, index) => {
               return (
@@ -118,6 +120,156 @@ const TezgahlarPorselen = () => {
                 onClick={nextHandler}
               />
             </button>
+          </div>
+          <div className="w-full flex flex-col gap-4 mt-4 border-t pt-2">
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              Porselen Tezgah Nedir? 2023 Tezgah Modelleri
+            </h2>
+            <p className="text-[#777777]">
+              Porselen tezgahlar, günümüzde oldukça trend olan bir tezgah
+              kaplama çeşididir. Porselen maddesi, yüksek sıcaklıkta pişirilen
+              kil hammaddesi ile içinde yer alan minerallerin birleşmesi
+              sonucunda oldukça dayanıklı bir hale gelmekte ve şık bir görünüme
+              kavuşmaktadır. Ayrıca porselen malzeme, hassas bir üretim
+              sürecinden geçmekte ve mutfak tezgahınızın kaplaması için hazır
+              hale gelmektedir. Porselen tezgahların bizler için sağladığı pek
+              çok avantaj mevcuttur. Bu nedenle, özellikle yakın dönemde
+              porselen mutfak tezgahı oldukça popüler bir hal almıştır. Peki,
+              porselen tezgah modelleri çeşitlilik gösteriyor mu? Porselen
+              tezgahların fiyatı ortalama ne kadar? En çok önerilen porselen
+              mutfak ve banyo tezgah markaları neler? İşte ihtiyacınız olan tüm
+              detaylar…
+            </p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              Porselen Tezgahların Özellikleri
+            </h2>
+            <p className="text-[#777777]">
+              Porselen tezgahlar, mutfağınız için uzun yıllar kullanacağınız,
+              oldukça dayanıklı bir seçenek olarak karşımıza çıkmaktadır.
+              Lekelere, darbeye ve çizilmeye karşı dirençli bir yapıya sahiptir.
+              Özellikle mutfaklar için tercih edilen bu porselen tezgahları,
+              çeşitli mutfak kazalarına karşı dayanıklı bir şekilde
+              üretilmektedir. Bununla birlikte, son derece hijyenik bir
+              seçenektir. Yüzey kaplaması sayesinde porselen formdaki tezgahlar,
+              bakteri oluşumunun önüne geçer ve leke oluşumuna karşı çıkar.
+              Böylece, yıllarca şık bir şekilde mutfağınızda göreceğiniz bir
+              tezgah çeşidi olarak dikkat çekmektedir.
+            </p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              Porselen Banyo ve Mutfak Tezgahının Avantajları
+            </h2>
+            <p className="text-[#777777]">
+              Porselen tezgahlar mutfakta pek çok avantaja sahiptir. Örneğin,
+              porselen dayanıklıdır ve temizliği son derece kolaydır. Malzeme
+              kalitesi sayesinde lekeleri tutmak yerine iterek kendinden
+              uzaklaştırır. Böylece silerek temizlik sonucunda tezgahınızı ilk
+              günkü haliyle korumanız mümkün hale gelmektedir. Bunun yanı sıra,
+              porselen tezgahlar oldukça estetik seçeneklerdir. Renk, desenleri
+              ve dokuları ile porselen tezgahlar, hemen hemen tüm mutfak
+              tiplerine yakışan bir görünüme sahiptir. Sıcağa dayanıklı yapısı,
+              çizilmeye ve lekeleri tutmaya karşı direnci, bakteri oluşumunu
+              engelleyici özelliği ve göze hitap eden görünümü ile porselen
+              tezgahlar, mutfağınız için kurtarıcı seçeneklerdir.
+            </p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              Porselen Tezgah Modelleri
+            </h2>
+            <p className="text-[#777777]">
+              Porselen tezgahlarının seçim aşamasında işin içine pek çok faktör
+              dahil olmaktadır. En çok dikkat etmemiz gereken detay estetik ve
+              tasarım gibi görünse de aslında satın alacağınız tezgahı uzun bir
+              süre kullanmak istiyorsanız arka planda kalan özelliklere
+              odaklanmanız gerekir. Örneğin, tezgahın hijyen bakımından
+              kullanışlı olması öne çıkan özelliklerden bir tanesidir. Bununla
+              birlikte, tezgahın sıcaklık toleransının daha yüksek olması,
+              pişirme işlemlerinde tencereden gelecek olan sıcaklığı emebilmesi,
+              oldukça önemli bir noktadır. Ayrıca, kurulum ve kesim esnasında
+              size yardımcı olacak ekibin de profesyonel olması, bu süreçte
+              yaşayabileceğiniz olası sıkıntıların önüne geçecektir. Mutfak ve
+              banyo tezgah seçimi aşamasında garanti olanaklarını incelemeniz,
+              Porselen tezgah firmaları tarafından sunulan satış sonrası
+              hizmetleri değerlendirmeniz de karar esnasında fikrinizi
+              etkileyebilir.
+            </p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              Porselen Tezgahın Bakım ve Temizliği
+            </h2>
+            <p className="text-[#777777]">
+              Tezgahınızı temiz tutmak ve dikkatli kullanmak, elbette kullanım
+              ömrünü arttıracaktır. Bu noktada dikkat etmeniz gereken bazı
+              öneriler mevcut. İlk olarak, tezgahınızın günlük temizliğine özen
+              göstermeniz gerekmektedir. Tezgahınızı her kullanımdan sonra nemli
+              bez ile silmeniz tavsiye edilir. Bu iş için bir temizlik süngeri
+              de tercih edebilirsiniz. Bununla birlikte, leke oluşumunu önleme
+              amacıyla tezgaha dökülen sıvıları uzun süre bekletmemek önem arz
+              eder. Her ne kadar leke tutmayan bir yüzeye sahip olsa da, bu
+              sızdırmaz yüzeyin zaman içerisinde aşınmasını önlemek adına bazı
+              adımları atmanın bir sakıncası olmayacaktır. Seçeceğiniz temizlik
+              ürünlerinin de pH dengesi bakımından dengeli olması, tezgahınızın
+              daha uzun ömürlü olmasını sağlayacaktır. Ayrıca, sert fırçaların
+              aşındırıcı etkisinden kaçınmak adına temizlik için yumuşak
+              fırçaları tercih etmeniz gerekir. Her ne kadar porselen tezgahlar
+              dayanıklı da olsa, kesici ve sert metal nesneler ile sıcak
+              tencereleri yüzeyden uzak tutmak mantıklı bir seçenek olacaktır.
+            </p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              Porselen Tezgah Fiyatları
+            </h2>
+            <p className="text-[#777777]">
+              Tezgah fiyatları, tezgah özelliklerine göre değişkenlik
+              göstermektedir. Örneğin, seçtiğiniz tezgahın tasarımı, markası,
+              ana madde kalitesi bu etkenlerdendir. Porselen tezgahınızı
+              seçerken, tezgahın mutfak tasarımınıza uygun olması da büyük önem
+              arz etmektedir. Rengi, desen ve doku seçenekleri arasında doğru
+              seçimi yapmak, kişisel tercihlerinize bağlıdır. Bu noktada, satış
+              elemanından destek isteyebilir ve sizin için en doğru seçenek
+              üzerine karar verebilirsiniz.
+            </p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              Porselen Tezgah Markaları
+            </h2>
+            <p className="text-[#777777]">
+              <ul>
+                <li>
+                  <span className="font-bold text-[#555777]"> Sintered</span>{" "}
+                  Stone Porselen Mutfak ve Banyo Tezgahları
+                </li>
+                <li>
+                  <span className="font-bold text-[#555777]"> Levantec</span>{" "}
+                  Porselen Banyo ve Mutfak Tezgahları
+                </li>
+                <li>
+                  <span className="font-bold text-[#555777]"> Estestone</span>{" "}
+                  Porselen Mutfak ve Banyo Tezgahı
+                </li>
+                <li>
+                  <span className="font-bold text-[#555777]"> Lamar</span>{" "}
+                  Porselen Mutfak Tezgahı
+                </li>
+              </ul>
+            </p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              Porselen Nerelerde Kullanılır?
+            </h2>
+            <p className="text-[#777777]">
+              Porselen birçok mutfak ve ev eşyalarının üretilmesinde, dekoratif
+              objelerde, elektrik yalıtımı gereken durumlarda, bazı laboratuvar
+              ekipmanlarında, diş protezlerinde ve havuz kaplama malzemelerinde
+              kullanılır. Örneğin havuz karolarında porselen kullanması havuz
+              bakımı ve temizliği açısından çeşitli faydalar sağlamaktadır.
+              Yüksek basınçla sıkıştırılarak ve yüksek sıcaklıkta pişirilerek
+              üretilen porselen karolar uzun yıllar boyu sağlam kalacak şekilde
+              havuzlarda kullanılmaktadır. Dayanıklılık özelliklerinin yanında
+              pürüzsüz yapıları nedeniyle suyu fazla emmezler ve fazla leke
+              tutmazlar. Bu özellikleri sebebiyle porselen karolar kullanıcılara
+              temizlik ve uzun bir kullanım ömrü sağlamaktadır. Türkiye'de
+              porselen yapımının geçmişi eski olmakla birlikte bir sanayi dalı
+              olarak ancak son yıllarda gelişme gösterdi. Bu içeriğimizde sizler
+              için porselen tezgahlar hakkında genel bilgilere yer verdik.
+              Porselen tezgah fiyatları için ürün çeşitlerimize göz atabilir,
+              mermer, granit, kuvar tezgah seçeneklerimize bakabilir ve sizin
+              için en doğru seçeneğe karar verebilirsiniz.
+            </p>
           </div>
         </div>
       </div>
