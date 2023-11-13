@@ -2,7 +2,13 @@ import React, { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import Breadcrumbs from "./Breadcrumbs";
 import DetailModal from "./DetailModal";
-import { dogalTaslar, tezgahlar, urunler, plakalar } from "../utils";
+import {
+  dogalTaslar,
+  tezgahlar,
+  urunler,
+  plakalar,
+  ozelKoleksiyon,
+} from "../utils";
 
 const Details = () => {
   const location = useLocation();
@@ -61,6 +67,9 @@ const Details = () => {
       )}
       {currentArray === "urunler" && (
         <div> {urunler[0].slice(0, 8).map((item) => item.name)} </div>
+      )}
+      {currentArray === "ozelKoleksiyon" && (
+        <div> {ozelKoleksiyon[0].slice(0, 8).map((item) => item.name)} </div>
       )}
     </div>
   );

@@ -1,38 +1,34 @@
 import React from "react";
-import { Link, useLocation } from "react-router-dom";
+import { Link, useLocation, useParams } from "react-router-dom";
+import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 
 const Breadcrumbs = () => {
   const location = useLocation();
+  const { state, message } = location;
+  // console.log(state); // const { name } = useParams();
+  // console.log(name);
+
   return (
     <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
-      <h2>
-        {location.pathname
-          .split("/")[1]
-          .split("-")
-          .join(" ")
-          .toLocaleUpperCase()}
-      </h2>
-
-      {/* <Link to={`/${location.pathname.split("/")[1]}`}>text</Link> */}
-      <div className="flex justify-center flex-wrap">
-        <Link to="/">Marboluxe{">>"}</Link>
-        <div>
-          {location.pathname
-            .slice(1)
-            .split("%")
-            .join("-")
-            .split("/")
-            .map((word, index) => (
-              <Link
-                to={`/${word}`}
-                key={index}
-                className="hover:cursor-pointer hover:text-cyan-700"
-              >
-                {word}
-              </Link>
-            ))}
-        </div>
-        {/* <Link> {location.pathname.slice(1).split("/").join(">>")}</Link> */}
+      <h2>Özel Koleksiyon</h2>
+      <div className="flex justify-center items-center flex-wrap gap-1">
+        <Link to="/">Marboluxe</Link>
+        <MdKeyboardDoubleArrowRight
+          className="mt-1 hover:cursor-default arrow-right"
+          size={12}
+        />
+        <Link to="/ozel-koleksiyon">Özel Koleksiyon</Link>
+        {state?.name ? (
+          <>
+            <MdKeyboardDoubleArrowRight
+              className="mt-1 hover:cursor-default arrow-right"
+              size={12}
+            />
+            <h4>{state.name}</h4>
+          </>
+        ) : (
+          ""
+        )}
       </div>
     </div>
   );
