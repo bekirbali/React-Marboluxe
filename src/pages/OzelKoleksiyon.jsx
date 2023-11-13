@@ -1,16 +1,19 @@
 import React, { useState } from "react";
 import { ozelKoleksiyon } from "../utils";
-import { useNavigate } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 import Breadcrumbs from "../components/Breadcrumbs";
 import SideBar from "../components/SideBar";
 import {
   BsFillArrowLeftCircleFill,
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
+import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 
 const OzelKoleksiyon = () => {
   const [page, setPage] = useState(0);
   const navigate = useNavigate();
+  const location = useLocation();
+  const { state } = location;
 
   const backHandler = () => {
     if (page === 0) {
@@ -49,7 +52,28 @@ const OzelKoleksiyon = () => {
   // };
   return (
     <>
-      <Breadcrumbs />
+      <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
+        <h2>Özel Koleksiyon</h2>
+        <div className="flex justify-center items-center flex-wrap gap-1">
+          <Link to="/">Marboluxe</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <Link>Özel Koleksiyon</Link>
+          {state ? (
+            <>
+              <MdKeyboardDoubleArrowRight
+                className="mt-1 hover:cursor-default arrow-right"
+                size={12}
+              />
+              <h4>{state.name}</h4>
+            </>
+          ) : (
+            ""
+          )}
+        </div>
+      </div>
       <div className="main-holder-plakalar flex justify-between w-[90%] mx-auto ">
         <div className="flex-[1] ">
           <SideBar />
@@ -83,16 +107,29 @@ const OzelKoleksiyon = () => {
             })}
           </div>
           <div className="buttons flex gap-4 mt-4">
-            <BsFillArrowLeftCircleFill
-              size={24}
-              color="gray"
-              onClick={backHandler}
-            />
-            <BsFillArrowRightCircleFill
-              size={24}
-              color="gray"
-              onClick={nextHandler}
-            />
+            <button>
+              <BsFillArrowLeftCircleFill
+                size={24}
+                color="gray"
+                onClick={backHandler}
+              />
+            </button>
+            {ozelKoleksiyon.map((item, index) => (
+              <p
+                key={index}
+                onClick={(e) => setPage(e.target.innerText - 1)}
+                className="border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3"
+              >
+                {index + 1}
+              </p>
+            ))}
+            <button>
+              <BsFillArrowRightCircleFill
+                size={24}
+                color="gray"
+                onClick={nextHandler}
+              />
+            </button>
           </div>
         </div>
       </div>

@@ -19,15 +19,7 @@ const Ocaklar = () => {
             Ürünler
           </NavLink>
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
-            <ul className="cnc">
-              <NavLink to="/urunler/cnc">CNC Ürünler</NavLink>
-              <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
-                <NavLink to="/urunler/cnc/duvar">Duvar Dekorasyonları</NavLink>
-                <NavLink to="/urunler/cnc/masalar">Masalar</NavLink>
-                <NavLink to="/urunler/cnc/sehpalar">Sehpalar</NavLink>
-                <NavLink to="/urunler/cnc/tabureler">Tabureler</NavLink>
-              </div>
-            </ul>
+            {" "}
             <ul className="waterjet">
               <NavLink to="/urunler/waterjet">Waterjet</NavLink>
               <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
@@ -37,22 +29,6 @@ const Ocaklar = () => {
                 <NavLink to="/urunler/waterjet/mozaik">Waterjet Mozaik</NavLink>
                 <NavLink to="/urunler/waterjet/bordur">Waterjet Bordür</NavLink>
                 <NavLink to="/urunler/waterjet/karo">Waterjet Karo</NavLink>
-              </div>
-            </ul>
-            <ul className="dekoratif-urunler">
-              <NavLink to="/urunler/dekoratif">Dekoratif Ürünler</NavLink>
-              <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
-                <NavLink to="/urunler/dekoratif/supurgelik">Süpürgelik</NavLink>
-                <NavLink to="/urunler/dekoratif/kolon">Kolon</NavLink>
-                <NavLink to="/urunler/dekoratif/kurna">Kurna</NavLink>
-                <NavLink to="/urunler/dekoratif/sutun">Sütun</NavLink>
-                <NavLink to="/urunler/dekoratif/korkuluk">Korkuluk</NavLink>
-                <NavLink to="/urunler/dekoratif/sove">Söve</NavLink>
-                <NavLink to="/urunler/dekoratif/dus">Duş Teknesi</NavLink>
-                <NavLink to="/urunler/dekoratif/bahce">Bahçe Süslemesi</NavLink>
-                <NavLink to="/urunler/dekoratif/aksesuar">Aksesuar</NavLink>
-                <NavLink to="/urunler/dekoratif/aplik">Aplik</NavLink>
-                <NavLink to="/urunler/dekoratif/sampuanlik">Şampuanlık</NavLink>
               </div>
             </ul>
           </ul>

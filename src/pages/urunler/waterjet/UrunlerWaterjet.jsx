@@ -13,7 +13,7 @@ const UrunlerWaterjet = () => {
   const [page, setPage] = useState(0);
   const navigate = useNavigate();
 
-  const { setWaterjet } = useContext(MarboContext);
+  const { setWaterjet, setCnc, setDekoratifUrunler } = useContext(MarboContext);
 
   const backHandler = () => {
     if (page === 0) {
@@ -52,6 +52,8 @@ const UrunlerWaterjet = () => {
 
   useEffect(() => {
     setWaterjet(true);
+    setCnc(false);
+    setDekoratifUrunler(false);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
   return (
@@ -98,6 +100,15 @@ const UrunlerWaterjet = () => {
                 onClick={backHandler}
               />
             </button>
+            {urunlerWaterjet.map((item, index) => (
+              <p
+                key={index}
+                onClick={(e) => setPage(e.target.innerText - 1)}
+                className="border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3"
+              >
+                {index + 1}
+              </p>
+            ))}
             <button>
               <BsFillArrowRightCircleFill
                 size={24}
