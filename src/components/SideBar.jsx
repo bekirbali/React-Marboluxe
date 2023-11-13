@@ -240,7 +240,7 @@ const SideBar = () => {
               className={({ isActive }) => (isActive ? "active" : "")}
               to="/dogal-taslar/limestone"
             >
-              Linkmestone
+              Limestone
             </NavLink>
             <NavLink
               className={({ isActive }) => (isActive ? "active" : "")}
