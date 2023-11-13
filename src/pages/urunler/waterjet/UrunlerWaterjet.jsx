@@ -117,6 +117,84 @@ const UrunlerWaterjet = () => {
               />
             </button>
           </div>
+          <div className="w-full flex flex-col gap-4 mt-4 border-t pt-2">
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              WATERJET NEDİR?
+            </h2>
+            <p className="text-[#777777]">
+              Waterjet; yüksek hızlı su gücüne dayalı olarak işlev gören, özel
+              pompa sistemleri ile donatılmış ve granit dâhil birçok malzemenin
+              kesilmesinde kullanılan bir sistemdir. Hemen hemen her türden
+              malzemeyi kesebilecek ve delebilecek kapasiteye sahip aynı zamanda
+              kesme ve delme işlemleri esnasında tehlikeli atık üretmediği için
+              çevreci bir teknolojidir. Her türlü malzemeyi her şekilde keser ve
+              atık bertaraf maliyetlerini azaltır. Bu sistem her türlü 3 boyutlu
+              tasarımı kesebilmemizi sağlar. Waterjet günümüzde mermer işlerinde
+              sıklıkla tercih edilmektedir. Mimari açıdan ve estetik olarak
+              gösterişli imalatlar yapılmasını sağlamaktadır.
+            </p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              WATERJET NASIL ÇALIŞIR?
+            </h2>
+            <p className="text-[#777777]">
+              Waterjet hem mimari hem de endüstriyel uygulamalar için üretim
+              yöntemleri açısından çok önemli bir yeniliktir. Malzeme kalınlığı
+              ve kesim zorluğu açısından geleneksel kesim yöntemlerine karşın,
+              waterjet’in çok önemli avantajları vardır. Waterjet; plazma
+              kesimi, lazer veya EDM(elektrik deşarj makinesi) kesim
+              yöntemlerinden çok daha ileri ve üstün bir kesim yöntemidir. Diğer
+              kesim yöntemleriyle kesilemeyen her türlü detaylı şekil waterjet
+              ile büyük bir ustalık ve mükemmellikte kesilebilir. Waterjet;
+              kusursuz ve çapaksız bir şekilde materyallere uygulanır ve
+              kesilir. Waterjet ile kesim hızlı ve ekonomiktir. Kesim sonrası
+              kenarlar temiz ve oldukça keskindir. Waterjet kesimi sırasında
+              sıcaklık oluşmaz ve bu en büyük avantajlardan biridir. İşlem
+              sonrası ürün kenarları sorunsuz ve pürüzsüz olduğu için fazla
+              işçilik talep etmemektedir.
+            </p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              WATERJET KESİM AVANTAJLARI
+            </h2>
+            <p className="text-[#777777]">
+              Waterjet’in mermer, granit, traverten ve doğal taş sektöründeki
+              kullanımı; farklı renklerdeki plaka veya karoların istenilen her
+              türlü formda kesilerek, iç içe, yan yana, puzzle benzeri
+              birleştirmek suretiyle bir bütün haline getirilmesi şeklindedir.
+              Böylelikle her türlü form ve desende zemin göbekleri, yer veya
+              duvar bordürleri, masa tablaları, lavabo veya mutfak tezgâhı
+              süslemeleri imal etmek mümkündür. Hatta hayal edilen özel
+              tasarımları da istenilen zemine yerleştirilebilir.
+              <ul>
+                <li>* Kesme çapı oldukça küçüktür.</li>
+                <li>* Oldukça detaylı geometrik şekilleri kesebilir.</li>
+                <li>* Kesme esnasında malzeme kayıpları çok azdır.</li>
+                <li>* Kesme esnasında ısınma olmaz.</li>
+                <li>* Çok ince ve kalın malzemeleri kesebilir.</li>
+                <li>* Kesme hızı oldukça hızlıdır.</li>
+              </ul>
+            </p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              WATERJET İLE KESİLEBİLEN MALZEMELER
+            </h2>
+            <p className="text-[#777777]">
+              Waterjet bilgisayar destekli soğuk bir kesim teknolojisidir ve
+              birçok maddeyi iki ve üç boyutlu olarak kesebilir. Mermer,
+              traverten, granit, porselen, seramik ve her türlü yer döşemeleri
+              waterjet ile kesim için uygun malzemelerdir.
+              <ul>
+                <li>* Mermer</li>
+                <li>* Bej Mermer</li>
+                <li>* Granit</li>
+                <li>* Traverten</li>
+                <li>* Porselen</li>
+                <li>* Kuvars</li>
+                <li>* Limestone</li>
+                <li>* Andezit</li>
+                <li>* Bazalt</li>
+                <li>* Oniks</li>
+              </ul>
+            </p>
+          </div>
         </div>
       </div>
     </>

@@ -117,6 +117,27 @@ const UrunlerCnc = () => {
               />
             </button>
           </div>
+          <div className="w-full flex flex-col gap-4 mt-4 border-t pt-2">
+            <h2 className="text-3xl font-bold text-[#52536e]">CNC Nedir?</h2>
+            <p className="text-[#777777]">
+              CNC, işleme takımlarının (matkaplar, delme takımları, torna
+              tezgahları gibi) ve 3B yazıcıların bir bilgisayar aracılığıyla
+              otomatik olarak kontrol edilerek şekil verilecek iş parçasının
+              üzerinde operasyonda bulunan talaşlı imalat işlemidir. CNC kesim
+              ile hazır tasarımları hassasiyetle uygulayabilir, dilerseniz
+              tasarım fikirlerinizi gerçeğe dönüştürebilirsiniz. Bir CNC
+              makinesi, kodlar ile programlanmış talimatı takip ederek manuel
+              bir operatöre ihtiyaç duymadan, teknik standartları karşılamak
+              için belli bir malzeme bazındaki iş parçasını istenilen şekle
+              gelene kadar, manuelden daha hassas bir şekilde keser. CNC kesimin
+              avantajı ise çoğu doğal taşı kusursuz bir şekilde kesebilmesidir.
+              <ul>
+                <li>* Mermer Masa</li>
+                <li>* Mermer Sehpa</li>
+                <li>* CNC Duvar Dekorasyonları</li>
+              </ul>
+            </p>
+          </div>
         </div>
       </div>
     </>
