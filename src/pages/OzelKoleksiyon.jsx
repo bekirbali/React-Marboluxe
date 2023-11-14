@@ -78,10 +78,7 @@ const OzelKoleksiyon = () => {
         <div className="flex-[1] ">
           <SideBar />
         </div>
-        <div className="p-4 flex flex-col items-center mb-24 flex-[4]">
-          <h1 className="text-center text-3xl font-bold my-4">
-            Özel Koleksiyon
-          </h1>
+        <div className="p-4 flex flex-col items-center mb-24 flex-[4] mt-8">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4">
             {ozelKoleksiyon[page].map((tas, index) => {
               return (
