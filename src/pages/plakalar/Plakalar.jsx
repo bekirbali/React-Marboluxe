@@ -66,8 +66,7 @@ const Plakalar = () => {
         <div className="flex-[1] ">
           <SideBar />
         </div>
-        <div className="p-4 flex flex-col items-center flex-[4]">
-          <h1 className="text-center text-3xl font-bold my-4">Plakalar</h1>
+        <div className="p-4 flex flex-col items-center flex-[4] mt-8">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4">
             {plakalar[page].map((tas, index) => {
               return (
@@ -82,7 +81,7 @@ const Plakalar = () => {
                     <img
                       src={tas.image}
                       alt="test"
-                      className="w-full hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
+                      className="w-full h-full hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
                     />
                   </div>
                   <p className="text-center p-2 h-20 items-center flex">
@@ -92,7 +91,7 @@ const Plakalar = () => {
               );
             })}
           </div>
-          <div className="buttons flex gap-4 mt-4">
+          {/* <div className="buttons flex gap-4 mt-4">
             <button>
               <BsFillArrowLeftCircleFill
                 size={24}
@@ -116,7 +115,7 @@ const Plakalar = () => {
                 onClick={nextHandler}
               />
             </button>
-          </div>
+          </div> */}
           <div className="w-full flex flex-col gap-4 mt-4 border-t pt-2">
             <h2 className="text-3xl font-bold text-[#52536e]">PLAKA</h2>
             <p className="text-[#777777]">
