@@ -27,7 +27,7 @@ const App = () => {
     }
   };
   return (
-    <div ref={scrollRef} onScroll={scrollHandler} className="">
+    <div ref={scrollRef} onScroll={scrollHandler}>
       <MarboContextProvider>
         <AppRouter />
       </MarboContextProvider>

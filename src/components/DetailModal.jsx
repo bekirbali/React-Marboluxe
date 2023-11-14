@@ -12,7 +12,7 @@ const DetailModal = ({ image, modal, setModal }) => {
         >
           X
         </button>
-        <img src={image.slice(1)} alt="test" className="w-full max-w-lg" />
+        <img src={image} alt="test" className="w-full max-w-lg" />
       </div>
     </>
   );

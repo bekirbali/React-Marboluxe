@@ -82,7 +82,7 @@ import UrunlerDekoratifSutun from "../pages/urunler/dekoratif/UrunlerDekoratifSu
 
 const AppRouter = () => {
   return (
-    <div>
+    <>
       <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -502,7 +502,7 @@ const AppRouter = () => {
         <Route path="projeler/:name" element={<Details />} />
       </Routes>
       <Footer />
-    </div>
+    </>
   );
 };
 
