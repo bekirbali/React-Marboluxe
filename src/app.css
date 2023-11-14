@@ -53,3 +53,41 @@ svg:not(.arrow-right) {
 .active {
   font-weight: 700;
 }
+
+.paginate {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.paginate .pageClass {
+  border: 2px solid gray;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.paginate .pageClass:hover {
+  background: #777777;
+  transition: ease-in-out 0.3s;
+  color: white;
+  cursor: pointer;
+}
+
+.break {
+  border: none !important;
+  cursor: default;
+}
+
+.break a {
+  cursor: default;
+}
+
+.prev,
+.next {
+  /* background-color: red; */
+  border: none !important;
+}

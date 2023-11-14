@@ -1,23 +1,10 @@
-import React, { useContext, useEffect } from "react";
 import { tezgahlarPorselenSintered } from "../../../utils/index";
 import { useNavigate } from "react-router-dom";
 import Breadcrumbs from "../../../components/Breadcrumbs";
 import SideBar from "../../../components/SideBar";
-import { MarboContext } from "../../../context/MarboContext";
 
 const TezgahlarPorselenSintered = () => {
   const navigate = useNavigate();
-
-  const { setPorselenPlaka, setKuvarsPlaka, setDogalTaslar, setTezgahlar } =
-    useContext(MarboContext);
-
-  useEffect(() => {
-    // setPorselenPlaka(true);
-    // setKuvarsPlaka(false);
-    // setDogalTaslar(false);
-    // setTezgahlar(false);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
 
   return (
     <>

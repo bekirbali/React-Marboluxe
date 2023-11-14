@@ -8,6 +8,7 @@ import {
   BsFillArrowLeftCircleFill,
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
+import { PaginatedItems } from "../../components/Buttons";
 
 const Plakalar = () => {
   const [page, setPage] = useState(0);
@@ -56,8 +57,9 @@ const Plakalar = () => {
     setDogalTaslar(false);
     setTezgahlar(false);
     setUrunler(false);
+    console.log(page);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [page]);
 
   return (
     <>
@@ -91,15 +93,16 @@ const Plakalar = () => {
               );
             })}
           </div>
-          {/* <div className="buttons flex gap-4 mt-4">
-            <button>
-              <BsFillArrowLeftCircleFill
-                size={24}
-                color="gray"
-                onClick={backHandler}
-              />
-            </button>
-            {plakalar.map((item, index) => (
+          {
+            <div className="buttons flex gap-4 mt-4">
+              <button>
+                <BsFillArrowLeftCircleFill
+                  size={24}
+                  color="gray"
+                  onClick={backHandler}
+                />
+              </button>
+              {/* {plakalar.map((item, index) => (
               <p
                 key={index}
                 onClick={(e) => setPage(e.target.innerText - 1)}
@@ -107,15 +110,45 @@ const Plakalar = () => {
               >
                 {index + 1}
               </p>
-            ))}
-            <button>
-              <BsFillArrowRightCircleFill
-                size={24}
-                color="gray"
-                onClick={nextHandler}
-              />
-            </button>
-          </div> */}
+            ))} */}
+              {plakalar.slice(0, 3).map((item, index) => (
+                <p
+                  key={index}
+                  onClick={(e) => setPage(e.target.innerText - 1)}
+                  className="border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3"
+                >
+                  {index + 1}
+                </p>
+              ))}
+              <p>. . . </p>
+              {
+                <p
+                  onClick={(e) => setPage(e.target.innerText - 1)}
+                  className="border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3"
+                >
+                  {page <= 3 && 4}
+                  {page >= 4 && 5}
+                </p>
+              }
+              <p>. . . </p>
+              {plakalar.slice(0, 3).map((item, index) => (
+                <p
+                  key={index}
+                  onClick={(e) => setPage(e.target.innerText - 1)}
+                  className="border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3"
+                >
+                  {index + 23}
+                </p>
+              ))}
+              <button>
+                <BsFillArrowRightCircleFill
+                  size={24}
+                  color="gray"
+                  onClick={nextHandler}
+                />
+              </button>
+            </div>
+          }
           <div className="w-full flex flex-col gap-4 mt-4 border-t pt-2">
             <h2 className="text-3xl font-bold text-[#52536e]">PLAKA</h2>
             <p className="text-[#777777]">
@@ -127,8 +160,10 @@ const Plakalar = () => {
               kalelerde, stadyum ve açık hava tiyatrolarında mermere sıklıkla
               rastlanmaktadır.
             </p>
-            <h2>PLAKA ÖZELLİKLERİ</h2>
-            <p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              PLAKA ÖZELLİKLERİ
+            </h2>
+            <p className="text-[#777777]">
               Mermer plakalar, farklı renk ve desenlerinden dolayı estetik
               görünümlere sahiptir. Farklı türden mermer ve traverten çeşitleri
               kalın plakalar halinde kesilerek, yüzey ve zemin kaplaması olarak
@@ -141,8 +176,10 @@ const Plakalar = () => {
               edebilirsiniz. Diğer kesim türü olan "Cross Cut" ise genelde sade
               ve düz renklerin oluşturduğu bir görünüme sahip olmaktadır.
             </p>
-            <h2>PLAKA KULLANIM ALANLARI</h2>
-            <p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              PLAKA KULLANIM ALANLARI
+            </h2>
+            <p className="text-[#777777]">
               Mermer plaka ve traverten plaka pek çok büyük yapı projesi için
               oldukça uygun malzemelerdir. Mermer plakalarda yüzey dokularında
               cilalı ya da mat cilalı olan modeller en çok tercih
@@ -154,8 +191,10 @@ const Plakalar = () => {
               garantileyecektir. Mermer plaka, inşaat sektöründe yapı ve
               dekorasyon malzemesi olarak tercih edilmektedir.
             </p>
-            <h2>PLAKA EBATLARI</h2>
-            <p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              PLAKA EBATLARI
+            </h2>
+            <p className="text-[#777777]">
               Mermer plaka, görsel açıdan dikkat çekici olsa da işlevsel anlamda
               insanların dikkatini çeken konu ölçülerdir. Tüketici taleplerine
               uygun bir şekilde hazırlanan mermerlerin tek bir ölçüden ziyade
@@ -167,8 +206,10 @@ const Plakalar = () => {
               olması durumlarında istenen uzun ömürlü sonuçlara ulaşım sıkıntısı
               yaşanabilmektedir.
             </p>
-            <h2>PLAKA FİYATLARI</h2>
-            <p>
+            <h2 className="text-3xl font-bold text-[#52536e]">
+              PLAKA FİYATLARI
+            </h2>
+            <p className="text-[#777777]">
               Plaka fiyatları ürünün hammaddesi, boyutuna ve ebatına göre
               değişmektedir. Mermer plaka fiyatları, çoğunlukla yapı malzemesi
               olarak kullanılmaktadır. Öncelikle bu tür malzemelerin rakamları
