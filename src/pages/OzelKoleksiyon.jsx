@@ -32,24 +32,6 @@ const OzelKoleksiyon = () => {
     setPage(page + 1);
   };
 
-  // const pageHandler = (e) => {
-  // if (e.target.value === "prev") {
-  //   if (page === 0) {
-  //     console.log("firstPage");
-  //     return;
-  //   }
-  //   setPage(page - 1);
-  //   return;
-  // }
-  // if (e.target.value === "next") {
-  //   if (page === ozelKoleksiyon.length - 1) {
-  //     console.log("lastPage");
-  //     return;
-  //   }
-  //   setPage(page + 1);
-  // }
-  //   console.log(e.target.value);
-  // };
   return (
     <>
       <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
@@ -60,18 +42,17 @@ const OzelKoleksiyon = () => {
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <Link>Özel Koleksiyon</Link>
-          {state ? (
-            <>
-              <MdKeyboardDoubleArrowRight
-                className="mt-1 hover:cursor-default arrow-right"
-                size={12}
-              />
-              <h4>{state.name}</h4>
-            </>
-          ) : (
-            ""
-          )}
+          <Link to="/dogal-taslar">Doğal Taşlar</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <Link to="/dogal-taslar/mermer">Mermer</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <p>Özel Mermer Koleksiyonu</p>
         </div>
       </div>
       <div className="main-holder-plakalar flex justify-between w-[90%] mx-auto ">

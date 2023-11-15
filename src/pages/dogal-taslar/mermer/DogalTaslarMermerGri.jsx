@@ -1,14 +1,34 @@
-import { useNavigate } from "react-router-dom";
-import Breadcrumbs from "../../../components/Breadcrumbs";
+import { Link, useNavigate } from "react-router-dom";
 import SideBar from "../../../components/SideBar";
 import { dogalTaslarMermerGri } from "../../../utils";
+import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 
 const DogalTaslarMermerGri = () => {
   const navigate = useNavigate();
 
   return (
     <>
-      <Breadcrumbs />
+      <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
+        <h2>Doğal Taşlar</h2>
+        <div className="flex justify-center items-center flex-wrap gap-1">
+          <Link to="/">Marboluxe</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <Link to="/dogal-taslar">Doğal Taşlar</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <Link to="/dogal-taslar/mermer">Mermer</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <p>Gri Mermer</p>
+        </div>
+      </div>
       <div className="main-holder-dogalTas flex justify-between w-[90%] mx-auto ">
         <div className="flex-[1] ">
           <SideBar />
