@@ -1,13 +1,13 @@
 import React, { useContext, useState } from "react";
 import { dogalTaslarMermer } from "../../../utils";
 import { Link, useNavigate } from "react-router-dom";
-import Breadcrumbs from "../../../components/Breadcrumbs";
 import SideBar from "../../../components/SideBar";
 import { MarboContext } from "../../../context/MarboContext";
 import {
   BsFillArrowLeftCircleFill,
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
+import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 
 const DogalTaslarMermer = () => {
   const [page, setPage] = useState(0);
@@ -33,31 +33,28 @@ const DogalTaslarMermer = () => {
     setPage(page + 1);
   };
 
-  // const pageHandler = (e) => {
-  //   if (e.target.value === "prev") {
-  //     if (page === 0) {
-  //       console.log("firstPage");
-  //       return;
-  //     }
-  //     setPage(page - 1);
-  //     return;
-  //   }
-  //   if (e.target.value === "next") {
-  //     if (page === dogalTaslarMermer.length - 1) {
-  //       console.log("lastPage");
-  //       return;
-  //     }
-  //     setPage(page + 1);
-  //   }
-  // };
-
   useState(() => {
     setMermer(true);
   }, []);
 
   return (
     <>
-      <Breadcrumbs />
+      <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
+        <h2>Doğal Taşlar</h2>
+        <div className="flex justify-center items-center flex-wrap gap-1">
+          <Link to="/">Marboluxe</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <Link to="/dogal-taslar">Doğal Taşlar</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <p>Mermer</p>
+        </div>
+      </div>
       <div className="main-holder-dogalTas flex justify-between w-[90%] mx-auto ">
         <div className="flex-[1] ">
           <SideBar />
