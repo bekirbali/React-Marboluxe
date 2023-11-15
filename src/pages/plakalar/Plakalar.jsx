@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import { plakalar } from "../../utils/index";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import Breadcrumbs from "../../components/Breadcrumbs";
 import SideBar from "../../components/SideBar";
 import { MarboContext } from "../../context/MarboContext";
@@ -9,6 +9,7 @@ import {
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
 import { PaginatedItems } from "../../components/Buttons";
+import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 
 const Plakalar = () => {
   const [page, setPage] = useState(0);
@@ -34,24 +35,6 @@ const Plakalar = () => {
     setPage(page + 1);
   };
 
-  // const pageHandler = (e) => {
-  //   if (e.target.value === "prev") {
-  //     if (page === 0) {
-  //       console.log("firstPage");
-  //       return;
-  //     }
-  //     setPage(page - 1);
-  //     return;
-  //   }
-  //   if (e.target.value === "next") {
-  //     if (page === plakalar.length - 1) {
-  //       console.log("lastPage");
-  //       return;
-  //     }
-  //     setPage(page + 1);
-  //   }
-  // };
-
   useEffect(() => {
     setPlakalar(true);
     setDogalTaslar(false);
@@ -63,7 +46,17 @@ const Plakalar = () => {
 
   return (
     <>
-      <Breadcrumbs />
+      <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
+        <h2>Plakalar</h2>
+        <div className="flex justify-center items-center flex-wrap gap-1">
+          <Link to="/">Marboluxe</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <p>Plakalar</p>
+        </div>
+      </div>
       <div className="main-holder-plakalar flex justify-between w-[90%] mx-auto ">
         <div className="flex-[1] ">
           <SideBar />
