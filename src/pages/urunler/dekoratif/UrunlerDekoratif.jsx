@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import { urunlerDekoratif } from "../../../utils";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import Breadcrumbs from "../../../components/Breadcrumbs";
 import {
   BsFillArrowLeftCircleFill,
@@ -8,6 +8,7 @@ import {
 } from "react-icons/bs";
 import SideBar from "../../../components/SideBar";
 import { MarboContext } from "../../../context/MarboContext";
+import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 
 const UrunlerDekoratif = () => {
   const [page, setPage] = useState(0);
@@ -58,7 +59,22 @@ const UrunlerDekoratif = () => {
   }, []);
   return (
     <>
-      <Breadcrumbs />
+      <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
+        <h2>Ürünler</h2>
+        <div className="flex justify-center items-center flex-wrap gap-1">
+          <Link to="/">Marboluxe</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <Link to="/urunler">Ürünler</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <p>Dekoratif Ürünler</p>
+        </div>
+      </div>
       <div className="main-holder-dogalTas flex justify-between w-[90%] mx-auto ">
         <div className="flex-[1] ">
           <SideBar />

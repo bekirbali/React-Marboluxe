@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import { tezgahlarKuvarsCimstone } from "../../../utils";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import Breadcrumbs from "../../../components/Breadcrumbs";
 import SideBar from "../../../components/SideBar";
 import { MarboContext } from "../../../context/MarboContext";
@@ -8,6 +8,7 @@ import {
   BsFillArrowLeftCircleFill,
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
+import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 
 const TezgahlarKuvarsCim = () => {
   const [page, setPage] = useState(0);
@@ -59,7 +60,27 @@ const TezgahlarKuvarsCim = () => {
 
   return (
     <>
-      <Breadcrumbs />
+      <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
+        <h2>Tezgahlar</h2>
+        <div className="flex justify-center items-center flex-wrap gap-1">
+          <Link to="/">Marboluxe</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <Link to="/tezgahlar">Tezgahlar</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <Link to="/tezgahlar/kuvars">Kuvars Tezgahlar</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <p>Çimstone Kuvars Tezgahlar</p>
+        </div>
+      </div>
       <div className="main-holder-plakalar flex justify-between w-[90%] mx-auto ">
         <div className="flex-[1] ">
           <SideBar />
