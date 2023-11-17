@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, useLocation, useParams } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 
 const Breadcrumbs = () => {
@@ -8,7 +8,6 @@ const Breadcrumbs = () => {
 
   return (
     <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
-      <h2>Özel Koleksiyon</h2>
       <div className="flex justify-center items-center flex-wrap gap-1">
         <Link to="/">Marboluxe</Link>
         <MdKeyboardDoubleArrowRight

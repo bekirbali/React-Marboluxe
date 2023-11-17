@@ -878,16 +878,44 @@ import { Navbar } from "flowbite-react";
 import logo from "../assets/logoForMarboLuxe.jpeg";
 import "../app.css";
 import { Link } from "react-router-dom";
+import i18n from "../utils/i18n";
+import Flag from "react-flagkit";
+import { useTranslation } from "react-i18next";
 
 export default function NavbarWithDropdown() {
+  const { t } = useTranslation();
+
+  const changeTr = () => {
+    i18n.changeLanguage("tr");
+  };
+
+  const changeEn = () => {
+    i18n.changeLanguage("en");
+  };
   return (
     <Navbar fluid>
-      <Link to="/" className="flex md:mx-auto lg:mx-0">
-        <img src={logo} className="mr-3 h-6 sm:h-9" alt="Flowbite React Logo" />
-        <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
-          Marboluxe
-        </span>
-      </Link>
+      <div className="flex gap-4">
+        <Link to="/" className="flex md:mx-auto lg:mx-0">
+          <img
+            src={logo}
+            className="mr-3 h-6 sm:h-9"
+            alt="Flowbite React Logo"
+          />
+          <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
+            Marboluxe
+          </span>
+        </Link>
+        <Flag
+          country="TR"
+          onClick={changeTr}
+          className="hover:cursor-pointer"
+        />
+        <Flag
+          country="US"
+          onClick={changeEn}
+          className="hover:cursor-pointer"
+        />
+      </div>
       {/* eslint-disable-next-line flowtype/require-valid-file-annotation*/}
       {/* <div className="flex md:order-1">
         <Dropdown
@@ -932,49 +960,49 @@ export default function NavbarWithDropdown() {
           to="/ozel-koleksiyon"
           className="hover:text-cyan-700 transition ease-in-out duration-200"
         >
-          Özel Koleksiyon
+          {t("ozel koleksiyon")}
         </Link>
         <Link
           to="/dogal-taslar"
           className="hover:text-cyan-700 transition ease-in-out duration-200"
         >
-          Doğal Taşlar
+          {t("dogal taslar")}
         </Link>
         <Link
           to="/plakalar"
           className="hover:text-cyan-700 transition ease-in-out duration-200"
         >
-          Plakalar
+          {t("plakalar")}
         </Link>
         <Link
           to="/tezgahlar"
           className="hover:text-cyan-700 transition ease-in-out duration-200"
         >
-          Tezgahlar
+          {t("tezgahlar")}
         </Link>
         <Link
           to="/ocaklar"
           className="hover:text-cyan-700 transition ease-in-out duration-200"
         >
-          Ocaklar
+          {t("ocaklar")}
         </Link>
         <Link
           to="/urunler"
           className="hover:text-cyan-700 transition ease-in-out duration-200"
         >
-          Ürünler
+          {t("urunler")}
         </Link>
         <Link
           to="/projeler"
           className="hover:text-cyan-700 transition ease-in-out duration-200"
         >
-          Projeler
+          {t("projeler")}
         </Link>
         <Link
           to="/kataloglar"
           className="hover:text-cyan-700 transition ease-in-out duration-200"
         >
-          Kataloglar
+          {t("kataloglar")}
         </Link>
       </Navbar.Collapse>
     </Navbar>
