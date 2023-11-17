@@ -31,8 +31,8 @@ const DogalTaslarOniks = () => {
 
         <div className="p-4 flex flex-col items-center flex-[4]">
           <p className="xl:pl-8 xl:m-4 py-4 pb-8 text-[#777777]">
-            Doğadan aldığı ilham ile hayat bulan Efesus Stone oniks mermer
-            çeşitleri ve fiyatları için özel tasarım koleksiyonumuzla tanışın!
+            Doğadan aldığı ilham ile hayat bulan Stone oniks mermer çeşitleri ve
+            fiyatları için özel tasarım koleksiyonumuzla tanışın!
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4 ">
             {dogalTaslarOniks[0].map((tas, index) => {

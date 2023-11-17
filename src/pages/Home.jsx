@@ -213,11 +213,11 @@ const Home = () => {
                   Doğal Taş ve Mermer Uzmanlığı
                 </h3>
                 <p className="text-[#777777]">
-                  Efesus Stone olarak 1943 yılından beri mermerin dilini anlayan
-                  bir ekibiz. Her projenin özel ihtiyaçlarına uygun mermer
-                  seçimi ve tasarımı konusundaki uzmanlığımızla size rehberlik
-                  ediyoruz. Projelerinizi en yüksek standartlarda gerçeğe
-                  dönüştürmek için buradayız.
+                  Marboluxe Stone olarak 1943 yılından beri mermerin dilini
+                  anlayan bir ekibiz. Her projenin özel ihtiyaçlarına uygun
+                  mermer seçimi ve tasarımı konusundaki uzmanlığımızla size
+                  rehberlik ediyoruz. Projelerinizi en yüksek standartlarda
+                  gerçeğe dönüştürmek için buradayız.
                 </p>
               </div>
               <div className="bottomRight">

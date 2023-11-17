@@ -55,7 +55,7 @@ const DogalTaslarGranit = () => {
 
         <div className="p-4 flex flex-col items-center flex-[4]">
           <p className="xl:pl-8 xl:m-4 py-4 pb-8 text-[#777777]">
-            Mutfaklarınızın baş tacı olan granit tezgah çeşitleri için Efesus
+            Mutfaklarınızın baş tacı olan granit tezgah çeşitleri için Marboluxe
             Stone’un granit mermer fiyatlarını ve modellerini hemen inceleyin!
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4 ">

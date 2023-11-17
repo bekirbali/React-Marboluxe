@@ -139,14 +139,14 @@ const DogalTaslarMermerBeyaz = () => {
             <p className="text-[#777777]">
               Doğanın muhteşem bir sanat eseri olarak sunduğu beyaz mermerler,
               farklı çeşitleriyle her projeye uyum sağlayacak geniş bir seçenek
-              sunar. Carrara, Calacatta, Thassos, Statuario ve Efesus Stone'nun
-              kendi mermer ocaklarından çıkarılan Afyon Beyaz ve Marmara Beyaz
-              gibi tanınmış beyaz mermer çeşitleri, içerisinde kahverengi izler
-              bulunan Agate White modeli, döşeme, kaplamalarda veya sehpa, masa
-              gibi tasarım amaçlarıyla kullanılacak eşyalarda kullanılan ve
-              içerisinde siyah renkte bulunan Panda White modeli gibi
-              birbirinden farklı renk damarlı desenler ve renk tonları ile iç
-              mekanlara ve dış mekanlara sofistike bir zarafet getirir. Beyaz
+              sunar. Carrara, Calacatta, Thassos, Statuario ve Marboluxe
+              Stone'nun kendi mermer ocaklarından çıkarılan Afyon Beyaz ve
+              Marmara Beyaz gibi tanınmış beyaz mermer çeşitleri, içerisinde
+              kahverengi izler bulunan Agate White modeli, döşeme, kaplamalarda
+              veya sehpa, masa gibi tasarım amaçlarıyla kullanılacak eşyalarda
+              kullanılan ve içerisinde siyah renkte bulunan Panda White modeli
+              gibi birbirinden farklı renk damarlı desenler ve renk tonları ile
+              iç mekanlara ve dış mekanlara sofistike bir zarafet getirir. Beyaz
               mermer fiyatları, çeşidi, kalitesi ve özellikleri gibi faktörlere
               bağlı olarak değişebilir. Düz beyaz modeller genellikle daha uygun
               fiyatlı bir seçenek sunarken, nadir ve yoğun damarlı türler daha

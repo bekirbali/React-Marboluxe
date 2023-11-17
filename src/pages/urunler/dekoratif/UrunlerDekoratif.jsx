@@ -143,14 +143,14 @@ const UrunlerDekoratif = () => {
               veya yer kaplama malzemesi olarak kullanılmaz. Ev içerisindeki
               dekorasyonda da mermer kullanımı oldukça yaygınlaşmıştır. Modern,
               klasik veya özel tasarım mermer dekoratif ürünler ile yaşam
-              alanlarınıza farklı dokunuşlar yapabilirsiniz. Efesus Stone;
+              alanlarınıza farklı dokunuşlar yapabilirsiniz. Marboluxe Stone;
               sadece mermer değil traverten gibi doğal taşlardan da aksesuar
               tasarımları yapmaktadır. İster evinize ister ofisinizin bir
               köşesine mükemmel bir şekilde uyabilecek özel tasarım mermer
               ürünler, doğadan evlerinize gelmektedir. Mermerin göz alıcı
               dokusunu zamansız tasarımları ve usta işçiliği ile harmanlayıp
-              mekanlara şıklık getiren Efesus Stone aksesuar çeşitliliği ile de
-              dikkat çekmektedir. Aplik, kolon, süpürgelik, kurna, söve, duş
+              mekanlara şıklık getiren Marboluxe Stone aksesuar çeşitliliği ile
+              de dikkat çekmektedir. Aplik, kolon, süpürgelik, kurna, söve, duş
               teknesi, korkuluk ve bahçe süslemesi gibi aksesuar üretimlerinde
               mermerin yanı sıra dekoratif traverten ürünlerde üretilmektedir.
               <ul>
