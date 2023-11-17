@@ -881,16 +881,22 @@ import { Link } from "react-router-dom";
 import i18n from "../utils/i18n";
 import Flag from "react-flagkit";
 import { useTranslation } from "react-i18next";
+import { useContext } from "react";
+import { MarboContext } from "../context/MarboContext";
 
 export default function NavbarWithDropdown() {
+  const { setShow } = useContext(MarboContext);
+
   const { t } = useTranslation();
 
   const changeTr = () => {
     i18n.changeLanguage("tr");
+    setShow(true);
   };
 
   const changeEn = () => {
     i18n.changeLanguage("en");
+    setShow(false);
   };
   return (
     <Navbar fluid>
