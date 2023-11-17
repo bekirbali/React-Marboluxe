@@ -18,7 +18,10 @@ const MarboContextProvider = ({ children }) => {
   const [waterjet, setWaterjet] = useState(false);
   const [dekoratifUrunler, setDekoratifUrunler] = useState(false);
   const [mozaik, setMozaik] = useState(false);
+  const [show, setShow] = useState(false);
   const values = {
+    show,
+    setShow,
     tezgahlar,
     setTezgahlar,
     dogalTaslar,

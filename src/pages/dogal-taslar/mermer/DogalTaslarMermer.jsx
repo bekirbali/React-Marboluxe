@@ -76,7 +76,7 @@ const DogalTaslarMermer = () => {
             ve uygun <span className="font-bold">mermer fiyatları</span> ile
             mekanlarınızı lüks ve estetik bir görünüme kavuşun!
             <br />
-            Özel Efesus Stone koleksiyonlarını şimdi inceleyin!
+            Özel Stone koleksiyonlarını şimdi inceleyin!
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4 ">
             {dogalTaslarMermer[page].map((tas, index) => {
@@ -270,7 +270,7 @@ const DogalTaslarMermer = () => {
               bir değer katmakla kalmaz. Aynı zamanda, bakımının kolay, sağlıklı
               ve uzun ömürlü oluşu da, en önemli özelliklerindendir.{" "}
               <span className="font-bold">Doğal taş sektöründe</span> akla ilk
-              gelen isimlerden olan Efesus Sone, ihtiyaç duyulan alanlar için
+              gelen isimlerden olan Marboluxe Sone, ihtiyaç duyulan alanlar için
               zengin bir ürün yelpazesine sahip olup yüksek kaliteli doğal
               taşlar üretimi konusunda alanında uzmanlaşmış bir firmadır.
             </p>
@@ -344,7 +344,7 @@ const DogalTaslarMermer = () => {
               estetik güzelliğidir. Mekanları süsleyen ve sıradan alanları
               muhteşem hale getiren bu benzersiz doğal taşa, ezberden net bir
               fiyat verebilmek mümkün değildir. Rengin, türün, damar yapısının
-              ve işçiliğin etkili olduğu fiyatlar için Efesus Stone ile
+              ve işçiliğin etkili olduğu fiyatlar için Marboluxe Stone ile
               iletişime geçilerek net ve sağlıklı bir fiyat bilgisi alınabilir.
               Belirli türlere olan talep, örneğin daha az damarlı, daha yüksek
               kalite ve belirli renkler maliyeti artırır. Yaygın bulunan
