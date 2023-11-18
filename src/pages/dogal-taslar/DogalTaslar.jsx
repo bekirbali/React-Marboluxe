@@ -1,7 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import { dogalTaslar } from "../../utils";
-import { Link, useLocation, useNavigate } from "react-router-dom";
-import Breadcrumbs from "../../components/Breadcrumbs";
+import { Link, useNavigate } from "react-router-dom";
 import SideBar from "../../components/SideBar";
 import { MarboContext } from "../../context/MarboContext";
 import {
@@ -9,11 +8,12 @@ import {
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
+import { useTranslation } from "react-i18next";
 
 const DogalTaslar = () => {
   const [page, setPage] = useState(0);
-  const location = useLocation();
-  const { state } = location;
+
+  const { t } = useTranslation();
 
   const navigate = useNavigate();
   const { setDogalTaslar, setPlakalar, setTezgahlar, setUrunler } =
@@ -47,14 +47,14 @@ const DogalTaslar = () => {
   return (
     <>
       <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
-        <h2>Doğal Taşlar</h2>
+        <h2>{t("dogal taslar")}</h2>
         <div className="flex justify-center items-center flex-wrap gap-1">
           <Link to="/">Marboluxe</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <p>Doğal Taşlar</p>
+          <p>{t("dogal taslar")}</p>
         </div>
       </div>
       <div className="main-holder-dogalTas flex justify-between w-[90%] mx-auto ">

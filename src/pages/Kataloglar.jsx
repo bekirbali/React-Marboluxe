@@ -28,23 +28,6 @@ const Kataloglar = () => {
     setPage(page + 1);
   };
 
-  // const pageHandler = (e) => {
-  //   if (e.target.value === "prev") {
-  //     if (page === 0) {
-  //       console.log("firstPage");
-  //       return;
-  //     }
-  //     setPage(page - 1);
-  //     return;
-  //   }
-  //   if (e.target.value === "next") {
-  //     if (page === dogalTaslar.length - 1) {
-  //       console.log("lastPage");
-  //       return;
-  //     }
-  //     setPage(page + 1);
-  //   }
-  // };
   return (
     <>
       <Breadcrumbs />

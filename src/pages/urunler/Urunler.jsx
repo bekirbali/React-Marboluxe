@@ -9,10 +9,13 @@ import {
 import SideBar from "../../components/SideBar";
 import { MarboContext } from "../../context/MarboContext";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
+import { useTranslation } from "react-i18next";
 
 const Urunler = () => {
   const [page, setPage] = useState(0);
   const navigate = useNavigate();
+
+  const { t } = useTranslation();
 
   const { setDogalTaslar, setPlakalar, setTezgahlar, setUrunler } =
     useContext(MarboContext);
@@ -34,24 +37,6 @@ const Urunler = () => {
     setPage(page + 1);
   };
 
-  // const pageHandler = (e) => {
-  //   if (e.target.value === "prev") {
-  //     if (page === 0) {
-  //       console.log("firstPage");
-  //       return;
-  //     }
-  //     setPage(page - 1);
-  //     return;
-  //   }
-  //   if (e.target.value === "next") {
-  //     if (page === urunler.length - 1) {
-  //       console.log("lastPage");
-  //       return;
-  //     }
-  //     setPage(page + 1);
-  //   }
-  // };
-
   useEffect(() => {
     setPlakalar(false);
     setDogalTaslar(false);
@@ -63,14 +48,14 @@ const Urunler = () => {
   return (
     <>
       <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
-        <h2>Ürünler</h2>
+        <h2>{t("urunler")}</h2>
         <div className="flex justify-center items-center flex-wrap gap-1">
           <Link to="/">Marboluxe</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <p>Ürünler</p>
+          <p>{t("urunler")}</p>
         </div>
       </div>
       <div className="main-holder-dogalTas flex justify-between w-[90%] mx-auto ">

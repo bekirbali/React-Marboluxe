@@ -9,10 +9,13 @@ import {
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
+import { useTranslation } from "react-i18next";
 
 const TezgahlarKuvars = () => {
   const [page, setPage] = useState(0);
   const navigate = useNavigate();
+
+  const { t } = useTranslation();
 
   const { setDogalTaslar, setPlakalar, setKuvarsTezgah, setPorselenTezgah } =
     useContext(MarboContext);
@@ -34,24 +37,6 @@ const TezgahlarKuvars = () => {
     setPage(page + 1);
   };
 
-  // const pageHandler = (e) => {
-  //   if (e.target.value === "prev") {
-  //     if (page === 0) {
-  //       console.log("firstPage");
-  //       return;
-  //     }
-  //     setPage(page - 1);
-  //     return;
-  //   }
-  //   if (e.target.value === "next") {
-  //     if (page === tezgahlarKuvars.length - 1) {
-  //       console.log("lastPage");
-  //       return;
-  //     }
-  //     setPage(page + 1);
-  //   }
-  // };
-
   useEffect(() => {
     setPlakalar(false);
     setDogalTaslar(false);
@@ -63,19 +48,19 @@ const TezgahlarKuvars = () => {
   return (
     <>
       <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
-        <h2>Tezgahlar</h2>
+        <h2>{t("tezgahlar")}</h2>
         <div className="flex justify-center items-center flex-wrap gap-1">
           <Link to="/">Marboluxe</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <Link to="/tezgahlar">Tezgahlar</Link>
+          <Link to="/tezgahlar">{t("tezgahlar")}</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <p>Kuvars Tezgahlar</p>
+          <p>{t("kuvars tezgah")}</p>
         </div>
       </div>
       <div className="main-holder-plakalar flex justify-between w-[90%] mx-auto ">

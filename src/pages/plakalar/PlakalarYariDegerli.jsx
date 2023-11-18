@@ -5,9 +5,12 @@ import Breadcrumbs from "../../components/Breadcrumbs";
 import SideBar from "../../components/SideBar";
 import { MarboContext } from "../../context/MarboContext";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
+import { useTranslation } from "react-i18next";
 
 const PlakalarYariDegerli = () => {
   const navigate = useNavigate();
+
+  const { t } = useTranslation();
 
   const { setPlakalar, setDogalTaslar, setTezgahlar } =
     useContext(MarboContext);
@@ -22,29 +25,26 @@ const PlakalarYariDegerli = () => {
   return (
     <>
       <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
-        <h2>Plakalar</h2>
+        <h2>{t("plakalar")}</h2>
         <div className="flex justify-center items-center flex-wrap gap-1">
           <Link to="/">Marboluxe</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <Link to="/plakalar">Plakalar</Link>
+          <Link to="/plakalar">{t("plakalar")}</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <p>Yarı Değerli Plakalar</p>
+          <p>{t("yari degerli")}</p>
         </div>
       </div>
       <div className="main-holder-plakalarYariDegerli flex justify-between w-[90%] mx-auto ">
         <div className="flex-[1] ">
           <SideBar />
         </div>
-        <div className="p-4 flex flex-col items-center flex-[4]">
-          <h1 className="text-center text-3xl font-bold my-4">
-            Yarı Değerli Plakalar
-          </h1>
+        <div className="p-4 flex flex-col items-center flex-[4] mt-8">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4">
             {plakalarYariDegerli[0].map((tas, index) => {
               return (

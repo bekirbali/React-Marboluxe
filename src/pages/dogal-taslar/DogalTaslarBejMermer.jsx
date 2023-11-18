@@ -7,11 +7,14 @@ import {
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
+import { useTranslation } from "react-i18next";
 
 const DogalTaslarBejMermer = () => {
   const [page, setPage] = useState(0);
 
   const navigate = useNavigate();
+
+  const { t } = useTranslation();
 
   const backHandler = () => {
     if (page === 0) {
@@ -33,19 +36,19 @@ const DogalTaslarBejMermer = () => {
   return (
     <>
       <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
-        <h2>Doğal Taşlar</h2>
+        <h2>{t("dogal taslar")}</h2>
         <div className="flex justify-center items-center flex-wrap gap-1">
           <Link to="/">Marboluxe</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <Link to="/dogal-taslar">Doğal Taşlar</Link>
+          <Link to="/dogal-taslar">{t("dogal taslar")}</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <p>Bej Mermer</p>
+          <p>{t("bej mermer")}</p>
         </div>
       </div>
       <div className="main-holder-dogalTas flex justify-between w-[90%] mx-auto ">
