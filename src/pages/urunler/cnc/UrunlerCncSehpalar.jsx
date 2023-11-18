@@ -9,10 +9,13 @@ import {
 import SideBar from "../../../components/SideBar";
 import { MarboContext } from "../../../context/MarboContext";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
+import { useTranslation } from "react-i18next";
 
 const UrunlerCncSehpalar = () => {
   const [page, setPage] = useState(0);
   const navigate = useNavigate();
+
+  const { t } = useTranslation();
 
   const { setWaterjet } = useContext(MarboContext);
 
@@ -33,24 +36,6 @@ const UrunlerCncSehpalar = () => {
     setPage(page + 1);
   };
 
-  // const pageHandler = (e) => {
-  //   if (e.target.value === "prev") {
-  //     if (page === 0) {
-  //       console.log("firstPage");
-  //       return;
-  //     }
-  //     setPage(page - 1);
-  //     return;
-  //   }
-  //   if (e.target.value === "next") {
-  //     if (page === urunlerCncSehpalar.length - 1) {
-  //       console.log("lastPage");
-  //       return;
-  //     }
-  //     setPage(page + 1);
-  //   }
-  // };
-
   useEffect(() => {
     setWaterjet(true);
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -58,24 +43,24 @@ const UrunlerCncSehpalar = () => {
   return (
     <>
       <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
-        <h2>Ürünler</h2>
+        <h2>{t("urunler")}</h2>
         <div className="flex justify-center items-center flex-wrap gap-1">
           <Link to="/">Marboluxe</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <Link to="/urunler">Ürünler</Link>
+          <Link to="/urunler">{t("urunler")}</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <Link to="/urunler/cnc">CNC Ürünler</Link>
+          <Link to="/urunler/cnc">{t("cnc urunler")}</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <p>Sehpalar</p>
+          <p>{t("sehpalar")}</p>
         </div>
       </div>
       <div className="main-holder-dogalTas flex justify-between w-[90%] mx-auto ">
@@ -83,10 +68,7 @@ const UrunlerCncSehpalar = () => {
           <SideBar />
         </div>
 
-        <div className="p-4 flex flex-col items-center flex-[4]">
-          <h1 className="text-center text-3xl font-bold my-4">
-            Ürünler Cnc Sehpalar
-          </h1>
+        <div className="p-4 flex flex-col items-center flex-[4] mt-8">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4">
             {urunlerCncSehpalar[page].map((tas, index) => {
               return (

@@ -10,10 +10,12 @@ import {
 } from "react-icons/bs";
 import { PaginatedItems } from "../../components/Buttons";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
+import { useTranslation } from "react-i18next";
 
 const Plakalar = () => {
   const [page, setPage] = useState(0);
   const navigate = useNavigate();
+  const { t } = useTranslation();
 
   const { setPlakalar, setDogalTaslar, setTezgahlar, setUrunler } =
     useContext(MarboContext);
@@ -47,14 +49,14 @@ const Plakalar = () => {
   return (
     <>
       <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
-        <h2>Plakalar</h2>
+        <h2>{t("plakalar")}</h2>
         <div className="flex justify-center items-center flex-wrap gap-1">
           <Link to="/">Marboluxe</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <p>Plakalar</p>
+          <p>{t("plakalar")}</p>
         </div>
       </div>
       <div className="main-holder-plakalar flex justify-between w-[90%] mx-auto ">
@@ -87,7 +89,7 @@ const Plakalar = () => {
             })}
           </div>
           {
-            <div className="buttons flex gap-4 mt-4">
+            <div className="buttons flex flex-wrap gap-4 mt-4">
               <button>
                 <BsFillArrowLeftCircleFill
                   size={24}
@@ -95,42 +97,13 @@ const Plakalar = () => {
                   onClick={backHandler}
                 />
               </button>
-              {/* {plakalar.map((item, index) => (
-              <p
-                key={index}
-                onClick={(e) => setPage(e.target.innerText - 1)}
-                className="border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3"
-              >
-                {index + 1}
-              </p>
-            ))} */}
-              {plakalar.slice(0, 3).map((item, index) => (
+              {plakalar.map((item, index) => (
                 <p
                   key={index}
                   onClick={(e) => setPage(e.target.innerText - 1)}
                   className="border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3"
                 >
                   {index + 1}
-                </p>
-              ))}
-              <p>. . . </p>
-              {
-                <p
-                  onClick={(e) => setPage(e.target.innerText - 1)}
-                  className="border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3"
-                >
-                  {page <= 3 && 4}
-                  {page >= 4 && 5}
-                </p>
-              }
-              <p>. . . </p>
-              {plakalar.slice(0, 3).map((item, index) => (
-                <p
-                  key={index}
-                  onClick={(e) => setPage(e.target.innerText - 1)}
-                  className="border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3"
-                >
-                  {index + 23}
                 </p>
               ))}
               <button>

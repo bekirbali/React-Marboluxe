@@ -5,9 +5,12 @@ import Breadcrumbs from "../../../components/Breadcrumbs";
 import SideBar from "../../../components/SideBar";
 import { MarboContext } from "../../../context/MarboContext";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
+import { useTranslation } from "react-i18next";
 
 const TezgahlarKuvarsCalisco = () => {
   const navigate = useNavigate();
+
+  const { t } = useTranslation();
 
   const { setDogalTaslar, setPlakalar } = useContext(MarboContext);
 
@@ -21,34 +24,31 @@ const TezgahlarKuvarsCalisco = () => {
   return (
     <>
       <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
-        <h2>Tezgahlar</h2>
+        <h2>{t("tezgahlar")}</h2>
         <div className="flex justify-center items-center flex-wrap gap-1">
           <Link to="/">Marboluxe</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <Link to="/tezgahlar">Tezgahlar</Link>
+          <Link to="/tezgahlar">{t("tezgahlar")}</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <Link to="/tezgahlar/kuvars">Kuvars Tezgahlar</Link>
+          <Link to="/tezgahlar/kuvars">{t("kuvars tezgah")}</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <p>Calisco Kuvars Tezgahlar</p>
+          <p>{t("calisco")}</p>
         </div>
       </div>
       <div className="main-holder-plakalar flex justify-between w-[90%] mx-auto ">
         <div className="flex-[1] ">
           <SideBar />
         </div>
-        <div className="p-4 flex flex-col items-center flex-[4]">
-          <h1 className="text-center text-3xl font-bold my-4">
-            Calisco Kuvars Tezgahlar
-          </h1>
+        <div className="p-4 flex flex-col items-center flex-[4] mt-8">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4">
             {tezgahlarKuvarsCalisco[0].map((tas, index) => {
               return (

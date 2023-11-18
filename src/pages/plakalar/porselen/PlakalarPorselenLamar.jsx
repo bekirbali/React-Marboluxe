@@ -5,9 +5,12 @@ import Breadcrumbs from "../../../components/Breadcrumbs";
 import SideBar from "../../../components/SideBar";
 import { MarboContext } from "../../../context/MarboContext";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
+import { useTranslation } from "react-i18next";
 
 const PlakalarPorselenLamar = () => {
   const navigate = useNavigate();
+
+  const { t } = useTranslation();
 
   const { setPorselenPlaka, setKuvarsPlaka, setDogalTaslar, setTezgahlar } =
     useContext(MarboContext);
@@ -23,24 +26,24 @@ const PlakalarPorselenLamar = () => {
   return (
     <>
       <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
-        <h2>Plakalar</h2>
+        <h2>{t("plakalar")}</h2>
         <div className="flex justify-center items-center flex-wrap gap-1">
           <Link to="/">Marboluxe</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <Link to="/plakalar">Plakalar</Link>
+          <Link to="/plakalar">{t("plakalar")}</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <Link to="/plakalar/porselen-plakalar">Porselen Plakalar</Link>
+          <Link to="/plakalar/porselen-plakalar">{t("porselen plakalar")}</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <p>Lamar Porselen Plakalar</p>
+          <p>{t("lamar plakalar")}</p>
         </div>
       </div>
       <div className="main-holder-PlakalarPorselenLamar flex justify-between w-[90%] mx-auto ">
