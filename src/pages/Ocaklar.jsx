@@ -12,25 +12,33 @@ const Ocaklar = () => {
 
       <div className="main-holder-ocaklar flex justify-between w-[90%] mx-auto">
         <div className="flex-[1]">
-          <NavLink
-            className={({ isActive }) => (isActive ? "active" : "")}
-            to="/urunler"
-          >
-            Ürünler
-          </NavLink>
-          <ul className="ml-2 border-l-2 border-gray-300 pl-2">
-            {" "}
-            <ul className="waterjet">
-              <NavLink to="/urunler/waterjet">Waterjet</NavLink>
-              <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
-                <NavLink to="/urunler/waterjet/madalyon">
-                  Waterjet Madalyon
-                </NavLink>
-                <NavLink to="/urunler/waterjet/mozaik">Waterjet Mozaik</NavLink>
-                <NavLink to="/urunler/waterjet/bordur">Waterjet Bordür</NavLink>
-                <NavLink to="/urunler/waterjet/karo">Waterjet Karo</NavLink>
-              </div>
-            </ul>
+          <ul className="waterjet">
+            <div className="pl-2 flex flex-col">
+              <NavLink to="/urunler/waterjet/madalyon">
+                AFYON BEYAZ MERMER OCAK
+              </NavLink>
+              <NavLink to="/urunler/waterjet/mozaik">
+                MARMARA BEYAZ MERMER OCAK
+              </NavLink>
+              <NavLink to="/urunler/waterjet/bordur">
+                GÜMÜŞ TRAVERTEN OCAK
+              </NavLink>
+              <NavLink to="/urunler/waterjet/karo">
+                BEYAZ TRAVERTEN OCAK
+              </NavLink>
+              <NavLink to="/urunler/waterjet/karo">
+                BRECCİA & BARDİGLİO OCAK
+              </NavLink>
+              <NavLink to="/urunler/waterjet/karo">
+                KIRMIZI TRAVERTEN OCAK
+              </NavLink>
+              <NavLink to="/urunler/waterjet/karo">
+                BURDUR BEJ MERMER OCAK
+              </NavLink>
+              <NavLink to="/urunler/waterjet/karo">
+                KLASİK & NOVE TRAVERTEN OCAK
+              </NavLink>
+            </div>
           </ul>
         </div>
         <div className="p-4 flex flex-col items-center flex-[4]">
