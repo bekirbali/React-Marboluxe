@@ -1,99 +1,14 @@
-export const urunlerDekoratifSampuanlik = [
-  [
-    {
-      image:
-        "/images/urunler/Dekoratif/Sampuanlik/alavoguesampuanlik-300x300.jpg",
-      name: "Dekoratif Ürünler – Şampuanlık 1001",
-      array: "urunler",
-      link1: "urunler",
-      linkName1: "Ürünler",
-      link2: "dekoratif",
-      linkName2: "Dekoratif Ürünler",
-      link3: "sampuanlik",
-      linkName3: "Şampuanlık",
-    },
-    {
-      image:
-        "/images/urunler/Dekoratif/Sampuanlik/classiclightsampuanlik-300x300.jpg",
-      name: "Dekoratif Ürünler – Şampuanlık 1002",
-      array: "urunler",
-      link1: "urunler",
-      linkName1: "Ürünler",
-      link2: "dekoratif",
-      linkName2: "Dekoratif Ürünler",
-      link3: "sampuanlik",
-      linkName3: "Şampuanlık",
-    },
-    {
-      image:
-        "/images/urunler/Dekoratif/Sampuanlik/dynastiesampuanlik-300x300.jpg",
-      name: "Dekoratif Ürünler – Şampuanlık 1003",
-      array: "urunler",
-      link1: "urunler",
-      linkName1: "Ürünler",
-      link2: "dekoratif",
-      linkName2: "Dekoratif Ürünler",
-      link3: "sampuanlik",
-      linkName3: "Şampuanlık",
-    },
-    {
-      image:
-        "/images/urunler/Dekoratif/Sampuanlik/euphoriesampuanlik-300x300.jpg",
-      name: "Dekoratif Ürünler – Şampuanlık 1004",
-      array: "urunler",
-      link1: "urunler",
-      linkName1: "Ürünler",
-      link2: "dekoratif",
-      linkName2: "Dekoratif Ürünler",
-      link3: "sampuanlik",
-      linkName3: "Şampuanlık",
-    },
-    {
-      image:
-        "/images/urunler/Dekoratif/Sampuanlik/eventailsampuanlik-300x300.jpg",
-      name: "Dekoratif Ürünler – Şampuanlık 1005",
-      array: "urunler",
-      link1: "urunler",
-      linkName1: "Ürünler",
-      link2: "dekoratif",
-      linkName2: "Dekoratif Ürünler",
-      link3: "sampuanlik",
-      linkName3: "Şampuanlık",
-    },
-    {
-      image: "/images/urunler/Dekoratif/Sampuanlik/pearlsampuanlik-300x300.jpg",
-      name: "Dekoratif Ürünler – Şampuanlık 1006",
-      array: "urunler",
-      link1: "urunler",
-      linkName1: "Ürünler",
-      link2: "dekoratif",
-      linkName2: "Dekoratif Ürünler",
-      link3: "sampuanlik",
-      linkName3: "Şampuanlık",
-    },
-    {
-      image:
-        "/images/urunler/Dekoratif/Sampuanlik/saffronsampuanlik-300x300.jpg",
-      name: "Dekoratif Ürünler – Şampuanlık 1007",
-      array: "urunler",
-      link1: "urunler",
-      linkName1: "Ürünler",
-      link2: "dekoratif",
-      linkName2: "Dekoratif Ürünler",
-      link3: "sampuanlik",
-      linkName3: "Şampuanlık",
-    },
-    {
-      image:
-        "/images/urunler/Dekoratif/Sampuanlik/warmwalnutsampuanlik-300x300.jpg",
-      name: "Dekoratif Ürünler – Şampuanlık 1008",
-      array: "urunler",
-      link1: "urunler",
-      linkName1: "Ürünler",
-      link2: "dekoratif",
-      linkName2: "Dekoratif Ürünler",
-      link3: "sampuanlik",
-      linkName3: "Şampuanlık",
-    },
-  ],
+export const afyonOcak = [
+  { image: "/images/ocaklar/AfyonBeyazMermerOcak/ocak2-6-scaled-533x400.avif" },
+  { image: "/images/ocaklar/AfyonBeyazMermerOcak/ocak8-4-601x400.avif" },
+  { image: "/images/ocaklar/AfyonBeyazMermerOcak/ocak9-4-266x400.avif" },
+  { image: "/images/ocaklar/AfyonBeyazMermerOcak/ocak10-4-600x400.avif" },
+  { image: "/images/ocaklar/AfyonBeyazMermerOcak/Afyon1-711x400.avif" },
 ];
+export const marmaraOcak = [];
+export const gümüsOcak = [];
+export const beyazOcak = [];
+export const brecciaOcak = [];
+export const kirmiziOcak = [];
+export const burdurOcak = [];
+export const klasikOcak = [];
