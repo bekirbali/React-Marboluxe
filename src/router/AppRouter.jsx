@@ -5,7 +5,7 @@ import DogalTaslar from "../pages/dogal-taslar/DogalTaslar";
 import DogalTaslarMermer from "../pages/dogal-taslar/mermer/DogalTaslarMermer";
 import Home from "../pages/Home";
 import Kataloglar from "../pages/Kataloglar";
-import Ocaklar from "../pages/Ocaklar";
+import Ocaklar from "../pages/ocaklar/Ocaklar";
 import OzelKoleksiyon from "../pages/OzelKoleksiyon";
 import Plakalar from "../pages/plakalar/Plakalar";
 import Projeler from "../pages/Projeler";
