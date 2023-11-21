@@ -79,3 +79,5 @@ export const klasikOcak = [
   { image: "/images/ocaklar/KlasikNoceTravertenOcak/3-ocak5-534x400.avif" },
   { image: "/images/ocaklar/KlasikNoceTravertenOcak/4-ocak4-534x400.avif" },
 ];
+
+export const ocaklar = [];
