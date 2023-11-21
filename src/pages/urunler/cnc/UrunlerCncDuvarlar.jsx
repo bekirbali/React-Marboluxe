@@ -42,7 +42,7 @@ const UrunlerCncDuvarlar = () => {
         </div>
       </div>
       <div className="main-holder-dogalTas flex justify-between w-[90%] mx-auto ">
-        <div className="flex-[1] ">
+        <div className="hidden sm:block flex-[1] ">
           <SideBar />
         </div>
 

@@ -1,10 +1,10 @@
 import React from "react";
-import { beyazOcak } from "../../utils";
+import { kirmiziOcak } from "../../utils";
 import { Link, NavLink, useNavigate } from "react-router-dom";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 import { useTranslation } from "react-i18next";
 
-const BeyazOcak = () => {
+const KirmiziOcak = () => {
   const navigate = useNavigate();
 
   const { t } = useTranslation();
@@ -12,17 +12,17 @@ const BeyazOcak = () => {
   return (
     <>
       <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
-        <h2>BeyazOcak</h2>
+        <h2>KirmiziOcak</h2>
         <div className="flex justify-center items-center flex-wrap gap-1">
           <Link to="/">Marboluxe</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <p>{t("BeyazOcak")}</p>
+          <p>{t("KirmiziOcak")}</p>
         </div>
       </div>
-      <div className="main-holder-BeyazOcak flex justify-between w-[90%] mx-auto">
+      <div className="main-holder-KirmiziOcak flex justify-between w-[90%] mx-auto">
         <div className="hidden sm:block flex-[1]">
           <ul className="waterjet flex flex-col mt-8 text-[#666]">
             <NavLink
@@ -77,7 +77,7 @@ const BeyazOcak = () => {
         </div>
         <div className="p-4 flex flex-col items-center flex-[4] mt-8">
           <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
-            {beyazOcak.map((tas, index) => {
+            {kirmiziOcak.map((tas, index) => {
               return (
                 <div
                   key={index}
@@ -103,4 +103,4 @@ const BeyazOcak = () => {
   );
 };
 
-export default BeyazOcak;
+export default KirmiziOcak;
