@@ -23,7 +23,7 @@ const AfyonOcak = () => {
         </div>
       </div>
       <div className="main-holder-AfyonOcak flex justify-between w-[90%] mx-auto">
-        <div className="flex-[1]">
+        <div className="hidden sm:block flex-[1]">
           <ul className="waterjet flex flex-col mt-8 text-[#666]">
             <NavLink
               to="/urunler/waterjet/madalyon"

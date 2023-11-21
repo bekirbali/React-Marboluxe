@@ -45,7 +45,7 @@ const TezgahlarKuvarsCalisco = () => {
         </div>
       </div>
       <div className="main-holder-plakalar flex justify-between w-[90%] mx-auto ">
-        <div className="flex-[1] ">
+        <div className="hidden sm:block flex-[1] ">
           <SideBar />
         </div>
         <div className="p-4 flex flex-col items-center flex-[4] mt-8">

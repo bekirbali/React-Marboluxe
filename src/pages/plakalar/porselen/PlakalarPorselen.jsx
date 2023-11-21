@@ -64,7 +64,7 @@ const PlakalarPorselen = () => {
         </div>
       </div>
       <div className="main-holder-PlakalarPorselen flex justify-between w-[90%] mx-auto ">
-        <div className="flex-[1] ">
+        <div className="hidden sm:block flex-[1] ">
           <SideBar />
         </div>
         <div className="p-4 flex flex-col items-center flex-[4] mt-8">
@@ -100,15 +100,17 @@ const PlakalarPorselen = () => {
                 onClick={backHandler}
               />
             </button>
-            {plakalarPorselen.map((item, index) => (
-              <p
-                key={index}
-                onClick={(e) => setPage(e.target.innerText - 1)}
-                className="border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3"
-              >
-                {index + 1}
-              </p>
-            ))}
+            <div className="flex flex-wrap gap-2">
+              {plakalarPorselen.map((item, index) => (
+                <p
+                  key={index}
+                  onClick={(e) => setPage(e.target.innerText - 1)}
+                  className="border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3"
+                >
+                  {index + 1}
+                </p>
+              ))}
+            </div>
             <button>
               <BsFillArrowRightCircleFill
                 size={24}

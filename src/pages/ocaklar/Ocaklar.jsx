@@ -26,7 +26,7 @@ const Ocaklar = () => {
         </div>
       </div>
       <div className="main-holder-ocaklar flex justify-between w-[90%] mx-auto">
-        <div className="flex-[1]">
+        <div className="hidden sm:block flex-[1]">
           <OcaklarSideBar />
         </div>
         <div className="p-4 flex flex-col items-center flex-[4] mt-8">
