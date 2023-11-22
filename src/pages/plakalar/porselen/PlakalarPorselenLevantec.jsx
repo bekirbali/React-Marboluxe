@@ -1,7 +1,6 @@
 import React, { useContext, useEffect } from "react";
 import { plakalarPorselenLevantec } from "../../../utils/index";
 import { Link, useNavigate } from "react-router-dom";
-import Breadcrumbs from "../../../components/Breadcrumbs";
 import SideBar from "../../../components/SideBar";
 import { MarboContext } from "../../../context/MarboContext";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
