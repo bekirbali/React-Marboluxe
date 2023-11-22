@@ -1,6 +1,5 @@
 import { tezgahlarPorselenSintered } from "../../../utils/index";
 import { Link, useNavigate } from "react-router-dom";
-import Breadcrumbs from "../../../components/Breadcrumbs";
 import SideBar from "../../../components/SideBar";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 import { useTranslation } from "react-i18next";

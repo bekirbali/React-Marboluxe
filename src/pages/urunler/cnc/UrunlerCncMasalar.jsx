@@ -1,7 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import { urunlerCncMasalar } from "../../../utils";
 import { Link, useNavigate } from "react-router-dom";
-import Breadcrumbs from "../../../components/Breadcrumbs";
 import {
   BsFillArrowLeftCircleFill,
   BsFillArrowRightCircleFill,

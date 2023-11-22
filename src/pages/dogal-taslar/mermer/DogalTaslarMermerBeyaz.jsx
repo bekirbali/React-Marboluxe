@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { dogalTaslarMermerBeyaz } from "../../../utils";
 import { Link, useNavigate } from "react-router-dom";
-import Breadcrumbs from "../../../components/Breadcrumbs";
 import SideBar from "../../../components/SideBar";
 import {
   BsFillArrowLeftCircleFill,

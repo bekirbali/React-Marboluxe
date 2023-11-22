@@ -1,14 +1,12 @@
 import React, { useContext, useEffect, useState } from "react";
 import { plakalar } from "../../utils/index";
 import { Link, useNavigate } from "react-router-dom";
-import Breadcrumbs from "../../components/Breadcrumbs";
 import SideBar from "../../components/SideBar";
 import { MarboContext } from "../../context/MarboContext";
 import {
   BsFillArrowLeftCircleFill,
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
-import { PaginatedItems } from "../../components/Buttons";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 import { useTranslation } from "react-i18next";
 

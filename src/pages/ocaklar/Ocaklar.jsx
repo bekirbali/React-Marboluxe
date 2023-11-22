@@ -1,7 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 import { ocaklar } from "../../utils";
-import { Link, NavLink, useNavigate } from "react-router-dom";
-import Breadcrumbs from "../../components/Breadcrumbs";
+import { Link, useNavigate } from "react-router-dom";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 import { useTranslation } from "react-i18next";
 import OcaklarSideBar from "../../components/OcaklarSideBar";

@@ -1,7 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import { tezgahlarKuvars } from "../../../utils";
 import { Link, useNavigate } from "react-router-dom";
-import Breadcrumbs from "../../../components/Breadcrumbs";
 import SideBar from "../../../components/SideBar";
 import { MarboContext } from "../../../context/MarboContext";
 import {
