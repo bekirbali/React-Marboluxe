@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { ozelKoleksiyon } from "../utils";
-import { Link, useLocation, useNavigate } from "react-router-dom";
-import Breadcrumbs from "../components/Breadcrumbs";
+import { Link, useNavigate } from "react-router-dom";
 import SideBar from "../components/SideBar";
 import {
   BsFillArrowLeftCircleFill,
@@ -12,8 +11,6 @@ import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 const OzelKoleksiyon = () => {
   const [page, setPage] = useState(0);
   const navigate = useNavigate();
-  const location = useLocation();
-  const { state } = location;
 
   const backHandler = () => {
     if (page === 0) {
