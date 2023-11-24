@@ -79,6 +79,14 @@ import UrunlerDekoratifSampuanlik from "../pages/urunler/dekoratif/UrunlerDekora
 import UrunlerDekoratifSove from "../pages/urunler/dekoratif/UrunlerDekoratifSove";
 import UrunlerDekoratifSupurgelik from "../pages/urunler/dekoratif/UrunlerDekoratifSupurgelik";
 import UrunlerDekoratifSutun from "../pages/urunler/dekoratif/UrunlerDekoratifSutun";
+import AfyonOcak from "../pages/ocaklar/AfyonOcak";
+import BeyazOcak from "../pages/ocaklar/BeyazOcak";
+import BrecciaOcak from "../pages/ocaklar/BrecciaOcak";
+import BurdurOcak from "../pages/ocaklar/BurdurOcak";
+import GümüsOcak from "../pages/ocaklar/GümüsOcak";
+import KirmiziOcak from "../pages/ocaklar/KirmiziOcak";
+import KlasikOcak from "../pages/ocaklar/KlasikOcak";
+import MarmaraOcak from "../pages/ocaklar/MarmaraOcak";
 
 const AppRouter = () => {
   return (
@@ -492,8 +500,22 @@ const AppRouter = () => {
             <Route path="urunler/dekoratif/sutun/:name" element={<Details />} />
           </>
         </>
-        <Route path="ocaklar" element={<Ocaklar />} />
-        <Route path="ocaklar/:name" element={<Details />} />
+
+        {/* Ocaklar */}
+        <>
+          <Route path="ocaklar" element={<Ocaklar />} />
+          <Route path="ocaklar/afyon-beyaz-mermer" element={<AfyonOcak />} />
+          <Route
+            path="ocaklar/marmara-beyaz-mermer"
+            element={<MarmaraOcak />}
+          />
+          <Route path="ocaklar/breccia-bardiglio" element={<BrecciaOcak />} />
+          <Route path="ocaklar/burdur-bej-mermer" element={<BurdurOcak />} />
+          <Route path="ocaklar/gümüs-traverten" element={<GümüsOcak />} />
+          <Route path="ocaklar/kirmizi-traverten" element={<KirmiziOcak />} />
+          <Route path="ocaklar/klasik-nove" element={<KlasikOcak />} />
+          <Route path="ocaklar/beyaz-traverten" element={<BeyazOcak />} />
+        </>
         <Route path="kataloglar" element={<Kataloglar />} />
         <Route path="kataloglar/:name" element={<Details />} />
         <Route path="ozel-koleksiyon" element={<OzelKoleksiyon />} />
