@@ -1,6 +1,4 @@
-const searchArray = [];
-
-export const dogalTaslar = [
+const searchArray = [
   [
     {
       image: "/images/dogal/Oniks/Blue-Ice-Onyx-1-300x300.avif",
@@ -2233,9 +2231,6 @@ export const dogalTaslar = [
       linkName1: "Doğal Taşlar",
     },
   ],
-];
-
-export const urunler = [
   [
     {
       image: "/images/urunler/Cnc/Masalar/Referans-1-300x300.jpg",
@@ -4842,9 +4837,6 @@ export const urunler = [
       linkName1: "Ürünler",
     },
   ],
-];
-
-export const plakalar = [
   [
     {
       image:
@@ -9639,9 +9631,6 @@ export const plakalar = [
       linkName1: "Plakalar",
     },
   ],
-];
-
-export const tezgahlar = [
   [
     {
       image:
