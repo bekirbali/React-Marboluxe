@@ -881,11 +881,13 @@ import { Link } from "react-router-dom";
 import i18n from "../utils/i18n";
 import Flag from "react-flagkit";
 import { useTranslation } from "react-i18next";
-import { useContext } from "react";
+import { useContext, useState } from "react";
 import { MarboContext } from "../context/MarboContext";
 
 export default function NavbarWithDropdown() {
   const { setShow } = useContext(MarboContext);
+
+  const [text, setText] = useState("");
 
   const { t } = useTranslation();
 
@@ -898,32 +900,39 @@ export default function NavbarWithDropdown() {
     i18n.changeLanguage("en");
     setShow(false);
   };
+
+  const changeHandler = (e) => {
+    console.log(e.target.value);
+    setText(e.target.value);
+  };
   return (
-    <Navbar fluid>
-      <div className="flex gap-4">
-        <Link to="/" className="flex md:mx-auto lg:mx-0">
-          <img
-            src={logo}
-            className="mr-3 h-6 sm:h-9"
-            alt="Flowbite React Logo"
+    <>
+      <input type="text" name="" onChange={changeHandler} value={text} />
+      <Navbar fluid>
+        <div className="flex gap-4">
+          <Link to="/" className="flex md:mx-auto lg:mx-0">
+            <img
+              src={logo}
+              className="mr-3 h-6 sm:h-9"
+              alt="Flowbite React Logo"
+            />
+            <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
+              Marboluxe
+            </span>
+          </Link>
+          <Flag
+            country="TR"
+            onClick={changeTr}
+            className="hover:cursor-pointer"
           />
-          <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
-            Marboluxe
-          </span>
-        </Link>
-        <Flag
-          country="TR"
-          onClick={changeTr}
-          className="hover:cursor-pointer"
-        />
-        <Flag
-          country="US"
-          onClick={changeEn}
-          className="hover:cursor-pointer"
-        />
-      </div>
-      {/* eslint-disable-next-line flowtype/require-valid-file-annotation*/}
-      {/* <div className="flex md:order-1">
+          <Flag
+            country="US"
+            onClick={changeEn}
+            className="hover:cursor-pointer"
+          />
+        </div>
+        {/* eslint-disable-next-line flowtype/require-valid-file-annotation*/}
+        {/* <div className="flex md:order-1">
         <Dropdown
           arrowIcon={false}
           inline
@@ -960,57 +969,58 @@ export default function NavbarWithDropdown() {
           <Dropdown.Item>Mermer</Dropdown.Item>
         </Dropdown>
       </div> */}
-      <Navbar.Toggle />
-      <Navbar.Collapse className="md:order-2">
-        <Link
-          to="/ozel-koleksiyon"
-          className="hover:text-cyan-700 transition ease-in-out duration-200"
-        >
-          {t("ozel koleksiyon")}
-        </Link>
-        <Link
-          to="/dogal-taslar"
-          className="hover:text-cyan-700 transition ease-in-out duration-200"
-        >
-          {t("dogal taslar")}
-        </Link>
-        <Link
-          to="/plakalar"
-          className="hover:text-cyan-700 transition ease-in-out duration-200"
-        >
-          {t("plakalar")}
-        </Link>
-        <Link
-          to="/tezgahlar"
-          className="hover:text-cyan-700 transition ease-in-out duration-200"
-        >
-          {t("tezgahlar")}
-        </Link>
-        <Link
-          to="/ocaklar"
-          className="hover:text-cyan-700 transition ease-in-out duration-200"
-        >
-          {t("ocaklar")}
-        </Link>
-        <Link
-          to="/urunler"
-          className="hover:text-cyan-700 transition ease-in-out duration-200"
-        >
-          {t("urunler")}
-        </Link>
-        <Link
-          to="/projeler"
-          className="hover:text-cyan-700 transition ease-in-out duration-200"
-        >
-          {t("projeler")}
-        </Link>
-        <Link
-          to="/kataloglar"
-          className="hover:text-cyan-700 transition ease-in-out duration-200"
-        >
-          {t("kataloglar")}
-        </Link>
-      </Navbar.Collapse>
-    </Navbar>
+        <Navbar.Toggle />
+        <Navbar.Collapse className="md:order-2">
+          <Link
+            to="/ozel-koleksiyon"
+            className="hover:text-cyan-700 transition ease-in-out duration-200"
+          >
+            {t("ozel koleksiyon")}
+          </Link>
+          <Link
+            to="/dogal-taslar"
+            className="hover:text-cyan-700 transition ease-in-out duration-200"
+          >
+            {t("dogal taslar")}
+          </Link>
+          <Link
+            to="/plakalar"
+            className="hover:text-cyan-700 transition ease-in-out duration-200"
+          >
+            {t("plakalar")}
+          </Link>
+          <Link
+            to="/tezgahlar"
+            className="hover:text-cyan-700 transition ease-in-out duration-200"
+          >
+            {t("tezgahlar")}
+          </Link>
+          <Link
+            to="/ocaklar"
+            className="hover:text-cyan-700 transition ease-in-out duration-200"
+          >
+            {t("ocaklar")}
+          </Link>
+          <Link
+            to="/urunler"
+            className="hover:text-cyan-700 transition ease-in-out duration-200"
+          >
+            {t("urunler")}
+          </Link>
+          <Link
+            to="/projeler"
+            className="hover:text-cyan-700 transition ease-in-out duration-200"
+          >
+            {t("projeler")}
+          </Link>
+          <Link
+            to="/kataloglar"
+            className="hover:text-cyan-700 transition ease-in-out duration-200"
+          >
+            {t("kataloglar")}
+          </Link>
+        </Navbar.Collapse>
+      </Navbar>
+    </>
   );
 }
