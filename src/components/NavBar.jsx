@@ -885,10 +885,8 @@ import { useContext, useState } from "react";
 import { MarboContext } from "../context/MarboContext";
 
 export default function NavbarWithDropdown() {
-  const { setShow } = useContext(MarboContext);
+  const { setShow, searchText, setSearchText } = useContext(MarboContext);
   const navigate = useNavigate();
-
-  const [text, setText] = useState("");
 
   const { t } = useTranslation();
 
@@ -904,17 +902,22 @@ export default function NavbarWithDropdown() {
 
   const changeHandler = (e) => {
     console.log(e.target.value);
-    setText(e.target.value);
-    navigate("/search-results");
+    setSearchText(e.target.value);
   };
-  const submitHandler = () => {
+  const submitHandler = (e) => {
+    e.preventDefault();
     navigate("/search-results");
   };
 
   return (
     <>
-      <form onSubmit={submitHandler}>
-        <input type="text" name="" onChange={changeHandler} value={text} />
+      <form onSubmit={submitHandler} className="text-right pr-2 pt-1">
+        <input
+          type="text"
+          onChange={changeHandler}
+          value={searchText}
+          className="p-1"
+        />
       </form>
       <Navbar fluid>
         <div className="flex gap-4">
