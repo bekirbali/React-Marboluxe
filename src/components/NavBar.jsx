@@ -877,7 +877,7 @@
 import { Navbar } from "flowbite-react";
 import logo from "../assets/logoForMarboLuxe.jpeg";
 import "../app.css";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import i18n from "../utils/i18n";
 import Flag from "react-flagkit";
 import { useTranslation } from "react-i18next";
@@ -886,6 +886,7 @@ import { MarboContext } from "../context/MarboContext";
 
 export default function NavbarWithDropdown() {
   const { setShow } = useContext(MarboContext);
+  const navigate = useNavigate();
 
   const [text, setText] = useState("");
 
@@ -904,10 +905,17 @@ export default function NavbarWithDropdown() {
   const changeHandler = (e) => {
     console.log(e.target.value);
     setText(e.target.value);
+    navigate("/search-results");
   };
+  const submitHandler = () => {
+    navigate("/search-results");
+  };
+
   return (
     <>
-      <input type="text" name="" onChange={changeHandler} value={text} />
+      <form onSubmit={submitHandler}>
+        <input type="text" name="" onChange={changeHandler} value={text} />
+      </form>
       <Navbar fluid>
         <div className="flex gap-4">
           <Link to="/" className="flex md:mx-auto lg:mx-0">
