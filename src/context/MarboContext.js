@@ -18,10 +18,14 @@ const MarboContextProvider = ({ children }) => {
   const [waterjet, setWaterjet] = useState(false);
   const [dekoratifUrunler, setDekoratifUrunler] = useState(false);
   const [mozaik, setMozaik] = useState(false);
+  // for the 6 article about stone on the Turkish home page
   const [show, setShow] = useState(false);
+  const [searchText, setSearchText] = useState("");
   const values = {
     show,
     setShow,
+    searchText,
+    setSearchText,
     tezgahlar,
     setTezgahlar,
     dogalTaslar,
