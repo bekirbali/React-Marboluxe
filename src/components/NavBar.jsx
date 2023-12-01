@@ -881,7 +881,7 @@ import { Link, useNavigate } from "react-router-dom";
 import i18n from "../utils/i18n";
 import Flag from "react-flagkit";
 import { useTranslation } from "react-i18next";
-import { useContext, useState } from "react";
+import { useContext } from "react";
 import { MarboContext } from "../context/MarboContext";
 
 export default function NavbarWithDropdown() {
@@ -901,7 +901,6 @@ export default function NavbarWithDropdown() {
   };
 
   const changeHandler = (e) => {
-    console.log(e.target.value);
     setSearchText(e.target.value);
   };
   const submitHandler = (e) => {

@@ -524,6 +524,7 @@ const AppRouter = () => {
         <Route path="projeler" element={<Projeler />} />
         <Route path="projeler/:name" element={<Details />} />
         <Route path="search-results" element={<SearchResult />} />
+        <Route path="search-results/:name" element={<Details />} />
       </Routes>
       <Footer />
     </>
