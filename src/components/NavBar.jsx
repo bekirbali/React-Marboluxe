@@ -874,7 +874,7 @@
 
 // export default NavBar;
 
-import { Navbar } from "flowbite-react";
+import { Dropdown, Navbar } from "flowbite-react";
 import logo from "../assets/logoForMarboLuxe.jpeg";
 import "../app.css";
 import { Link, useNavigate } from "react-router-dom";
@@ -883,10 +883,17 @@ import Flag from "react-flagkit";
 import { useTranslation } from "react-i18next";
 import { useContext } from "react";
 import { MarboContext } from "../context/MarboContext";
+import { SlMagnifier } from "react-icons/sl";
 
 export default function NavbarWithDropdown() {
   const { setShow, searchText, setSearchText } = useContext(MarboContext);
   const navigate = useNavigate();
+
+  const customTheme = {
+    color: {
+      primary: "bg-none focus:bg-none hover:bg-yellow-500",
+    },
+  };
 
   const { t } = useTranslation();
 
@@ -902,6 +909,7 @@ export default function NavbarWithDropdown() {
 
   const changeHandler = (e) => {
     setSearchText(e.target.value);
+    console.log(searchText);
   };
   const submitHandler = (e) => {
     e.preventDefault();
@@ -910,14 +918,45 @@ export default function NavbarWithDropdown() {
 
   return (
     <>
-      <form onSubmit={submitHandler} className="text-right pr-2 pt-1">
-        <input
-          type="text"
-          onChange={changeHandler}
-          value={searchText}
-          className="p-1"
-        />
-      </form>
+      <div className="flex justify-end h-6 items-center bg-slate-900 p-4">
+        <form onSubmit={submitHandler} className="text-right pr-2 pt-1">
+          <Dropdown
+            style={{ background: "none", color: "white" }}
+            theme={customTheme}
+            color="primary"
+            label={<SlMagnifier />}
+            dismissOnClick={false}
+            arrowIcon={false}
+          >
+            <input
+              type="text"
+              onChange={changeHandler}
+              value={searchText}
+              className="p-1"
+            />
+          </Dropdown>
+        </form>
+        <div>
+          <Dropdown
+            className="flex gap-4"
+            style={{ background: "none" }}
+            label={`${t("dil")}`}
+          >
+            <Dropdown.Item>
+              <Flag
+                country="TR"
+                onClick={changeTr}
+                className="hover:cursor-pointer"
+              />
+              <Flag
+                country="US"
+                onClick={changeEn}
+                className="hover:cursor-pointer"
+              />
+            </Dropdown.Item>
+          </Dropdown>
+        </div>
+      </div>
       <Navbar fluid>
         <div className="flex gap-4">
           <Link to="/" className="flex md:mx-auto lg:mx-0">
@@ -930,16 +969,6 @@ export default function NavbarWithDropdown() {
               Marboluxe
             </span>
           </Link>
-          <Flag
-            country="TR"
-            onClick={changeTr}
-            className="hover:cursor-pointer"
-          />
-          <Flag
-            country="US"
-            onClick={changeEn}
-            className="hover:cursor-pointer"
-          />
         </div>
         {/* eslint-disable-next-line flowtype/require-valid-file-annotation*/}
         {/* <div className="flex md:order-1">
