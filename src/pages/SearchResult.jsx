@@ -87,7 +87,9 @@ const SearchResult = () => {
     // </>
     <div>
       {filteredSearchArray.length
-        ? filteredSearchArray.map((item) => <p>{item.name} </p>)
+        ? filteredSearchArray.map((item, index) => (
+            <p key={index}>{item.name}</p>
+          ))
         : "no matched"}
     </div>
   );
