@@ -921,6 +921,7 @@ export default function NavbarWithDropdown() {
       <div className="flex justify-end h-6 items-center bg-slate-900 p-4">
         <form onSubmit={submitHandler} className="text-right pr-2 pt-1">
           <Dropdown
+            className="dropdownMe"
             style={{ background: "none", color: "white" }}
             theme={customTheme}
             color="primary"
