@@ -94,3 +94,8 @@ svg:not(.arrow-right) {
 
 .dropdownMe {
 }
+
+.dropdownMe:focus {
+  border: none;
+  outline: none;
+}

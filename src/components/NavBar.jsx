@@ -889,12 +889,6 @@ export default function NavbarWithDropdown() {
   const { setShow, searchText, setSearchText } = useContext(MarboContext);
   const navigate = useNavigate();
 
-  const customTheme = {
-    color: {
-      primary: "bg-none focus:bg-none hover:bg-yellow-500",
-    },
-  };
-
   const { t } = useTranslation();
 
   const changeTr = () => {
@@ -919,43 +913,28 @@ export default function NavbarWithDropdown() {
   return (
     <>
       <div className="flex justify-end h-6 items-center bg-slate-900 p-4">
-        <form onSubmit={submitHandler} className="text-right pr-2 pt-1">
-          <Dropdown
-            className="dropdownMe"
-            style={{ background: "none", color: "white" }}
-            theme={customTheme}
-            color="primary"
-            label={<SlMagnifier />}
-            dismissOnClick={false}
-            arrowIcon={false}
-          >
-            <input
-              type="text"
-              onChange={changeHandler}
-              value={searchText}
-              className="p-1"
-            />
-          </Dropdown>
-        </form>
-        <div>
-          <Dropdown
-            className="flex gap-4"
-            style={{ background: "none" }}
-            label={`${t("dil")}`}
-          >
-            <Dropdown.Item>
-              <Flag
-                country="TR"
-                onClick={changeTr}
-                className="hover:cursor-pointer"
+        <button
+          id="dropdownDefaultButton"
+          data-dropdown-toggle="dropdown"
+          className="text-white font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center "
+          type="button"
+        >
+          <SlMagnifier />
+        </button>
+        <div
+          id="dropdown"
+          className="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700"
+        >
+          <ul className="relative">
+            <form onSubmit={submitHandler} className="absolute right-8">
+              <input
+                className="focus:outline-none focus:ring-0"
+                type="text"
+                value={searchText}
+                onChange={changeHandler}
               />
-              <Flag
-                country="US"
-                onClick={changeEn}
-                className="hover:cursor-pointer"
-              />
-            </Dropdown.Item>
-          </Dropdown>
+            </form>
+          </ul>
         </div>
       </div>
       <Navbar fluid>
