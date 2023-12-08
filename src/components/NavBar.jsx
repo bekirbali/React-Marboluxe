@@ -874,7 +874,10 @@
 
 // export default NavBar;
 
-import { Dropdown, Navbar } from "flowbite-react";
+import {
+  // Dropdown,
+  Navbar,
+} from "flowbite-react";
 import logo from "../assets/logoForMarboLuxe.jpeg";
 import "../app.css";
 import { Link, useNavigate } from "react-router-dom";
@@ -913,6 +916,18 @@ export default function NavbarWithDropdown() {
   return (
     <>
       <div className="flex justify-end h-6 items-center bg-slate-900 p-4">
+        <div className="flex gap-4">
+          <Flag
+            country="TR"
+            onClick={changeTr}
+            className="hover:cursor-pointer"
+          />
+          <Flag
+            country="US"
+            onClick={changeEn}
+            className="hover:cursor-pointer"
+          />
+        </div>
         <button
           id="dropdownDefaultButton"
           data-dropdown-toggle="dropdown"
