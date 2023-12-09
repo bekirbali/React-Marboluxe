@@ -26,9 +26,24 @@ const Projeler = () => {
   };
   return (
     <>
-      <Breadcrumbs />
+      <div className="h-[120px] flex justify-center items-center bg-slate-700 text-white">
+        <h1 className="font-bold text-3xl">PROJELER</h1>
+      </div>
+      <div className="tabs">
+        <ul className="flex gap-4 justify-center items-center tabs-list  h-[60px]">
+          <li>TÜMÜ</li>
+          <li>AVM</li>
+          <li>BANYO</li>
+          <li>DIŞ MEKAN</li>
+          <li>İÇ MEKAN</li>
+          <li>KONUT - REZİDANS</li>
+          <li>OFİS - MAĞAZA</li>
+          <li>OTEL</li>
+          <li>RESTAURANT - CAFE</li>
+          <li>RESTORASYON</li>
+        </ul>
+      </div>
       <div className="p-4 flex flex-col items-center">
-        <h1 className="text-center text-3xl font-bold my-4">Projeler</h1>
         <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
           {dogalTaslar[page].map((tas, index) => {
             return (
