@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { dogalTaslar } from "../utils";
 import { useNavigate } from "react-router-dom";
-import Breadcrumbs from "../components/Breadcrumbs";
 
 const Projeler = () => {
   const [page, setPage] = useState(0);
