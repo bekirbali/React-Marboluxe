@@ -2,12 +2,12 @@ import React, { useContext, useEffect, useState } from "react";
 
 import { searchArray } from "../utils";
 import { MarboContext } from "../context/MarboContext";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import SideBar from "../components/SideBar";
-import { memo } from "react";
+import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 
 const SearchResult = () => {
-  const { searchText } = useContext(MarboContext);
+  const { searchText, dropdown } = useContext(MarboContext);
   const [filteredSearchArray, setFilteredSearchArray] = useState([]);
 
   const navigate = useNavigate();
@@ -23,76 +23,46 @@ const SearchResult = () => {
 
   useEffect(() => {
     settingArray();
-  }, []);
+  }, [searchText]);
 
   return (
-    // <div className="main-holder-plakalar flex justify-between w-[90%] mx-auto ">
-    //   <div className="hidden sm:block flex-[1] ">
-    //     <SideBar />
-    //   </div>
-    //   <div className="p-4 flex flex-col items-center mb-24 flex-[4] mt-8">
-    //     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
-    //       {searchArray.map((item, index) =>
-    //         item
-    //           .filter((marble) =>
-    //             marble.name.toLowerCase().includes(searchText.toLowerCase())
-    //           )
-    //           .map((test) => {
-    //             return (
-    //               <div
-    //                 key={Math.random()}
-    //                 className="flex flex-col items-center justify-center shadow-sm shadow-cyan-700 max-w-[300px]"
-    //               >
-    //                 <div
-    //                   onClick={() => navigate(`${test.name}`, { state: test })}
-    //                   className="w-full overflow-hidden"
-    //                 >
-    //                   <img
-    //                     src={test.image}
-    //                     alt="test"
-    //                     className="w-full hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
-    //                   />
-    //                 </div>
-    //                 <p className="text-center p-2 h-20 items-center flex">
-    //                   {test.name} - {test.linkName1}
-    //                 </p>
-    //               </div>
-    //             );
-    //           })
-    //       )}
-    //     </div>
-    //   </div>
-    // </div>
-    // <>
-    //   {filteredSearchArray.length < 0 ? (
-    //     <>
-    //       <div>
-    //         <h1>no matched items</h1>
-    //       </div>
-    //     </>
-    //   ) : (
-    //     <div className="main-holder-plakalar flex justify-between w-[90%] mx-auto ">
-    //       <div className="hidden sm:block flex-[1] ">
-    //         <SideBar />
-    //       </div>
-    //       <div className="p-4 flex flex-col items-center mb-24 flex-[4] mt-8">
-    //         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
-    //           {filteredSearchArray.map((item) =>
-    //             item.map((marble) => marble.name)
-    //           )}
-    //         </div>
-    //       </div>
-    //     </div>
-    //   )}
-    // </>
-    <div>
-      {filteredSearchArray.length
-        ? filteredSearchArray.map((item, index) => (
-            <p key={index}>{item.name}</p>
-          ))
-        : "no matched"}
-    </div>
+    <>
+      <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
+        <h2 className="text-2xl font-bold">
+          "{searchText}" İçin Arama Sonuçları
+        </h2>
+        <div className="flex justify-center items-center flex-wrap gap-1">
+          <Link to="/">Marboluxe</Link>
+          <MdKeyboardDoubleArrowRight
+            className="mt-1 hover:cursor-default arrow-right"
+            size={12}
+          />
+          <p>{searchText}</p>
+        </div>
+      </div>
+      <div className="main-holder-plakalar flex justify-between w-[90%] mx-auto min-h-[62vh]">
+        <div className="hidden sm:block flex-[1] ">
+          <SideBar />
+        </div>
+        <div className="p-4 flex flex-col items-center mb-24 flex-[4] mt-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-center gap-4">
+            {filteredSearchArray.length
+              ? filteredSearchArray.map((item, index) => (
+                  <div
+                    key={index}
+                    onClick={() => navigate(`${item.name}`, { state: item })}
+                    className="flex flex-col items-center justify-center shadow-sm shadow-cyan-700 max-w-[300px] hover:cursor-pointer"
+                  >
+                    <img src={item.image} alt="" />
+                    <p className="hover:cursor-pointer">{item.name}</p>
+                  </div>
+                ))
+              : "no matched"}
+          </div>
+        </div>
+      </div>
+    </>
   );
 };
 
-export default memo(SearchResult);
+export default SearchResult;
