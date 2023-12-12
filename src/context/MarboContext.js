@@ -21,6 +21,8 @@ const MarboContextProvider = ({ children }) => {
   // for the 6 article about stone on the Turkish home page
   const [show, setShow] = useState(false);
   const [searchText, setSearchText] = useState("");
+  const [dropdown, setDropdown] = useState(false);
+
   const values = {
     show,
     setShow,
@@ -56,6 +58,8 @@ const MarboContextProvider = ({ children }) => {
     setDekoratifUrunler,
     mozaik,
     setMozaik,
+    dropdown,
+    setDropdown,
   };
   return (
     <MarboContext.Provider value={values}>{children}</MarboContext.Provider>

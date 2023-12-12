@@ -889,8 +889,9 @@ import { MarboContext } from "../context/MarboContext";
 import { SlMagnifier } from "react-icons/sl";
 
 export default function NavbarWithDropdown() {
-  const { setShow, searchText, setSearchText } = useContext(MarboContext);
-  const [dropdown, setDropdown] = useState(false);
+  const { setShow, searchText, setSearchText, dropdown, setDropdown } =
+    useContext(MarboContext);
+
   const navigate = useNavigate();
 
   const { t } = useTranslation();
@@ -912,11 +913,13 @@ export default function NavbarWithDropdown() {
   const submitHandler = (e) => {
     e.preventDefault();
     setDropdown(false);
+
     navigate("/search-results");
   };
 
   const dropdownHandler = () => {
     setDropdown(!dropdown);
+    // if (!dropdown) return setSearchText("");
   };
 
   return (

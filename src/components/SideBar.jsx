@@ -3,6 +3,7 @@ import { NavLink } from "react-router-dom";
 import "../app.css";
 import { MarboContext } from "../context/MarboContext";
 import { useTranslation } from "react-i18next";
+import { IoIosArrowDown, IoIosArrowUp } from "react-icons/io";
 
 const SideBar = () => {
   const {
@@ -40,30 +41,34 @@ const SideBar = () => {
       <div className="border-b-2 border-gray-500 w-12"></div>
 
       <div className="tezgahlar border-b-2 border-gray-300 pb-2 ">
-        <NavLink
-          className={({ isActive }) => (isActive ? "active" : "")}
-          to="/tezgahlar"
-        >
-          {t("tezgahlar")}
-        </NavLink>
-        <button onClick={() => setTezgahlar(!tezgahlar)} className="ml-2">
-          {tezgahlar ? "↑" : "↓"}
-        </button>
+        <div className=" flex items-center">
+          <NavLink
+            className={({ isActive }) => (isActive ? "active" : "")}
+            to="/tezgahlar"
+          >
+            {t("tezgahlar")}
+          </NavLink>
+          <button onClick={() => setTezgahlar(!tezgahlar)} className="ml-2">
+            {tezgahlar ? <IoIosArrowUp /> : <IoIosArrowDown />}
+          </button>
+        </div>
         {tezgahlar && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
             <ul className="kuvars">
-              <NavLink
-                className={({ isActive }) => (isActive ? "active" : "")}
-                to="/tezgahlar/kuvars"
-              >
-                {t("kuvars tezgah")}
-              </NavLink>
-              <button
-                onClick={() => setKuvarsTezgah(!kuvarsTezgah)}
-                className="ml-2"
-              >
-                {kuvarsTezgah ? "↑" : "↓"}
-              </button>
+              <div className="flex items-center">
+                <NavLink
+                  className={({ isActive }) => (isActive ? "active" : "")}
+                  to="/tezgahlar/kuvars"
+                >
+                  {t("kuvars tezgah")}
+                </NavLink>
+                <button
+                  onClick={() => setKuvarsTezgah(!kuvarsTezgah)}
+                  className="ml-2"
+                >
+                  {kuvarsTezgah ? <IoIosArrowUp /> : <IoIosArrowDown />}
+                </button>
+              </div>
               {kuvarsTezgah && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
                   <NavLink
@@ -94,18 +99,20 @@ const SideBar = () => {
               )}
             </ul>
             <ul className="porselen">
-              <NavLink
-                className={({ isActive }) => (isActive ? "active" : "")}
-                to="/tezgahlar/porselen"
-              >
-                {t("porselen tezgah")}
+              <div className="flex items-center">
+                <NavLink
+                  className={({ isActive }) => (isActive ? "active" : "")}
+                  to="/tezgahlar/porselen"
+                >
+                  {t("porselen tezgah")}
+                </NavLink>
                 <button
                   onClick={() => setPorselenTezgah(!porselenTezgah)}
                   className="ml-2"
                 >
-                  {porselenTezgah ? "↑" : "↓"}
+                  {porselenTezgah ? <IoIosArrowUp /> : <IoIosArrowDown />}
                 </button>
-              </NavLink>
+              </div>
               {porselenTezgah && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
                   <NavLink
@@ -139,19 +146,21 @@ const SideBar = () => {
         )}
       </div>
       <div className="dogal-taslar border-b-2 border-gray-300 pb-2 ">
-        <NavLink
-          className={({ isActive }) => (isActive ? "active" : "")}
-          to="/dogal-taslar"
-        >
-          {t("dogal taslar")}
-        </NavLink>
-        <button onClick={() => setDogalTaslar(!dogalTaslar)} className="ml-2">
-          {dogalTaslar ? "↑" : "↓"}
-        </button>
+        <div className="flex items-center">
+          <NavLink
+            className={({ isActive }) => (isActive ? "active" : "")}
+            to="/dogal-taslar"
+          >
+            {t("dogal taslar")}
+          </NavLink>
+          <button onClick={() => setDogalTaslar(!dogalTaslar)} className="ml-2">
+            {dogalTaslar ? <IoIosArrowUp /> : <IoIosArrowDown />}
+          </button>
+        </div>
         {dogalTaslar && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
             <ul>
-              <h4>
+              <h4 className="flex items-center">
                 <NavLink
                   className={({ isActive }) => (isActive ? "active" : "")}
                   to="/dogal-taslar/mermer"
@@ -159,7 +168,7 @@ const SideBar = () => {
                   {t("mermer")}
                 </NavLink>
                 <button onClick={() => setMermer(!mermer)} className="ml-2">
-                  {mermer ? "↑" : "↓"}
+                  {mermer ? <IoIosArrowUp /> : <IoIosArrowDown />}
                 </button>
               </h4>
               {mermer && (
@@ -273,15 +282,17 @@ const SideBar = () => {
         )}
       </div>
       <div className="plakalar border-b-2 border-gray-300 pb-2 ">
-        <NavLink
-          className={({ isActive }) => (isActive ? "active" : "")}
-          to="/plakalar"
-        >
-          {t("plakalar")}
-        </NavLink>
-        <button onClick={() => setPlakalar(!plakalar)} className="ml-2">
-          {plakalar ? "↑" : "↓"}
-        </button>
+        <div className="flex items-center">
+          <NavLink
+            className={({ isActive }) => (isActive ? "active" : "")}
+            to="/plakalar"
+          >
+            {t("plakalar")}
+          </NavLink>
+          <button onClick={() => setPlakalar(!plakalar)} className="ml-2">
+            {plakalar ? <IoIosArrowUp /> : <IoIosArrowDown />}
+          </button>
+        </div>
         {plakalar && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
             <NavLink
@@ -309,18 +320,20 @@ const SideBar = () => {
               {t("granit plakalar")}
             </NavLink>
             <ul>
-              <NavLink
-                className={({ isActive }) => (isActive ? "active" : "")}
-                to="/plakalar/porselen-plakalar"
-              >
-                {t("porselen plakalar")}
-              </NavLink>
-              <button
-                onClick={() => setPorselenPlaka(!porselenPlaka)}
-                className="ml-2"
-              >
-                {porselenPlaka ? "↑" : "↓"}
-              </button>
+              <div className="flex items-center">
+                <NavLink
+                  className={({ isActive }) => (isActive ? "active" : "")}
+                  to="/plakalar/porselen-plakalar"
+                >
+                  {t("porselen plakalar")}
+                </NavLink>
+                <button
+                  onClick={() => setPorselenPlaka(!porselenPlaka)}
+                  className="ml-2"
+                >
+                  {porselenPlaka ? <IoIosArrowUp /> : <IoIosArrowDown />}
+                </button>
+              </div>
               {porselenPlaka && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
                   <NavLink
@@ -351,18 +364,20 @@ const SideBar = () => {
               )}
             </ul>
             <ul>
-              <NavLink
-                className={({ isActive }) => (isActive ? "active" : "")}
-                to="/plakalar/kuvars-plakalar"
-              >
-                {t("kuvars plakalar")}
-              </NavLink>
-              <button
-                onClick={() => setKuvarsPlaka(!kuvarsPlaka)}
-                className="ml-2"
-              >
-                {kuvarsPlaka ? "↑" : "↓"}
-              </button>
+              <div className="flex items-center">
+                <NavLink
+                  className={({ isActive }) => (isActive ? "active" : "")}
+                  to="/plakalar/kuvars-plakalar"
+                >
+                  {t("kuvars plakalar")}
+                </NavLink>
+                <button
+                  onClick={() => setKuvarsPlaka(!kuvarsPlaka)}
+                  className="ml-2"
+                >
+                  {kuvarsPlaka ? <IoIosArrowUp /> : <IoIosArrowDown />}
+                </button>
+              </div>
               {kuvarsPlaka && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
                   <NavLink
@@ -420,22 +435,26 @@ const SideBar = () => {
         )}
       </div>
       <div className="urunler border-b-2 border-gray-300 pb-2 ">
-        <NavLink
-          className={({ isActive }) => (isActive ? "active" : "")}
-          to="/urunler"
-        >
-          {t("urunler")}
-        </NavLink>
-        <button onClick={() => setUrunler(!urunler)} className="ml-2">
-          {urunler ? "↑" : "↓"}
-        </button>
+        <div className="flex items-center">
+          <NavLink
+            className={({ isActive }) => (isActive ? "active" : "")}
+            to="/urunler"
+          >
+            {t("urunler")}
+          </NavLink>
+          <button onClick={() => setUrunler(!urunler)} className="ml-2">
+            {urunler ? <IoIosArrowUp /> : <IoIosArrowDown />}
+          </button>
+        </div>
         {urunler && (
           <ul className="ml-2 border-l-2 border-gray-300 pl-2">
             <ul className="cnc">
-              <NavLink to="/urunler/cnc">{t("cnc urunler")}</NavLink>
-              <button onClick={() => setCnc(!cnc)} className="ml-2">
-                {cnc ? "↑" : "↓"}
-              </button>
+              <div className="flex items-center">
+                <NavLink to="/urunler/cnc">{t("cnc urunler")}</NavLink>
+                <button onClick={() => setCnc(!cnc)} className="ml-2">
+                  {cnc ? <IoIosArrowUp /> : <IoIosArrowDown />}
+                </button>
+              </div>
               {cnc && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
                   <NavLink to="/urunler/cnc/duvar">
@@ -450,10 +469,12 @@ const SideBar = () => {
               )}
             </ul>
             <ul className="waterjet">
-              <NavLink to="/urunler/waterjet">{t("waterjet")}</NavLink>
-              <button onClick={() => setWaterjet(!waterjet)} className="ml-2">
-                {waterjet ? "↑" : "↓"}
-              </button>
+              <div className="flex items-center">
+                <NavLink to="/urunler/waterjet">{t("waterjet")}</NavLink>
+                <button onClick={() => setWaterjet(!waterjet)} className="ml-2">
+                  {waterjet ? <IoIosArrowUp /> : <IoIosArrowDown />}
+                </button>
+              </div>
               {waterjet && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
                   <NavLink to="/urunler/waterjet/madalyon">
@@ -472,15 +493,17 @@ const SideBar = () => {
               )}
             </ul>
             <ul className="dekoratif-urunler">
-              <NavLink to="/urunler/dekoratif">
-                {t("dekoratif urunler")}
-              </NavLink>
-              <button
-                onClick={() => setDekoratifUrunler(!dekoratifUrunler)}
-                className="ml-2"
-              >
-                {dekoratifUrunler ? "↑" : "↓"}
-              </button>
+              <div className="flex items-center">
+                <NavLink to="/urunler/dekoratif">
+                  {t("dekoratif urunler")}
+                </NavLink>
+                <button
+                  onClick={() => setDekoratifUrunler(!dekoratifUrunler)}
+                  className="ml-2"
+                >
+                  {dekoratifUrunler ? <IoIosArrowUp /> : <IoIosArrowDown />}
+                </button>
+              </div>
               {dekoratifUrunler && (
                 <div className="ml-2 border-l-2 border-gray-300 pl-2 flex flex-col">
                   <NavLink to="/urunler/dekoratif/supurgelik">

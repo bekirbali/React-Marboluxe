@@ -115,3 +115,7 @@ svg:not(.arrow-right) {
   right: 1px;
   color: black;
 }
+
+.dropdown-content form input {
+  text-transform: capitalize;
+}
