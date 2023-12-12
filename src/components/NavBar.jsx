@@ -884,12 +884,13 @@ import { Link, useNavigate } from "react-router-dom";
 import i18n from "../utils/i18n";
 import Flag from "react-flagkit";
 import { useTranslation } from "react-i18next";
-import { useContext } from "react";
+import { useContext, useState } from "react";
 import { MarboContext } from "../context/MarboContext";
 import { SlMagnifier } from "react-icons/sl";
 
 export default function NavbarWithDropdown() {
   const { setShow, searchText, setSearchText } = useContext(MarboContext);
+  const [dropdown, setDropdown] = useState(false);
   const navigate = useNavigate();
 
   const { t } = useTranslation();
@@ -910,7 +911,12 @@ export default function NavbarWithDropdown() {
   };
   const submitHandler = (e) => {
     e.preventDefault();
+    setDropdown(false);
     navigate("/search-results");
+  };
+
+  const dropdownHandler = () => {
+    setDropdown(!dropdown);
   };
 
   return (
@@ -928,7 +934,7 @@ export default function NavbarWithDropdown() {
             className="hover:cursor-pointer"
           />
         </div>
-        <button
+        {/* <button
           id="dropdownDefaultButton"
           data-dropdown-toggle="dropdown"
           className="text-white font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center "
@@ -950,6 +956,22 @@ export default function NavbarWithDropdown() {
               />
             </form>
           </ul>
+        </div> */}
+        <div className="dropdown">
+          {<SlMagnifier onClick={dropdownHandler} />}
+          <div
+            className={`${dropdown ? "dropdown-content rounded-md" : "hidden"}`}
+          >
+            <form onSubmit={submitHandler} className="flex items-center gap-2 ">
+              <input
+                type="text"
+                value={searchText}
+                onChange={changeHandler}
+                className="rounded-md"
+              />
+              <SlMagnifier onClick={submitHandler} size={24} />
+            </form>
+          </div>
         </div>
       </div>
       <Navbar fluid>
