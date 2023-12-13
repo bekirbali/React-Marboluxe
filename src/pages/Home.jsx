@@ -394,9 +394,12 @@ const Home = () => {
             <p className="my-2 text-[#777777]">
               {t("dogal tas cesitlerinde 8 ocagiyla")}
             </p>
-            <button className="bg-orange-500 text-[#f0efef] p-2 font-bold rounded-md hover:shadow-md transition hover:shadow-slate-500 ease-in-out">
-              {t("ocaklari incele")}
-            </button>
+            <Link to="/ocaklar" className="learn-more button">
+              <span className="circle" aria-hidden="true">
+                <span className="icon arrow"></span>
+              </span>
+              <span className="button-text">{t("ocaklari incele")}</span>
+            </Link>
           </div>
         </section>
       </div>
