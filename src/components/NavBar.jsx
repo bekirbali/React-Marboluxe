@@ -965,14 +965,29 @@ export default function NavbarWithDropdown() {
           <div
             className={`${dropdown ? "dropdown-content rounded-md" : "hidden"}`}
           >
-            <form onSubmit={submitHandler} className="flex items-center gap-2 ">
+            <form
+              onSubmit={submitHandler}
+              className="flex items-center gap-2 searchBox "
+            >
+              {
+                // <input
+                //   type="text"
+                //   value={searchText}
+                //   onChange={changeHandler}
+                //   className="rounded-md "
+                // />
+                /* <SlMagnifier onClick={submitHandler} size={24} /> */
+              }
               <input
+                className="searchInput focus:!outline-0 focus:!outline-none rounded-md focus:border-none"
                 type="text"
                 value={searchText}
                 onChange={changeHandler}
-                className="rounded-md"
+                placeholder="Search"
               />
-              <SlMagnifier onClick={submitHandler} size={24} />
+              <button className="searchButton">
+                <SlMagnifier onClick={submitHandler} size={24} />
+              </button>
             </form>
           </div>
         </div>
