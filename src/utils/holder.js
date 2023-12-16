@@ -136,18 +136,6 @@ export const projects = [
     name: "SILVER ONYX UKRAINE PROJECT",
   },
   {
-    image: "/images/projectCovers/taskiranKapak.jpg",
-    name: "TASKIRAN MEDICAL AESTHETICS CLINIC",
-  },
-  {
-    image: "/images/projectCovers/UKRestorationKapak.jpg",
-    name: "UK RESTORATION PROJECT",
-  },
-  {
-    image: "/images/projectCovers/silverOnixTravertainKapak.jpeg",
-    name: "SILVER ONYX – SILVER TRAVERTINE PROJECT",
-  },
-  {
     image: "/images/projectCovers/abuHayatKapak.jpg",
     name: "ABU HAYAT CAVE HOTEL",
   },
