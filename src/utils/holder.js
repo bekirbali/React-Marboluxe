@@ -135,32 +135,4 @@ export const projects = [
     image: "/images/projectCovers/silverUkraineKapak.jpg",
     name: "SILVER ONYX UKRAINE PROJECT",
   },
-  {
-    image: "/images/projectCovers/taskiranKapak.jpg",
-    name: "TASKIRAN MEDICAL AESTHETICS CLINIC",
-  },
-  {
-    image: "/images/projectCovers/UKRestorationKapak.jpg",
-    name: "UK RESTORATION PROJECT",
-  },
-  {
-    image: "/images/projectCovers/silverOnixTravertainKapak.jpeg",
-    name: "SILVER ONYX – SILVER TRAVERTINE PROJECT",
-  },
-  {
-    image: "/images/projectCovers/abuHayatKapak.jpg",
-    name: "ABU HAYAT CAVE HOTEL",
-  },
-  {
-    image: "/images/projectCovers/adoraHotelKapak.jpg",
-    name: "ADORA HOTEL & RESORT PROJECT",
-  },
-  {
-    image: "/images/projectCovers/rividyaKapak.png",
-    name: "RIVIDA VILLA PROJECT",
-  },
-  {
-    image: "/images/projectCovers/halicProjectKapak.jpeg",
-    name: "HALIC PROJECT",
-  },
 ];
