@@ -135,20 +135,4 @@ export const projects = [
     image: "/images/projectCovers/silverUkraineKapak.jpg",
     name: "SILVER ONYX UKRAINE PROJECT",
   },
-  {
-    image: "/images/projectCovers/abuHayatKapak.jpg",
-    name: "ABU HAYAT CAVE HOTEL",
-  },
-  {
-    image: "/images/projectCovers/adoraHotelKapak.jpg",
-    name: "ADORA HOTEL & RESORT PROJECT",
-  },
-  {
-    image: "/images/projectCovers/rividyaKapak.png",
-    name: "RIVIDA VILLA PROJECT",
-  },
-  {
-    image: "/images/projectCovers/halicProjectKapak.jpeg",
-    name: "HALIC PROJECT",
-  },
 ];
