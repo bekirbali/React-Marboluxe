@@ -95,44 +95,4 @@ export const projects = [
     image: "/images/projectCovers/kanyonKapak.jpg",
     name: "KANYON AVM – ESCALE",
   },
-  {
-    image: "/images/projectCovers/arkadiaKapak.jpg",
-    name: "ARKADIA REZIDANS",
-  },
-  {
-    image: "/images/projectCovers/afyonKapak.jpg",
-    name: "AFYON GOVERNOR RESTORATION",
-  },
-  {
-    image: "/images/projectCovers/theHouseKapak.jpg",
-    name: "THE HOUSE CAFE",
-  },
-  {
-    image: "/images/projectCovers/qatarKapak.jpg",
-    name: "QATAR PROJECT",
-  },
-  {
-    image: "/images/projectCovers/poolCapingKapak.png",
-    name: "TRAVERTINE REFERENCES",
-  },
-  {
-    image: "/images/projectCovers/longbeachKapak.jpg",
-    name: "LONG BEACH RESORT HOTEL",
-  },
-  {
-    image: "/images/projectCovers/historicalKapak.jpg",
-    name: "HISTORICAL REISOĞLU MANSION AND SELCUK’S TURKISH BATH",
-  },
-  {
-    image: "/images/projectCovers/zuleyhaKuruKapak.jpg",
-    name: "ZULEYHA KURU FASHION HOUSE",
-  },
-  {
-    image: "/images/projectCovers/bodrumVillaKapak.jpg",
-    name: "BODRUM VILLA PROJECT",
-  },
-  {
-    image: "/images/projectCovers/silverUkraineKapak.jpg",
-    name: "SILVER ONYX UKRAINE PROJECT",
-  },
 ];
