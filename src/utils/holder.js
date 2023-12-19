@@ -83,16 +83,4 @@ export const projects = [
     image: "/images/projectCovers/queenParkKapak.jpg",
     name: "QUEEN’ S PARK HOTEL",
   },
-  {
-    image: "/images/projectCovers/baltaLimanıKapak.jpg",
-    name: "BALTALIMANI",
-  },
-  {
-    image: "/images/projectCovers/lagünKapak.jpg",
-    name: "LAGUN IRIS",
-  },
-  {
-    image: "/images/projectCovers/kanyonKapak.jpg",
-    name: "KANYON AVM – ESCALE",
-  },
 ];
