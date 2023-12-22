@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { dogalTaslar } from "../utils";
+import { dogalTaslar, projects } from "../utils";
 import { useNavigate } from "react-router-dom";
 
 const Projeler = () => {
@@ -44,23 +44,27 @@ const Projeler = () => {
       </div>
       <div className="p-4 flex flex-col items-center">
         <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
-          {dogalTaslar[page].map((tas, index) => {
+          {projects.map((tas, index) => {
             return (
               <div
                 key={index}
                 className="flex flex-col items-center justify-center shadow-sm shadow-cyan-700 max-w-[300px]"
               >
                 <div
-                  onClick={() => navigate(`${tas.name}`, { state: tas })}
+                  onClick={() =>
+                    navigate(`${tas.name}`, { state: tas, message: "test" })
+                  }
                   className="w-full overflow-hidden"
                 >
                   <img
                     src={tas.image}
                     alt="test"
-                    className="w-full h-[250px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
+                    className="w-full hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
                   />
                 </div>
-                <p className="text-center p-2">{tas.name}</p>
+                <p className="text-center p-2 h-20 items-center flex">
+                  {tas.name}
+                </p>
               </div>
             );
           })}
