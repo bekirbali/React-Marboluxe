@@ -48,21 +48,21 @@ const Projeler = () => {
             return (
               <div
                 key={index}
-                className="flex flex-col items-center justify-center shadow-sm shadow-cyan-600 max-w-[300px]"
+                className="projects relative flex flex-col items-center justify-center shadow-sm shadow-cyan-600 max-w-[300px]"
               >
                 <div
                   onClick={() =>
                     navigate(`${tas.name}`, { state: tas, message: "test" })
                   }
-                  className="w-full overflow-hidden"
+                  className="w-full h-[310px] overflow-hidden text-center flex justify-center"
                 >
                   <img
                     src={tas.image}
                     alt="test"
-                    className="w-full hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
+                    className="w-full h-full  transition duration-700 hover:cursor-pointer"
                   />
                 </div>
-                <p className="text-center p-2 h-20 items-center flex">
+                <p className="projects-p text-center h-20 items-center flex justify-center absolute flex-wrap w-[220px] backdrop-blur-sm">
                   {tas.name}
                 </p>
               </div>
