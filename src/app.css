@@ -269,3 +269,12 @@ button:active {
 input {
   --tw-ring-color: none !important;
 }
+
+.projects:hover .projects-p {
+  bottom: 20px;
+}
+
+.projects-p {
+  bottom: -200px;
+  transition: 0.3s;
+}
