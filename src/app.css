@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Montserrat:wght@400;500;600;700&family=Roboto+Condensed:wght@400;500&display=swap");
 
 p,
 h1,
@@ -277,4 +278,14 @@ input {
 .projects-p {
   bottom: -200px;
   transition: 0.3s;
+}
+
+.tabs {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.tabs ul li {
+  height: 40px;
+  display: flex;
+  align-items: center;
 }

@@ -47606,10 +47606,6 @@ export const projects = [
     name: "SILVER ONYX BULGARIA PROJECT",
   },
   {
-    image: "/images/projectCovers/waterjetKapak.png",
-    name: "Waterjet References",
-  },
-  {
     image: "/images/projectCovers/suraKapak.jpg",
     name: "SURA HOTEL",
   },
