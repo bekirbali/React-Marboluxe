@@ -29,7 +29,7 @@ const Projeler = () => {
         <h1 className="font-bold text-3xl">PROJELER</h1>
       </div>
       <div className="tabs">
-        <ul className="flex gap-4 justify-center items-center tabs-list  h-[60px]">
+        <ul className="flex flex-wrap gap-4 mt-4 justify-center items-center tabs-list ">
           <li>TÜMÜ</li>
           <li>AVM</li>
           <li>BANYO</li>
@@ -68,20 +68,6 @@ const Projeler = () => {
               </div>
             );
           })}
-        </div>
-        <div className="buttons flex gap-4 mt-4" onClick={pageHandler}>
-          <button
-            value="prev"
-            className="bg-yellow-400 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded w-52"
-          >
-            Previous Page
-          </button>
-          <button
-            value="next"
-            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-52"
-          >
-            Next Page
-          </button>
         </div>
       </div>
     </>
