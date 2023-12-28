@@ -48,7 +48,7 @@ const Projeler = () => {
             return (
               <div
                 key={index}
-                className="projects relative flex flex-col items-center justify-center shadow-sm shadow-cyan-600 max-w-[300px]"
+                className="projects overflow-hidden relative flex flex-col items-center justify-center shadow-sm shadow-cyan-600 max-w-[300px]"
               >
                 <div
                   onClick={() =>
