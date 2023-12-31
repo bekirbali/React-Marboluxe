@@ -47665,7 +47665,7 @@ export const projects = [
   {
     image: "/images/projectCovers/kanyonKapak.jpg",
     name: "KANYON AVM – ESCALE",
-    filter: "avm",
+    filter: "mall",
   },
   {
     image: "/images/projectCovers/arkadiaKapak.jpg",
