@@ -70,12 +70,11 @@ const DogalTaslar = () => {
                   className="flex flex-col items-center justify-center shadow-sm shadow-cyan-700 max-w-[300px]"
                 >
                   <div
-                    onClick={() =>
-                      navigate(`${tas.name}`, { state: tas, message: "test" })
-                    }
+                    onClick={() => navigate(`${tas.name}`, { state: tas })}
                     className="w-full overflow-hidden"
                   >
                     <img
+                      loading="lazy"
                       src={tas.image}
                       alt="test"
                       className="w-full hover:scale-[1.15] transition duration-700 hover:cursor-pointer"

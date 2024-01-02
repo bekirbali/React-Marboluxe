@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import Breadcrumbs from "./Breadcrumbs";
 import DetailModal from "./DetailModal";
@@ -19,15 +19,28 @@ const Details = () => {
   const [modal, setModal] = useState(false);
   const [currentArray, setCurrentArray] = useState("");
 
+  const scrollRef = useRef();
+
+  const scrollHandler = () => {
+    console.log(scrollRef.current.scrollTop);
+    console.log(modal);
+  };
+
   useEffect(() => {
     setCurrentArray(state.array);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
-    <div className=" relative overflow-hidden">
+    <div
+      ref={scrollRef}
+      onScroll={scrollHandler}
+      onClick={() => console.log(scrollRef.current.scrollTop)}
+      style={{ height: "100vh", overflow: "hidden" }}
+      className="relative overflow-hidden"
+    >
       <Breadcrumbs />
-      <div className="flex justify-around p-4 w-[90%] mx-auto ">
+      <div className="flex justify-around p-4 w-[90%] mx-auto">
         <div className="flex flex-col items-center justify-center max-w-[50%]">
           <div
             onClick={() => setModal(true)}
@@ -56,7 +69,7 @@ const Details = () => {
       </div>
 
       {/* Similar Products */}
-      <div className="similar-products w-[75%] mx-auto mt-5 mb-5">
+      <div className="similar-products w-[80%] mx-auto mt-5 mb-5">
         <h2 className="pl-2 border-t-2 pt-2 text-2xl font-bold mb-8">
           İlgili Ürünler
         </h2>

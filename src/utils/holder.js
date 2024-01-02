@@ -2,7 +2,7 @@ export const projects = [
   {
     image: "/images/projectCovers/ciraganKapak.jpg",
     name: "CIRAGAN PALACE RESTORATION PROJECT",
-    filter: "interior",
+    filter: "interior, iç mekan",
   },
   {
     image: "/images/projectCovers/peraPalaceKapak.jpeg",

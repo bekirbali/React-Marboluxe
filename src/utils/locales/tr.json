@@ -103,5 +103,15 @@
   "ocaklari incele": "Ocakları İncele",
   "ozel mermer koleksiyonu": "Özel Mermer Koleksiyonu",
   "kategoriler": "KATEGORİLER",
-  "dil": "Dil"
+  "dil": "Dil",
+  "all": "TÜMÜ",
+  "mall": "AVM",
+  "bathroom": "BANYO",
+  "outdoor": "DIŞ MEKAN",
+  "interior": "İÇ MEKAN",
+  "residence": "KONUT - REZİDANS",
+  "office": "OFİS - MAĞAZA",
+  "hotel": "OTEL",
+  "restaurant": "RESTAURANT - CAFE",
+  "restoration": "RESTORASYON"
 }
