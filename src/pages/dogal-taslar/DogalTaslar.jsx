@@ -12,12 +12,17 @@ import { useTranslation } from "react-i18next";
 
 const DogalTaslar = () => {
   const [page, setPage] = useState(0);
+  const [activePage, setActivePage] = useState(1);
 
   const { t } = useTranslation();
 
   const navigate = useNavigate();
   const { setDogalTaslar, setPlakalar, setTezgahlar, setUrunler } =
     useContext(MarboContext);
+
+  const pageHandler = (e) => {
+    setPage(e.target.innerText - 1);
+  };
 
   const backHandler = () => {
     if (page === 0) {
@@ -41,8 +46,9 @@ const DogalTaslar = () => {
     setPlakalar(false);
     setTezgahlar(false);
     setUrunler(false);
+    setActivePage(page + 1);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [page]);
 
   return (
     <>
@@ -100,8 +106,10 @@ const DogalTaslar = () => {
               {dogalTaslar.map((item, index) => (
                 <p
                   key={index}
-                  onClick={(e) => setPage(e.target.innerText - 1)}
-                  className="border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3"
+                  onClick={pageHandler}
+                  className={`border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3
+                  ${activePage === index + 1 ? "bg-gray-500 text-white" : ""}
+                  `}
                 >
                   {index + 1}
                 </p>

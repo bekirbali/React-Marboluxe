@@ -289,3 +289,10 @@ input {
   display: flex;
   align-items: center;
 }
+
+.buttons button:hover {
+  background: none;
+  border-radius: 50%;
+  box-shadow: none;
+  transform: translateY(0);
+}
