@@ -93,5 +93,15 @@
   "ocaklari incele": "See Quarries",
   "ozel mermer koleksiyonu": "Exclusive Marble Collection",
   "kategoriler": "CATEGORIES",
-  "dil": "Language"
+  "dil": "Language",
+  "all": "ALL",
+  "mall": "MALL",
+  "bathroom": "BATHROOM",
+  "outdoor": "OUTDOOR",
+  "interior": "INTERIOR",
+  "residence": "RESIDENCE",
+  "office": "OFFICE",
+  "hotel": "HOTEL",
+  "restaurant": "RESTAURANT - CAFE",
+  "restoration": "RESTORATION"
 }

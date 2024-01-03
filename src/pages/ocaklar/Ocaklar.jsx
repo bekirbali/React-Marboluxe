@@ -41,6 +41,7 @@ const Ocaklar = () => {
                     className="w-full overflow-hidden"
                   >
                     <img
+                      loading="lazy"
                       src={tas.image}
                       alt="test"
                       className="w-full h-[250px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer"

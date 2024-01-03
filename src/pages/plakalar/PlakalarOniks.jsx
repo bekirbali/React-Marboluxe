@@ -78,6 +78,7 @@ const PlakalarOniks = () => {
                     className="w-full overflow-hidden"
                   >
                     <img
+                      loading="lazy"
                       src={tas.image}
                       alt="test"
                       className="w-full hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
