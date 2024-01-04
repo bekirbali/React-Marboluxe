@@ -5,6 +5,8 @@ import "../app.css";
 import peraPalace from "../assets/peraPalace.jpg";
 import marmara from "../assets/marmaraMermer.jpg";
 import porselen from "../assets/porselen.jpg";
+import havuz from "../assets/poolHeader.jpg";
+import ukrain from "../assets/ukrainHeader.jpg";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 
@@ -31,14 +33,20 @@ const Header = () => {
         modules={[EffectFade, Navigation, Pagination, Autoplay]}
         className="mySwiper"
       >
-        <SwiperSlide>
+        {/* <SwiperSlide>
           <img src={marmara} alt="marble" />
-        </SwiperSlide>
+        </SwiperSlide> */}
         <SwiperSlide>
-          <img src={peraPalace} alt="marble" />
+          <img src={peraPalace} alt="peraPalace" />
         </SwiperSlide>
-        <SwiperSlide>
+        {/* <SwiperSlide>
           <img src={porselen} alt="marble" />
+        </SwiperSlide> */}
+        <SwiperSlide>
+          <img src={havuz} alt="pool" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={ukrain} alt="ukrain" />
         </SwiperSlide>
       </Swiper>
     </div>

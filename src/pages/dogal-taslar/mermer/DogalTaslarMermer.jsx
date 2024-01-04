@@ -12,12 +12,17 @@ import { useTranslation } from "react-i18next";
 
 const DogalTaslarMermer = () => {
   const [page, setPage] = useState(0);
+  const [activePage, setActivePage] = useState(1);
 
   const { setMermer } = useContext(MarboContext);
 
   const navigate = useNavigate();
 
   const { t } = useTranslation();
+
+  const pageHandler = (e) => {
+    setPage(e.target.innerText - 1);
+  };
 
   const backHandler = () => {
     if (page === 0) {
@@ -38,7 +43,8 @@ const DogalTaslarMermer = () => {
 
   useState(() => {
     setMermer(true);
-  }, []);
+    setActivePage(page + 1);
+  }, [page]);
 
   return (
     <>
@@ -118,8 +124,10 @@ const DogalTaslarMermer = () => {
               {dogalTaslarMermer.map((item, index) => (
                 <p
                   key={index}
-                  onClick={(e) => setPage(e.target.innerText - 1)}
-                  className="border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3"
+                  onClick={pageHandler}
+                  className={`border-2 border-[#434343] hover:bg-gray-500 hover:text-white hover:cursor-pointer ease-in-out duration-300  rounded-full w-6 h-6 flex items-center justify-center p-3
+                  ${activePage === index + 1 ? "bg-gray-500 text-white" : ""}
+                  `}
                 >
                   {index + 1}
                 </p>

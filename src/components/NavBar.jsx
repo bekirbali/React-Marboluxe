@@ -878,7 +878,8 @@ import {
   // Dropdown,
   Navbar,
 } from "flowbite-react";
-import logo from "../assets/logoForMarboLuxe.jpeg";
+// import logo from "../assets/logoForMarboLuxe.jpeg";
+import logo from "../assets/marboluxe.jpg";
 import "../app.css";
 import { Link, useNavigate } from "react-router-dom";
 import i18n from "../utils/i18n";
