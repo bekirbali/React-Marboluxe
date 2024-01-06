@@ -3,6 +3,7 @@ import { kirmiziOcak } from "../../utils";
 import { Link, NavLink, useNavigate } from "react-router-dom";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 import { useTranslation } from "react-i18next";
+import OcaklarSideBar from "../../components/OcaklarSideBar";
 
 const KirmiziOcak = () => {
   const navigate = useNavigate();
@@ -24,56 +25,7 @@ const KirmiziOcak = () => {
       </div>
       <div className="main-holder-KirmiziOcak flex justify-between w-[90%] mx-auto">
         <div className="hidden sm:block flex-[1]">
-          <ul className="waterjet flex flex-col mt-8 text-[#666]">
-            <NavLink
-              to="/urunler/waterjet/madalyon"
-              className="hover:border-r-4 hover:border-gray-600 duration-100 ease-in-out font-semibold border-b-2 border-r-2 p-2 border-r-gray-200 hover:border-b-gray-200"
-            >
-              AFYON BEYAZ MERMER OCAK
-            </NavLink>
-            <NavLink
-              to="/urunler/waterjet/mozaik"
-              className="hover:border-r-4 hover:border-gray-600 duration-100 ease-in-out font-semibold border-b-2 border-r-2 p-2 border-r-gray-200 hover:border-b-gray-200"
-            >
-              MARMARA BEYAZ MERMER OCAK
-            </NavLink>
-            <NavLink
-              to="/urunler/waterjet/bordur"
-              className="hover:border-r-4 hover:border-gray-600 duration-100 ease-in-out font-semibold border-b-2 border-r-2 p-2 border-r-gray-200 hover:border-b-gray-200"
-            >
-              GÜMÜŞ TRAVERTEN OCAK
-            </NavLink>
-            <NavLink
-              to="/urunler/waterjet/karo"
-              className="hover:border-r-4 hover:border-gray-600 duration-100 ease-in-out font-semibold border-b-2 border-r-2 p-2 border-r-gray-200 hover:border-b-gray-200"
-            >
-              BEYAZ TRAVERTEN OCAK
-            </NavLink>
-            <NavLink
-              to="/urunler/waterjet/karo"
-              className="hover:border-r-4 hover:border-gray-600 duration-100 ease-in-out font-semibold border-b-2 border-r-2 p-2 border-r-gray-200 hover:border-b-gray-200"
-            >
-              BRECCİA & BARDİGLİO OCAK
-            </NavLink>
-            <NavLink
-              to="/urunler/waterjet/karo"
-              className="hover:border-r-4 hover:border-gray-600 duration-100 ease-in-out font-semibold border-b-2 border-r-2 p-2 border-r-gray-200 hover:border-b-gray-200"
-            >
-              KIRMIZI TRAVERTEN OCAK
-            </NavLink>
-            <NavLink
-              to="/urunler/waterjet/karo"
-              className="hover:border-r-4 hover:border-gray-600 duration-100 ease-in-out font-semibold border-b-2 border-r-2 p-2 border-r-gray-200 hover:border-b-gray-200"
-            >
-              BURDUR BEJ MERMER OCAK
-            </NavLink>
-            <NavLink
-              to="/urunler/waterjet/karo"
-              className="hover:border-r-4 hover:border-gray-600 duration-100 ease-in-out font-semibold border-b-2 border-r-2 p-2 border-r-gray-200 hover:border-b-gray-200"
-            >
-              KLASİK & NOVE TRAVERTEN OCAK
-            </NavLink>
-          </ul>
+          <OcaklarSideBar />
         </div>
         <div className="p-4 flex flex-col items-center flex-[4] mt-8">
           <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
