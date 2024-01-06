@@ -35,10 +35,7 @@ const BurdurOcak = () => {
                   key={index}
                   className="flex flex-col items-center justify-center shadow-sm shadow-cyan-700 max-w-[300px]"
                 >
-                  <div
-                    onClick={() => navigate(`${tas.name}`, { state: tas })}
-                    className="w-full overflow-hidden"
-                  >
+                  <div className="w-full overflow-hidden">
                     <img
                       src={tas.image}
                       alt="test"
