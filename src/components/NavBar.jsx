@@ -875,6 +875,8 @@
 // export default NavBar;
 
 import {
+  Avatar,
+  Dropdown,
   // Dropdown,
   Navbar,
 } from "flowbite-react";
@@ -938,29 +940,6 @@ export default function NavbarWithDropdown() {
             className="hover:cursor-pointer"
           />
         </div>
-        {/* <button
-          id="dropdownDefaultButton"
-          data-dropdown-toggle="dropdown"
-          className="text-white font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center "
-          type="button"
-        >
-          <SlMagnifier />
-        </button>
-        <div
-          id="dropdown"
-          className="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700"
-        >
-          <ul className="relative">
-            <form onSubmit={submitHandler} className="absolute right-8">
-              <input
-                className="focus:outline-none focus:ring-0"
-                type="text"
-                value={searchText}
-                onChange={changeHandler}
-              />
-            </form>
-          </ul>
-        </div> */}
         <div className="dropdown">
           {<SlMagnifier onClick={dropdownHandler} />}
           <div
@@ -970,15 +949,6 @@ export default function NavbarWithDropdown() {
               onSubmit={submitHandler}
               className="flex items-center gap-2 searchBox "
             >
-              {
-                // <input
-                //   type="text"
-                //   value={searchText}
-                //   onChange={changeHandler}
-                //   className="rounded-md "
-                // />
-                /* <SlMagnifier onClick={submitHandler} size={24} /> */
-              }
               <input
                 className="searchInput focus:!outline-0 focus:!outline-none rounded-md focus:border-none"
                 type="text"
@@ -1006,94 +976,184 @@ export default function NavbarWithDropdown() {
             </span>
           </Link>
         </div>
-        {/* eslint-disable-next-line flowtype/require-valid-file-annotation*/}
-        {/* <div className="flex md:order-1">
-        <Dropdown
-          arrowIcon={false}
-          inline
-          label={
-            <Avatar
-              alt="User settings"
-              img="https://flowbite.com/docs/images/people/profile-picture-5.jpg"
-              rounded
-            />
-          }
-        >
-          <Dropdown.Header>
-            <span className="block text-sm">Bonnie Green</span>
-            <span className="block truncate text-sm font-medium">
-              name@flowbite.com
-            </span>
-          </Dropdown.Header>
-          <Dropdown.Item>Dashboard</Dropdown.Item>
-          <Dropdown.Item>Settings</Dropdown.Item>
-          <Dropdown.Item>Earnings</Dropdown.Item>
-          <Dropdown.Divider />
-          <Dropdown.Item>Sign out</Dropdown.Item>
-        </Dropdown>
-        <Navbar.Toggle />
-      </div>
 
-      <div>
-        <Dropdown
-          label={"Doğal Taşlar"}
-          className="dropdownStyle"
-          outline={false}
-          style={{ background: "none" }}
-        >
-          <Dropdown.Item>Mermer</Dropdown.Item>
-        </Dropdown>
-      </div> */}
-        <Navbar.Toggle />
+        {/* eslint-disable-next-line flowtype/require-valid-file-annotation*/}
+
+        <Navbar.Toggle className="toggle-test" />
         <Navbar.Collapse className="md:order-2">
-          <Link
-            to="/ozel-koleksiyon"
-            className="hover:text-cyan-700 transition ease-in-out duration-200"
-          >
-            {t("ozel koleksiyon")}
-          </Link>
+          <div className="test-dropdown flex flex-col md:flex-row">
+            <Dropdown label={t("dogal taslar")} arrowIcon={false}>
+              <Dropdown.Item>
+                <Link
+                  to="/dogal-taslar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("dogal taslar")}
+                </Link>
+              </Dropdown.Item>
+              <Dropdown.Item>
+                <Link
+                  to="/plakalar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("plakalar")}
+                </Link>
+              </Dropdown.Item>
+            </Dropdown>
+            <Dropdown label={t("plakalar")} arrowIcon={false}>
+              <Dropdown.Item>
+                <Link
+                  to="/dogal-taslar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("dogal taslar")}
+                </Link>
+              </Dropdown.Item>
+              <Dropdown.Item>
+                <Link
+                  to="/plakalar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("plakalar")}
+                </Link>
+              </Dropdown.Item>
+            </Dropdown>
+            <Dropdown label={t("tezgahlar")} arrowIcon={false}>
+              <Dropdown.Item>
+                <Link
+                  to="/dogal-taslar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("dogal taslar")}
+                </Link>
+              </Dropdown.Item>
+              <Dropdown.Item>
+                <Link
+                  to="/plakalar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("plakalar")}
+                </Link>
+              </Dropdown.Item>
+            </Dropdown>
+            <Dropdown label={t("ocaklar")} arrowIcon={false}>
+              <Dropdown.Item>
+                <Link
+                  to="/dogal-taslar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("dogal taslar")}
+                </Link>
+              </Dropdown.Item>
+              <Dropdown.Item>
+                <Link
+                  to="/plakalar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("plakalar")}
+                </Link>
+              </Dropdown.Item>
+            </Dropdown>
+            <Dropdown label={t("urunler")} arrowIcon={false}>
+              <Dropdown.Item>
+                <Link
+                  to="/dogal-taslar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("dogal taslar")}
+                </Link>
+              </Dropdown.Item>
+              <Dropdown.Item>
+                <Link
+                  to="/plakalar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("plakalar")}
+                </Link>
+              </Dropdown.Item>
+            </Dropdown>
+            <Dropdown label={t("projeler")} arrowIcon={false}>
+              <Dropdown.Item>
+                <Link
+                  to="/dogal-taslar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("dogal taslar")}
+                </Link>
+              </Dropdown.Item>
+              <Dropdown.Item>
+                <Link
+                  to="/plakalar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("plakalar")}
+                </Link>
+              </Dropdown.Item>
+            </Dropdown>
+            <Dropdown label={t("kataloglar")} arrowIcon={false}>
+              <Dropdown.Item>
+                <Link
+                  to="/dogal-taslar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("dogal taslar")}
+                </Link>
+              </Dropdown.Item>
+              <Dropdown.Item>
+                <Link
+                  to="/plakalar"
+                  className="hover:text-cyan-700 transition ease-in-out duration-200"
+                >
+                  {t("plakalar")}
+                </Link>
+              </Dropdown.Item>
+            </Dropdown>
+          </div>
+          {/* 
+          
           <Link
             to="/dogal-taslar"
-            className="hover:text-cyan-700 transition ease-in-out duration-200"
+            className="flex items-center hover:text-cyan-700 transition ease-in-out duration-200"
           >
             {t("dogal taslar")}
           </Link>
           <Link
             to="/plakalar"
-            className="hover:text-cyan-700 transition ease-in-out duration-200"
+            className="flex items-center hover:text-cyan-700 transition ease-in-out duration-200"
           >
             {t("plakalar")}
           </Link>
           <Link
             to="/tezgahlar"
-            className="hover:text-cyan-700 transition ease-in-out duration-200"
+            className="flex items-center hover:text-cyan-700 transition ease-in-out duration-200"
           >
             {t("tezgahlar")}
           </Link>
           <Link
             to="/ocaklar"
-            className="hover:text-cyan-700 transition ease-in-out duration-200"
+            className="flex items-center hover:text-cyan-700 transition ease-in-out duration-200"
           >
             {t("ocaklar")}
           </Link>
           <Link
             to="/urunler"
-            className="hover:text-cyan-700 transition ease-in-out duration-200"
+            className="flex items-center hover:text-cyan-700 transition ease-in-out duration-200"
           >
             {t("urunler")}
           </Link>
           <Link
             to="/projeler"
-            className="hover:text-cyan-700 transition ease-in-out duration-200"
+            className="flex items-center hover:text-cyan-700 transition ease-in-out duration-200"
           >
             {t("projeler")}
           </Link>
           <Link
             to="/kataloglar"
-            className="hover:text-cyan-700 transition ease-in-out duration-200"
+            className="flex items-center hover:text-cyan-700 transition ease-in-out duration-200"
           >
             {t("kataloglar")}
           </Link>
+          */}
         </Navbar.Collapse>
       </Navbar>
     </>
