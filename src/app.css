@@ -3,6 +3,11 @@
 @tailwind utilities;
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Montserrat:wght@400;500;600;700&family=Roboto+Condensed:wght@400;500&display=swap");
 
+* {
+  --tw-ring-color: none !important;
+  scroll-behavior: smooth;
+}
+
 p,
 h1,
 h2,
@@ -293,6 +298,40 @@ input {
 .buttons button:hover {
   background: none;
   border-radius: 50%;
+  box-shadow: none;
+  transform: translateY(0);
+}
+
+.test-dropdown button {
+  color: #1a1a1a;
+  background: none !important;
+  --tw-ring-color: none !important;
+}
+
+.test-dropdown button:hover {
+  background: none;
+  border-radius: 50%;
+  box-shadow: none;
+  transform: translateY(0);
+  color: rgb(68, 112, 112);
+}
+
+.toggle-test:hover,
+.toggle-test span:hover,
+.toggle-test svg:hover {
+  background-color: #1a1a1a !important;
+  transform: translateY(0);
+  transition: 0.2s;
+  box-shadow: rgba(0, 0, 0, 0.5) 0 5px 15px;
+}
+
+.sidebar button {
+  transition: 0.4s;
+}
+
+.sidebar button:hover {
+  background: none;
+  color: #1a1a1a;
   box-shadow: none;
   transform: translateY(0);
 }

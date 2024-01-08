@@ -22,6 +22,7 @@ const UrunlerWaterjet = () => {
 
   const pageHandler = (e) => {
     setPage(e.target.innerText - 1);
+    window.scrollTo(0, 0);
   };
 
   const backHandler = () => {

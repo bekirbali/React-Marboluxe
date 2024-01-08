@@ -36,7 +36,7 @@ const SideBar = () => {
   const { t } = useTranslation();
 
   return (
-    <div className="mt-10 max-w-[220px] mx-auto flex flex-col gap-4 mb-10 ">
+    <div className="sidebar mt-10 max-w-[220px] mx-auto flex flex-col gap-4 mb-10 ">
       <h2 className="font-bold">{t("kategoriler")}</h2>
       <div className="border-b-2 border-gray-500 w-12"></div>
 
