@@ -47485,19 +47485,17 @@ export const afyonOcak = [
 export const marmaraOcak = [
   {
     image:
-      "/images/ocaklar/MarmaraBeyazMermerOcak/WhatsApp-Image-2022-09-13-at-17.53.18-300x400.avif",
+      "/images/ocaklar/MarmaraBeyazOcak/WhatsApp-Image-2022-09-13-at-17.53.18-300x400.avif",
   },
   {
-    image:
-      "/images/ocaklar/MarmaraBeyazMermerOcak/1-e1663565562144-754x400.avif",
+    image: "/images/ocaklar/MarmaraBeyazOcak/1-e1663565562144-754x400.avif",
   },
-  { image: "/images/ocaklar/MarmaraBeyazMermerOcak/2-528x400.avif" },
+  { image: "/images/ocaklar/MarmaraBeyazOcak/2-528x400.avif" },
   {
-    image:
-      "/images/ocaklar/MarmaraBeyazMermerOcak/3-e1663565484565-468x400.avif",
+    image: "/images/ocaklar/MarmaraBeyazOcak/3-e1663565484565-468x400.avif",
   },
-  { image: "/images/ocaklar/MarmaraBeyazMermerOcak/6-2-711x400.avif" },
-  { image: "/images/ocaklar/MarmaraBeyazMermerOcak/11-303x400.avif" },
+  { image: "/images/ocaklar/MarmaraBeyazOcak/6-2-711x400.avif" },
+  { image: "/images/ocaklar/MarmaraBeyazOcak/11-303x400.avif" },
 ];
 
 export const gümüsOcak = [
@@ -47680,7 +47678,7 @@ export const projects = [
     name: "SILVER ONYX BULGARIA PROJECT",
     filter: "interior",
     context: [
-      "/images/projectContext/silverOnyxBulgaria/silverOnyxBulgaria1.png",
+      "/images/projectContext/silverOnyxBulgaria/silverOnyxBulgaria.png",
       "/images/projectContext/silverOnyxBulgaria/silverOnyxBulgaria2.png",
       "/images/projectContext/silverOnyxBulgaria/silverOnyxBulgaria3.png",
       "/images/projectContext/silverOnyxBulgaria/silverOnyxBulgaria4.avif",

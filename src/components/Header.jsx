@@ -3,8 +3,6 @@ import React from "react";
 import "../app.css";
 
 import peraPalace from "../assets/peraPalace.jpg";
-import marmara from "../assets/marmaraMermer.jpg";
-import porselen from "../assets/porselen.jpg";
 import havuz from "../assets/poolHeader.jpg";
 import ukrain from "../assets/ukrainHeader.jpg";
 

@@ -102,6 +102,7 @@
   "residence": "RESIDENCE",
   "office": "OFFICE",
   "hotel": "HOTEL",
-  "restaurant": "RESTAURANT - CAFE",
-  "restoration": "RESTORATION"
+  "restaurant": "RESTAURANT",
+  "restoration": "RESTORATION",
+  "PROJECTS": "PROJECTS"
 }

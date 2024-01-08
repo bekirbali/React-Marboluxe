@@ -1,13 +1,11 @@
 import React from "react";
 import { ocaklar } from "../../utils";
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 import { useTranslation } from "react-i18next";
 import OcaklarSideBar from "../../components/OcaklarSideBar";
 
 const Ocaklar = () => {
-  const navigate = useNavigate();
-
   const { t } = useTranslation();
 
   return (
@@ -36,10 +34,7 @@ const Ocaklar = () => {
                   key={index}
                   className="flex flex-col items-center justify-center shadow-sm shadow-cyan-700 max-w-[300px]"
                 >
-                  <div
-                    onClick={() => navigate(`${tas.name}`, { state: tas })}
-                    className="w-full overflow-hidden"
-                  >
+                  <div className="w-full overflow-hidden">
                     <img
                       loading="lazy"
                       src={tas.image}
