@@ -56,123 +56,63 @@ const Projeler = () => {
         </ul>
       </div>
       {/* here */}
-      {lang ? (
-        <div className="p-4 flex flex-col items-center">
-          <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
-            {filterText === "all"
-              ? projects.map((tas, index) => {
-                  return (
+      <div className="p-4 flex flex-col items-center">
+        <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
+          {filterText === "all"
+            ? projects.map((tas, index) => {
+                return (
+                  <div
+                    key={index}
+                    className="projects overflow-hidden relative flex flex-col items-center justify-center shadow-sm shadow-cyan-600 max-w-[300px]"
+                  >
                     <div
-                      key={index}
-                      className="projects overflow-hidden relative flex flex-col items-center justify-center shadow-sm shadow-cyan-600 max-w-[300px]"
+                      onClick={() =>
+                        navigate(`${tas.name}`, {
+                          state: tas,
+                        })
+                      }
+                      className="w-full h-[310px] overflow-hidden text-center flex justify-center"
                     >
-                      <div
-                        onClick={() =>
-                          navigate(`${tas.name}`, {
-                            state: tas,
-                          })
-                        }
-                        className="w-full h-[310px] overflow-hidden text-center flex justify-center"
-                      >
-                        <img
-                          src={tas.image}
-                          alt="test"
-                          className="w-full h-full  transition duration-700 hover:cursor-pointer"
-                        />
-                      </div>
-                      <p className="projects-p text-center h-20 items-center flex justify-center absolute flex-wrap w-[220px] backdrop-blur-sm">
-                        {tas.name}
-                      </p>
+                      <img
+                        src={tas.image}
+                        alt="test"
+                        className="w-full h-full  transition duration-700 hover:cursor-pointer"
+                      />
                     </div>
-                  );
-                })
-              : filteredProjects.map((tas, index) => {
-                  return (
+                    <p className="projects-p text-center h-20 items-center flex justify-center absolute flex-wrap w-[220px] backdrop-blur-sm">
+                      {tas.name}
+                    </p>
+                  </div>
+                );
+              })
+            : filteredProjects.map((tas, index) => {
+                return (
+                  <div
+                    key={index}
+                    className="projects overflow-hidden relative flex flex-col items-center justify-center shadow-sm shadow-cyan-600 max-w-[300px]"
+                  >
                     <div
-                      key={index}
-                      className="projects overflow-hidden relative flex flex-col items-center justify-center shadow-sm shadow-cyan-600 max-w-[300px]"
+                      onClick={() =>
+                        navigate(`${tas.name}`, {
+                          state: tas,
+                        })
+                      }
+                      className="w-full h-[310px] overflow-hidden text-center flex justify-center"
                     >
-                      <div
-                        onClick={() =>
-                          navigate(`${tas.name}`, {
-                            state: tas,
-                          })
-                        }
-                        className="w-full h-[310px] overflow-hidden text-center flex justify-center"
-                      >
-                        <img
-                          src={tas.image}
-                          alt="test"
-                          className="w-full h-full  transition duration-700 hover:cursor-pointer"
-                        />
-                      </div>
-                      <p className="projects-p text-center h-20 items-center flex justify-center absolute flex-wrap w-[220px] backdrop-blur-sm">
-                        {tas.name}
-                      </p>
+                      <img
+                        src={tas.image}
+                        alt="test"
+                        className="w-full h-full  transition duration-700 hover:cursor-pointer"
+                      />
                     </div>
-                  );
-                })}
-          </div>
+                    <p className="projects-p text-center h-20 items-center flex justify-center absolute flex-wrap w-[220px] backdrop-blur-sm">
+                      {tas.name}
+                    </p>
+                  </div>
+                );
+              })}
         </div>
-      ) : (
-        <div className="p-4 flex flex-col items-center">
-          <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
-            {filterText === "all"
-              ? projects.map((tas, index) => {
-                  return (
-                    <div
-                      key={index}
-                      className="projects overflow-hidden relative flex flex-col items-center justify-center shadow-sm shadow-cyan-600 max-w-[300px]"
-                    >
-                      <div
-                        onClick={() =>
-                          navigate(`${tas.name}`, {
-                            state: tas,
-                          })
-                        }
-                        className="w-full h-[310px] overflow-hidden text-center flex justify-center"
-                      >
-                        <img
-                          src={tas.image}
-                          alt="test"
-                          className="w-full h-full  transition duration-700 hover:cursor-pointer"
-                        />
-                      </div>
-                      <p className="projects-p text-center h-20 items-center flex justify-center absolute flex-wrap w-[220px] backdrop-blur-sm">
-                        {tas.name}
-                      </p>
-                    </div>
-                  );
-                })
-              : filteredProjectsT.map((tas, index) => {
-                  return (
-                    <div
-                      key={index}
-                      className="projects overflow-hidden relative flex flex-col items-center justify-center shadow-sm shadow-cyan-600 max-w-[300px]"
-                    >
-                      <div
-                        onClick={() =>
-                          navigate(`${tas.name}`, {
-                            state: tas,
-                          })
-                        }
-                        className="w-full h-[310px] overflow-hidden text-center flex justify-center"
-                      >
-                        <img
-                          src={tas.image}
-                          alt="test"
-                          className="w-full h-full  transition duration-700 hover:cursor-pointer"
-                        />
-                      </div>
-                      <p className="projects-p text-center h-20 items-center flex justify-center absolute flex-wrap w-[220px] backdrop-blur-sm">
-                        {tas.name}
-                      </p>
-                    </div>
-                  );
-                })}
-          </div>
-        </div>
-      )}
+      </div>
       <>
         <div className="h-[120px] w-full flex justify-center items-center bg-slate-700 text-white">
           <h1 className="font-bold text-3xl">PROJELER</h1>

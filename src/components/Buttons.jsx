@@ -1,12 +1,9 @@
-import React, { useContext, useEffect, useState } from "react";
-import ReactDOM from "react-dom";
 import ReactPaginate from "react-paginate";
 import { plakalar } from "../utils";
 import {
   BsFillArrowLeftCircleFill,
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
-import { MarboContext } from "../context/MarboContext";
 
 export function PaginatedItems({ setPage }) {
   const pageCount = plakalar.length;

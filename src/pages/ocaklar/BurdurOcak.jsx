@@ -1,13 +1,11 @@
 import React from "react";
 import { burdurOcak } from "../../utils";
-import { Link, NavLink, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 import { useTranslation } from "react-i18next";
 import OcaklarSideBar from "../../components/OcaklarSideBar";
 
 const BurdurOcak = () => {
-  const navigate = useNavigate();
-
   const { t } = useTranslation();
 
   return (

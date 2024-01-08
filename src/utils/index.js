@@ -47678,7 +47678,7 @@ export const projects = [
     name: "SILVER ONYX BULGARIA PROJECT",
     filter: "interior",
     context: [
-      "/images/projectContext/silverOnyxBulgaria/silverOnyxBulgaria1.png",
+      "/images/projectContext/silverOnyxBulgaria/silverOnyxBulgaria.png",
       "/images/projectContext/silverOnyxBulgaria/silverOnyxBulgaria2.png",
       "/images/projectContext/silverOnyxBulgaria/silverOnyxBulgaria3.png",
       "/images/projectContext/silverOnyxBulgaria/silverOnyxBulgaria4.avif",
