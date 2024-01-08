@@ -7,6 +7,7 @@ import {
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
+import { useTranslation } from "react-i18next";
 
 const OzelKoleksiyon = () => {
   const [page, setPage] = useState(0);
@@ -14,8 +15,11 @@ const OzelKoleksiyon = () => {
 
   const navigate = useNavigate();
 
+  const { t } = useTranslation();
+
   const pageHandler = (e) => {
     setPage(e.target.innerText - 1);
+    window.scrollTo(0, 0);
   };
 
   const backHandler = () => {
@@ -40,26 +44,26 @@ const OzelKoleksiyon = () => {
   }, [page]);
 
   return (
-    <>
+    <div>
       <div className="h-[120px] items-center flex-wrap flex flex-col justify-around md:items-start bg-[#f1f1f1] pl-24">
-        <h2>Özel Koleksiyon</h2>
+        <h2>{t("ozel koleksiyon")}</h2>
         <div className="flex justify-center items-center flex-wrap gap-1">
           <Link to="/">Marboluxe</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <Link to="/dogal-taslar">Doğal Taşlar</Link>
+          <Link to="/dogal-taslar">{t("dogal taslar")}</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <Link to="/dogal-taslar/mermer">Mermer</Link>
+          <Link to="/dogal-taslar/mermer">{t("mermer")}</Link>
           <MdKeyboardDoubleArrowRight
             className="mt-1 hover:cursor-default arrow-right"
             size={12}
           />
-          <p>Özel Mermer Koleksiyonu</p>
+          <p>{t("ozel koleksiyon")}</p>
         </div>
       </div>
       <div className="main-holder-plakalar flex justify-between w-[90%] mx-auto ">
@@ -123,7 +127,7 @@ const OzelKoleksiyon = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

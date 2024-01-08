@@ -5,6 +5,7 @@
 
 * {
   --tw-ring-color: none !important;
+  scroll-behavior: smooth;
 }
 
 p,
@@ -322,4 +323,15 @@ input {
   transform: translateY(0);
   transition: 0.2s;
   box-shadow: rgba(0, 0, 0, 0.5) 0 5px 15px;
+}
+
+.sidebar button {
+  transition: 0.4s;
+}
+
+.sidebar button:hover {
+  background: none;
+  color: #1a1a1a;
+  box-shadow: none;
+  transform: translateY(0);
 }
