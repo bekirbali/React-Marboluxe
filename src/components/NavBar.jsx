@@ -982,132 +982,325 @@ export default function NavbarWithDropdown() {
         <Navbar.Toggle className="toggle-test" />
         <Navbar.Collapse className="md:order-2">
           <div className="test-dropdown flex flex-col md:flex-row">
-            <Dropdown label={t("dogal taslar")} arrowIcon={false}>
-              <Dropdown.Item>
-                <Link
-                  to="/dogal-taslar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("dogal taslar")}
-                </Link>
-              </Dropdown.Item>
-              <Dropdown.Item>
-                <Link
-                  to="/plakalar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("plakalar")}
-                </Link>
-              </Dropdown.Item>
+            <Link
+              to="/ozel-koleksiyon"
+              className="flex items-center pr-2 hover:text-cyan-700 transition ease-in-out duration-200"
+            >
+              {t("ozel koleksiyon")}
+            </Link>
+            <Dropdown label={t("dogal taslar")} arrowIcon={true}>
+              <Link
+                to="/dogal-taslar"
+                className="hover:text-cyan-700 transition ease-in-out duration-200 font-bold flex justify-center border-b border-b-orange-400"
+              >
+                <Dropdown.Item>{t("dogal taslar")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/dogal-taslar/mermer"
+                className="hover:text-cyan-700 transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("mermer")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/dogal-taslar/bej-mermer"
+                className="hover:text-cyan-700 transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("bej mermer")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/dogal-taslar/traverten"
+                className="hover:text-cyan-700 transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("traverten")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/dogal-taslar/kuvars"
+                className="hover:text-cyan-700 transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("kuvars")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/dogal-taslar/granit"
+                className="hover:text-cyan-700 transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("granit")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/dogal-taslar/limestone"
+                className="hover:text-cyan-700 transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("limestone")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/dogal-taslar/dolomit"
+                className="hover:text-cyan-700
+                  transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("dolomit")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/dogal-taslar/oniks"
+                className="hover:text-cyan-700 transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("oniks")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/dogal-taslar/andezit"
+                className="hover:text-cyan-700 transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("andezit")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/dogal-taslar/bazalt"
+                className="hover:text-cyan-700 transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("bazalt")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/dogal-taslar/dis-mekan"
+                className="hover:text-cyan-700 transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("dis mekan")}</Dropdown.Item>
+              </Link>
             </Dropdown>
-            <Dropdown label={t("plakalar")} arrowIcon={false}>
-              <Dropdown.Item>
-                <Link
-                  to="/dogal-taslar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("dogal taslar")}
-                </Link>
-              </Dropdown.Item>
-              <Dropdown.Item>
-                <Link
-                  to="/plakalar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("plakalar")}
-                </Link>
-              </Dropdown.Item>
+            <Dropdown label={t("plakalar")} arrowIcon={true}>
+              <div className="flex all gap-2 flex-col md:flex-row">
+                <div className="plakalar-dropdown">
+                  <Link
+                    to="/plakalar"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200 font-bold flex justify-center border-b border-b-orange-400"
+                  >
+                    <Dropdown.Item>{t("plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/yari-degerli"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("yari degerli")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/mermer"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("mermer plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/bej-mermer"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("bej mermer plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/granit"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("granit plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/oniks"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("oniks plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/limestone"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("limestone plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/traverten"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("traverten plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/andezit-bazalt"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>
+                      {t("andezit bazalt plakalar")}
+                    </Dropdown.Item>
+                  </Link>
+                </div>
+                <div className="porselen-plakalar-dropdown">
+                  <Link
+                    to="/plakalar/porselen-plakalar"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200 font-bold flex justify-center border-b border-b-orange-400"
+                  >
+                    <Dropdown.Item>{t("porselen plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/porselen-plakalar/sintered"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("sintered plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/porselen-plakalar/levantec"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("levantec plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/porselen-plakalar/estestone"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("estestone plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/porselen-plakalar/lamar"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("lamar plakalar")}</Dropdown.Item>
+                  </Link>
+                </div>
+                <div className="kuvars-plakalar-dropdown">
+                  <Link
+                    to="/plakalar/kuvars-plakalar"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200 font-bold flex justify-center border-b border-b-orange-400"
+                  >
+                    <Dropdown.Item>{t("kuvars plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/kuvars-plakalar/caesarstone"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("caesarstone plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/kuvars-plakalar/calisco"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("calisco plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/kuvars-plakalar/belenco"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("belenco plakalar")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/plakalar/kuvars-plakalar/cimstone"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("cimstone plakalar")}</Dropdown.Item>
+                  </Link>
+                </div>
+              </div>
             </Dropdown>
-            <Dropdown label={t("tezgahlar")} arrowIcon={false}>
-              <Dropdown.Item>
-                <Link
-                  to="/dogal-taslar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("dogal taslar")}
-                </Link>
-              </Dropdown.Item>
-              <Dropdown.Item>
-                <Link
-                  to="/plakalar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("plakalar")}
-                </Link>
-              </Dropdown.Item>
+            <Dropdown label={t("tezgahlar")} arrowIcon={true}>
+              <div className="tezgahlar-all flex gap-2 flex-col md:flex-row">
+                <div className="kuvars-tezgahlar">
+                  <Link
+                    to="/tezgahlar/kuvars"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200 font-bold flex justify-center border-b border-b-orange-400"
+                  >
+                    <Dropdown.Item>{t("kuvars tezgah")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/tezgahlar/kuvars/caesarstone"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("caesarstone")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/tezgahlar/kuvars/calisco"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("calisco")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/tezgahlar/kuvars/belenco"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("belenco")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/tezgahlar/kuvars/cimstone"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("cimstone")}</Dropdown.Item>
+                  </Link>
+                </div>
+                <div className="porselen-tezgahlar">
+                  <Link
+                    to="/tezgahlar/porselen"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200 font-bold flex justify-center border-b border-b-orange-400"
+                  >
+                    <Dropdown.Item>{t("porselen tezgah")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/tezgahlar/sintered"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("sintered")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/tezgahlar/levantec"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("levantec")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/tezgahlar/estestone"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("estestone")}</Dropdown.Item>
+                  </Link>
+                  <Link
+                    to="/tezgahlar/lamar"
+                    className="hover:text-cyan-700 transition ease-in-out duration-200"
+                  >
+                    <Dropdown.Item>{t("lamar")}</Dropdown.Item>
+                  </Link>
+                </div>
+              </div>
             </Dropdown>
-            <Dropdown label={t("ocaklar")} arrowIcon={false}>
-              <Dropdown.Item>
-                <Link
-                  to="/dogal-taslar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("dogal taslar")}
-                </Link>
-              </Dropdown.Item>
-              <Dropdown.Item>
-                <Link
-                  to="/plakalar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("plakalar")}
-                </Link>
-              </Dropdown.Item>
+            <Link
+              to="/ocaklar"
+              className="flex items-center pr-2 hover:text-cyan-700 transition ease-in-out duration-200 px-4"
+            >
+              {t("ocaklar")}
+            </Link>
+            <Dropdown label={t("urunler")} arrowIcon={true}>
+              <Link
+                to="/urunler"
+                className="hover:text-cyan-700 transition ease-in-out duration-200 font-bold flex justify-center border-b border-b-orange-400"
+              >
+                <Dropdown.Item>{t("urunler")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/urunler/cnc"
+                className="hover:text-cyan-700 transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("cnc urunler")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/urunler/waterjet"
+                className="hover:text-cyan-700 transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("waterjet")}</Dropdown.Item>
+              </Link>
+              <Link
+                to="/urunler/dekoratif"
+                className="hover:text-cyan-700 transition ease-in-out duration-200"
+              >
+                <Dropdown.Item>{t("dekoratif urunler")}</Dropdown.Item>
+              </Link>
             </Dropdown>
-            <Dropdown label={t("urunler")} arrowIcon={false}>
-              <Dropdown.Item>
-                <Link
-                  to="/dogal-taslar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("dogal taslar")}
-                </Link>
-              </Dropdown.Item>
-              <Dropdown.Item>
-                <Link
-                  to="/plakalar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("plakalar")}
-                </Link>
-              </Dropdown.Item>
-            </Dropdown>
-            <Dropdown label={t("projeler")} arrowIcon={false}>
-              <Dropdown.Item>
-                <Link
-                  to="/dogal-taslar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("dogal taslar")}
-                </Link>
-              </Dropdown.Item>
-              <Dropdown.Item>
-                <Link
-                  to="/plakalar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("plakalar")}
-                </Link>
-              </Dropdown.Item>
-            </Dropdown>
-            <Dropdown label={t("kataloglar")} arrowIcon={false}>
-              <Dropdown.Item>
-                <Link
-                  to="/dogal-taslar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("dogal taslar")}
-                </Link>
-              </Dropdown.Item>
-              <Dropdown.Item>
-                <Link
-                  to="/plakalar"
-                  className="hover:text-cyan-700 transition ease-in-out duration-200"
-                >
-                  {t("plakalar")}
-                </Link>
-              </Dropdown.Item>
-            </Dropdown>
+            <Link
+              to="/projeler"
+              className="flex items-center pr-2 hover:text-cyan-700 transition ease-in-out duration-200"
+            >
+              {t("projeler")}
+            </Link>
+            <Link
+              to="/kataloglar"
+              className="flex items-center pr-2 hover:text-cyan-700 transition ease-in-out duration-200 px-4"
+            >
+              {t("kataloglar")}
+            </Link>
           </div>
           {/* 
           

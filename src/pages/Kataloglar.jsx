@@ -30,9 +30,15 @@ const Kataloglar = () => {
 
   return (
     <>
-      <Breadcrumbs />
+      <div className="flex flex-col h-[120px] justify-center items-center bg-slate-700 text-white">
+        <h1 className=" font-bold text-3xl uppercase">Marboluxe Stone</h1>
+        <p className="font-semibold text-2xl"> Online Catalogs</p>
+        <p className="font-semibold text-l">
+          You can review our catalogs of marble, imported natural stones,
+          quarries and marble slabs.
+        </p>
+      </div>
       <div className="p-4 flex flex-col items-center">
-        <h1 className="text-center text-3xl font-bold my-4">Kataloglar</h1>
         <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
           {dogalTaslar[page].map((tas, index) => {
             return (

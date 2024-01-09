@@ -36,7 +36,7 @@ const Projeler = () => {
   return (
     <>
       <div className="h-[120px] flex justify-center items-center bg-slate-700 text-white">
-        <h1 className="font-bold text-3xl">PROJELER</h1>
+        <h1 className="font-bold text-3xl uppercase">{t("projeler")}</h1>
       </div>
       <div className="tabs">
         <ul
@@ -56,14 +56,14 @@ const Projeler = () => {
         </ul>
       </div>
       {/* here */}
-      <div className="p-4 flex flex-col items-center">
-        <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
+      <div className="p-4 flex flex-col">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 place-items-center">
           {filterText === "all"
             ? projects.map((tas, index) => {
                 return (
                   <div
                     key={index}
-                    className="projects overflow-hidden relative flex flex-col items-center justify-center shadow-sm shadow-cyan-600 max-w-[300px]"
+                    className="projects overflow-hidden relative flex flex-col items-center justify-center shadow-sm shadow-cyan-600 w-full"
                   >
                     <div
                       onClick={() =>
