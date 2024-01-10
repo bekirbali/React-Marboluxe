@@ -1,33 +1,7 @@
 import React, { useState } from "react";
-import { dogalTaslar, dogalTaslarMermer } from "../utils";
-import { useNavigate } from "react-router-dom";
-import Breadcrumbs from "../components/Breadcrumbs";
-import {
-  BsFillArrowLeftCircleFill,
-  BsFillArrowRightCircleFill,
-} from "react-icons/bs";
+import { dogalTaslar } from "../utils";
 
 const Kataloglar = () => {
-  const [page, setPage] = useState(0);
-  const navigate = useNavigate();
-
-  const backHandler = () => {
-    if (page === 0) {
-      console.log("firstPage");
-      return;
-    }
-    setPage(page - 1);
-    return;
-  };
-
-  const nextHandler = () => {
-    if (page === dogalTaslarMermer.length - 1) {
-      console.log("lastPage");
-      return;
-    }
-    setPage(page + 1);
-  };
-
   return (
     <>
       <div className="flex flex-col h-[120px] justify-center items-center bg-slate-700 text-white">
@@ -39,39 +13,22 @@ const Kataloglar = () => {
         </p>
       </div>
       <div className="p-4 flex flex-col items-center">
-        <div className="grid grid-cols-1 md:grid-cols-4 justify-center gap-4">
-          {dogalTaslar[page].map((tas, index) => {
+        <div className="grid grid-cols-1 md:grid-cols-2 justify-center gap-4">
+          {dogalTaslar[0].map((tas, index) => {
             return (
-              <div
-                key={index}
-                className="flex flex-col items-center justify-center shadow-sm shadow-cyan-700 max-w-[300px]"
-              >
-                <div
-                  onClick={() => navigate(`${tas.name}`, { state: tas })}
-                  className="w-full overflow-hidden"
-                >
-                  <img
-                    src={tas.image}
-                    alt="test"
-                    className="w-full h-[250px] hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
-                  />
-                </div>
-                <p className="text-center p-2">{tas.name}</p>
-              </div>
+              <>
+                {/* <iframe
+                  src={`https://docs.google.com/viewer?url=https://docs.google.com/document/d/19btn0KTGfkqRLdfrc7YStfXcvv9YKdH_ikEJfxEfcLA/edit&embedded=true`}
+                  width="100%"
+                  height="600px"
+                  title="test"
+                /> */}
+                <a href="https://app.luminpdf.com/viewer/659de81745f9b36e3922ca6d">
+                  test
+                </a>
+              </>
             );
           })}
-        </div>
-        <div className="buttons flex gap-4 mt-4">
-          <BsFillArrowLeftCircleFill
-            size={24}
-            color="gray"
-            onClick={backHandler}
-          />
-          <BsFillArrowRightCircleFill
-            size={24}
-            color="gray"
-            onClick={nextHandler}
-          />
         </div>
       </div>
     </>

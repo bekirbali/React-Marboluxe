@@ -7,12 +7,6 @@ const DetailModal = ({ image, setModal }) => {
       ></div>
 
       <div className="absolute flex items-center justify-center w-[70%] left-[50%] top-[50%] translate-x-[-50%] translate-y-[-50%] z-20">
-        {/* <button
-          onClick={() => setModal(false)}
-          className="absolute right-[22%] top-2 border-2 border-blue-900 rounded-full w-5 h-5 flex items-center justify-center z-30"
-        >
-          X
-        </button> */}
         <button
           onClick={() => setModal(false)}
           className="button-close-modal z-50"

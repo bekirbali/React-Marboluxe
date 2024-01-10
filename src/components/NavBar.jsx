@@ -988,7 +988,7 @@ export default function NavbarWithDropdown() {
             >
               {t("ozel koleksiyon")}
             </Link>
-            <Dropdown label={t("dogal taslar")} arrowIcon={true}>
+            <Dropdown label={t("dogal taslar")} arrowIcon={false}>
               <Link
                 to="/dogal-taslar"
                 className="hover:text-cyan-700 transition ease-in-out duration-200 font-bold flex justify-center border-b border-b-orange-400"
@@ -1063,7 +1063,7 @@ export default function NavbarWithDropdown() {
                 <Dropdown.Item>{t("dis mekan")}</Dropdown.Item>
               </Link>
             </Dropdown>
-            <Dropdown label={t("plakalar")} arrowIcon={true}>
+            <Dropdown label={t("plakalar")} arrowIcon={false}>
               <div className="flex all gap-2 flex-col md:flex-row">
                 <div className="plakalar-dropdown">
                   <Link
@@ -1189,7 +1189,7 @@ export default function NavbarWithDropdown() {
                 </div>
               </div>
             </Dropdown>
-            <Dropdown label={t("tezgahlar")} arrowIcon={true}>
+            <Dropdown label={t("tezgahlar")} arrowIcon={false}>
               <div className="tezgahlar-all flex gap-2 flex-col md:flex-row">
                 <div className="kuvars-tezgahlar">
                   <Link
@@ -1259,11 +1259,11 @@ export default function NavbarWithDropdown() {
             </Dropdown>
             <Link
               to="/ocaklar"
-              className="flex items-center pr-2 hover:text-cyan-700 transition ease-in-out duration-200 px-4"
+              className="flex items-center hover:text-cyan-700 transition ease-in-out duration-200 px-4"
             >
               {t("ocaklar")}
             </Link>
-            <Dropdown label={t("urunler")} arrowIcon={true}>
+            <Dropdown label={t("urunler")} arrowIcon={false}>
               <Link
                 to="/urunler"
                 className="hover:text-cyan-700 transition ease-in-out duration-200 font-bold flex justify-center border-b border-b-orange-400"
@@ -1291,16 +1291,16 @@ export default function NavbarWithDropdown() {
             </Dropdown>
             <Link
               to="/projeler"
-              className="flex items-center pr-2 hover:text-cyan-700 transition ease-in-out duration-200"
+              className="flex items-center hover:text-cyan-700 transition ease-in-out duration-200 px-4"
             >
               {t("projeler")}
             </Link>
-            <Link
+            {/* <Link
               to="/kataloglar"
-              className="flex items-center pr-2 hover:text-cyan-700 transition ease-in-out duration-200 px-4"
+              className="flex items-center hover:text-cyan-700 transition ease-in-out duration-200 px-4"
             >
               {t("kataloglar")}
-            </Link>
+            </Link> */}
           </div>
           {/* 
           

@@ -67,7 +67,7 @@ const Projeler = () => {
                   >
                     <div
                       onClick={() =>
-                        navigate(`${tas.name}`, {
+                        navigate(`${tas.name.toLowerCase()}`, {
                           state: tas,
                         })
                       }

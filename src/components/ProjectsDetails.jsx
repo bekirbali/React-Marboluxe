@@ -22,7 +22,7 @@ const ProjectsDetails = () => {
     <div className="relative overflow-hidden">
       <div className="h-[120px] flex justify-center items-center bg-slate-700 text-white">
         <div className="text-center">
-          <h1 className="font-bold text-3xl">{t("PROJELER")}</h1>
+          <h1 className="font-bold text-3xl uppercase">{t("projeler")}</h1>
           <h3>{state.name}</h3>
         </div>
       </div>

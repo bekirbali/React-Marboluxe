@@ -89,6 +89,7 @@ import KlasikOcak from "../pages/ocaklar/KlasikOcak";
 import MarmaraOcak from "../pages/ocaklar/MarmaraOcak";
 import SearchResult from "../pages/SearchResult";
 import ProjectsDetails from "../components/ProjectsDetails";
+import KatalogDetails from "../components/KatalogDetails";
 
 const AppRouter = () => {
   return (
@@ -519,7 +520,7 @@ const AppRouter = () => {
           <Route path="ocaklar/beyaz-traverten" element={<BeyazOcak />} />
         </>
         <Route path="kataloglar" element={<Kataloglar />} />
-        <Route path="kataloglar/:name" element={<Details />} />
+        <Route path="kataloglar/:name" element={<KatalogDetails />} />
         <Route path="ozel-koleksiyon" element={<OzelKoleksiyon />} />
         <Route path="ozel-koleksiyon/:name" element={<Details />} />
         <Route path="projeler" element={<Projeler />} />
