@@ -23,9 +23,6 @@ const Kataloglar = () => {
                   height="600px"
                   title="test"
                 /> */}
-                <a href="https://app.luminpdf.com/viewer/659de81745f9b36e3922ca6d">
-                  test
-                </a>
               </>
             );
           })}
