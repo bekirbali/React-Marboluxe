@@ -1295,12 +1295,12 @@ export default function NavbarWithDropdown() {
             >
               {t("projeler")}
             </Link>
-            {/* <Link
+            <Link
               to="/kataloglar"
               className="flex items-center hover:text-cyan-700 transition ease-in-out duration-200 px-4"
             >
               {t("kataloglar")}
-            </Link> */}
+            </Link>
           </div>
           {/* 
           

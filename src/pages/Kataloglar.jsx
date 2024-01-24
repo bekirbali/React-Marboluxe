@@ -1,5 +1,10 @@
-import React, { useState } from "react";
-import { dogalTaslar } from "../utils";
+import React from "react";
+// import { dogalTaslar } from "../utils";
+import pdf from "../assets/tanitimkatalog.pdf";
+import slabs from "../assets/slabs.jpg";
+import showrooms from "../assets/showrooms.jpg";
+import plakalar from "../assets/plakalar.jpg";
+import porselen from "../assets/porselen.jpg";
 
 const Kataloglar = () => {
   return (
@@ -14,18 +19,18 @@ const Kataloglar = () => {
       </div>
       <div className="p-4 flex flex-col items-center">
         <div className="grid grid-cols-1 md:grid-cols-2 justify-center gap-4">
-          {dogalTaslar[0].map((tas, index) => {
-            return (
-              <>
-                {/* <iframe
-                  src={`https://docs.google.com/viewer?url=https://docs.google.com/document/d/19btn0KTGfkqRLdfrc7YStfXcvv9YKdH_ikEJfxEfcLA/edit&embedded=true`}
-                  width="100%"
-                  height="600px"
-                  title="test"
-                /> */}
-              </>
-            );
-          })}
+          <a href={pdf} target="_blank" rel="noreferrer">
+            <img src={slabs} alt="" className="w-[500px]" />
+          </a>
+          <a href={pdf} target="_blank" rel="noreferrer">
+            <img src={porselen} alt="" className="w-[500px]" />
+          </a>
+          <a href={pdf} target="_blank" rel="noreferrer">
+            <img src={slabs} alt="" className="w-[500px]" />
+          </a>
+          <a href={pdf} target="_blank" rel="noreferrer">
+            <img src={porselen} alt="" className="w-[500px]" />
+          </a>
         </div>
       </div>
     </>
