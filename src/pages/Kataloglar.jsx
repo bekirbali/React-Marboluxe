@@ -1,5 +1,5 @@
 import React from "react";
-// import { dogalTaslar } from "../utils";
+import { dogalTaslar } from "../utils";
 import pdf from "../assets/tanitimkatalog.pdf";
 import slabs from "../assets/slabs.jpg";
 import showrooms from "../assets/showrooms.jpg";
@@ -18,19 +18,26 @@ const Kataloglar = () => {
         </p>
       </div>
       <div className="p-4 flex flex-col items-center">
-        <div className="grid grid-cols-1 md:grid-cols-2 justify-center gap-4">
-          <a href={pdf} target="_blank" rel="noreferrer">
-            <img src={slabs} alt="" className="w-[500px]" />
-          </a>
-          <a href={pdf} target="_blank" rel="noreferrer">
-            <img src={porselen} alt="" className="w-[500px]" />
-          </a>
-          <a href={pdf} target="_blank" rel="noreferrer">
-            <img src={slabs} alt="" className="w-[500px]" />
-          </a>
-          <a href={pdf} target="_blank" rel="noreferrer">
-            <img src={porselen} alt="" className="w-[500px]" />
-          </a>
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4 ">
+          {dogalTaslar[0].map((tas, index) => {
+            return (
+              <div
+                key={index}
+                className="flex flex-col items-center justify-center shadow-sm shadow-cyan-700 max-w-[300px]"
+              >
+                <div className="w-full overflow-hidden">
+                  <a href={pdf}>
+                    <img
+                      loading="lazy"
+                      src={tas.image}
+                      alt="test"
+                      className="w-full hover:scale-[1.15] transition duration-700 hover:cursor-pointer"
+                    />
+                  </a>
+                </div>
+              </div>
+            );
+          })}
         </div>
       </div>
     </>
