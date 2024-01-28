@@ -1,10 +1,6 @@
 import React from "react";
 import { ocaklar } from "../utils";
 import pdf from "../assets/tanitimkatalog.pdf";
-import slabs from "../assets/slabs.jpg";
-import showrooms from "../assets/showrooms.jpg";
-import plakalar from "../assets/plakalar.jpg";
-import porselen from "../assets/porselen.jpg";
 
 const Kataloglar = () => {
   return (
@@ -19,7 +15,7 @@ const Kataloglar = () => {
       </div>
       <div className="p-4 flex flex-col items-center">
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-4 ">
-          {ocaklar[0].map((tas, index) => {
+          {ocaklar[1].map((tas, index) => {
             return (
               <div
                 key={index}
