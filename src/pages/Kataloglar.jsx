@@ -1,4 +1,3 @@
-import React from "react";
 import { ocaklar } from "../utils";
 import pdf from "../assets/tanitimkatalog.pdf";
 
