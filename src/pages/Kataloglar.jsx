@@ -4,7 +4,7 @@ import pdf from "../assets/tanitimkatalog.pdf";
 const Kataloglar = () => {
   return (
     <>
-      <div className="flex flex-col h-[120px] justify-center items-center bg-slate-800 text-[#b4b4b4]">
+      <div className="flex flex-col h-[120px] justify-center items-center bg-slate-800 text-[#b2b2b2]">
         <h1 className=" font-bold text-3xl uppercase">Marboluxe Stone</h1>
         <p className="font-semibold text-2xl"> Online Catalogs</p>
         <p className="font-semibold text-l">
