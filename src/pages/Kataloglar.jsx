@@ -1,4 +1,4 @@
-import { ocaklar } from "../utils";
+import { dogalTaslar } from "../utils";
 import pdf from "../assets/tanitimkatalog.pdf";
 
 const Kataloglar = () => {
@@ -14,7 +14,7 @@ const Kataloglar = () => {
       </div>
       <div className="p-4 flex flex-col items-center">
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 justify-center gap-3 ">
-          {ocaklar[1].map((tas, index) => {
+          {dogalTaslar[1].map((tas, index) => {
             return (
               <div
                 key={index}
