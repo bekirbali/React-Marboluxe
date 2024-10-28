@@ -15,7 +15,7 @@ const Footer = () => {
         <h3 className="font-semibold">Merkez Fabrika</h3>
         <p>
           Ankara Karayolu Üzeri 22.km, 03750 İscehisar / Afyonkarahisar /
-          Türkiye (+90) 531 981 47 32 (+90) 272 341 36 01 (5 Hat)
+          Türkiye
         </p>
       </div>
     </footer>
