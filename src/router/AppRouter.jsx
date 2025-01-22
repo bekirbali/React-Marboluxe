@@ -319,7 +319,7 @@ const AppRouter = () => {
               element={<Details />}
             />
             <Route
-              path="tezgahlar/kuvars/caesar"
+              path="tezgahlar/kuvars/caesarstone"
               element={<TezgahlarKuvarsCaesar />}
             />
             <Route path="tezgahlar/kuvars/caesar/:name" element={<Details />} />
