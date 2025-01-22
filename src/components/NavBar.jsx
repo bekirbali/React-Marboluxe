@@ -1231,25 +1231,25 @@ export default function NavbarWithDropdown() {
                     <Dropdown.Item>{t("porselen tezgah")}</Dropdown.Item>
                   </Link>
                   <Link
-                    to="/tezgahlar/sintered"
+                    to="/tezgahlar/porselen/sintered"
                     className="hover:text-cyan-700 transition ease-in-out duration-200"
                   >
                     <Dropdown.Item>{t("sintered")}</Dropdown.Item>
                   </Link>
                   <Link
-                    to="/tezgahlar/levantec"
+                    to="/tezgahlar/porselen/levantec"
                     className="hover:text-cyan-700 transition ease-in-out duration-200"
                   >
                     <Dropdown.Item>{t("levantec")}</Dropdown.Item>
                   </Link>
                   <Link
-                    to="/tezgahlar/estestone"
+                    to="/tezgahlar/porselen/estestone"
                     className="hover:text-cyan-700 transition ease-in-out duration-200"
                   >
                     <Dropdown.Item>{t("estestone")}</Dropdown.Item>
                   </Link>
                   <Link
-                    to="/tezgahlar/lamar"
+                    to="/tezgahlar/porselen/lamar"
                     className="hover:text-cyan-700 transition ease-in-out duration-200"
                   >
                     <Dropdown.Item>{t("lamar")}</Dropdown.Item>
